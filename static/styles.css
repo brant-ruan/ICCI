@@ -40,8 +40,10 @@ th {
 
 /* 添加按钮和表格之间的间隔 */
 #show-all {
-    margin-top: 10px;
-    margin-bottom: 25px;
+    /* display: block; */
+    /* margin-top: 10px;
+    margin-bottom: 25px; */
+    margin-left: auto;
 }
 
 .container {
@@ -52,16 +54,15 @@ th {
 }
 
 select {
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-left: 3px;
+    /* margin-top: 10px; */
+    margin-right: 15px;
+    margin-left: 6px;
     padding: 3px;
 }
 
 button {
     padding: 4px;
     color: blueviolet;
-    margin-left: 6px;
 }
 
 select,
@@ -71,6 +72,14 @@ button {
     /* Subtle border */
     background-color: white;
     cursor: pointer;
+}
+
+.controls {
+    display: flex; /* 使用flex布局 */
+    align-items: center; /* 垂直居中对齐子元素 */
+    justify-content: flex-start; /* 子元素靠左对齐 */
+    margin-bottom: 20px; /* 与表格的间隔 */
+    margin-top: 10px;
 }
 
 button:hover {

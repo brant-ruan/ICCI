@@ -2,7 +2,26 @@ let globalIndex = {};
 
 const indexUrl = '/conferences/index.json';
 
-// 功能：填充选择器
+function searchFunction() {
+    var input, filter, table, tr, td, i, txtValue;
+    input = document.getElementById("searchInput");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("conference-table");
+    tr = table.getElementsByTagName("tr");
+
+    for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[3];
+        if (td) {
+            txtValue = td.textContent || td.innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+            } else {
+                tr[i].style.display = "none";
+            }
+        }
+    }
+}
+
 function populateSelectors() {
     fetch(indexUrl)
         .then(response => response.json())
@@ -14,7 +33,6 @@ function populateSelectors() {
             yearSelector.innerHTML = '';
             conferenceSelector.innerHTML = '';
 
-            // 获取所有年份并按倒序排序
             const sortedYears = Object.keys(index).sort((a, b) => parseInt(b) - parseInt(a));
             sortedYears.forEach(year => {
                 let yearOption = new Option(year, year);
@@ -25,14 +43,12 @@ function populateSelectors() {
                 const latestYear = sortedYears[0];
                 updateConferenceSelector(index, latestYear);
 
-                // 显示最新年份的第一个会议的信息
                 showFirstConference(index, latestYear);
             }
         })
         .catch(error => console.error('Error fetching index:', error));
 }
 
-// 功能：更新会议选择器
 function updateConferenceSelector(index, selectedYear) {
     const conferenceSelector = document.getElementById('conference-selector');
     conferenceSelector.innerHTML = '';
@@ -47,7 +63,6 @@ function updateConferenceSelector(index, selectedYear) {
     }
 }
 
-// 功能：从用户选择的会议和地点显示信息
 function showConference(info) {
     const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;
 
@@ -56,9 +71,8 @@ function showConference(info) {
         .then(response => response.json())
         .then(data => {
             const tableBody = document.getElementById('conference-table').querySelector('tbody');
-            tableBody.innerHTML = ''; // 清空现有表格
+            tableBody.innerHTML = '';
 
-            // 创建表格行
             data.topics.forEach(topic => {
                 let row = tableBody.insertRow();
                 let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
@@ -76,7 +90,6 @@ function showConference(info) {
         .catch(error => console.error('Error fetching content:', error));
 }
 
-// 功能：显示第一个会议的信息
 function showFirstConference(index, selectedYear) {
     const firstConferenceKey = Object.keys(index[selectedYear])[0];
     const firstConference = index[selectedYear][firstConferenceKey];
@@ -91,12 +104,10 @@ function showFirstConference(index, selectedYear) {
     showConference(info);
 }
 
-// 功能：显示所有会议
 async function showAllConferences() {
     const tableBody = document.getElementById('conference-table').querySelector('tbody');
-    tableBody.innerHTML = ''; // 首先清空现有表格
+    tableBody.innerHTML = '';
 
-    // 获取所有年份并按数值倒序排序
     const years = Object.keys(globalIndex).sort((a, b) => parseInt(b) - parseInt(a));
     // console.log('Years:', years);
     for (const year of years) {
@@ -112,7 +123,7 @@ async function showAllConferences() {
                     conferencePath: conference.pathName,
                     locationPath: location.pathName
                 };
-                await appendConferenceInfo(info, tableBody); // 追加会议信息
+                await appendConferenceInfo(info, tableBody);
             }
         }
     }
@@ -120,7 +131,6 @@ async function showAllConferences() {
     document.getElementById('conference-table').classList.remove('hidden');
 }
 
-// 功能：追加会议信息到表格
 async function appendConferenceInfo(info, tableBody) {
     const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;
 
@@ -142,18 +152,15 @@ async function appendConferenceInfo(info, tableBody) {
         .catch(error => console.error('Error fetching content:', error));
 }
 
-// 初始化页面
 populateSelectors();
 
-// 事件监听：当年份改变时，更新会议选择器
 document.getElementById('year-selector').addEventListener('change', (event) => {
     const selectedYear = event.target.value;
     updateConferenceSelector(globalIndex, selectedYear);
-    // // show first conference
+    // show first conference
     showFirstConference(globalIndex, selectedYear);
 });
 
-// 当用户选择一个会议时的事件处理
 document.getElementById('conference-selector').addEventListener('change', (event) => {
     const selectedYear = document.getElementById('year-selector').value;
     const [conferencePath, locationPath] = event.target.value.split('|');
@@ -169,5 +176,4 @@ document.getElementById('conference-selector').addEventListener('change', (event
     showConference(info);
 });
 
-// 添加事件监听器以处理 "Show All Conferences" 按钮的点击
 document.getElementById('show-all').addEventListener('click', showAllConferences);

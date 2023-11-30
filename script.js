@@ -90,18 +90,19 @@ function showFirstConference(index, selectedYear) {
 }
 
 // 功能：显示所有会议
-function showAllConferences() {
+async function showAllConferences() {
     const tableBody = document.getElementById('conference-table').querySelector('tbody');
     tableBody.innerHTML = ''; // 首先清空现有表格
 
     // 获取所有年份并按数值倒序排序
     const years = Object.keys(globalIndex).sort((a, b) => parseInt(b) - parseInt(a));
-    
-    years.forEach(year => {
+    console.log('Years:', years);
+    for (const year of years) {
         const conferences = globalIndex[year];
+        console.log('Year:', year, 'Conferences:', conferences);
         for (const conferenceKey in conferences) {
             const conference = conferences[conferenceKey];
-            conference.locations.forEach(location => {
+            for (const location of conference.locations) {
                 const info = {
                     year: year,
                     conferenceDisplayName: conference.displayName,
@@ -109,19 +110,19 @@ function showAllConferences() {
                     conferencePath: conference.pathName,
                     locationPath: location.pathName
                 };
-                appendConferenceInfo(info, tableBody); // 追加会议信息
-            });
+                await appendConferenceInfo(info, tableBody); // 追加会议信息
+            }
         }
-    });
+    }
 
     document.getElementById('conference-table').classList.remove('hidden');
 }
 
 // 功能：追加会议信息到表格
-function appendConferenceInfo(info, tableBody) {
+async function appendConferenceInfo(info, tableBody) {
     const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;
 
-    fetch(contentUrl)
+    await fetch(contentUrl)
         .then(response => response.json())
         .then(data => {
             data.topics.forEach(topic => {

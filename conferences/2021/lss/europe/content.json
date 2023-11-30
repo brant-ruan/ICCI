@@ -1,0 +1,96 @@
+{
+    "topics": [
+        {
+            "name": "SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs",
+            "speaker": "Xiaochen Zou"
+        },
+        {
+            "name": "Hardening the Linux Guest for the Confidential Cloud Computing",
+            "speaker": "Elena Reshetova"
+        },
+        {
+            "name": "Deep Dive into Landlock Internals",
+            "speaker": "Mickaël Salaün"
+        },
+        {
+            "name": "Hardware-Assisted Fine-Grained Control-Flow Integrity: Adding Lasers to Intel's CET/IBT",
+            "speaker": "Joao Moreira"
+        },
+        {
+            "name": "AMD SEV-SNP Development Update",
+            "speaker": "David Kaplan, Brijesh Singh"
+        },
+        {
+            "name": "Device Mapper Target Measurements for Remote Attestation using IMA",
+            "speaker": "Tushar Sugandhi, Alasdair G Kergon"
+        },
+        {
+            "name": "Kernel Self-Protection Project",
+            "speaker": "Kees Cook"
+        },
+        {
+            "name": "Securing TPM Secrets in the Datacenter",
+            "speaker": "Paul Moore, Joy Latten"
+        },
+        {
+            "name": "Subsystem Update: Linux Integrity Status Update",
+            "speaker": "Mimi Zohar"
+        },
+        {
+            "name": "Patatt: End-to-end Patch Cryptographic Attestation for Patches",
+            "speaker": "Konstantin Ryabitsev"
+        },
+        {
+            "name": "The Future of Code Integrity Enforcement: Extending IMA",
+            "speaker": "Fan Wu"
+        },
+        {
+            "name": "Where do Security and Safety Meet?",
+            "speaker": "Elana Copperman"
+        },
+        {
+            "name": "Triaging Kernel Out-Of-​Bounds Write Vulnerabilities",
+            "speaker": "Weiteng Chen"
+        },
+        {
+            "name": "/dev/random - A New Approach",
+            "speaker": "Stephan Mueller"
+        },
+        {
+            "name": "Fuzzing Linux with Xen",
+            "speaker": "Tamas K Lengyel"
+        },
+        {
+            "name": "Abstracting TEE Silicon Implementations with Shims",
+            "speaker": "Nathaniel McCallum, Harald Hoyer"
+        },
+        {
+            "name": "IPE Namespaces: Targeted Enforcement of CI",
+            "speaker": "Deven Bowers"
+        },
+        {
+            "name": "Mitigating Linux Kernel Memory Corruptions with ARM Memory Tagging",
+            "speaker": "Andrey Konovalov"
+        },
+        {
+            "name": "All the Things You Can Do with ARMv8 Virtualization",
+            "speaker": "Janne Karhunen, Jani Hyvönen"
+        },
+        {
+            "name": "Finding Multiple Bug Effects for More Precise Exploitability Estimation",
+            "speaker": "Zhenpeng Lin, Yueqi Cheny"
+        },
+        {
+            "name": "Live Migration Architecture for Intel TDX-based Confidential VMs",
+            "speaker": "Ravi Sahita, Jun Nakajima"
+        },
+        {
+            "name": "CVEHound: Audit Kernel Sources for Missing CVE Fixes",
+            "speaker": "Denis Efremov"
+        },
+        {
+            "name": "Analysing and Improving the Security Properties of Secret Memory",
+            "speaker": "James Bottomley, Mike Rappoport"
+        }
+    ]
+}

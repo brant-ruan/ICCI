@@ -29,6 +29,28 @@
                     "pathName": "europe"
                 }
             ]
+        },
+        "blackhat": {
+            "displayName": "Black Hat",
+            "pathName": "blackhat",
+            "locations": [
+                {
+                    "displayName": "USA",
+                    "pathName": "usa"
+                }
+            ]
+        }
+    },
+    "2021": {
+        "lss": {
+            "displayName": "Linux Security Summit",
+            "pathName": "lss",
+            "locations": [
+                {
+                    "displayName": "Europe",
+                    "pathName": "europe"
+                }
+            ]
         }
     }
 }

@@ -91,36 +91,32 @@ function showFirstConference(index, selectedYear) {
 
 // 功能：显示所有会议
 function showAllConferences() {
-    fetch(indexUrl)
-        .then(response => response.json())
-        .then(index => {
-            const tableBody = document.getElementById('conference-table').querySelector('tbody');
-            tableBody.innerHTML = ''; // 首先清空现有表格
+    const tableBody = document.getElementById('conference-table').querySelector('tbody');
+    tableBody.innerHTML = ''; // 首先清空现有表格
 
-            // 获取所有年份并按数值倒序排序
-            const years = Object.keys(index).sort((a, b) => parseInt(b) - parseInt(a));
-            
-            years.forEach(year => {
-                const conferences = index[year];
-                for (const conferenceKey in conferences) {
-                    const conference = conferences[conferenceKey];
-                    conference.locations.forEach(location => {
-                        const info = {
-                            year: year,
-                            conferenceDisplayName: conference.displayName,
-                            locationDisplayName: location.displayName,
-                            conferencePath: conference.pathName,
-                            locationPath: location.pathName
-                        };
-                        appendConferenceInfo(info, tableBody); // 追加会议信息
-                    });
-                }
+    // 获取所有年份并按数值倒序排序
+    const years = Object.keys(globalIndex).sort((a, b) => parseInt(b) - parseInt(a));
+    
+    years.forEach(year => {
+        const conferences = globalIndex[year];
+        for (const conferenceKey in conferences) {
+            const conference = conferences[conferenceKey];
+            conference.locations.forEach(location => {
+                const info = {
+                    year: year,
+                    conferenceDisplayName: conference.displayName,
+                    locationDisplayName: location.displayName,
+                    conferencePath: conference.pathName,
+                    locationPath: location.pathName
+                };
+                appendConferenceInfo(info, tableBody); // 追加会议信息
             });
+        }
+    });
 
-            document.getElementById('conference-table').classList.remove('hidden');
-        })
-        .catch(error => console.error('Error fetching index:', error));
+    document.getElementById('conference-table').classList.remove('hidden');
 }
+
 
 
 // 功能：追加会议信息到表格
@@ -131,7 +127,7 @@ function appendConferenceInfo(info, tableBody) {
         .then(response => response.json())
         .then(data => {
             data.topics.forEach(topic => {
-                let row = tableBody.insertRow();
+                let row = tableBody.insertRow(-1);
                 row.innerHTML = `
                     <td>${info.year}</td>
                     <td>${info.conferenceDisplayName}</td>

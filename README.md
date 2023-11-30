@@ -1,2 +1,2 @@
-# ICCI
-Industrial Cybersecurity Conference Index
+# Industrial Cybersecurity Conference Index
+

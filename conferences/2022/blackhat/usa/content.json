@@ -346,7 +346,8 @@
         },
         {
             "name": "Don't Get Owned by Your Dependencies: How Firefox Uses In-process Sandboxing To Protect Itself From Exploitable Libraries (And You Can Too!)",
-            "speakers": "Shravan Narayan, Tal Garfinkel, Deian Stefan"
+            "speakers": "Shravan Narayan, Tal Garfinkel, Deian Stefan",
+            "video": "https://www.youtube.com/watch?v=bJ9oWc5cRCI"
         },
         {
             "name": "Déjà Vu: Uncovering Stolen Algorithms in Commercial Products",

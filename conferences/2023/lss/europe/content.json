@@ -1,0 +1,48 @@
+{
+    "topics": [
+        {
+            "name": "BPF and Security. Friends and Foes",
+            "speakers": "Alexei Starovoitov"
+        },
+        {
+            "name": "Genmai: A Security Vulnerability Detection Framework for Linux Operating System",
+            "speakers": "Gao Tong, Song Bang Chengjin"
+        },
+        {
+            "name": "Estimating Security Risk Through Repository Mining",
+            "speakers": "Tamas K. Lengyel"
+        },
+        {
+            "name": "A PKCS #11 Signing Provider for OpenSSL",
+            "speakers": "Reinhard Buendgen"
+        },
+        {
+            "name": "OP-TEE: Using the ARM Trust-Zone to Control Tamper Resistant Processors",
+            "speakers": "Jorge Ramirez-Ortiz"
+        },
+        {
+            "name": "Enabling Hardware-Assisted Shields for Linux Security Subsystems",
+            "speakers": "Zahra Tarkhani"
+        },
+        {
+            "name": "Hardware-backed Per-process Secrets",
+            "speakers": "Matthew Garrett"
+        },
+        {
+            "name": "Blueprint for Secure Boot and Data Integrity Using rustBoot, dm-verity and OverlayFS",
+            "speakers": "Ulrich Matejek, Philipp Ahmann"
+        },
+        {
+            "name": "LSM Updates: IMA, SELinux, AppArmor, SMACK & BPF",
+            "speakers": "Roberto Sassu, Paul Moore, John Johansen, KP Singh"
+        },
+        {
+            "name": "Update on Landlock: Audit, Debugging and Metrics",
+            "speakers": "Mickaël Salaün"
+        },
+        {
+            "name": "Landlock Workshop: Sandboxing Application for Fun and Protection",
+            "speakers": "Mickaël Salaün"
+        }
+    ]
+}

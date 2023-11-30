@@ -1,3 +1,5 @@
+let globalIndex = {};
+
 const indexUrl = '/conferences/index.json';
 
 // 功能：填充选择器
@@ -5,6 +7,8 @@ function populateSelectors() {
     fetch(indexUrl)
         .then(response => response.json())
         .then(index => {
+            globalIndex = index;
+
             const yearSelector = document.getElementById('year-selector');
             const conferenceSelector = document.getElementById('conference-selector');
 
@@ -19,6 +23,9 @@ function populateSelectors() {
             if (Object.keys(index).length > 0) {
                 const firstYear = Object.keys(index)[0];
                 updateConferenceSelector(index, firstYear);
+
+                // 显示第一个会议的信息
+                showFirstConference(index, firstYear);
             }
         })
         .catch(error => console.error('Error fetching index:', error));
@@ -40,11 +47,10 @@ function updateConferenceSelector(index, selectedYear) {
 }
 
 // 功能：从用户选择的会议和地点显示信息
-function showConference(selection) {
-    const [conferencePath, locationPath] = selection.split('|');
-    const year = document.getElementById('year-selector').value;
-    const contentUrl = `/conferences/${year}/${conferencePath}/${locationPath}/content.json`;
+function showConference(info) {
+    const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;
 
+    console.log('Fetching content from:', contentUrl);
     fetch(contentUrl)
         .then(response => response.json())
         .then(data => {
@@ -55,9 +61,9 @@ function showConference(selection) {
             data.topics.forEach(topic => {
                 let row = tableBody.insertRow();
                 row.innerHTML = `
-                    <td>${year}</td>
-                    <td>${conference}</td>
-                    <td>${location}</td>
+                    <td>${info.year}</td>
+                    <td>${info.conferenceDisplayName}</td>
+                    <td>${info.locationDisplayName}</td>
                     <td>${topic.name}</td>
                     <td>${topic.speakers}</td>
                 `;
@@ -68,22 +74,95 @@ function showConference(selection) {
         .catch(error => console.error('Error fetching content:', error));
 }
 
+// 功能：显示第一个会议的信息
+function showFirstConference(index, selectedYear) {
+    const firstConferenceKey = Object.keys(index[selectedYear])[0];
+    const firstConference = index[selectedYear][firstConferenceKey];
+    const firstLocation = firstConference.locations[0];
+    const info = {
+        year: selectedYear,
+        conferenceDisplayName: firstConference.displayName,
+        locationDisplayName: firstLocation.displayName,
+        conferencePath: firstConference.pathName,
+        locationPath: firstLocation.pathName
+    };
+    showConference(info);
+}
+
+// 功能：显示所有会议
+function showAllConferences() {
+    const selectedYear = document.getElementById('year-selector').value;
+    fetch(indexUrl)
+        .then(response => response.json())
+        .then(index => {
+            const conferences = index[selectedYear];
+            const tableBody = document.getElementById('conference-table').querySelector('tbody');
+            tableBody.innerHTML = ''; // 首先清空现有表格
+
+            for (const conferenceKey in conferences) {
+                const conference = conferences[conferenceKey];
+                conference.locations.forEach(location => {
+                    const info = {
+                        year: selectedYear,
+                        conferenceDisplayName: conference.displayName,
+                        locationDisplayName: location.displayName,
+                        conferencePath: conference.pathName,
+                        locationPath: location.pathName
+                    };
+                    appendConferenceInfo(info, tableBody); // 追加会议信息
+                });
+            }
+
+            document.getElementById('conference-table').classList.remove('hidden');
+        })
+        .catch(error => console.error('Error fetching index:', error));
+}
+
+// 功能：追加会议信息到表格
+function appendConferenceInfo(info, tableBody) {
+    const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;
+
+    fetch(contentUrl)
+        .then(response => response.json())
+        .then(data => {
+            data.topics.forEach(topic => {
+                let row = tableBody.insertRow();
+                row.innerHTML = `
+                    <td>${info.year}</td>
+                    <td>${info.conferenceDisplayName}</td>
+                    <td>${info.locationDisplayName}</td>
+                    <td>${topic.name}</td>
+                    <td>${topic.speakers}</td>
+                `;
+            });
+        })
+        .catch(error => console.error('Error fetching content:', error));
+}
+
 // 初始化页面
 populateSelectors();
 
 // 事件监听：当年份改变时，更新会议选择器
 document.getElementById('year-selector').addEventListener('change', (event) => {
-    fetch(indexUrl)
-        .then(response => response.json())
-        .then(index => {
-            updateConferenceSelector(index, event.target.value);
-        })
-        .catch(error => console.error('Error fetching index:', error));
+    const selectedYear = event.target.value;
+    updateConferenceSelector(globalIndex, selectedYear);
 });
 
 // 当用户选择一个会议时的事件处理
 document.getElementById('conference-selector').addEventListener('change', (event) => {
-    showConference(event.target.value);
+    const selectedYear = document.getElementById('year-selector').value;
+    const [conferencePath, locationPath] = event.target.value.split('|');
+    const conference = globalIndex[selectedYear][conferencePath];
+    const location = conference.locations.find(loc => loc.pathName === locationPath);
+    const info = {
+        year: selectedYear,
+        conferenceDisplayName: conference.displayName,
+        locationDisplayName: location.displayName,
+        conferencePath: conferencePath,
+        locationPath: locationPath
+    };
+    showConference(info);
 });
 
-// ...更多事件监听和功能实现...
+// 添加事件监听器以处理 "Show All Conferences" 按钮的点击
+document.getElementById('show-all').addEventListener('click', showAllConferences);

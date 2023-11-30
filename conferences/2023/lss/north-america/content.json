@@ -2,71 +2,88 @@
     "topics": [
         {
             "name": "Verifiable End To End Secure OCI Native Machines",
-            "speakers": "Serge Hallyn, Joy Latten"
+            "speakers": "Serge Hallyn, Joy Latten",
+            "video": "https://www.youtube.com/watch?v=ewmMs563jv0"
         },
         {
             "name": "systemd and TPM2",
-            "speakers": "Lennart Poettering"
+            "speakers": "Lennart Poettering",
+            "video": "https://www.youtube.com/watch?v=Qc75hobVjbo"
         },
         {
             "name": "System Calls for the Linux Security Module Infrastructure",
-            "speakers": "Casey Schaufler"
+            "speakers": "Casey Schaufler",
+            "video": "https://www.youtube.com/watch?v=QHlXwasRO3g"
         },
         {
             "name": "How to Backdoor the Linux Kernel (and fail?)",
-            "speakers": "Konstantin Ryabitsev"
+            "speakers": "Konstantin Ryabitsev",
+            "video": "https://www.youtube.com/watch?v=K3SVt1WCheY"
         },
         {
             "name": "HotBPF++: A More Powerful Memory Protection for the Linux Kernel",
-            "speakers": "Zicheng Wang, Yueqi Chen"
+            "speakers": "Zicheng Wang, Yueqi Chen",
+            "video": "https://www.youtube.com/watch?v=SgGWCWKSyHk"
         },
         {
             "name": "Controlling Script Execution",
-            "speakers": "Micka\u00ebl Sala\u00fcn"
+            "speakers": "Micka\u00ebl Sala\u00fcn",
+            "video": "https://www.youtube.com/watch?v=UB10wtNEMlM"
         },
         {
             "name": "MPK/PKS Linux Kernel Compartmentalization",
-            "speakers": "Sebastian \u00d6sterlund"
+            "speakers": "Sebastian \u00d6sterlund",
+            "video": "https://www.youtube.com/watch?v=z1S1uoKaQ30"
         },
         {
             "name": "Enforcing Runtime Integrity with Maat",
-            "speakers": "Jonathan Myers, Andrew Guinn"
+            "speakers": "Jonathan Myers, Andrew Guinn",
+            "video": "https://www.youtube.com/watch?v=irZ8WbW5gYI"
         },
         {
             "name": "Heki: Hypervisor-Enforced Kernel Integrity for Linux with KVM",
-            "speakers": "Micka\u00ebl Sala\u00fcn"
+            "speakers": "Micka\u00ebl Sala\u00fcn",
+            "video": "https://www.youtube.com/watch?v=vmt4wlf3a1A"
         },
         {
             "name": "When Confidential Containers Meet Arm CCA",
-            "speakers": "Jia He"
+            "speakers": "Jia He",
+            "video": "https://www.youtube.com/watch?v=_n9FxY3vxvs"
         },
         {
             "name": "Building the Largest Working Set of Apparmor Profiles",
-            "speakers": "Alexandre Pujol"
+            "speakers": "Alexandre Pujol",
+            "video": "https://www.youtube.com/watch?v=OzyalrOzxE8"
         },
         {
             "name": "SyzDescribe: Principled, Automated, Static Generation of Syscall Descriptions for Kernel Drivers",
-            "speakers": "Yu Hao"
+            "speakers": "Yu Hao",
+            "video": "https://www.youtube.com/watch?v=gkGVgh3Y-54"
         },
         {
             "name": "Dynamic Key Managed PowerPC Guest Secure Boot",
-            "speakers": "Sudhakar Kuppusamy, George Wilson"
+            "speakers": "Sudhakar Kuppusamy, George Wilson",
+            "video": "https://www.youtube.com/watch?v=xE4ha7viRgw"
         },
         {
             "name": "Progress On Bounds Checking in C and the Linux Kernel",
-            "speakers": "Kees Cook, Gustavo A.R. Silva"
+            "speakers": "Kees Cook, Gustavo A.R. Silva",
+            "video": "https://www.youtube.com/watch?v=V2kzptQG5_A"
         },
         {
             "name": "SecurityPerf: A New Open-Source Framework for Benchmarking the Performance Impact of Linux Security Solutions",
-            "speakers": "Austin James Gadient"
+            "speakers": "Austin James Gadient",
+            "video": "https://www.youtube.com/watch?v=mqBYsqxZkUc"
         },
         {
             "name": "Coupling Key-Ring and Linux Crypto-API Framework(LCF) via Crypto-Transformation(tfm)",
-            "speakers": "Pankaj Gupta, Varun Sethi"
+            "speakers": "Pankaj Gupta, Varun Sethi",
+            "video": "https://www.youtube.com/watch?v=mG0sRwaBbbM"
         },
         {
             "name": "LSM Maintainers Panel",
-            "speakers": "John Johansen, Micka\u00ebl Sala\u00fcn, Casey Schaufler, Mimi Zohar, Paul Moore"
+            "speakers": "John Johansen, Micka\u00ebl Sala\u00fcn, Casey Schaufler, Mimi Zohar, Paul Moore",
+            "video": "https://www.youtube.com/watch?v=7wkEWeRIwy8"
         }
     ]
 }

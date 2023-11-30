@@ -2,47 +2,59 @@
     "topics": [
         {
             "name": "BPF and Security. Friends and Foes",
-            "speakers": "Alexei Starovoitov"
+            "speakers": "Alexei Starovoitov",
+            "video": "https://www.youtube.com/watch?v=kvt4wdXEuRU"
         },
         {
             "name": "Genmai: A Security Vulnerability Detection Framework for Linux Operating System",
-            "speakers": "Gao Tong, Song Bang Chengjin"
+            "speakers": "Gao Tong, Song Bang Chengjin",
+            "video": "https://www.youtube.com/watch?v=IF0-9zVD6kI"
         },
         {
             "name": "Estimating Security Risk Through Repository Mining",
-            "speakers": "Tamas K. Lengyel"
+            "speakers": "Tamas K. Lengyel",
+            "video": "https://www.youtube.com/watch?v=J2X1yItdxvo"
         },
         {
             "name": "A PKCS #11 Signing Provider for OpenSSL",
-            "speakers": "Reinhard Buendgen"
+            "speakers": "Reinhard Buendgen",
+            "video": "https://www.youtube.com/watch?v=s260RTMHahM"
+
         },
         {
             "name": "OP-TEE: Using the ARM Trust-Zone to Control Tamper Resistant Processors",
-            "speakers": "Jorge Ramirez-Ortiz"
+            "speakers": "Jorge Ramirez-Ortiz",
+            "video": "https://www.youtube.com/watch?v=VdAdnXWilT8"
         },
         {
             "name": "Enabling Hardware-Assisted Shields for Linux Security Subsystems",
-            "speakers": "Zahra Tarkhani"
+            "speakers": "Zahra Tarkhani",
+            "video": "https://www.youtube.com/watch?v=Lctn7XOnzDg"
         },
         {
             "name": "Hardware-backed Per-process Secrets",
-            "speakers": "Matthew Garrett"
+            "speakers": "Matthew Garrett",
+            "video": "https://www.youtube.com/watch?v=cMwQD0jtUfU"
         },
         {
             "name": "Blueprint for Secure Boot and Data Integrity Using rustBoot, dm-verity and OverlayFS",
-            "speakers": "Ulrich Matejek, Philipp Ahmann"
+            "speakers": "Ulrich Matejek, Philipp Ahmann",
+            "video": "https://www.youtube.com/watch?v=m1bYdNL2rKI"
         },
         {
             "name": "LSM Updates: IMA, SELinux, AppArmor, SMACK & BPF",
-            "speakers": "Roberto Sassu, Paul Moore, John Johansen, KP Singh"
+            "speakers": "Roberto Sassu, Paul Moore, John Johansen, KP Singh",
+            "video": "https://www.youtube.com/watch?v=ifVioMPhEZE"
         },
         {
             "name": "Update on Landlock: Audit, Debugging and Metrics",
-            "speakers": "Mickaël Salaün"
+            "speakers": "Mickaël Salaün",
+            "video": "https://www.youtube.com/watch?v=Xi-P1QFcXak"
         },
         {
             "name": "Landlock Workshop: Sandboxing Application for Fun and Protection",
-            "speakers": "Mickaël Salaün"
+            "speakers": "Mickaël Salaün",
+            "video": "https://www.youtube.com/watch?v=2eqOewI03Es"
         }
     ]
 }

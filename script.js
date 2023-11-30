@@ -61,11 +61,13 @@ function showConference(info) {
             // 创建表格行
             data.topics.forEach(topic => {
                 let row = tableBody.insertRow();
+                let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
                 row.innerHTML = `
                     <td>${info.year}</td>
                     <td>${info.conferenceDisplayName}</td>
                     <td>${info.locationDisplayName}</td>
                     <td>${topic.name}</td>
+                    <td>${videoLink}</td>
                 `;
             });
 
@@ -127,11 +129,13 @@ async function appendConferenceInfo(info, tableBody) {
         .then(data => {
             data.topics.forEach(topic => {
                 let row = tableBody.insertRow(-1);
+                let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
                 row.innerHTML = `
                     <td>${info.year}</td>
                     <td>${info.conferenceDisplayName}</td>
                     <td>${info.locationDisplayName}</td>
                     <td>${topic.name}</td>
+                    <td>${videoLink}</td>
                 `;
             });
         })

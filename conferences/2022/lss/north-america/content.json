@@ -10,7 +10,8 @@
         },
         {
             "name": "Hardening the Linux Guest for the Confidential Cloud Computing: Deep Dive and Results",
-            "speakers": "Elena Reshetova"
+            "speakers": "Elena Reshetova",
+            "video": "https://www.youtube.com/watch?v=GsXbskOTivQ"
         },
         {
             "name": "Namespacing the Linux Integrity Measurement Architecture",
@@ -58,7 +59,8 @@
         },
         {
             "name": "PowerVM Platform Keystore - Securing Linux Credentials Locally",
-            "speakers": "Nayna Jain"
+            "speakers": "Nayna Jain",
+            "video": "https://www.youtube.com/watch?v=H0ZuMAN06r4"
         },
         {
             "name": "IMA Policy Support for fs-verity: A Win-win for IMA & fs-verity",

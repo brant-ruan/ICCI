@@ -17,7 +17,8 @@ table {
     margin-bottom: 50px;
 }
 
-th, td {
+th,
+td {
     border: 1px solid #ccc;
     border-bottom: 1px solid #f2f2f2;
     padding: 10px;
@@ -25,7 +26,8 @@ th, td {
 }
 
 tr:nth-child(even) {
-    background-color: #fafafa; /* Subtle zebra-stripping */
+    background-color: #fafafa;
+    /* Subtle zebra-stripping */
 }
 
 th {
@@ -38,46 +40,63 @@ th {
 
 /* 添加按钮和表格之间的间隔 */
 #show-all {
-    margin-top:10px;
-    margin-bottom:25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
 }
 
 .container {
     margin: 20px auto;
     padding: 20px;
-    max-width: 1200px; /* Set a max-width for large screens */
+    max-width: 1200px;
+    /* Set a max-width for large screens */
 }
 
 select {
     margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 3px;
+    padding: 3px;
 }
 
-select, button {
-    /* padding: 10px;
-    margin: 20px 0; */
-    border: 1px solid #ddd; /* Subtle border */
+button {
+    padding: 10px;
+    color: blueviolet;
+}
+
+select,
+button {
+    /* margin: 20px 0; */
+    border: 1px solid #ddd;
+    /* Subtle border */
     background-color: white;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #f8f8f8; /* Slight change on hover */
+    background-color: #f8f8f8;
+    /* Slight change on hover */
 }
 
 h1 {
     font-size: 2em;
     margin-bottom: 0.5em;
-    color: #007BFF; /* A pop of color for the main title */
+    color: #007BFF;
+    /* A pop of color for the main title */
 }
 
-h2, h3, h4 {
+h2,
+h3,
+h4 {
     margin-top: 1em;
     margin-bottom: 0.5em;
 }
 
 @media screen and (max-width: 768px) {
-    th, td {
-        padding: 10px; /* Smaller padding on mobile */
+
+    th,
+    td {
+        padding: 10px;
+        /* Smaller padding on mobile */
     }
 }
 
@@ -85,5 +104,6 @@ footer {
     text-align: center;
     padding: 20px;
     font-size: 0.8em;
-    color: #666; /* Lighter text for less emphasis */
+    color: #666;
+    /* Lighter text for less emphasis */
 }

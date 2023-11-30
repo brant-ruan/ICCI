@@ -2,95 +2,118 @@
     "topics": [
         {
             "name": "SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs",
-            "speaker": "Xiaochen Zou"
+            "speaker": "Xiaochen Zou",
+            "video": "https://www.youtube.com/watch?v=MJbqeo5qtQ0"
         },
         {
             "name": "Hardening the Linux Guest for the Confidential Cloud Computing",
-            "speaker": "Elena Reshetova"
+            "speaker": "Elena Reshetova",
+            "video": "https://www.youtube.com/watch?v=7WSoqPG4zEY"
         },
         {
             "name": "Deep Dive into Landlock Internals",
-            "speaker": "Mickaël Salaün"
+            "speaker": "Mickaël Salaün",
+            "video": "https://www.youtube.com/watch?v=7Xj2-mjm3RQ"
         },
         {
             "name": "Hardware-Assisted Fine-Grained Control-Flow Integrity: Adding Lasers to Intel's CET/IBT",
-            "speaker": "Joao Moreira"
+            "speaker": "Joao Moreira",
+            "video": "https://www.youtube.com/watch?v=FzGIM1218Ok"
         },
         {
             "name": "AMD SEV-SNP Development Update",
-            "speaker": "David Kaplan, Brijesh Singh"
+            "speaker": "David Kaplan, Brijesh Singh",
+            "video": "https://www.youtube.com/watch?v=W0zuziY9mrk"
         },
         {
             "name": "Device Mapper Target Measurements for Remote Attestation using IMA",
-            "speaker": "Tushar Sugandhi, Alasdair G Kergon"
+            "speaker": "Tushar Sugandhi, Alasdair G Kergon",
+            "video": "https://www.youtube.com/watch?v=YRurY9NBzAY"
         },
         {
             "name": "Kernel Self-Protection Project",
-            "speaker": "Kees Cook"
+            "speaker": "Kees Cook",
+            "video": "https://www.youtube.com/watch?v=-Binxid8t_8"
         },
         {
             "name": "Securing TPM Secrets in the Datacenter",
-            "speaker": "Paul Moore, Joy Latten"
+            "speaker": "Paul Moore, Joy Latten",
+            "video": "https://www.youtube.com/watch?v=wfJDmfPP1OA"
         },
         {
             "name": "Subsystem Update: Linux Integrity Status Update",
-            "speaker": "Mimi Zohar"
+            "speaker": "Mimi Zohar",
+            "video": "https://www.youtube.com/watch?v=N0J0FL4C96U"
         },
         {
             "name": "Patatt: End-to-end Patch Cryptographic Attestation for Patches",
-            "speaker": "Konstantin Ryabitsev"
+            "speaker": "Konstantin Ryabitsev",
+            "video": "https://www.youtube.com/watch?v=xc3TAMQhm1M"
         },
         {
             "name": "The Future of Code Integrity Enforcement: Extending IMA",
-            "speaker": "Fan Wu"
+            "speaker": "Fan Wu",
+            "video": "https://www.youtube.com/watch?v=DZVAAqaH960"
         },
         {
             "name": "Where do Security and Safety Meet?",
-            "speaker": "Elana Copperman"
+            "speaker": "Elana Copperman",
+            "video": "https://www.youtube.com/watch?v=43UzvdH-UdE"
         },
         {
             "name": "Triaging Kernel Out-Of-​Bounds Write Vulnerabilities",
-            "speaker": "Weiteng Chen"
+            "speaker": "Weiteng Chen",
+            "video": "https://www.youtube.com/watch?v=YUHy58hyDq0"
         },
         {
             "name": "/dev/random - A New Approach",
-            "speaker": "Stephan Mueller"
+            "speaker": "Stephan Mueller",
+            "video": "https://www.youtube.com/watch?v=8DuhbwWkMQw"
         },
         {
             "name": "Fuzzing Linux with Xen",
-            "speaker": "Tamas K Lengyel"
+            "speaker": "Tamas K Lengyel",
+            "video": "https://www.youtube.com/watch?v=m_dH59lrj5M"
         },
         {
             "name": "Abstracting TEE Silicon Implementations with Shims",
-            "speaker": "Nathaniel McCallum, Harald Hoyer"
+            "speaker": "Nathaniel McCallum, Harald Hoyer",
+            "video": "https://www.youtube.com/watch?v=bBBD9-T8kT4"
         },
         {
             "name": "IPE Namespaces: Targeted Enforcement of CI",
-            "speaker": "Deven Bowers"
+            "speaker": "Deven Bowers",
+            "video": "https://www.youtube.com/watch?v=ubmNE_VRWpU"
         },
         {
             "name": "Mitigating Linux Kernel Memory Corruptions with ARM Memory Tagging",
-            "speaker": "Andrey Konovalov"
+            "speaker": "Andrey Konovalov",
+            "video": "https://www.youtube.com/watch?v=UwMt0e_dC_Q"
         },
         {
             "name": "All the Things You Can Do with ARMv8 Virtualization",
-            "speaker": "Janne Karhunen, Jani Hyvönen"
+            "speaker": "Janne Karhunen, Jani Hyvönen",
+            "video": "https://www.youtube.com/watch?v=hlHeUA2Tphk"
         },
         {
             "name": "Finding Multiple Bug Effects for More Precise Exploitability Estimation",
-            "speaker": "Zhenpeng Lin, Yueqi Cheny"
+            "speaker": "Zhenpeng Lin, Yueqi Cheny",
+            "video": "https://www.youtube.com/watch?v=J3frKpcJ9vg"
         },
         {
             "name": "Live Migration Architecture for Intel TDX-based Confidential VMs",
-            "speaker": "Ravi Sahita, Jun Nakajima"
+            "speaker": "Ravi Sahita, Jun Nakajima",
+            "video": "https://www.youtube.com/watch?v=FAFL3476XYQ"
         },
         {
             "name": "CVEHound: Audit Kernel Sources for Missing CVE Fixes",
-            "speaker": "Denis Efremov"
+            "speaker": "Denis Efremov",
+            "video": "https://www.youtube.com/watch?v=jIDnVeZNUA8"
         },
         {
             "name": "Analysing and Improving the Security Properties of Secret Memory",
-            "speaker": "James Bottomley, Mike Rappoport"
+            "speaker": "James Bottomley, Mike Rappoport",
+            "video": "https://www.youtube.com/watch?v=asqtqD0D3lY"
         }
     ]
 }

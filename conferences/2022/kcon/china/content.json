@@ -1,0 +1,59 @@
+{
+    "topics": [
+        {
+            "name": "转守为攻 积极防御——基于测绘技术的APT狩猎研究",
+            "speaker": "K, NaN"
+        },
+        {
+            "name": "自动化API漏洞Fuzz实战"
+        },
+        {
+            "name": "ChromePatchGap在亿级用户量IM中的漏洞利用"
+        },
+        {
+            "name": "进退维谷：runC的阿克琉斯之踵"
+        },
+        {
+            "name": "Hacking JSON"
+        },
+        {
+            "name": "返璞归真：重新审视物理安全与近源渗透"
+        },
+        {
+            "name": "公有云下，企业安全审计框架和构建可审计的安全环境"
+        },
+        {
+            "name": "智能WEB安全攻击系统"
+        },
+        {
+            "name": "解锁工控设备固件提取的各类方法"
+        },
+        {
+            "name": "Where’s My Session Pool?"
+        },
+        {
+            "name": "击败SOTA反混淆方法"
+        },
+        {
+            "name": "The ATT&CK DarkHotel Playbook: Hunt and Simulate Attack"
+        },
+        {
+            "name": "tabby: java code review like a pro"
+        },
+        {
+            "name": "RASP攻防下的黑魔法"
+        },
+        {
+            "name": "名侦探的下午茶：Hunting with Provenance"
+        },
+        {
+            "name": "浅谈零信任环境下攻击场景"
+        },
+        {
+            "name": "有关Web3与DID的思考：资金追溯和地址画像技术在区块链安全场景下的应用"
+        },
+        {
+            "name": "如何从 defi 中捡钱？——智能合约安全代码审计"
+        }
+    ]
+}

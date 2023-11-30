@@ -51,7 +51,7 @@ function updateConferenceSelector(index, selectedYear) {
 function showConference(info) {
     const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;
 
-    console.log('Fetching content from:', contentUrl);
+    // console.log('Fetching content from:', contentUrl);
     fetch(contentUrl)
         .then(response => response.json())
         .then(data => {
@@ -96,10 +96,10 @@ async function showAllConferences() {
 
     // 获取所有年份并按数值倒序排序
     const years = Object.keys(globalIndex).sort((a, b) => parseInt(b) - parseInt(a));
-    console.log('Years:', years);
+    // console.log('Years:', years);
     for (const year of years) {
         const conferences = globalIndex[year];
-        console.log('Year:', year, 'Conferences:', conferences);
+        // console.log('Year:', year, 'Conferences:', conferences);
         for (const conferenceKey in conferences) {
             const conference = conferences[conferenceKey];
             for (const location of conference.locations) {

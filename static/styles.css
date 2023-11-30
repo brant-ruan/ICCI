@@ -78,7 +78,7 @@ button {
     display: flex; /* 使用flex布局 */
     align-items: center; /* 垂直居中对齐子元素 */
     justify-content: flex-start; /* 子元素靠左对齐 */
-    margin-bottom: 20px; /* 与表格的间隔 */
+    margin-bottom: 40px; /* 与表格的间隔 */
     margin-top: 10px;
 }
 

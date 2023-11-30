@@ -59,7 +59,7 @@ function showConference(selection) {
                     <td>${conference}</td>
                     <td>${location}</td>
                     <td>${topic.name}</td>
-                    <td>${topic.speaker}</td>
+                    <td>${topic.speakers}</td>
                 `;
             });
 

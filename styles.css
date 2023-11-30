@@ -1,0 +1,32 @@
+body {
+    font-family: Menlo, sans-serif;
+    background: #fff;
+    color: #000;
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #eee;
+}
+
+.hidden {
+    display: none;
+}
+
+/* 添加按钮和表格之间的间隔 */
+#show-all {
+    margin-top:10px;
+    margin-bottom: 20px;
+}

@@ -2,51 +2,63 @@
     "topics": [
         {
             "name": "io_uring: So Fast. It's Scary.",
-            "speakers": "Paul Moore"
+            "speakers": "Paul Moore",
+            "video": "https://www.youtube.com/watch?v=AaaH6skUEI8"
         },
         {
             "name": "Flexible Array Transformations and Array-bounds Checking",
-            "speakers": "Gustavo A. R. Silva"
+            "speakers": "Gustavo A. R. Silva",
+            "video": "https://www.youtube.com/watch?v=nrojq96szcA"
         },
         {
             "name": "HotBPF - An On-demand and On-the-fly Memory Protection for the Linux Kernel",
-            "speakers": "Yueqi Chen, Zhenpeng Li"
+            "speakers": "Yueqi Chen, Zhenpeng Li",
+            "video": "https://www.youtube.com/watch?v=1KSLTsgxaSU"
         },
         {
             "name": "Device Attestation in Hardware TEE based Confidential Computing",
-            "speakers": "Jiewen Yao, Jun Nakajima"
+            "speakers": "Jiewen Yao, Jun Nakajima",
+            "video": "https://www.youtube.com/watch?v=MJmfkd-8UoA"
         },
         {
             "name": "AMD SEV-SNP Attestation: Establishing Trust in Guests",
-            "speakers": "Jeremy Powell"
+            "speakers": "Jeremy Powell",
+            "video": "https://www.youtube.com/watch?v=7R0rnQfi86I"
         },
         {
             "name": "Secure and Dynamic Hardware Partitioning Management on Heterogeneous SoC",
-            "speakers": "Zahra Tarkhani"
+            "speakers": "Zahra Tarkhani",
+            "video": "https://www.youtube.com/watch?v=kUCIaaoZXHY"
         },
         {
-            "name": "Sanitizing the Linux Kernel — On KASAN and other Dynamic Bug-finding Tools",
-            "speakers": "Andrey Konovalov"
+            "name": "Sanitizing the Linux Kernel \u2014 On KASAN and other Dynamic Bug-finding Tools",
+            "speakers": "Andrey Konovalov",
+            "video": "https://www.youtube.com/watch?v=KmFVPyHyfqQ"
         },
         {
             "name": "Finally, a Smack Reference Policy",
-            "speakers": "Casey Schaufler"
+            "speakers": "Casey Schaufler",
+            "video": "https://www.youtube.com/watch?v=ho05QK1g8SM"
         },
         {
             "name": "What's New in the User Namespace",
-            "speakers": "Stephane Graber, Christian Brauner"
+            "speakers": "Stephane Graber, Christian Brauner",
+            "video": "https://www.youtube.com/watch?v=XTbQRmeCw-Y"
         },
         {
             "name": "State of Intel SGX in Linux",
-            "speakers": "Jarkko Sakkinen, Roman Volosatovs"
+            "speakers": "Jarkko Sakkinen, Roman Volosatovs",
+            "video": "https://www.youtube.com/watch?v=VeD_eSPFxV0"
         },
         {
             "name": "Introducing IO Devices into Trusted Execution Environments",
-            "speakers": "Jun Nakajima"
+            "speakers": "Jun Nakajima",
+            "video": "https://www.youtube.com/watch?v=iJtoluBkeGI"
         },
         {
             "name": "Improving Unmodified Classic Application Confinement",
-            "speakers": "John Johansen, Georgia Garcia"
+            "speakers": "John Johansen, Georgia Garcia",
+            "video": "https://www.youtube.com/watch?v=odrxFf1ECk8"
         }
     ]
 }

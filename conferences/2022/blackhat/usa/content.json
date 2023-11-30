@@ -2,327 +2,408 @@
     "topics": [
         {
             "name": "AAD Joined Machines - The New Lateral Movement",
-            "speaker": "Mor Rubin"
+            "speaker": "Mor Rubin",
+            "video": "https://www.youtube.com/watch?v=ZPI2OB0g028"
         },
         {
             "name": "All Your GNN Models and Data Belong to Me",
-            "speaker": "Yang Zhang, Azzedine Benameur, Yun Shen"
+            "speaker": "Yang Zhang, Azzedine Benameur, Yun Shen",
+            "video": "https://www.youtube.com/watch?v=v1VBMg7npoc"
         },
         {
             "name": "Automatic Protocol Reverse Engineering",
-            "speaker": "Gabi Nakibly, Ron Marcovich"
+            "speaker": "Gabi Nakibly, Ron Marcovich",
+            "video": "https://www.youtube.com/watch?v=tXEMiOMGk0M"
         },
         {
             "name": "Blasting Event-Driven Cornucopia: WMI-based User-Space Attacks Blind SIEMs and EDRs",
-            "speaker": "Claudiu Teodorescu, Andrey Golchikov, Igor Korkin"
+            "speaker": "Claudiu Teodorescu, Andrey Golchikov, Igor Korkin",
+            "video": "https://www.youtube.com/watch?v=qP5newEq5iI"
         },
         {
             "name": "Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling",
-            "speaker": "James Kettle"
+            "speaker": "James Kettle",
+            "video": "https://www.youtube.com/watch?v=N54VevVxrgQ"
         },
         {
             "name": "Elevating Kerberos to the Next Level",
-            "speaker": "James Forshaw, Nick Landers"
+            "speaker": "James Forshaw, Nick Landers",
+            "video": "https://www.youtube.com/watch?v=GM1PxZPiLMk"
         },
         {
             "name": "Harm Reduction: A Framework for Effective & Compassionate Security Guidance",
-            "speaker": "Kyle Tobener"
+            "speaker": "Kyle Tobener",
+            "video": "https://www.youtube.com/watch?v=T1YEKAUJVjE"
         },
         {
             "name": "Industroyer2: Sandworm's Cyberwarfare Targets Ukraine's Power Grid Again",
-            "speaker": "Robert Lipovsky, Anton Cherepanov"
+            "speaker": "Robert Lipovsky, Anton Cherepanov",
+            "video": "https://www.youtube.com/watch?v=xC9iM5wVedQ"
         },
         {
             "name": "New Memory Forensics Techniques to Defeat Device Monitoring Malware",
-            "speaker": "Andrew Case, Gustavo Moreira, Austin Sellers, Golden Richard"
+            "speaker": "Andrew Case, Gustavo Moreira, Austin Sellers, Golden Richard",
+            "video": "https://www.youtube.com/watch?v=Qgu5CGV-4JY"
         },
         {
             "name": "A Fully Trained Jedi, You Are Not",
-            "speaker": "Adam Shostack"
+            "speaker": "Adam Shostack",
+            "video": "https://www.youtube.com/watch?v=R6cRBAoJCXM"
         },
         {
             "name": "Android Universal Root: Exploiting Mobile GPU / Command Queue Drivers",
-            "speaker": "Xingyu Jin, Richard Neal, Jon Bottarini"
+            "speaker": "Xingyu Jin, Richard Neal, Jon Bottarini",
+            "video": "https://www.youtube.com/watch?v=kEl5qbLZVeY"
         },
         {
             "name": "Better Privacy Through Offense: How To Build a Privacy Red Team",
-            "speaker": "Scott Tenaglia"
+            "speaker": "Scott Tenaglia",
+            "video": "https://www.youtube.com/watch?v=WJXjl8vk_nM"
         },
         {
             "name": "Breaking Firmware Trust From Pre-EFI: Exploiting Early Boot Phases",
-            "speaker": "Alex Matrosov, Alex Ermolov, Yegor Vasilenko, Sam Thomas"
+            "speaker": "Alex Matrosov, Alex Ermolov, Yegor Vasilenko, Sam Thomas",
+            "video": "https://www.youtube.com/watch?v=Z81s7UIiwmI"
         },
         {
             "name": "Demystifying Key Stretching and PAKEs",
-            "speaker": "Steve Thomas"
+            "speaker": "Steve Thomas",
+            "video": "https://www.youtube.com/watch?v=gopo2FI9epw"
         },
         {
             "name": "Devils Are in the File Descriptors: It Is Time To Catch Them All",
-            "speaker": "Le Wu"
+            "speaker": "Le Wu",
+            "video": "https://www.youtube.com/watch?v=dIVjQrqpKC0"
         },
         {
             "name": "Glitched on Earth by Humans: A Black-Box Security Evaluation of the SpaceX Starlink User Terminal",
-            "speaker": "Lennert Wouters"
+            "speaker": "Lennert Wouters",
+            "video": "https://www.youtube.com/watch?v=NXqLMmGwJm0"
         },
         {
             "name": "IAM The One Who Knocks",
-            "speaker": "Igal Gofman, Noam Dahan"
+            "speaker": "Igal Gofman, Noam Dahan",
+            "video": "https://www.youtube.com/watch?v=286bpu5WALU"
         },
         {
             "name": "The Growth of Global Election Disinformation: The Role and Methodology of Government-linked Cyber Actors",
-            "speaker": "Sandra Quincoses"
+            "speaker": "Sandra Quincoses",
+            "video": "https://www.youtube.com/watch?v=tDUYny5SXi4"
         },
         {
             "name": "ELF Section Docking: Revisiting Stageless Payload Delivery",
-            "speaker": "Dimitry Snezhkov"
+            "speaker": "Dimitry Snezhkov",
+            "video": "https://www.youtube.com/watch?v=fIwyIL8LHRU"
         },
         {
             "name": "Google Reimagined a Phone. It was Our Job to Red Team and Secure it.",
-            "speaker": "Farzan Karimi, Eugene Rodionov, Xuan Xing, Christopher Cole"
+            "speaker": "Farzan Karimi, Eugene Rodionov, Xuan Xing, Christopher Cole",
+            "video": "https://www.youtube.com/watch?v=WJ6o2F9st9g"
         },
         {
             "name": "In Need of 'Pair' Review: Vulnerable Code Contributions by GitHub Copilot",
-            "speaker": "Hammond Pearce, Benjamin Tan, Brendan Dolan-Gavitt, Baleegh Ahmad"
+            "speaker": "Hammond Pearce, Benjamin Tan, Brendan Dolan-Gavitt, Baleegh Ahmad",
+            "video": "https://www.youtube.com/watch?v=xz-zs7GRQ7U"
         },
         {
             "name": "Internal Server Error: Exploiting Inter-Process Communication in SAP's HTTP Server",
-            "speaker": "Martin Doyhenard"
+            "speaker": "Martin Doyhenard",
+            "video": "https://www.youtube.com/watch?v=vjLNh2KNkl8"
         },
         {
             "name": "Is WebAssembly Really Safe? --Wasm VM Escape and RCE Vulnerabilities Have Been Found in New Way",
-            "speaker": "Zhao Hai, Zhichen Wang, Mengchen Yu, Lei Li"
+            "speaker": "Zhao Hai, Zhichen Wang, Mengchen Yu, Lei Li",
+            "video": "https://www.youtube.com/watch?v=QWsSNRQN7v8"
         },
         {
             "name": "Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS",
-            "speaker": "Orange Tsai"
+            "speaker": "Orange Tsai",
+            "video": "https://www.youtube.com/watch?v=QMzTcHbC3dQ"
         },
         {
             "name": "The Cyber Safety Review Board: Studying Incidents to Drive Systemic Change",
-            "speaker": "Robert Silvers, Heather Adkins, Jeff Moss"
+            "speaker": "Robert Silvers, Heather Adkins, Jeff Moss",
+            "video": "https://www.youtube.com/watch?v=a2hU6LEpws8"
         },
         {
-            "name": "Trying to Be Everything to Everyone: Let’s Talk About Burnout",
-            "speaker": "Stacy Thayer"
+            "name": "Trying to Be Everything to Everyone: Let\u2019s Talk About Burnout",
+            "speaker": "Stacy Thayer",
+            "video": "https://www.youtube.com/watch?v=sRYs4yeA6wU"
         },
         {
-            "name": "(Long) Dragon Tails – Measuring Dependence on International Vulnerability Research",
-            "speaker": "Stewart Scott, Trey Herr, Frances Nettles, Yumi Gambrill"
+            "name": "(Long) Dragon Tails \u2013 Measuring Dependence on International Vulnerability Research",
+            "speaker": "Stewart Scott, Trey Herr, Frances Nettles, Yumi Gambrill",
+            "video": "https://www.youtube.com/watch?v=XJ_3Gottvo8"
         },
         {
             "name": "AEPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture",
-            "speaker": "Pietro Borrello, Andreas Kogler"
+            "speaker": "Pietro Borrello, Andreas Kogler",
+            "video": "https://www.youtube.com/watch?v=8ZWc7Hcsl8o"
         },
         {
             "name": "Return to Sender - Detecting Kernel Exploits with eBPF",
-            "speaker": "Guillaume Fournier"
+            "speaker": "Guillaume Fournier",
+            "video": "https://www.youtube.com/watch?v=QTZvabExQ1I"
         },
         {
             "name": "Smishmash - Text Based 2fa Spoofing Using OSINT, Phishing Techniques and a Burner Phone",
-            "speaker": "Thomas Olofsson, Mikael Byström"
+            "speaker": "Thomas Olofsson, Mikael Bystr\u00f6m",
+            "video": "https://www.youtube.com/watch?v=XAGTnJZwLtQ"
         },
         {
             "name": "sOfT7: Revealing the Secrets of Siemens S7 PLCs",
-            "speaker": "Maxim‬ Barsky, Eli Biham, Sara Bitan, Alon Dankner, Idan Raz"
+            "speaker": "Maxim\u202c Barsky, Eli Biham, Sara Bitan, Alon Dankner, Idan Raz",
+            "video": "https://www.youtube.com/watch?v=4PBdSvqyZwE"
         },
         {
             "name": "Stalloris: RPKI Downgrade Attack",
-            "speaker": "Philipp Jeitner, Haya Shulman, Michael Waidner, Donika Mirdita, Tomas Hlavecek"
+            "speaker": "Philipp Jeitner, Haya Shulman, Michael Waidner, Donika Mirdita, Tomas Hlavecek",
+            "video": "https://www.youtube.com/watch?v=JUfWaT6EyXk"
         },
         {
             "name": "The Open Threat Hunting Framework: Enabling Organizations to Build, Operationalize, and Scale Threat Hunting",
-            "speaker": "John Dwyer, Neil Wyler, Sameer Koranne"
+            "speaker": "John Dwyer, Neil Wyler, Sameer Koranne",
+            "video": "https://www.youtube.com/watch?v=TqMjMpvspJ4"
         },
         {
             "name": "To Flexibly Tame Kernel Execution With Onsite Analysis",
-            "speaker": "Xuhua Ding"
+            "speaker": "Xuhua Ding",
+            "video": "https://www.youtube.com/watch?v=Ot7IixMwiL8"
         },
         {
             "name": "Trust Dies in Darkness: Shedding Light on Samsung's TrustZone Keymaster Design",
-            "speaker": "Alon Shakevsky, Eyal Ronen, Avishai Wool"
+            "speaker": "Alon Shakevsky, Eyal Ronen, Avishai Wool",
+            "video": "https://www.youtube.com/watch?v=BDoWkS_U6fg"
         },
         {
             "name": "Backdooring and Hijacking Azure AD Accounts by Abusing External Identities",
-            "speaker": "Dirk-jan Mollema"
+            "speaker": "Dirk-jan Mollema",
+            "video": "https://www.youtube.com/watch?v=uKDS2t9_KsA"
         },
         {
             "name": "BrokenMesh: New Attack Surfaces of Bluetooth Mesh",
-            "speaker": "Han Yan, Lewei Qu, Dongxiang Ke"
+            "speaker": "Han Yan, Lewei Qu, Dongxiang Ke",
+            "video": "https://www.youtube.com/watch?v=ZqWGaDWEc1Y"
         },
         {
             "name": "Fault-Injection Detection Circuits: Design, Calibration, Validation and Tuning",
-            "speaker": "Daniel Nemiroff, Carlos Tokunaga"
+            "speaker": "Daniel Nemiroff, Carlos Tokunaga",
+            "video": "https://www.youtube.com/watch?v=AL1mjsgcdoM"
         },
         {
             "name": "I Am Whoever I Say I Am: Infiltrating Identity Providers Using a 0Click Exploit",
-            "speaker": "Steven Seeley"
+            "speaker": "Steven Seeley",
+            "video": "https://www.youtube.com/watch?v=2y3jgJSgnEo"
         },
         {
             "name": "Invisible Finger: Practical Electromagnetic Interference Attack on Touchscreen-based Electronic Devices",
-            "speaker": "Haoqi Shan, Boyi Zhang, Yier Jin, Shuo Wang"
+            "speaker": "Haoqi Shan, Boyi Zhang, Yier Jin, Shuo Wang",
+            "video": "https://www.youtube.com/watch?v=X5VJ4BENx8w"
         },
         {
             "name": "Monitoring Surveillance Vendors: A Deep Dive into In-the-Wild Android Full Chains in 2021",
-            "speaker": "Xingyu Jin, Richard Neal, Christian Resell, Clement Lecigne"
+            "speaker": "Xingyu Jin, Richard Neal, Christian Resell, Clement Lecigne",
+            "video": "https://www.youtube.com/watch?v=0Vv5kLj0tz4"
         },
         {
             "name": "No One Is Entitled to Their Own Facts, Except in Cybersecurity? Presenting an Investigation Handbook To Develop a Shared Narrative of Major Cyber Incidents",
-            "speaker": "Victoria Ontiveros, Tarah Wheeler"
+            "speaker": "Victoria Ontiveros, Tarah Wheeler",
+            "video": "https://www.youtube.com/watch?v=KQb3gv4AgVg"
         },
         {
             "name": "RCE-as-a-Service: Lessons Learned from 5 Years of Real-World CI/CD Pipeline Compromise",
-            "speaker": "Iain Smart, Viktor Gazdag"
+            "speaker": "Iain Smart, Viktor Gazdag",
+            "video": "https://www.youtube.com/watch?v=Pe9nJLZvABM"
         },
         {
             "name": "Real 'Cyber War': Espionage, DDoS, Leaks, and Wipers in the Russian Invasion of Ukraine",
-            "speaker": "Juan Andres Guerrero-Saade, Tom Hegel"
+            "speaker": "Juan Andres Guerrero-Saade, Tom Hegel",
+            "video": "https://www.youtube.com/watch?v=0luKwbyivSs"
         },
         {
             "name": "A Journey Into Fuzzing WebAssembly Virtual Machines",
-            "speakers": "Patrick Ventuzelo"
+            "speakers": "Patrick Ventuzelo",
+            "video": "https://www.youtube.com/watch?v=V3a5asx9aLQ"
         },
         {
             "name": "A New Trend for the Blue Team - Using a Practical Symbolic Engine to Detect Evasive Forms of Malware/Ransomware",
-            "speakers": "Sheng-Hao Ma, Mars Cheng, Hank Chen"
+            "speakers": "Sheng-Hao Ma, Mars Cheng, Hank Chen",
+            "video": "https://www.youtube.com/watch?v=CIjzABWO3DY"
         },
         {
             "name": "Attacks From a New Front Door in 4G & 5G Mobile Networks",
-            "speakers": "Altaf Shaik, Shinjo Park, Matteo Strada"
+            "speakers": "Altaf Shaik, Shinjo Park, Matteo Strada",
+            "video": "https://www.youtube.com/watch?v=XzvWguiFPX8"
         },
         {
             "name": "Breaking the Chrome Sandbox with Mojo",
-            "speakers": "Stephen Röttger"
+            "speakers": "Stephen R\u00f6ttger",
+            "video": "https://www.youtube.com/watch?v=qhhJCLy0YBA"
         },
         {
             "name": "Dive Into Apple IO80211Family Vol. 2",
-            "speakers": "Yu Wang"
+            "speakers": "Yu Wang",
+            "video": "https://www.youtube.com/watch?v=ydkdIVCdPis"
         },
         {
             "name": "GPT-3 and Me: How Supercomputer-scale Neural Network Models Apply to Defensive Cybersecurity Problems",
-            "speakers": "Joshua Saxe, Younghoo Lee"
+            "speakers": "Joshua Saxe, Younghoo Lee",
+            "video": "https://www.youtube.com/watch?v=g7Q1pzMKCH0"
         },
         {
             "name": "Trace Me if You Can: Bypassing Linux Syscall Tracing",
-            "speakers": "Rex Guo, Junyuan Zeng"
+            "speakers": "Rex Guo, Junyuan Zeng",
+            "video": "https://www.youtube.com/watch?v=cVf7Ww67j68"
         },
         {
             "name": "Unlimited Results: Breaking Firmware Encryption of ESP32-V3",
-            "speakers": "Karim Abdellatif, Olivier Hériveaux, Adrian Thillard"
+            "speakers": "Karim Abdellatif, Olivier H\u00e9riveaux, Adrian Thillard",
+            "video": "https://www.youtube.com/watch?v=wfZHQocTsZo"
         },
         {
             "name": "UWB Real Time Locating Systems: How Secure Radio Communications May Fail in Practice",
-            "speakers": "Andrea Palanca, Luca Cremona, Roya Gordon"
+            "speakers": "Andrea Palanca, Luca Cremona, Roya Gordon",
+            "video": "https://www.youtube.com/watch?v=U1x2MGdIWkA"
         },
         {
             "name": "Pre-Stuxnet, Post-Stuxnet: Everything Has Changed, Nothing Has Changed",
-            "speakers": "Kim Zetter"
+            "speakers": "Kim Zetter",
+            "video": "https://www.youtube.com/watch?v=noNx1Dmo3K0"
         },
         {
             "name": "Bug Bounty Evolution: Not Your Grandson's Bug Bounty",
-            "speakers": "Katie Moussouris"
+            "speakers": "Katie Moussouris",
+            "video": "https://www.youtube.com/watch?v=AFAZGPXG6k8"
         },
         {
             "name": "CastGuard: Mitigating Type Confusion in C++",
-            "speakers": "Joe Bialek"
+            "speakers": "Joe Bialek",
+            "video": "https://www.youtube.com/watch?v=7w_gSCt9ewE"
         },
         {
             "name": "Do Not Trust the ASA, Trojans!",
-            "speakers": "Jacob Baines"
+            "speakers": "Jacob Baines",
+            "video": "https://www.youtube.com/watch?v=PSosut3ZtvI"
         },
         {
             "name": "ElectroVolt: Pwning Popular Desktop Apps While Uncovering New Attack Surface on Electron",
-            "speakers": "Aaditya Purani, Max Garrett, Mohan Sri Rama Krishna Pedhapati, William Bowling"
+            "speakers": "Aaditya Purani, Max Garrett, Mohan Sri Rama Krishna Pedhapati, William Bowling",
+            "video": "https://www.youtube.com/watch?v=Tzo8ucHA5xw"
         },
         {
             "name": "Ghost in the Wireless, iwlwifi Edition",
-            "speakers": "Nicolas Iooss, Gabriel Campana"
+            "speakers": "Nicolas Iooss, Gabriel Campana",
+            "video": "https://www.youtube.com/watch?v=HHIi3OBntlU"
         },
         {
             "name": "Perimeter Breached! Hacking an Access Control System",
-            "speakers": "Steve Povolny, Sam Quinn"
+            "speakers": "Steve Povolny, Sam Quinn",
+            "video": "https://www.youtube.com/watch?v=Vr0gohwlxvE"
         },
         {
             "name": "Process Injection: Breaking All macOS Security Layers With a Single Vulnerability",
-            "speakers": "Thijs Alkemade"
+            "speakers": "Thijs Alkemade",
+            "video": "https://www.youtube.com/watch?v=0RVs4yBQEjk"
         },
         {
             "name": "Ret2page: The Art of Exploiting Use-After-Free Vulnerabilities in the Dedicated Cache",
-            "speakers": "Yong Wang"
+            "speakers": "Yong Wang",
+            "video": "https://www.youtube.com/watch?v=HZk2egYDXxg"
         },
         {
             "name": "Whip the Whisperer: Simulating Side Channel Leakage",
-            "speakers": "Jasper van Woudenberg"
+            "speakers": "Jasper van Woudenberg",
+            "video": "https://www.youtube.com/watch?v=CiHFfXtsAsA"
         },
         {
             "name": "Bug Hunters Dump User Data. Can They Keep it? Well They're Keeping it Anyway.",
-            "speakers": "Dylan Ayrey, Whitney Merrill"
+            "speakers": "Dylan Ayrey, Whitney Merrill",
+            "video": "https://www.youtube.com/watch?v=qj0bre85DXY"
         },
         {
             "name": "Calculating Risk in the Era of Obscurity: Reading Between the Lines of Security Advisories",
-            "speakers": "Brian Gorenc, Dustin Childs"
+            "speakers": "Brian Gorenc, Dustin Childs",
+            "video": "https://www.youtube.com/watch?v=IRZKerlQn4c"
         },
         {
             "name": "From Hackathon to Hacked: Web3's Security Journey",
-            "speakers": "Nathan Hamiel"
+            "speakers": "Nathan Hamiel",
+            "video": "https://www.youtube.com/watch?v=xUKAS2UvSuI"
         },
         {
             "name": "Go With the Flow: Enforcing Program Behavior Through Syscall Sequences and Origins",
-            "speakers": "Claudio Canella"
+            "speakers": "Claudio Canella",
+            "video": "https://www.youtube.com/watch?v=RiCexpd6HjA"
         },
         {
             "name": "Kubernetes Privilege Escalation: Container Escape == Cluster Admin?",
-            "speakers": "Yuval Avrahami, Shaul Ben Hai"
+            "speakers": "Yuval Avrahami, Shaul Ben Hai",
+            "video": "https://www.youtube.com/watch?v=oc1tq_r6VNM"
         },
         {
             "name": "Leveraging the Apple ESF for Behavioral Detections",
-            "speakers": "Jaron Bradley, Matt Benyo"
+            "speakers": "Jaron Bradley, Matt Benyo",
+            "video": "https://www.youtube.com/watch?v=AlN59giec0M"
         },
         {
             "name": "Oops..! I Glitched It Again! How to Multi-Glitch the Glitching-Protections on ARM TrustZone-M",
-            "speakers": "Ahmad-Reza Sadeghi, Richard Mitev, Marvin Saß"
+            "speakers": "Ahmad-Reza Sadeghi, Richard Mitev, Marvin Sa\u00df",
+            "video": "https://www.youtube.com/watch?v=l5LVex5km28"
         },
         {
             "name": "Pwning Cloud Vendors with Untraditional PostgreSQL Vulnerabilities",
-            "speakers": "Shir Tamari, Nir Ohfeld"
+            "speakers": "Shir Tamari, Nir Ohfeld",
+            "video": "https://www.youtube.com/watch?v=X6CiUD3EcfQ"
         },
         {
             "name": "XMPP Stanza Smuggling or How I Hacked Zoom",
-            "speakers": "Ivan Fratric"
+            "speakers": "Ivan Fratric",
+            "video": "https://www.youtube.com/watch?v=ERaRNsvCBrw"
         },
         {
             "name": "\"No Mr. Cyber Threat!\" - A Psychological Approach To Managing the Fail-to-Challenge Vulnerability",
-            "speakers": "Simon Pavitt, Stephen Dewsnip"
+            "speakers": "Simon Pavitt, Stephen Dewsnip",
+            "video": "https://www.youtube.com/watch?v=uGa9_BMS0FI"
         },
         {
             "name": "Catch Me If You Can: Deterministic Discovery of Race Conditions with Fuzzing",
-            "speakers": "Ned Williamson"
+            "speakers": "Ned Williamson",
+            "video": "https://www.youtube.com/watch?v=OpQvXGJcH4s"
         },
         {
             "name": "Cautious: A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe",
-            "speakers": "Zhenpeng Lin, Yuhang Wu, Xinyu Xing"
+            "speakers": "Zhenpeng Lin, Yuhang Wu, Xinyu Xing",
+            "video": "https://www.youtube.com/watch?v=KEStazCf8vc"
         },
         {
             "name": "eBPF ELFs JMPing Through the Windows",
-            "speakers": "Richard Johnson"
+            "speakers": "Richard Johnson",
+            "video": "https://www.youtube.com/watch?v=EKkp8chyMZQ"
         },
         {
             "name": "Living Off the Walled Garden: Abusing the Features of the Early Launch Antimalware Ecosystem",
-            "speakers": "Matt Graeber"
+            "speakers": "Matt Graeber",
+            "video": "https://www.youtube.com/watch?v=Upo5I_mK1V4"
         },
         {
             "name": "RollBack - A New Time-Agnostic Replay Attack Against the Automotive Remote Keyless Entry Systems",
-            "speakers": "Levente Csikor, Hoon Wei Lim, Jun Wen Wong, Soundarya Ramesh, Rohini Poolat Parameswarath, Chan Mun Choon"
+            "speakers": "Levente Csikor, Hoon Wei Lim, Jun Wen Wong, Soundarya Ramesh, Rohini Poolat Parameswarath, Chan Mun Choon",
+            "video": "https://www.youtube.com/watch?v=zihLJbmDG3Q"
         },
         {
             "name": "Talent Need Not Apply: Tradecraft and Objectives of Job-themed APT Social Engineering",
-            "speakers": "Sveva Vittoria Scenarelli, Allison Wikoff"
+            "speakers": "Sveva Vittoria Scenarelli, Allison Wikoff",
+            "video": "https://www.youtube.com/watch?v=Ni1RqTwPiIQ"
         },
         {
             "name": "The Battle Against the Billion-Scale Internet Underground Industry: Advertising Fraud Detection and Defense",
-            "speakers": "Zheng Huang, Shupeng Gao, Yakun Zhang, Hai Yang, Jie Gao"
+            "speakers": "Zheng Huang, Shupeng Gao, Yakun Zhang, Hai Yang, Jie Gao",
+            "video": "https://www.youtube.com/watch?v=n8LU2RM_j6I"
         },
         {
             "name": "TruEMU: An Extensible, Open-Source, Whole-System iOS Emulator",
-            "speakers": "Trung Nguyen, Kyungtae Kim, Antonio Bianchi, Dave (Jing) Tian"
+            "speakers": "Trung Nguyen, Kyungtae Kim, Antonio Bianchi, Dave (Jing) Tian",
+            "video": "https://www.youtube.com/watch?v=PBeIW2PDFVk"
         },
         {
             "name": "Another Way to Talk with Browser: Exploiting Chrome at Network Layer",
@@ -330,19 +411,23 @@
         },
         {
             "name": "Chasing Your Tail With a Raspberry Pi",
-            "speakers": "Matt Edmondson"
+            "speakers": "Matt Edmondson",
+            "video": "https://www.youtube.com/watch?v=7nSFcdZ2TBo"
         },
         {
             "name": "Custom Processing Unit: Tracing and Patching Intel Atom Microcode",
-            "speakers": "Pietro Borrello, Martin Schwarzl"
+            "speakers": "Pietro Borrello, Martin Schwarzl",
+            "video": "https://www.youtube.com/watch?v=C-ZSvTVvK1o"
         },
         {
             "name": "DirectX: The New Hyper-V Attack Surface",
-            "speakers": "Zhenhao Hong, Ziming Zhang"
+            "speakers": "Zhenhao Hong, Ziming Zhang",
+            "video": "https://www.youtube.com/watch?v=JG1umiZKYpQ"
         },
         {
             "name": "DNSSEC Downgrade Attacks",
-            "speakers": "Haya Shulman, Elias Heftrig, Michael Waidner"
+            "speakers": "Haya Shulman, Elias Heftrig, Michael Waidner",
+            "video": "https://www.youtube.com/watch?v=jwEs3OLBkP4"
         },
         {
             "name": "Don't Get Owned by Your Dependencies: How Firefox Uses In-process Sandboxing To Protect Itself From Exploitable Libraries (And You Can Too!)",
@@ -350,52 +435,64 @@
             "video": "https://www.youtube.com/watch?v=bJ9oWc5cRCI"
         },
         {
-            "name": "Déjà Vu: Uncovering Stolen Algorithms in Commercial Products",
-            "speakers": "Patrick Wardle, Tom McGuire"
+            "name": "D\u00e9j\u00e0 Vu: Uncovering Stolen Algorithms in Commercial Products",
+            "speakers": "Patrick Wardle, Tom McGuire",
+            "video": "https://www.youtube.com/watch?v=FAYo20XcMk8"
         },
         {
             "name": "Eliminating Triage Intermediaries for Zero-day Exploits Using a Decentralised Payout Protocol",
-            "speakers": "Clara Maine, Akke Toeter, Victoria Bosch, Subhechha Subudhi"
+            "speakers": "Clara Maine, Akke Toeter, Victoria Bosch, Subhechha Subudhi",
+            "video": "https://www.youtube.com/watch?v=Bi3yW8W5e3g"
         },
         {
             "name": "Malware Classification With Machine Learning Enhanced by Windows Kernel Emulation",
-            "speakers": "Dmitrijs Trizna"
+            "speakers": "Dmitrijs Trizna",
+            "video": "https://www.youtube.com/watch?v=fbT_hnHIXNE"
         },
         {
             "name": "A Dirty Little History: Bypassing Spectre Hardware Defenses to Leak Kernel Data",
-            "speakers": "Pietro Frigo, Enrico Barberis, Marius Muench"
+            "speakers": "Pietro Frigo, Enrico Barberis, Marius Muench",
+            "video": "https://www.youtube.com/watch?v=pUgyh9dlUB0"
         },
         {
             "name": "Attack on Titan M, Reloaded: Vulnerability Research on a Modern Security Chip",
-            "speakers": "Damiano Melotti, Maxime Rossi Bellom"
+            "speakers": "Damiano Melotti, Maxime Rossi Bellom",
+            "video": "https://www.youtube.com/watch?v=bCjkAkXiwK4"
         },
         {
-            "name": "Charged by an Elephant – An APT Fabricating Evidence to Throw You In Jail",
-            "speakers": "Juan Andres Guerrero-Saade, Tom Hegel"
+            "name": "Charged by an Elephant \u2013 An APT Fabricating Evidence to Throw You In Jail",
+            "speakers": "Juan Andres Guerrero-Saade, Tom Hegel",
+            "video": "https://www.youtube.com/watch?v=zGorOeQS5C8"
         },
         {
             "name": "Controlling the Source: Abusing Source Code Management Systems",
-            "speakers": "Brett Hawkins"
+            "speakers": "Brett Hawkins",
+            "video": "https://www.youtube.com/watch?v=P44opLFcgpA"
         },
         {
             "name": "Human or Not: Can You Really Detect the Fake Voices?",
-            "speakers": "Xin Liu, Yuan Tan, Rui Chong, Xiaokang Zhou, Mingyuan Zhang, Qingguo Zhou"
+            "speakers": "Xin Liu, Yuan Tan, Rui Chong, Xiaokang Zhou, Mingyuan Zhang, Qingguo Zhou",
+            "video": "https://www.youtube.com/watch?v=8lrMkPRKaTg"
         },
         {
             "name": "Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All",
-            "speakers": "Jonathan Leitschuh, Patrick Way, Shyam Mehta"
+            "speakers": "Jonathan Leitschuh, Patrick Way, Shyam Mehta",
+            "video": "https://www.youtube.com/watch?v=zTtbVxGEq8A"
         },
         {
             "name": "The 8th Annual Black Hat USA NOC Report",
-            "speakers": "Neil Wyler, Bart Stump"
+            "speakers": "Neil Wyler, Bart Stump",
+            "video": "https://www.youtube.com/watch?v=ABUC7ZGB1Ok"
         },
         {
             "name": "The COW (Container On Windows) Who Escaped the Silo",
-            "speakers": "Eran Segal"
+            "speakers": "Eran Segal",
+            "video": "https://www.youtube.com/watch?v=e6oegr3cl4U"
         },
         {
             "name": "The Journey of Hunting In-the-Wild Windows LPE 0day",
-            "speakers": "Quan Jin"
+            "speakers": "Quan Jin",
+            "video": "https://www.youtube.com/watch?v=voDpk7nQAyw"
         }
     ]
 }

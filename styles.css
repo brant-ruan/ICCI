@@ -79,7 +79,7 @@ button:hover {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2.3em;
     margin-bottom: 2em;
     color: #007BFF;
     /* A pop of color for the main title */
@@ -107,4 +107,43 @@ footer {
     font-size: 0.8em;
     color: #666;
     /* Lighter text for less emphasis */
+}
+
+/* Add this to your stylesheet */
+.logo-container {
+    position: relative;
+    top: 0;
+    right: 0;
+    /* padding: 10px; */
+    /* Adjust the padding to suit your layout */
+}
+
+.logo {
+    width: 120px;
+    /* Or any size that fits your design */
+    height: auto;
+}
+
+/* If you're using a flexbox or grid system, your CSS might look like this: */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* other styling */
+}
+
+@media screen and (max-width: 768px) {
+    .logo-container {
+        position: relative;
+        /* On smaller screens, make the logo move with the flow of the document */
+        display: block;
+        text-align: center;
+        margin-top: 1em;
+    }
+
+    .logo {
+        width: 50px;
+        /* Smaller logo on mobile devices */
+        height: auto;
+    }
 }

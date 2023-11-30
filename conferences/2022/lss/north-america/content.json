@@ -2,11 +2,13 @@
     "topics": [
         {
             "name": "Meaningful Bounds Checking in the Linux Kernel",
-            "speakers": "Kees Cook"
+            "speakers": "Kees Cook",
+            "video": "https://www.youtube.com/watch?v=lCfOY0tj4Mw"
         },
         {
             "name": "Improving Container Security with System Call Interception",
-            "speakers": "Stephane Graber, Christian Brauner"
+            "speakers": "Stephane Graber, Christian Brauner",
+            "video": "https://www.youtube.com/watch?v=Qm0e69Ckdf4"
         },
         {
             "name": "Hardening the Linux Guest for the Confidential Cloud Computing: Deep Dive and Results",
@@ -15,47 +17,33 @@
         },
         {
             "name": "Namespacing the Linux Integrity Measurement Architecture",
-            "speakers": "Stefan Berger, Christian Brauner"
+            "speakers": "Stefan Berger, Christian Brauner",
+            "video": "https://www.youtube.com/watch?v=Ai3DB_xP7DY"
         },
         {
             "name": "How Can We Effectively Test Transient Execution Mitigations?",
-            "speakers": "Russell Currey"
+            "speakers": "Russell Currey",
+            "video": "https://www.youtube.com/watch?v=GhNMbXQci28"
         },
         {
             "name": "Wide-Block Cipher Support and HCTR2",
-            "speakers": "Nathan Huckleberry"
+            "speakers": "Nathan Huckleberry",
+            "video": "https://www.youtube.com/watch?v=Ll5mZXeZmWM"
         },
         {
             "name": "Preparing for Zero-Day: Vulnerability Disclosure in Open Source Software",
-            "speakers": "Christopher Robinson, Anne Bertucio, Art Manion"
-        },
-        {
-            "name": "Hardware-backed Per-process Secrets",
-            "speakers": "Matthew Garrett"
-        },
-        {
-            "name": "Blueprint for Secure Boot and Data Integrity Using rustBoot, dm-verity and OverlayFS",
-            "speakers": "Ulrich Matejek, Philipp Ahmann"
-        },
-        {
-            "name": "LSM Updates: IMA, SELinux, AppArmor, SMACK & BPF",
-            "speakers": "Roberto Sassu, Paul Moore, John Johansen, KP Singh"
-        },
-        {
-            "name": "Update on Landlock: Audit, Debugging and Metrics",
-            "speakers": "Mickaël Salaün"
-        },
-        {
-            "name": "Landlock Workshop: Sandboxing Application for Fun and Protection",
-            "speakers": "Mickaël Salaün"
+            "speakers": "Christopher Robinson, Anne Bertucio, Art Manion",
+            "video": "https://www.youtube.com/watch?v=kdtDNx6tq6Y"
         },
         {
             "name": "Code Aware Services in the Service of Vulnerability Detection",
-            "speakers": "Bartosz Zator"
+            "speakers": "Bartosz Zator",
+            "video": "https://www.youtube.com/watch?v=M7gl7MFU_Bc"
         },
         {
             "name": "Cascade - A New High Level SELinux Policy Language",
-            "speakers": "Daniel Burgener"
+            "speakers": "Daniel Burgener",
+            "video": "https://www.youtube.com/watch?v=dLg0ITff0mU"
         },
         {
             "name": "PowerVM Platform Keystore - Securing Linux Credentials Locally",
@@ -64,19 +52,23 @@
         },
         {
             "name": "IMA Policy Support for fs-verity: A Win-win for IMA & fs-verity",
-            "speakers": "Mimi Zohar"
+            "speakers": "Mimi Zohar",
+            "video": "https://www.youtube.com/watch?v=7GMA6VUcsdM"
         },
         {
             "name": "Establishing Trust in Linux Keyrings - Is Trust Built-in, Imputed, or Transitive?",
-            "speakers": "Elaine Palmer, George Wilson"
+            "speakers": "Elaine Palmer, George Wilson",
+            "video": "https://www.youtube.com/watch?v=-WZ64WueuPg"
         },
         {
             "name": "Update on Landlock: Lifting the File Reparenting Limits and Supporting Network Rules",
-            "speakers": "Mickaël Salaün"
+            "speakers": "Mickaël Salaün",
+            "video": "https://www.youtube.com/watch?v=MWjW-QwK_ZA"
         },
         {
             "name": "BPF LSM - Updates and What next?",
-            "speakers": "KP Singh"
+            "speakers": "KP Singh",
+            "video": "https://www.youtube.com/watch?v=gVGGysLV_aM"
         }
     ]
 }

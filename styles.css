@@ -59,8 +59,9 @@ select {
 }
 
 button {
-    padding: 10px;
+    padding: 4px;
     color: blueviolet;
+    margin-left: 6px;
 }
 
 select,
@@ -79,7 +80,7 @@ button:hover {
 
 h1 {
     font-size: 2em;
-    margin-bottom: 0.5em;
+    margin-bottom: 2em;
     color: #007BFF;
     /* A pop of color for the main title */
 }

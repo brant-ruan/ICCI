@@ -1,0 +1,76 @@
+{
+    "topics": [
+        {
+            "name": "CNC APT Group Operation Herbminister Revealed—揭秘CNC APT组织Herbminister行动技战术武器",
+            "speaker": "NaN, k"
+        },
+        {
+            "name": "Tai-e: 基于程序分析的安全漏洞检测框架",
+            "speaker": "谭添"
+        },
+        {
+            "name": "Magic in Java API",
+            "speaker": "yemoli, R1ckyZ"
+        },
+        {
+            "name": "从 0 到 1 打造云原生容器沙箱",
+            "speaker": "vArmor (韦伟)"
+        },
+        {
+            "name": "低功耗蓝牙黑客：从数字逃逸到现实",
+            "speaker": "肖临风, 杨大林"
+        },
+        {
+            "name": "Java表达式攻防下的黑魔法",
+            "speaker": "yzddMr6 (刘镇东)"
+        },
+        {
+            "name": "近源攻击的安全研究思路分享",
+            "speaker": "马良"
+        },
+        {
+            "name": "AI纪元：新视角下的企业蓝军",
+            "speaker": "俍梁"
+        },
+        {
+            "name": "CI/CD攻击场景",
+            "speaker": "mx7krshell"
+        },
+        {
+            "name": "vSphere攻防技法分享",
+            "speaker": "彭峙酿"
+        },
+        {
+            "name": "闭源安卓系统下的漏洞自动化发现之旅",
+            "speaker": "Hearmen"
+        },
+        {
+            "name": "Modern Linux sandboxing technology",
+            "speaker": "李强, 杨玉彪"
+        },
+        {
+            "name": "WebLogic漏洞挖掘思路"
+        },
+        {
+            "name": "Recent Progresses in Transfer-based Attack for Image Recognition"
+        },
+        {
+            "name": "内窥镜：反混淆虚拟化加固的安卓程序"
+        },
+        {
+            "name": "梅塞德斯·奔驰汽车车机安全研究"
+        },
+        {
+            "name": "移动人脸识别安全攻防对抗之旅"
+        },
+        {
+            "name": "Attacking Debug Components in the Android Ecosystem"
+        },
+        {
+            "name": "SxS also stands for Specter by Side"
+        },
+        {
+            "name": "从移动终端到驾驶舱：Fuzzing-WIFI&蓝牙远程协议"
+        }
+    ]
+}

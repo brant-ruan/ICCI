@@ -13,6 +13,16 @@
                     "pathName": "europe"
                 }
             ]
+        },
+        "kcon": {
+            "displayName": "KCon",
+            "pathName": "kcon",
+            "locations": [
+                {
+                    "displayName": "China",
+                    "pathName": "china"
+                }
+            ]
         }
     },
     "2022": {

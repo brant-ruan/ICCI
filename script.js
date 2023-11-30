@@ -117,8 +117,6 @@ function showAllConferences() {
     document.getElementById('conference-table').classList.remove('hidden');
 }
 
-
-
 // 功能：追加会议信息到表格
 function appendConferenceInfo(info, tableBody) {
     const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;

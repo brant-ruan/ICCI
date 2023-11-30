@@ -1,9 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
+    /* font-family: Arial, sans-serif; */
+    font-family: 'Helvetica Neue', Arial, 'Segoe UI', sans-serif;
+    font-size: 16px;
     background: #fff;
-    color: #000;
+    color: #333;
     max-width: 75%;
     margin: 0 auto;
+    line-height: 1.4;
+    padding: 0;
 }
 
 table {
@@ -15,8 +19,13 @@ table {
 
 th, td {
     border: 1px solid #ccc;
-    padding: 8px;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 10px;
     text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #fafafa; /* Subtle zebra-stripping */
 }
 
 th {
@@ -31,4 +40,50 @@ th {
 #show-all {
     margin-top:10px;
     margin-bottom:25px;
+}
+
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 1200px; /* Set a max-width for large screens */
+}
+
+select {
+    margin-top: 10px;
+}
+
+select, button {
+    /* padding: 10px;
+    margin: 20px 0; */
+    border: 1px solid #ddd; /* Subtle border */
+    background-color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f8f8f8; /* Slight change on hover */
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    color: #007BFF; /* A pop of color for the main title */
+}
+
+h2, h3, h4 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+@media screen and (max-width: 768px) {
+    th, td {
+        padding: 10px; /* Smaller padding on mobile */
+    }
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.8em;
+    color: #666; /* Lighter text for less emphasis */
 }

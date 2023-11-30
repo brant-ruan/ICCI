@@ -104,9 +104,13 @@ h4 {
 footer {
     text-align: center;
     padding: 20px;
-    font-size: 0.8em;
+    font-size: 1em;
     color: #666;
     /* Lighter text for less emphasis */
+}
+
+footer a {
+    text-decoration: none;
 }
 
 /* Add this to your stylesheet */

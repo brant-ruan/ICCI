@@ -1,0 +1,15 @@
+{
+    "2023": {
+      "Linux Security Summit": {
+        "displayName": "Linux Security Summit",
+        "pathName": "lss",
+        "locations": [
+          {
+            "displayName": "North America",
+            "pathName": "north-america"
+          }
+        ]
+      }
+    }
+}
+  

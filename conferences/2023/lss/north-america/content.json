@@ -1,0 +1,72 @@
+{
+    "topics": [
+        {
+            "name": "Verifiable End To End Secure OCI Native Machines",
+            "speakers": "Serge Hallyn, Joy Latten"
+        },
+        {
+            "name": "systemd and TPM2",
+            "speakers": "Lennart Poettering"
+        },
+        {
+            "name": "System Calls for the Linux Security Module Infrastructure",
+            "speakers": "Casey Schaufler"
+        },
+        {
+            "name": "How to Backdoor the Linux Kernel (and fail?)",
+            "speakers": "Konstantin Ryabitsev"
+        },
+        {
+            "name": "HotBPF++: A More Powerful Memory Protection for the Linux Kernel",
+            "speakers": "Zicheng Wang, Yueqi Chen"
+        },
+        {
+            "name": "Controlling Script Execution",
+            "speakers": "Micka\u00ebl Sala\u00fcn"
+        },
+        {
+            "name": "MPK/PKS Linux Kernel Compartmentalization",
+            "speakers": "Sebastian \u00d6sterlund"
+        },
+        {
+            "name": "Enforcing Runtime Integrity with Maat",
+            "speakers": "Jonathan Myers, Andrew Guinn"
+        },
+        {
+            "name": "Heki: Hypervisor-Enforced Kernel Integrity for Linux with KVM",
+            "speakers": "Micka\u00ebl Sala\u00fcn"
+        },
+        {
+            "name": "When Confidential Containers Meet Arm CCA",
+            "speakers": "Jia He"
+        },
+        {
+            "name": "Building the Largest Working Set of Apparmor Profiles",
+            "speakers": "Alexandre Pujol"
+        },
+        {
+            "name": "SyzDescribe: Principled, Automated, Static Generation of Syscall Descriptions for Kernel Drivers",
+            "speakers": "Yu Hao"
+        },
+        {
+            "name": "Dynamic Key Managed PowerPC Guest Secure Boot",
+            "speakers": "Sudhakar Kuppusamy, George Wilson"
+        },
+        {
+            "name": "Progress On Bounds Checking in C and the Linux Kernel",
+            "speakers": "Kees Cook, Gustavo A.R. Silva"
+        },
+        {
+            "name": "SecurityPerf: A New Open-Source Framework for Benchmarking the Performance Impact of Linux Security Solutions",
+            "speakers": "Austin James Gadient"
+        },
+        {
+            "name": "Coupling Key-Ring and Linux Crypto-API Framework(LCF) via Crypto-Transformation(tfm)",
+            "speakers": "Pankaj Gupta, Varun Sethi"
+        },
+        {
+            "name": "LSM Maintainers Panel",
+            "speakers": "John Johansen, Micka\u00ebl Sala\u00fcn, Casey Schaufler, Mimi Zohar, Paul Moore"
+        }
+    ]
+}

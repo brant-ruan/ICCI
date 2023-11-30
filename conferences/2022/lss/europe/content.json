@@ -1,0 +1,52 @@
+{
+    "topics": [
+        {
+            "name": "io_uring: So Fast. It's Scary.",
+            "speakers": "Paul Moore"
+        },
+        {
+            "name": "Flexible Array Transformations and Array-bounds Checking",
+            "speakers": "Gustavo A. R. Silva"
+        },
+        {
+            "name": "HotBPF - An On-demand and On-the-fly Memory Protection for the Linux Kernel",
+            "speakers": "Yueqi Chen, Zhenpeng Li"
+        },
+        {
+            "name": "Device Attestation in Hardware TEE based Confidential Computing",
+            "speakers": "Jiewen Yao, Jun Nakajima"
+        },
+        {
+            "name": "AMD SEV-SNP Attestation: Establishing Trust in Guests",
+            "speakers": "Jeremy Powell"
+        },
+        {
+            "name": "Secure and Dynamic Hardware Partitioning Management on Heterogeneous SoC",
+            "speakers": "Zahra Tarkhani"
+        },
+        {
+            "name": "Sanitizing the Linux Kernel — On KASAN and other Dynamic Bug-finding Tools",
+            "speakers": "Andrey Konovalov"
+        },
+        {
+            "name": "Finally, a Smack Reference Policy",
+            "speakers": "Casey Schaufler"
+        },
+        {
+            "name": "What's New in the User Namespace",
+            "speakers": "Stephane Graber, Christian Brauner"
+        },
+        {
+            "name": "State of Intel SGX in Linux",
+            "speakers": "Jarkko Sakkinen, Roman Volosatovs"
+        },
+        {
+            "name": "Introducing IO Devices into Trusted Execution Environments",
+            "speakers": "Jun Nakajima"
+        },
+        {
+            "name": "Improving Unmodified Classic Application Confinement",
+            "speakers": "John Johansen, Georgia Garcia"
+        }
+    ]
+}

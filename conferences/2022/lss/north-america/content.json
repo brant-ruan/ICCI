@@ -1,0 +1,80 @@
+{
+    "topics": [
+        {
+            "name": "Meaningful Bounds Checking in the Linux Kernel",
+            "speakers": "Kees Cook"
+        },
+        {
+            "name": "Improving Container Security with System Call Interception",
+            "speakers": "Stephane Graber, Christian Brauner"
+        },
+        {
+            "name": "Hardening the Linux Guest for the Confidential Cloud Computing: Deep Dive and Results",
+            "speakers": "Elena Reshetova"
+        },
+        {
+            "name": "Namespacing the Linux Integrity Measurement Architecture",
+            "speakers": "Stefan Berger, Christian Brauner"
+        },
+        {
+            "name": "How Can We Effectively Test Transient Execution Mitigations?",
+            "speakers": "Russell Currey"
+        },
+        {
+            "name": "Wide-Block Cipher Support and HCTR2",
+            "speakers": "Nathan Huckleberry"
+        },
+        {
+            "name": "Preparing for Zero-Day: Vulnerability Disclosure in Open Source Software",
+            "speakers": "Christopher Robinson, Anne Bertucio, Art Manion"
+        },
+        {
+            "name": "Hardware-backed Per-process Secrets",
+            "speakers": "Matthew Garrett"
+        },
+        {
+            "name": "Blueprint for Secure Boot and Data Integrity Using rustBoot, dm-verity and OverlayFS",
+            "speakers": "Ulrich Matejek, Philipp Ahmann"
+        },
+        {
+            "name": "LSM Updates: IMA, SELinux, AppArmor, SMACK & BPF",
+            "speakers": "Roberto Sassu, Paul Moore, John Johansen, KP Singh"
+        },
+        {
+            "name": "Update on Landlock: Audit, Debugging and Metrics",
+            "speakers": "Mickaël Salaün"
+        },
+        {
+            "name": "Landlock Workshop: Sandboxing Application for Fun and Protection",
+            "speakers": "Mickaël Salaün"
+        },
+        {
+            "name": "Code Aware Services in the Service of Vulnerability Detection",
+            "speakers": "Bartosz Zator"
+        },
+        {
+            "name": "Cascade - A New High Level SELinux Policy Language",
+            "speakers": "Daniel Burgener"
+        },
+        {
+            "name": "PowerVM Platform Keystore - Securing Linux Credentials Locally",
+            "speakers": "Nayna Jain"
+        },
+        {
+            "name": "IMA Policy Support for fs-verity: A Win-win for IMA & fs-verity",
+            "speakers": "Mimi Zohar"
+        },
+        {
+            "name": "Establishing Trust in Linux Keyrings - Is Trust Built-in, Imputed, or Transitive?",
+            "speakers": "Elaine Palmer, George Wilson"
+        },
+        {
+            "name": "Update on Landlock: Lifting the File Reparenting Limits and Supporting Network Rules",
+            "speakers": "Mickaël Salaün"
+        },
+        {
+            "name": "BPF LSM - Updates and What next?",
+            "speakers": "KP Singh"
+        }
+    ]
+}

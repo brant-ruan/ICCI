@@ -14,5 +14,21 @@
                 }
             ]
         }
+    },
+    "2022": {
+        "lss": {
+            "displayName": "Linux Security Summit",
+            "pathName": "lss",
+            "locations": [
+                {
+                    "displayName": "North America",
+                    "pathName": "north-america"
+                },
+                {
+                    "displayName": "Europe",
+                    "pathName": "europe"
+                }
+            ]
+        }
     }
 }

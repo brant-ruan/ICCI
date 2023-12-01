@@ -1,100 +1,131 @@
 {
     "topics": [
         {
-            "name": "Keynote: #HackingDemocracy: Will Our Societies Hold?"
+            "name": "Keynote: #HackingDemocracy: Will Our Societies Hold?",
+            "video": "https://www.youtube.com/watch?v=B2dFcxXlyZ8"
         },
         {
             "name": "A False Door: Crack the Bluetooth Digital Vehicle Key"
         },
         {
-            "name": "Remote Memory-Deduplication Attacks"
+            "name": "Remote Memory-Deduplication Attacks",
+            "video": "https://www.youtube.com/watch?v=OPv3PI3YFS0"
         },
         {
-            "name": "Backdoor Investigation and Incident Response: From  Zero to Profit"
+            "name": "Backdoor Investigation and Incident Response: From  Zero to Profit",
+            "video": "https://www.youtube.com/watch?v=Rhmddj_N0Bg"
         },
         {
-            "name": "SideWinder Uncoils to Strike"
+            "name": "SideWinder Uncoils to Strike",
+            "video": "https://www.youtube.com/watch?v=SFV68XHAeKk"
         },
         {
-            "name": "AutoSpear: Towards Automatically Bypassing and Inspecting Web Application Firewalls"
+            "name": "AutoSpear: Towards Automatically Bypassing and Inspecting Web Application Firewalls",
+            "video": "https://www.youtube.com/watch?v=scnCP1YLtZI"
         },
         {
-            "name": "The Firmware Supply-Chain Security Is Broken: Can We Fix It?"
+            "name": "The Firmware Supply-Chain Security Is Broken: Can We Fix It?",
+            "video": "https://www.youtube.com/watch?v=0UAnaJx-GjE"
         },
         {
-            "name": "The Next Gen PlugX/ShadowPad? A Dive into the Emerging China-Nexus Modular Trojan, Pangolin8RAT"
+            "name": "The Next Gen PlugX/ShadowPad? A Dive into the Emerging China-Nexus Modular Trojan, Pangolin8RAT",
+            "video": "https://www.youtube.com/watch?v=4uG1bssE0pE"
         },
         {
-            "name": "DroidGuard: A Deep Dive into SafetyNet"
+            "name": "DroidGuard: A Deep Dive into SafetyNet",
+            "video": "https://www.youtube.com/watch?v=zcFg0ZJ2E_A"
         },
         {
-            "name": "Using Zero to Attack Zero-Knowledge Proof (ZKP) PLONK"
+            "name": "Using Zero to Attack Zero-Knowledge Proof (ZKP) PLONK",
+            "video": "https://www.youtube.com/watch?v=yOCV0NKF6fY"
         },
         {
-            "name": "Hunting and Exploiting Recursive MMIO Flaws in QEMU/KVM"
+            "name": "Hunting and Exploiting Recursive MMIO Flaws in QEMU/KVM",
+            "video": "https://www.youtube.com/watch?v=cVOVCAIeeyY"
         },
         {
-            "name": "Non-Intrusive Vulnerability Localization and Hotpatching for Industrial Control Systems"
+            "name": "Non-Intrusive Vulnerability Localization and Hotpatching for Industrial Control Systems",
+            "video": "https://www.youtube.com/watch?v=AZ0vvNgXFSo"
         },
         {
-            "name": "Start Arbitrary Activity App Components as the System User Vulnerability Affecting Samsung Android Devices"
+            "name": "Start Arbitrary Activity App Components as the System User Vulnerability Affecting Samsung Android Devices",
+            "video": "https://www.youtube.com/watch?v=SRCiMKlCavs"
         },
         {
-            "name": "The Little Seal Bug: Optical Sound Recovery from Lightweight Reflective Objects"
+            "name": "The Little Seal Bug: Optical Sound Recovery from Lightweight Reflective Objects",
+            "video": "https://www.youtube.com/watch?v=RNwxrcUGSw8"
         },
         {
-            "name": "Unix Domain Socket: A Hidden Door Leading to Privilege Escalation in the Android Ecosystem"
+            "name": "Unix Domain Socket: A Hidden Door Leading to Privilege Escalation in the Android Ecosystem",
+            "video": "https://www.youtube.com/watch?v=Zi7FKB2AU58"
         },
         {
-            "name": "USMA: Share Kernel Code With Me"
+            "name": "USMA: Share Kernel Code With Me",
+            "video": "https://www.youtube.com/watch?v=JpPWp-LjmZU"
         },
         {
-            "name": "Keynote: Quantify Security Effectively \u2013  Moving the Security Needle From the  Security Trenches to the Boardroom"
+            "name": "Keynote: Quantify Security Effectively \u2013  Moving the Security Needle From the  Security Trenches to the Boardroom",
+            "video": "https://www.youtube.com/watch?v=HiHhwQ0eCyk"
         },
         {
-            "name": "The Next Generation of Windows Exploitation: Attacking the Common Log File System"
+            "name": "The Next Generation of Windows Exploitation: Attacking the Common Log File System",
+            "video": "https://www.youtube.com/watch?v=6DE5Ix9b9ck"
         },
         {
-            "name": "SMS PVA Services Fueled by Compromised Supply-Chain Mobile Botnets"
+            "name": "SMS PVA Services Fueled by Compromised Supply-Chain Mobile Botnets",
+            "video": "https://www.youtube.com/watch?v=8iq6dfuD1gc"
         },
         {
-            "name": "Like Lightning From the Cloud: Finding RCEs in an Embedded TLS Library and Toasting a Popular Cloud-connected UPS"
+            "name": "Like Lightning From the Cloud: Finding RCEs in an Embedded TLS Library and Toasting a Popular Cloud-connected UPS",
+            "video": "https://www.youtube.com/watch?v=RmpPBwdEW0w"
         },
         {
-            "name": "Codema Attack: Controlling Your Smart Home Through Dangling Management Channels"
+            "name": "Codema Attack: Controlling Your Smart Home Through Dangling Management Channels",
+            "video": "https://www.youtube.com/watch?v=4NmeRLrsoiI"
         },
         {
-            "name": "The Virtual Battlefield in 2022: Russia-Ukraine War &#38; Its Policy Implications"
+            "name": "The Virtual Battlefield in 2022: Russia-Ukraine War &#38; Its Policy Implications",
+            "video": "https://www.youtube.com/watch?v=CkHCnXt7APk"
         },
         {
-            "name": "AMSI Unchained: Review of Known AMSI Bypass Techniques and Introducing a New One"
+            "name": "AMSI Unchained: Review of Known AMSI Bypass Techniques and Introducing a New One",
+            "video": "https://www.youtube.com/watch?v=8y8saWvzeLw"
         },
         {
-            "name": "To Loot or Not to Loot? That Is Not a Question When State-Nexus APT Targets Online Entertainment Industry"
+            "name": "To Loot or Not to Loot? That Is Not a Question When State-Nexus APT Targets Online Entertainment Industry",
+            "video": "https://www.youtube.com/watch?v=d8J9Orz1pU0"
         },
         {
-            "name": "The Hidden RCE Surfaces That Control the Droids"
+            "name": "The Hidden RCE Surfaces That Control the Droids",
+            "video": "https://www.youtube.com/watch?v=D42av_IfRMA"
         },
         {
-            "name": "Cooper Knows the Shortest Stave: Finding 134 Bugs in the Binding Code of Scripting Languages with Cooperative Mutation"
+            "name": "Cooper Knows the Shortest Stave: Finding 134 Bugs in the Binding Code of Scripting Languages with Cooperative Mutation",
+            "video": "https://www.youtube.com/watch?v=6-169NlRkZM"
         },
         {
-            "name": "Backdooring of Real Time Automotive OS Devices"
+            "name": "Backdooring of Real Time Automotive OS Devices",
+            "video": "https://www.youtube.com/watch?v=Z2Dgt7XhHGs"
         },
         {
-            "name": "Bypass CFG in Chrome"
+            "name": "Bypass CFG in Chrome",
+            "video": "https://www.youtube.com/watch?v=TsIIm6g21Kc"
         },
         {
-            "name": "Dynamic Process Isolation"
+            "name": "Dynamic Process Isolation",
+            "video": "https://www.youtube.com/watch?v=u1zqh-DEdVs"
         },
         {
-            "name": "macOS Vulnerabilities Hiding in Plain Sight"
+            "name": "macOS Vulnerabilities Hiding in Plain Sight",
+            "video": "https://www.youtube.com/watch?v=Nvpo-kP6C9s"
         },
         {
-            "name": "Taking Kernel Hardening to the Next Level"
+            "name": "Taking Kernel Hardening to the Next Level",
+            "video": "https://www.youtube.com/watch?v=1titzBiuxSc"
         },
         {
-            "name": "ExplosION: The Hidden Mines in the Android ION Driver"
+            "name": "ExplosION: The Hidden Mines in the Android ION Driver",
+            "video": "https://www.youtube.com/watch?v=Qh6THzT0fxk"
         }
     ]
 }

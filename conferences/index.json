@@ -1,21 +1,21 @@
 {
     "2023": {
         "lss": {
-            "displayName": "Linux Security Summit",
+            "displayName": "LSS",
             "pathName": "lss",
             "locations": [
                 {
-                    "displayName": "North America",
+                    "displayName": "NA",
                     "pathName": "north-america"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
         },
         "blackhat": {
-            "displayName": "Black Hat",
+            "displayName": "BH",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -31,21 +31,21 @@
     },
     "2022": {
         "lss": {
-            "displayName": "Linux Security Summit",
+            "displayName": "LSS",
             "pathName": "lss",
             "locations": [
                 {
-                    "displayName": "North America",
+                    "displayName": "NA",
                     "pathName": "north-america"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
         },
         "blackhat": {
-            "displayName": "Black Hat",
+            "displayName": "BH",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -57,7 +57,7 @@
                     "pathName": "asia"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
@@ -65,17 +65,17 @@
     },
     "2021": {
         "lss": {
-            "displayName": "Linux Security Summit",
+            "displayName": "LSS",
             "pathName": "lss",
             "locations": [
                 {
-                    "displayName": "North America",
+                    "displayName": "NA",
                     "pathName": "north-america"
                 }
             ]
         },
         "blackhat": {
-            "displayName": "Black Hat",
+            "displayName": "BH",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -87,7 +87,7 @@
                     "pathName": "asia"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
@@ -95,7 +95,7 @@
     },
     "2020": {
         "blackhat": {
-            "displayName": "Black Hat",
+            "displayName": "BH",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -107,21 +107,21 @@
                     "pathName": "asia"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
         },
         "lss": {
-            "displayName": "Linux Security Summit",
+            "displayName": "LSS",
             "pathName": "lss",
             "locations": [
                 {
-                    "displayName": "North America",
+                    "displayName": "NA",
                     "pathName": "north-america"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
@@ -129,7 +129,7 @@
     },
     "2019": {
         "blackhat": {
-            "displayName": "Black Hat",
+            "displayName": "BH",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -141,21 +141,21 @@
                     "pathName": "asia"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
         },
         "lss": {
-            "displayName": "Linux Security Summit",
+            "displayName": "LSS",
             "pathName": "lss",
             "locations": [
                 {
-                    "displayName": "North America",
+                    "displayName": "NA",
                     "pathName": "north-america"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
@@ -163,7 +163,7 @@
     },
     "2018": {
         "blackhat": {
-            "displayName": "Black Hat",
+            "displayName": "BH",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -175,7 +175,7 @@
                     "pathName": "asia"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]
@@ -183,7 +183,7 @@
     },
     "2017": {
         "blackhat": {
-            "displayName": "Black Hat",
+            "displayName": "BH",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -195,7 +195,7 @@
                     "pathName": "asia"
                 },
                 {
-                    "displayName": "Europe",
+                    "displayName": "EU",
                     "pathName": "europe"
                 }
             ]

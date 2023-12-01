@@ -1,0 +1,37 @@
+{
+    "topics": [
+        {
+            "name": "Block Me if You Can: Subverting IMA"
+        },
+        {
+            "name": "Kernel Integrity Enforcement with HLAT In a Virtual Machine"
+        },
+        {
+            "name": "Introducing TPM NV Storage with E/A Policies and TSS-FAPI"
+        },
+        {
+            "name": "Architectural Extensions for Hardware Virtual Machine Isolation to Advance Confidential Computing in Public Clouds"
+        },
+        {
+            "name": "Network File System Security Overview: Securing SMB3"
+        },
+        {
+            "name": "Overview of the Crypto-engine Improvements"
+        },
+        {
+            "name": "State of the User Namespace"
+        },
+        {
+            "name": "TBOOT and Secure Boot coexistence to launch OS even more securely."
+        },
+        {
+            "name": "Bypassing Many Kernel Protections Using Elastic Objects"
+        },
+        {
+            "name": "Container Runtime Support for SGX and TEE Environment"
+        },
+        {
+            "name": "Would Abandoning the C Language Really Help?"
+        }
+    ]
+}

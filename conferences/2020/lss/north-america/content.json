@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "name": "Mitigating (Some) Use-after-frees in the Linux Kernel"
+        },
+        {
+            "name": "Control Flow Integrity in the Linux Kernel"
+        },
+        {
+            "name": "KRSI (BPF + LSM) - Updates and Progress"
+        },
+        {
+            "name": "Integrity Policy Enforcement: Full System Integrity Verification"
+        },
+        {
+            "name": "10 Years of Linux Security - A Report Card"
+        },
+        {
+            "name": "SELint - An SELinux Policy Static Analysis Tool"
+        },
+        {
+            "name": "Automatically Securing Linux Application Containers in Untrusted Clouds"
+        },
+        {
+            "name": "Encrypting Memory at Scale"
+        }
+    ]
+}

@@ -1,118 +1,155 @@
 {
     "topics": [
         {
-            "name": "Engineering Cybersecurity for a Nation: What Singapore is Learning from Cars and Sanitation"
+            "name": "Engineering Cybersecurity for a Nation: What Singapore is Learning from Cars and Sanitation",
+            "video": "https://www.youtube.com/watch?v=p68JbKkmY7Q"
         },
         {
-            "name": "BitLeaker: Subverting BitLocker with One Vulnerability"
+            "name": "BitLeaker: Subverting BitLocker with One Vulnerability",
+            "video": "https://www.youtube.com/watch?v=EXyDAWWHeYY"
         },
         {
-            "name": "Demystify Today&#39;s Binary Disassembling and How Modern ABI Makes it Easier"
+            "name": "Demystify Today&#39;s Binary Disassembling and How Modern ABI Makes it Easier",
+            "video": "https://www.youtube.com/watch?v=LYCufH9KQxE"
         },
         {
-            "name": "The Evil of Spy Camera"
+            "name": "The Evil of Spy Camera",
+            "video": "https://www.youtube.com/watch?v=hF1u2YYVSII"
         },
         {
-            "name": "The Evil Alt-Ego: (ab)using HTTP Alternative Services"
+            "name": "The Evil Alt-Ego: (ab)using HTTP Alternative Services",
+            "video": "https://www.youtube.com/watch?v=u-PVpQ2xr-I"
         },
         {
-            "name": "Faking a Factory: Creating and Operating a Realistic Honeypot"
+            "name": "Faking a Factory: Creating and Operating a Realistic Honeypot",
+            "video": "https://www.youtube.com/watch?v=4y7JJoZd0ic"
         },
         {
-            "name": "3d Red Pill:  A Guest-to-Host Escape on QEMU/KVM Virtio Device"
+            "name": "3d Red Pill:  A Guest-to-Host Escape on QEMU/KVM Virtio Device",
+            "video": "https://www.youtube.com/watch?v=oNV6KuhT02Q"
         },
         {
-            "name": "Securing the Next Version of HTTP: How QUIC and HTTP/3 Compare to HTTP/2"
+            "name": "Securing the Next Version of HTTP: How QUIC and HTTP/3 Compare to HTTP/2",
+            "video": "https://www.youtube.com/watch?v=J4fR5aztSwQ"
         },
         {
-            "name": "CDPwn: Taking Over Millions of Enterprise-Things with Layer 2 Zero-Days"
+            "name": "CDPwn: Taking Over Millions of Enterprise-Things with Layer 2 Zero-Days",
+            "video": "https://www.youtube.com/watch?v=05KxNiu9SuU"
         },
         {
-            "name": "Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation"
+            "name": "Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation",
+            "video": "https://www.youtube.com/watch?v=MRku-2fW42w"
         },
         {
-            "name": "Making an Impact from India to the Rest of the World by Building and Nurturing Women Infosec Community"
+            "name": "Making an Impact from India to the Rest of the World by Building and Nurturing Women Infosec Community",
+            "video": "https://www.youtube.com/watch?v=YlDZOFH6lCs"
         },
         {
-            "name": "Tracking the Criminal of Fake News Based on a Unified Embedding"
+            "name": "Tracking the Criminal of Fake News Based on a Unified Embedding",
+            "video": "https://www.youtube.com/watch?v=8Or415Yj9NI"
         },
         {
-            "name": "WIFI-Important Remote Attack Surface: Threat is Expanding"
+            "name": "WIFI-Important Remote Attack Surface: Threat is Expanding",
+            "video": "https://www.youtube.com/watch?v=ySUxQ8hktAw"
         },
         {
-            "name": "What the Log?! So Many Events, so Little Time..."
+            "name": "What the Log?! So Many Events, so Little Time...",
+            "video": "https://www.youtube.com/watch?v=3x5-nZ2bfbo"
         },
         {
             "name": "The Inside Story: There are Apps in Apps and Here is How to Break Them"
         },
         {
-            "name": "Wi-Fi Brokering"
+            "name": "Wi-Fi Brokering",
+            "video": "https://www.youtube.com/watch?v=XYgBw8mx9Jw"
         },
         {
-            "name": "Walking Your Dog in Multiple Forests - Breaking AD Trust Boundaries through Kerberos Vulnerabilities"
+            "name": "Walking Your Dog in Multiple Forests - Breaking AD Trust Boundaries through Kerberos Vulnerabilities",
+            "video": "https://www.youtube.com/watch?v=z3FOw8MfKcw"
         },
         {
-            "name": "Page Cache Attacks: Microarchitectural Attacks on Flawless Hardware"
+            "name": "Page Cache Attacks: Microarchitectural Attacks on Flawless Hardware",
+            "video": "https://www.youtube.com/watch?v=iseCdk9L940"
         },
         {
-            "name": "First Contact - Vulnerabilities in Contactless Payments"
+            "name": "First Contact - Vulnerabilities in Contactless Payments",
+            "video": "https://www.youtube.com/watch?v=YmJ4ULncNwg"
         },
         {
-            "name": "Complexity Killed Security"
+            "name": "Complexity Killed Security",
+            "video": "https://www.youtube.com/watch?v=Mh8DPFpJRUA"
         },
         {
-            "name": "The Black Hat NOC: Greatest Hits and Holy...Cows"
+            "name": "The Black Hat NOC: Greatest Hits and Holy...Cows",
+            "video": "https://www.youtube.com/watch?v=RQj0Eyb71HU"
         },
         {
-            "name": "Win the 0-Day Racing Game Against Botnet in Public Cloud"
+            "name": "Win the 0-Day Racing Game Against Botnet in Public Cloud",
+            "video": "https://www.youtube.com/watch?v=pxL0vgIi_oI"
         },
         {
-            "name": "Adversary Detection Pipelines: Finally Making Your Threat Intel Useful"
+            "name": "Adversary Detection Pipelines: Finally Making Your Threat Intel Useful",
+            "video": "https://www.youtube.com/watch?v=D9R0E_CfSQ4"
         },
         {
-            "name": "Patching Loopholes: Finding Backdoors in Applications"
+            "name": "Patching Loopholes: Finding Backdoors in Applications",
+            "video": "https://www.youtube.com/watch?v=KY3ESomgmtI"
         },
         {
-            "name": "Identifying Multi-Binary Vulnerabilities in Embedded Firmware at Scale"
+            "name": "Identifying Multi-Binary Vulnerabilities in Embedded Firmware at Scale",
+            "video": "https://www.youtube.com/watch?v=luSXhwcViDc"
         },
         {
-            "name": "Biometrics &#38; Privacy: Time to Faceoff or is that FaceApp?"
+            "name": "Biometrics &#38; Privacy: Time to Faceoff or is that FaceApp?",
+            "video": "https://www.youtube.com/watch?v=oeSKTWEorhA"
         },
         {
-            "name": "From an URGENT/11 Vulnerability to a Full Take-Down of a Factory, Using a Single Packet"
+            "name": "From an URGENT/11 Vulnerability to a Full Take-Down of a Factory, Using a Single Packet",
+            "video": "https://www.youtube.com/watch?v=gEyU0O2MWoc"
         },
         {
-            "name": "Raiden Glitching Framework"
+            "name": "Raiden Glitching Framework",
+            "video": "https://www.youtube.com/watch?v=eie6Rb8iFYs"
         },
         {
-            "name": "Store-to-Leak Forwarding: There and Back Again"
+            "name": "Store-to-Leak Forwarding: There and Back Again",
+            "video": "https://www.youtube.com/watch?v=Yc1AXkCu2AA"
         },
         {
-            "name": "Escaping Virtualized Containers"
+            "name": "Escaping Virtualized Containers",
+            "video": "https://www.youtube.com/watch?v=0hrv0qyOEd0"
         },
         {
-            "name": "Attacking and Defending Machine Learning Applications of Public Cloud"
+            "name": "Attacking and Defending Machine Learning Applications of Public Cloud",
+            "video": "https://www.youtube.com/watch?v=CZaEu8RBcFw"
         },
         {
-            "name": "Hey Google, Activate Spyware! \u2013 When Google Assistant Uses a Vulnerability as a Feature"
+            "name": "Hey Google, Activate Spyware! \u2013 When Google Assistant Uses a Vulnerability as a Feature",
+            "video": "https://www.youtube.com/watch?v=IO5iBSV1VpE"
         },
         {
-            "name": "Misuse of DNS, the Second Most Used Protocol"
+            "name": "Misuse of DNS, the Second Most Used Protocol",
+            "video": "https://www.youtube.com/watch?v=K0zH8lHNnAI"
         },
         {
-            "name": "Redback: Advanced Static Binary Injection"
+            "name": "Redback: Advanced Static Binary Injection",
+            "video": "https://www.youtube.com/watch?v=F_lj7dXn2Do"
         },
         {
-            "name": "ZombieLoad: Leaking Data on Intel CPUs"
+            "name": "ZombieLoad: Leaking Data on Intel CPUs",
+            "video": "https://www.youtube.com/watch?v=4CSDzHyx1bA"
         },
         {
-            "name": "Back to the Future. Cross-Protocol Attacks in the Era of 5G"
+            "name": "Back to the Future. Cross-Protocol Attacks in the Era of 5G",
+            "video": "https://www.youtube.com/watch?v=eXvYieX1Wu0"
         },
         {
-            "name": "Kr00k: How KRACKing Amazon Echo Exposed a Billion+ Vulnerable Wi-Fi Devices"
+            "name": "Kr00k: How KRACKing Amazon Echo Exposed a Billion+ Vulnerable Wi-Fi Devices",
+            "video": "https://www.youtube.com/watch?v=b2icHWnvCh8"
         },
         {
-            "name": "May the Trust be with You: Empowering TrustZone-M with Multiple Trusted Environments"
+            "name": "May the Trust be with You: Empowering TrustZone-M with Multiple Trusted Environments",
+            "video": "https://www.youtube.com/watch?v=kuMh1MXqJBw"
         }
     ]
 }

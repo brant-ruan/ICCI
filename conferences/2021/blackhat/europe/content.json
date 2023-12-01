@@ -1,151 +1,200 @@
 {
     "topics": [
         {
-            "name": "Securing the Public, who is in Charge?"
+            "name": "Securing the Public, who is in Charge?",
+            "video": "https://www.youtube.com/watch?v=r4ZdFzuf9_k"
         },
         {
-            "name": "New Ways of IPV6 Scanning"
+            "name": "New Ways of IPV6 Scanning",
+            "video": "https://www.youtube.com/watch?v=QAnqgZAXpRo"
         },
         {
-            "name": "One Glitch to Rule Them All: Fault Injection Attacks Against the AMD Secure Processor"
+            "name": "One Glitch to Rule Them All: Fault Injection Attacks Against the AMD Secure Processor",
+            "video": "https://www.youtube.com/watch?v=gwdlvLyPpZM"
         },
         {
-            "name": "HTTP/2: The Sequel is Always Worse"
+            "name": "HTTP/2: The Sequel is Always Worse",
+            "video": "https://www.youtube.com/watch?v=KmKA2Eq-1tQ"
         },
         {
-            "name": "Who Did It - How We Attributed Campaigns of a Cyber Mercenary"
+            "name": "Who Did It - How We Attributed Campaigns of a Cyber Mercenary",
+            "video": "https://www.youtube.com/watch?v=nw7LnCCMvcE"
         },
         {
-            "name": "Re-route Your Intent for Privilege Escalation: A Universal Way to Exploit Android PendingIntents in High-profile and System Apps"
+            "name": "Re-route Your Intent for Privilege Escalation: A Universal Way to Exploit Android PendingIntents in High-profile and System Apps",
+            "video": "https://www.youtube.com/watch?v=pc8ZKl5XG24"
         },
         {
-            "name": "Owfuzz: WiFi Nightmare"
+            "name": "Owfuzz: WiFi Nightmare",
+            "video": "https://www.youtube.com/watch?v=OYG5Q9hBZyI"
         },
         {
-            "name": "How Your E-book Might Be Reading You: Exploiting EPUB Reading Systems"
+            "name": "How Your E-book Might Be Reading You: Exploiting EPUB Reading Systems",
+            "video": "https://www.youtube.com/watch?v=ixSZyuPsXNU"
         },
         {
-            "name": "TeamTNT: Explosive Cryptomining"
+            "name": "TeamTNT: Explosive Cryptomining",
+            "video": "https://www.youtube.com/watch?v=iWRLXAsePpg"
         },
         {
-            "name": "The Art of Exploiting UAF by Ret2bpf in Android Kernel"
+            "name": "The Art of Exploiting UAF by Ret2bpf in Android Kernel",
+            "video": "https://www.youtube.com/watch?v=0UcELTv92ik"
         },
         {
-            "name": "Practical Attacks Against Attribute-based Encryption"
+            "name": "Practical Attacks Against Attribute-based Encryption",
+            "video": "https://www.youtube.com/watch?v=pFjBwlPZKqc"
         },
         {
-            "name": "From Coordinated Disclosure to Cooperative Vulnerability Research When Dealing with Critical Software Stacks"
+            "name": "From Coordinated Disclosure to Cooperative Vulnerability Research When Dealing with Critical Software Stacks",
+            "video": "https://www.youtube.com/watch?v=8LBG7qDtDm4"
         },
         {
-            "name": "Is This My Domain Controller? A New Class of Active Directory Protocol Injection Attacks"
+            "name": "Is This My Domain Controller? A New Class of Active Directory Protocol Injection Attacks",
+            "video": "https://www.youtube.com/watch?v=LNm58BTngfU"
         },
         {
-            "name": "Veni, No Vidi, No Vici: Attacks on ETW Blind EDR Sensors"
+            "name": "Veni, No Vidi, No Vici: Attacks on ETW Blind EDR Sensors",
+            "video": "https://www.youtube.com/watch?v=wZG0h1q7fMg"
         },
         {
-            "name": "2021: A Titan M Odyssey"
+            "name": "2021: A Titan M Odyssey",
+            "video": "https://www.youtube.com/watch?v=UNPblJup5ko"
         },
         {
-            "name": "&#34;We Wait, Because We Know You&#34; - Inside the Ransomware Negotiation Economics"
+            "name": "&#34;We Wait, Because We Know You&#34; - Inside the Ransomware Negotiation Economics",
+            "video": "https://www.youtube.com/watch?v=956TH585PYg"
         },
         {
-            "name": "Skeletons in the App Sandbox: 5+ Ways to Escape"
+            "name": "Skeletons in the App Sandbox: 5+ Ways to Escape",
+            "video": "https://www.youtube.com/watch?v=E76z_LgMCxQ"
         },
         {
-            "name": "AIModel-Mutator: Finding Vulnerabilities in TensorFlow"
+            "name": "AIModel-Mutator: Finding Vulnerabilities in TensorFlow",
+            "video": "https://www.youtube.com/watch?v=7QqbJRZ6CxU"
         },
         {
-            "name": "Lost in the Loader: The Many Faces of the Windows PE File Format"
+            "name": "Lost in the Loader: The Many Faces of the Windows PE File Format",
+            "video": "https://www.youtube.com/watch?v=oswbh4UnJFE"
         },
         {
-            "name": "Burning Bridges - Stopping Lateral Movement via the RPC Firewall"
+            "name": "Burning Bridges - Stopping Lateral Movement via the RPC Firewall",
+            "video": "https://www.youtube.com/watch?v=hz_YPIMeBMI"
         },
         {
-            "name": "Your Trash Kernel Bug, My Precious 0-day"
+            "name": "Your Trash Kernel Bug, My Precious 0-day",
+            "video": "https://www.youtube.com/watch?v=eJbqXndvuMM"
         },
         {
-            "name": "The Bad Guys Win \u2013 Analysis of 10,000 Magecart Vulnerabilities"
+            "name": "The Bad Guys Win \u2013 Analysis of 10,000 Magecart Vulnerabilities",
+            "video": "https://www.youtube.com/watch?v=Knk_iPrNSsk"
         },
         {
-            "name": "They Hacked Thousands of Cloud Accounts Then Sent Us Weird GIFs"
+            "name": "They Hacked Thousands of Cloud Accounts Then Sent Us Weird GIFs",
+            "video": "https://www.youtube.com/watch?v=xMjDgj3ZwXI"
         },
         {
-            "name": "Embedding a Human-Centric Approach Into a Global Cyber Security Program"
+            "name": "Embedding a Human-Centric Approach Into a Global Cyber Security Program",
+            "video": "https://www.youtube.com/watch?v=bAGAZiYmvog"
         },
         {
-            "name": "Clocking On"
+            "name": "Clocking On",
+            "video": "https://www.youtube.com/watch?v=wpXrkVOCJGo"
         },
         {
-            "name": "Achieving Linux Kernel Code Execution Through a Malicious USB Device"
+            "name": "Achieving Linux Kernel Code Execution Through a Malicious USB Device",
+            "video": "https://www.youtube.com/watch?v=ZEZIcjhsZEk"
         },
         {
-            "name": "Greetings from the '90s: Exploiting the Design of Industrial Controllers in Modern Settings"
+            "name": "Greetings from the '90s: Exploiting the Design of Industrial Controllers in Modern Settings",
+            "video": "https://www.youtube.com/watch?v=DIB_1q9WPfw"
         },
         {
-            "name": "A Deep Dive into Privacy Dashboard of Top Android Vendors"
+            "name": "A Deep Dive into Privacy Dashboard of Top Android Vendors",
+            "video": "https://www.youtube.com/watch?v=LyWwGqkXtVM"
         },
         {
-            "name": "BadMesher: New Attack Surfaces of Wi-Fi Mesh Network"
+            "name": "BadMesher: New Attack Surfaces of Wi-Fi Mesh Network",
+            "video": "https://www.youtube.com/watch?v=8bhv-BhGDmk"
         },
         {
-            "name": "The Data Distribution Service (DDS) Protocol is Critical: Let's Use it Securely!"
+            "name": "The Data Distribution Service (DDS) Protocol is Critical: Let's Use it Securely!",
+            "video": "https://www.youtube.com/watch?v=7IV49wKxs4c"
         },
         {
-            "name": "Vulnerability Intelligence"
+            "name": "Vulnerability Intelligence",
+            "video": "https://www.youtube.com/watch?v=KpLxJJw1Ve8"
         },
         {
-            "name": "Building Better CSIRTs Using Behavioral Psychology"
+            "name": "Building Better CSIRTs Using Behavioral Psychology",
+            "video": "https://www.youtube.com/watch?v=CtkJ84bc50g"
         },
         {
-            "name": "Exploiting CSP in WebKit to Break Authentication and Authorization"
+            "name": "Exploiting CSP in WebKit to Break Authentication and Authorization",
+            "video": "https://www.youtube.com/watch?v=3AAhgfcsJEE"
         },
         {
-            "name": "No Such Thing as a Stupid Question: Why Knowledge Shaming is Making Us Less Secure"
+            "name": "No Such Thing as a Stupid Question: Why Knowledge Shaming is Making Us Less Secure",
+            "video": "https://www.youtube.com/watch?v=c2opGuxyawo"
         },
         {
-            "name": "Windows Defender - Demystifying and Bypassing ASR by Understanding the AV&#39;s Signatures"
+            "name": "Windows Defender - Demystifying and Bypassing ASR by Understanding the AV&#39;s Signatures",
+            "video": "https://www.youtube.com/watch?v=H3NDuvLqfwE"
         },
         {
-            "name": "Security Industry Call-to-Action: We Need a Cloud Vulnerability Database"
+            "name": "Security Industry Call-to-Action: We Need a Cloud Vulnerability Database",
+            "video": "https://www.youtube.com/watch?v=JEA_Zgi8Tjg"
         },
         {
-            "name": "Message in a Broken Bottle: Exploring the Linux IPC Attack Surface"
+            "name": "Message in a Broken Bottle: Exploring the Linux IPC Attack Surface",
+            "video": "https://www.youtube.com/watch?v=EFrnK_U0PLQ"
         },
         {
-            "name": "Hardware Security Module - Executing Unsigned Code in HSM TEE"
+            "name": "Hardware Security Module - Executing Unsigned Code in HSM TEE",
+            "video": "https://www.youtube.com/watch?v=NPYZEST1bcc"
         },
         {
-            "name": "Zen and the Art of Adversarial Machine Learning"
+            "name": "Zen and the Art of Adversarial Machine Learning",
+            "video": "https://www.youtube.com/watch?v=tEBwMGCKEso"
         },
         {
-            "name": "ChaosDB: How We Hacked Databases of Thousands of Azure Customers"
+            "name": "ChaosDB: How We Hacked Databases of Thousands of Azure Customers",
+            "video": "https://www.youtube.com/watch?v=QiJAxo30w6U"
         },
         {
-            "name": "Hand in Your Pocket Without You Noticing: Current State of Mobile Wallet Security"
+            "name": "Hand in Your Pocket Without You Noticing: Current State of Mobile Wallet Security",
+            "video": "https://www.youtube.com/watch?v=e3Lb_GHUKso"
         },
         {
-            "name": "ECMO: Rehost Embedded Linux Kernels via Peripheral Transplantation"
+            "name": "ECMO: Rehost Embedded Linux Kernels via Peripheral Transplantation",
+            "video": "https://www.youtube.com/watch?v=MKo3Qv2vV5A"
         },
         {
-            "name": "APTs Go Teleworking: The Rise of VPN Exploits"
+            "name": "APTs Go Teleworking: The Rise of VPN Exploits",
+            "video": "https://www.youtube.com/watch?v=_nxEocGBias"
         },
         {
-            "name": "Resting on Feet of Clay: Securely Bootstrapping OPC UA Deployments"
+            "name": "Resting on Feet of Clay: Securely Bootstrapping OPC UA Deployments",
+            "video": "https://www.youtube.com/watch?v=8RUVB9eeITQ"
         },
         {
-            "name": "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond"
+            "name": "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond",
+            "video": "https://www.youtube.com/watch?v=RAtpG6OYYNM"
         },
         {
-            "name": "From Logic to Memory: Winning the Solitaire in Reparse Points"
+            "name": "From Logic to Memory: Winning the Solitaire in Reparse Points",
+            "video": "https://www.youtube.com/watch?v=d-PLVdLt1Z0"
         },
         {
-            "name": "No More Secret Sauce!: How We Can Power Real Security Machine Learning Progress Through Open Algorithms and Benchmarks"
+            "name": "No More Secret Sauce!: How We Can Power Real Security Machine Learning Progress Through Open Algorithms and Benchmarks",
+            "video": "https://www.youtube.com/watch?v=vJ3sYctiFAw"
         },
         {
-            "name": "Picking Lockfiles:  Attacking & Defending Your Supply Chain"
+            "name": "Picking Lockfiles:  Attacking & Defending Your Supply Chain",
+            "video": "https://www.youtube.com/watch?v=UkWJeqb8BZk"
         },
         {
-            "name": "ReCertifying Active Directory Certificate Services"
+            "name": "ReCertifying Active Directory Certificate Services",
+            "video": "https://www.youtube.com/watch?v=Gg9rJm2GMBY"
         }
     ]
 }

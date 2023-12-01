@@ -94,6 +94,11 @@ h1 {
     /* A pop of color for the main title */
 }
 
+h1 a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
 h2,
 h3,
 h4 {

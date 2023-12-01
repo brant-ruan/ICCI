@@ -1,28 +1,35 @@
 {
     "topics": [
         {
-            "name": "Mitigating (Some) Use-after-frees in the Linux Kernel"
+            "name": "Mitigating (Some) Use-after-frees in the Linux Kernel",
+            "video": "https://www.youtube.com/watch?v=uE1w0Mxldwk"
         },
         {
-            "name": "Control Flow Integrity in the Linux Kernel"
+            "name": "Control Flow Integrity in the Linux Kernel",
+            "video": "https://www.youtube.com/watch?v=0Bj6W7qrOOI"
         },
         {
             "name": "KRSI (BPF + LSM) - Updates and Progress"
         },
         {
-            "name": "Integrity Policy Enforcement: Full System Integrity Verification"
+            "name": "Integrity Policy Enforcement: Full System Integrity Verification",
+            "video": "https://www.youtube.com/watch?v=wLSREpGQBPI"
         },
         {
-            "name": "10 Years of Linux Security - A Report Card"
+            "name": "10 Years of Linux Security - A Report Card",
+            "video": "https://www.youtube.com/watch?v=CT4G-Rn-sHc"
         },
         {
-            "name": "SELint - An SELinux Policy Static Analysis Tool"
+            "name": "SELint - An SELinux Policy Static Analysis Tool",
+            "video": "https://www.youtube.com/watch?v=Gx5bxwvzN_Y"
         },
         {
-            "name": "Automatically Securing Linux Application Containers in Untrusted Clouds"
+            "name": "Automatically Securing Linux Application Containers in Untrusted Clouds",
+            "video": "https://www.youtube.com/watch?v=I8p9sLFr-GI"
         },
         {
-            "name": "Encrypting Memory at Scale"
+            "name": "Encrypting Memory at Scale",
+            "video": "https://www.youtube.com/watch?v=Vz7IQsRaC9Y"
         }
     ]
 }

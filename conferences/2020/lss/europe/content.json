@@ -1,19 +1,24 @@
 {
     "topics": [
         {
-            "name": "Block Me if You Can: Subverting IMA"
+            "name": "Block Me if You Can: Subverting IMA",
+            "video": "https://www.youtube.com/watch?v=UTw-bfR10K4"
         },
         {
-            "name": "Kernel Integrity Enforcement with HLAT In a Virtual Machine"
+            "name": "Kernel Integrity Enforcement with HLAT In a Virtual Machine",
+            "video": "https://www.youtube.com/watch?v=N8avvE_neV0"
         },
         {
-            "name": "Introducing TPM NV Storage with E/A Policies and TSS-FAPI"
+            "name": "Introducing TPM NV Storage with E/A Policies and TSS-FAPI",
+            "video": "https://www.youtube.com/watch?v=JckONn4h6pQ"
         },
         {
-            "name": "Architectural Extensions for Hardware Virtual Machine Isolation to Advance Confidential Computing in Public Clouds"
+            "name": "Architectural Extensions for Hardware Virtual Machine Isolation to Advance Confidential Computing in Public Clouds",
+            "video": "https://www.youtube.com/watch?v=xOONwt3E8lk"
         },
         {
-            "name": "Network File System Security Overview: Securing SMB3"
+            "name": "Network File System Security Overview: Securing SMB3",
+            "video": "https://www.youtube.com/watch?v=0bCmbI4fJRk"
         },
         {
             "name": "Overview of the Crypto-engine Improvements"
@@ -22,13 +27,16 @@
             "name": "State of the User Namespace"
         },
         {
-            "name": "TBOOT and Secure Boot coexistence to launch OS even more securely."
+            "name": "TBOOT and Secure Boot coexistence to launch OS even more securely.",
+            "video": "https://www.youtube.com/watch?v=IsDDQg2vgUw"
         },
         {
-            "name": "Bypassing Many Kernel Protections Using Elastic Objects"
+            "name": "Bypassing Many Kernel Protections Using Elastic Objects",
+            "video": "https://www.youtube.com/watch?v=yXhH0IJAxkE"
         },
         {
-            "name": "Container Runtime Support for SGX and TEE Environment"
+            "name": "Container Runtime Support for SGX and TEE Environment",
+            "video": "https://www.youtube.com/watch?v=Bq2zKmsADTI"
         },
         {
             "name": "Would Abandoning the C Language Really Help?"

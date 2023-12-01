@@ -62,6 +62,8 @@ def get_talks_for_year(year):
                 continue
             if 'Locknote:' in talk['title']:
                 continue
+            if "Trends and Top Takeaways from Black Hat" in talk['title']:
+                continue
             print(f'[*][{loc}] {talk["title"]}')
             entry = {
                 'name': talk['title'],

@@ -1,127 +1,164 @@
 {
     "topics": [
         {
-            "name": "Keynote - Preparing the Long Journey for Data Security"
+            "name": "Keynote - Preparing the Long Journey for Data Security",
+            "video": "https://www.youtube.com/watch?v=pt59rKy7_6E"
         },
         {
-            "name": "Bypassing Anti-Cheats & Hacking Competitive Games"
+            "name": "Bypassing Anti-Cheats & Hacking Competitive Games",
+            "video": "https://www.youtube.com/watch?v=gWD1v9I8ti0"
         },
         {
-            "name": "Revisiting Stealthy Sensitive Information Collection from Android Apps"
+            "name": "Revisiting Stealthy Sensitive Information Collection from Android Apps",
+            "video": "https://www.youtube.com/watch?v=tooIp6Wenww"
         },
         {
-            "name": "Alice in Kernel Land: Lessons Learned From the eBPF Rabbit Hole"
+            "name": "Alice in Kernel Land: Lessons Learned From the eBPF Rabbit Hole",
+            "video": "https://www.youtube.com/watch?v=Cfk-wzm54n4"
         },
         {
-            "name": "When Knowledge Graph Meets TTPs: Highly Automated and Adaptive Executable TTP Intelligence for Security Evaluation"
+            "name": "When Knowledge Graph Meets TTPs: Highly Automated and Adaptive Executable TTP Intelligence for Security Evaluation",
+            "video": "https://www.youtube.com/watch?v=-AV7fKxIdsQ"
         },
         {
-            "name": "Stealing With Style: Using CSS to Exploit ProtonMail & Friends"
+            "name": "Stealing With Style: Using CSS to Exploit ProtonMail & Friends",
+            "video": "https://www.youtube.com/watch?v=pnbZMvCPqSc"
         },
         {
-            "name": "Two Bugs With One PoC: Rooting Pixel 6 From Android 12 to Android 13"
+            "name": "Two Bugs With One PoC: Rooting Pixel 6 From Android 12 to Android 13",
+            "video": "https://www.youtube.com/watch?v=8V_OEGojBPE"
         },
         {
-            "name": "Dilemma in IoT Access Control: Revealing Novel Attacks and Design Challenges in Mobile-as-a-Gateway IoT"
+            "name": "Dilemma in IoT Access Control: Revealing Novel Attacks and Design Challenges in Mobile-as-a-Gateway IoT",
+            "video": "https://www.youtube.com/watch?v=asJ0PPOSsCk"
         },
         {
-            "name": "Operation Clairvoyance: How APT Groups Spy on the Media Industry"
+            "name": "Operation Clairvoyance: How APT Groups Spy on the Media Industry",
+            "video": "https://www.youtube.com/watch?v=Euf12oWBlL4"
         },
         {
-            "name": "Dirty Stream Attack, Turning Android Share Targets Into Attack Vectors"
+            "name": "Dirty Stream Attack, Turning Android Share Targets Into Attack Vectors",
+            "video": "https://www.youtube.com/watch?v=oZTGR9vJVMQ"
         },
         {
-            "name": "Grand Theft House: RF Lock Pick Tool to Unlock Smart Door Lock"
+            "name": "Grand Theft House: RF Lock Pick Tool to Unlock Smart Door Lock",
+            "video": "https://www.youtube.com/watch?v=QwaoIaCON4w"
         },
         {
-            "name": "Prototype Pollution Leads to RCE: Gadgets Everywhere"
+            "name": "Prototype Pollution Leads to RCE: Gadgets Everywhere",
+            "video": "https://www.youtube.com/watch?v=v5dq80S1WF4"
         },
         {
-            "name": "Behind the Scenes: How Criminal Enterprises Pre-infect Millions of Mobile Devices"
+            "name": "Behind the Scenes: How Criminal Enterprises Pre-infect Millions of Mobile Devices",
+            "video": "https://www.youtube.com/watch?v=YrlCG_TndMU"
         },
         {
-            "name": "PMFault: Voltage Fault Injection on Server Platforms Through the PMBus"
+            "name": "PMFault: Voltage Fault Injection on Server Platforms Through the PMBus",
+            "video": "https://www.youtube.com/watch?v=J9A5tDVZE4Y"
         },
         {
-            "name": "PPLdump Is Dead. Long Live PPLdump!"
+            "name": "PPLdump Is Dead. Long Live PPLdump!",
+            "video": "https://www.youtube.com/watch?v=5xteW8Tm410"
         },
         {
-            "name": "Insider Threats Packing Their Bags With Corporate Data"
+            "name": "Insider Threats Packing Their Bags With Corporate Data",
+            "video": "https://www.youtube.com/watch?v=uvtlU3sQ5fw"
         },
         {
-            "name": "Deception at Scale: How Malware Abuses Trust"
+            "name": "Deception at Scale: How Malware Abuses Trust",
+            "video": "https://www.youtube.com/watch?v=xZZ3NHfTtEk"
         },
         {
-            "name": "firmWar: An Imminent Threat to the Foundation of Computing"
+            "name": "firmWar: An Imminent Threat to the Foundation of Computing",
+            "video": "https://www.youtube.com/watch?v=io2MCK3M_pw"
         },
         {
-            "name": "Nakatomi Space: Lateral Movement as L1 Post-exploitation in OT"
+            "name": "Nakatomi Space: Lateral Movement as L1 Post-exploitation in OT",
+            "video": "https://www.youtube.com/watch?v=wadGOaUM2rs"
         },
         {
-            "name": "Hacked on National Television"
+            "name": "Hacked on National Television",
+            "video": "https://www.youtube.com/watch?v=_4GBTTP9g3U"
         },
         {
-            "name": "Leveraging Streaming-Based Outlier Detection and SliceLine to Stop Heavily Distributed Bot Attacks"
+            "name": "Leveraging Streaming-Based Outlier Detection and SliceLine to Stop Heavily Distributed Bot Attacks",
+            "video": "https://www.youtube.com/watch?v=xJGBfSGIsjw"
         },
         {
-            "name": "Forward Focus \u2013 The Impact of Artificial Intelligence"
+            "name": "Forward Focus \u2013 The Impact of Artificial Intelligence",
+            "video": "https://www.youtube.com/watch?v=A7FxxuHV0Jk"
         },
         {
-            "name": "Trends and Top Takeaways from Black Hat Asia"
+            "name": "Dirty Bin Cache: A New Code Injection Poisoning Binary Translation Cache",
+            "video": "https://www.youtube.com/watch?v=Hi9EJ9np2pk"
         },
         {
-            "name": "Dirty Bin Cache: A New Code Injection Poisoning Binary Translation Cache"
+            "name": "Sweet Dreams: Abusing Sleep Mode to Break Wi-Fi Encryption and Disrupt WPA2/3 Networks",
+            "video": "https://www.youtube.com/watch?v=-2w1yuYpZ3o"
         },
         {
-            "name": "Sweet Dreams: Abusing Sleep Mode to Break Wi-Fi Encryption and Disrupt WPA2/3 Networks"
+            "name": "Breaking Managed Data Services in the Cloud",
+            "video": "https://www.youtube.com/watch?v=KMG8eU2Fqek"
         },
         {
-            "name": "Breaking Managed Data Services in the Cloud"
+            "name": "E-Meet (or Emit?) My Keystrokes: How Benign Screen-sharing Meetings Could Leak Typing Behaviors",
+            "video": "https://www.youtube.com/watch?v=gQmOb7GVKQg"
         },
         {
-            "name": "E-Meet (or Emit?) My Keystrokes: How Benign Screen-sharing Meetings Could Leak Typing Behaviors"
+            "name": "Security Advocacy Shouldn't Be for Security Professionals: An Analysis of How the Industry Misses the Mark and How We Can Improve",
+            "video": "https://www.youtube.com/watch?v=7ZA2Vl_VlhE"
         },
         {
-            "name": "Security Advocacy Shouldn't Be for Security Professionals: An Analysis of How the Industry Misses the Mark and How We Can Improve"
+            "name": "Hand Me Your SECRET, MCU! Microarchitectural Timing Attacks on Microcontrollers are Practical",
+            "video": "https://www.youtube.com/watch?v=xso4e4BdzFo"
         },
         {
-            "name": "Hand Me Your SECRET, MCU! Microarchitectural Timing Attacks on Microcontrollers are Practical"
+            "name": "Weaponizing Mobile Infrastructure: Are Politically Motivated Cyber Attacks a Threat to Democracy?",
+            "video": "https://www.youtube.com/watch?v=bWIjUMMOJKE"
         },
         {
-            "name": "Weaponizing Mobile Infrastructure: Are Politically Motivated Cyber Attacks a Threat to Democracy?"
+            "name": "New Wine in an Old Bottle: Attacking Chrome WebSQL",
+            "video": "https://www.youtube.com/watch?v=eX7vouKHGHQ"
         },
         {
-            "name": "New Wine in an Old Bottle: Attacking Chrome WebSQL"
+            "name": "Abusing Azure Active Directory: From MFA Bypass to Listing Global Administrators",
+            "video": "https://www.youtube.com/watch?v=IQbODsmykso"
         },
         {
-            "name": "Abusing Azure Active Directory: From MFA Bypass to Listing Global Administrators"
+            "name": "A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks",
+            "video": "https://www.youtube.com/watch?v=KB9PsF456fw"
         },
         {
-            "name": "A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks"
+            "name": "A New Attack Interface in Java Applications",
+            "video": "https://www.youtube.com/watch?v=8Qyghv00vEQ"
         },
         {
-            "name": "A New Attack Interface in Java Applications"
+            "name": "Fuzzing the Native NTFS Read-Write Driver (NTFS3) in the Linux Kernel",
+            "video": "https://www.youtube.com/watch?v=n62uFd47F30"
         },
         {
-            "name": "Fuzzing the Native NTFS Read-Write Driver (NTFS3) in the Linux Kernel"
+            "name": "Attacking the WebAssembly Compiler of WebKit",
+            "video": "https://www.youtube.com/watch?v=Y7A2WhJeojs"
         },
         {
-            "name": "Attacking the WebAssembly Compiler of WebKit"
+            "name": "You Can Run, but You Can&#39;t Hide - Finding the Footprints of Hidden Shellcode",
+            "video": "https://www.youtube.com/watch?v=WpzVhCOcIAc"
         },
         {
-            "name": "You Can Run, but You Can&#39;t Hide - Finding the Footprints of Hidden Shellcode"
+            "name": "Phoenix Domain Attack: Vulnerable Links in Domain Name Delegation and Revocation",
+            "video": "https://www.youtube.com/watch?v=rcwUhKolJq0"
         },
         {
-            "name": "Phoenix Domain Attack: Vulnerable Links in Domain Name Delegation and Revocation"
+            "name": "Engaging the Next Generation of Cybersecurity Professionals: The Power of Security Zines",
+            "video": "https://www.youtube.com/watch?v=N8Tfb-WqgIY"
         },
         {
-            "name": "Engaging the Next Generation of Cybersecurity Professionals: The Power of Security Zines"
+            "name": "Cloudy With a Chance of Exploits: Compromising Critical Infrastructure Through IIoT Cloud Solutions",
+            "video": "https://www.youtube.com/watch?v=yL4lOwo2N8g"
         },
         {
-            "name": "Cloudy With a Chance of Exploits: Compromising Critical Infrastructure Through IIoT Cloud Solutions"
-        },
-        {
-            "name": "The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust"
+            "name": "The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust",
+            "video": "https://www.youtube.com/watch?v=DwCgPjvssD4"
         },
         {
             "name": "Breaking the Chain: An Attacker&#39;s Perspective on Supply Chain Vulnerabilities and Flaws"

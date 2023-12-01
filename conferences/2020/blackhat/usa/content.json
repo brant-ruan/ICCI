@@ -1,280 +1,372 @@
 {
     "topics": [
         {
-            "name": "Stress-Testing Democracy: Election Integrity During a Global Pandemic"
+            "name": "Stress-Testing Democracy: Election Integrity During a Global Pandemic",
+            "video": "https://www.youtube.com/watch?v=llNittlfzG0"
         },
         {
-            "name": "Carrying our Insecurities with Us: The Risks of Implanted Medical Devices in Secure Spaces"
+            "name": "Carrying our Insecurities with Us: The Risks of Implanted Medical Devices in Secure Spaces",
+            "video": "https://www.youtube.com/watch?v=cSaNpSw2I-s"
         },
         {
-            "name": "Hacking the Supply Chain \u2013 The Ripple20 Vulnerabilities Haunt Tens of Millions of Critical Devices"
+            "name": "Hacking the Supply Chain \u2013 The Ripple20 Vulnerabilities Haunt Tens of Millions of Critical Devices",
+            "video": "https://www.youtube.com/watch?v=wo_YhLBVkrY"
         },
         {
-            "name": "HTTP Request Smuggling in 2020 \u2013 New Variants, New Defenses and New Challenges"
+            "name": "HTTP Request Smuggling in 2020 \u2013 New Variants, New Defenses and New Challenges",
+            "video": "https://www.youtube.com/watch?v=Zm-myHU8-RQ"
         },
         {
-            "name": "Hiding Process Memory via Anti-Forensic Techniques"
+            "name": "Hiding Process Memory via Anti-Forensic Techniques",
+            "video": "https://www.youtube.com/watch?v=tMxCfxjtvnk"
         },
         {
-            "name": "All You Ever Wanted to Know about the AMD Platform Security Processor and were Afraid to Emulate - Inside a Deeply Embedded Security Processor"
+            "name": "All You Ever Wanted to Know about the AMD Platform Security Processor and were Afraid to Emulate - Inside a Deeply Embedded Security Processor",
+            "video": "https://www.youtube.com/watch?v=KR8bPLj4nKE"
         },
         {
-            "name": "Room for Escape: Scribbling Outside the Lines of Template Security"
+            "name": "Room for Escape: Scribbling Outside the Lines of Template Security",
+            "video": "https://www.youtube.com/watch?v=yMDCyzSBX5U"
         },
         {
-            "name": "Defending Containers Like a Ninja: A Walk through the Advanced Security Features of Docker &#38; Kubernetes"
+            "name": "Defending Containers Like a Ninja: A Walk through the Advanced Security Features of Docker &#38; Kubernetes",
+            "video": "https://www.youtube.com/watch?v=sqaWn2gRcAU"
         },
         {
-            "name": "Emulating Samsung&#39;s Baseband for Security Testing"
+            "name": "Emulating Samsung&#39;s Baseband for Security Testing",
+            "video": "https://www.youtube.com/watch?v=wkWUU8820ro"
         },
         {
-            "name": "CloudLeak: DNN Model Extractions from Commercial MLaaS Platforms"
+            "name": "CloudLeak: DNN Model Extractions from Commercial MLaaS Platforms",
+            "video": "https://www.youtube.com/watch?v=m8k1u5RKdWI"
         },
         {
-            "name": "Election Security: Securing America's Future "
+            "name": "Election Security: Securing America's Future ",
+            "video": "https://www.youtube.com/watch?v=bCw2pu209ss"
         },
         {
-            "name": "An Unauthenticated Journey to Root: Pwning Your Company's Enterprise Software Servers"
+            "name": "An Unauthenticated Journey to Root: Pwning Your Company's Enterprise Software Servers",
+            "video": "https://www.youtube.com/watch?v=ApbWHPw5xa4"
         },
         {
-            "name": "Finding New Bluetooth Low Energy Exploits via Reverse Engineering Multiple Vendors' Firmwares"
+            "name": "Finding New Bluetooth Low Energy Exploits via Reverse Engineering Multiple Vendors' Firmwares",
+            "video": "https://www.youtube.com/watch?v=vdEoQgTP0H4"
         },
         {
-            "name": "Detecting Fake 4G Base Stations in Real Time"
+            "name": "Detecting Fake 4G Base Stations in Real Time",
+            "video": "https://www.youtube.com/watch?v=MlIKV5qAf2I"
         },
         {
-            "name": "Decade of the RATs \u2013 Custom Chinese Linux Rootkits for Everyone"
+            "name": "Decade of the RATs \u2013 Custom Chinese Linux Rootkits for Everyone",
+            "video": "https://www.youtube.com/watch?v=UffnceLg6t8"
         },
         {
-            "name": "Industrial Protocol Gateways Under Analysis"
+            "name": "Industrial Protocol Gateways Under Analysis",
+            "video": "https://www.youtube.com/watch?v=Rbkw_jsTBsY"
         },
         {
-            "name": "Engineering Empathy: Adapting Software Engineering Principles and Process to Security"
+            "name": "Engineering Empathy: Adapting Software Engineering Principles and Process to Security",
+            "video": "https://www.youtube.com/watch?v=_tbd1y6fbHU"
         },
         {
-            "name": "Web Cache Entanglement: Novel Pathways to Poisoning"
+            "name": "Web Cache Entanglement: Novel Pathways to Poisoning",
+            "video": "https://www.youtube.com/watch?v=jXSmx0fnjgg"
         },
         {
-            "name": "Repurposing Neural Networks to Generate Synthetic Media for Information Operations"
+            "name": "Repurposing Neural Networks to Generate Synthetic Media for Information Operations",
+            "video": "https://www.youtube.com/watch?v=M-d_IYv81gE"
         },
         {
-            "name": "Policy Implications of Faulty Cyber Risk Models and How to Fix Them"
+            "name": "Policy Implications of Faulty Cyber Risk Models and How to Fix Them",
+            "video": "https://www.youtube.com/watch?v=Vh5q_O8odC0"
         },
         {
-            "name": "iOS Kernel PAC, One Year Later"
+            "name": "iOS Kernel PAC, One Year Later",
+            "video": "https://www.youtube.com/watch?v=7zCBOFxATFs"
         },
         {
-            "name": "Ruling StarCraft Game Spitefully -- Exploiting the Blind Spot of AI-Powered Game Bots"
+            "name": "Ruling StarCraft Game Spitefully -- Exploiting the Blind Spot of AI-Powered Game Bots",
+            "video": "https://www.youtube.com/watch?v=bQk-NugmhjM"
         },
         {
-            "name": "We Went to Iowa and All We Got were These Felony Arrest Records"
+            "name": "We Went to Iowa and All We Got were These Felony Arrest Records",
+            "video": "https://www.youtube.com/watch?v=gj4Ie_ausZ4"
         },
         {
-            "name": "Whispers Among the Stars: A Practical Look at Perpetrating (and Preventing) Satellite Eavesdropping Attacks"
+            "name": "Whispers Among the Stars: A Practical Look at Perpetrating (and Preventing) Satellite Eavesdropping Attacks",
+            "video": "https://www.youtube.com/watch?v=d5Sbwlu6f8o"
         },
         {
-            "name": "Demystifying Modern Windows Rootkits"
+            "name": "Demystifying Modern Windows Rootkits",
+            "video": "https://www.youtube.com/watch?v=ZASsIpdumcY"
         },
         {
-            "name": "Stopping Snake Oil with Smaller Healthcare Providers:  Addressing Security with Actionable Plans and Maximum Value"
+            "name": "Stopping Snake Oil with Smaller Healthcare Providers:  Addressing Security with Actionable Plans and Maximum Value",
+            "video": "https://www.youtube.com/watch?v=Gg9dKNU_-Bc"
         },
         {
-            "name": "Reverse Engineering the Tesla Battery Management System to increase Power Available"
+            "name": "Reverse Engineering the Tesla Battery Management System to increase Power Available",
+            "video": "https://www.youtube.com/watch?v=UV2zvgyIF0I"
         },
         {
-            "name": "Discovering Hidden Properties to Attack the Node.js Ecosystem"
+            "name": "Discovering Hidden Properties to Attack the Node.js Ecosystem",
+            "video": "https://www.youtube.com/watch?v=mDQwYVnEXt4"
         },
         {
-            "name": "Reversing the Root: Identifying the Exploited Vulnerability in 0-days Used In-The-Wild"
+            "name": "Reversing the Root: Identifying the Exploited Vulnerability in 0-days Used In-The-Wild",
+            "video": "https://www.youtube.com/watch?v=LIZYHrCpXNk"
         },
         {
-            "name": "OTRazor: Static Code Analysis for Vulnerability Discovery in Industrial Automation Scripts"
+            "name": "OTRazor: Static Code Analysis for Vulnerability Discovery in Industrial Automation Scripts",
+            "video": "https://www.youtube.com/watch?v=H8s4fNoUMeE"
         },
         {
-            "name": "Breaking Samsung's Root of Trust: Exploiting Samsung S10 Secure Boot"
+            "name": "Breaking Samsung's Root of Trust: Exploiting Samsung S10 Secure Boot",
+            "video": "https://www.youtube.com/watch?v=BwFtOrkKlbo"
         },
         {
-            "name": "The Devil&#39;s in the Dependency: Data-Driven Software Composition Analysis"
+            "name": "The Devil&#39;s in the Dependency: Data-Driven Software Composition Analysis",
+            "video": "https://www.youtube.com/watch?v=1DgraOLlcbI"
         },
         {
-            "name": "Building a Vulnerability Disclosure Program that Works for Election Vendors and Hackers"
+            "name": "Building a Vulnerability Disclosure Program that Works for Election Vendors and Hackers",
+            "video": "https://www.youtube.com/watch?v=iH56dHNFmXo"
         },
         {
-            "name": "Uncommon Sense: Detecting Exploits with Novel Hardware Performance Counters and ML Magic"
+            "name": "Uncommon Sense: Detecting Exploits with Novel Hardware Performance Counters and ML Magic",
+            "video": "https://www.youtube.com/watch?v=nHqF2Nl-sPY"
         },
         {
-            "name": "Healthscare \u2013  An Insider&#39;s Biopsy of Healthcare Application Security"
+            "name": "Healthscare \u2013  An Insider&#39;s Biopsy of Healthcare Application Security",
+            "video": "https://www.youtube.com/watch?v=33dQhsIcp7U"
         },
         {
-            "name": "FASTCash and INJX_Pure: How Threat Actors Use Public Standards for Financial Fraud"
+            "name": "FASTCash and INJX_Pure: How Threat Actors Use Public Standards for Financial Fraud",
+            "video": "https://www.youtube.com/watch?v=zGvQPtejX9w"
         },
         {
-            "name": "NoJITsu: Locking Down JavaScript Engines"
+            "name": "NoJITsu: Locking Down JavaScript Engines",
+            "video": "https://www.youtube.com/watch?v=OQr2J9X9tME"
         },
         {
-            "name": "Stealthily Access Your Android Phones: Bypass the Bluetooth Authentication"
+            "name": "Stealthily Access Your Android Phones: Bypass the Bluetooth Authentication",
+            "video": "https://www.youtube.com/watch?v=6J3weqoiads"
         },
         {
-            "name": "Superman Powered by Kryptonite: Turn the Adversarial Attack into Your Defense Weapon"
+            "name": "Superman Powered by Kryptonite: Turn the Adversarial Attack into Your Defense Weapon",
+            "video": "https://www.youtube.com/watch?v=fsBeC-1s5yU"
         },
         {
-            "name": "Needing the DoH: The Ongoing Encryption and Centralization of DNS"
+            "name": "Needing the DoH: The Ongoing Encryption and Centralization of DNS",
+            "video": "https://www.youtube.com/watch?v=XCnE2o2pfxs"
         },
         {
-            "name": "Practical Defenses Against Adversarial Machine Learning"
+            "name": "Practical Defenses Against Adversarial Machine Learning",
+            "video": "https://www.youtube.com/watch?v=RdHYZJ2S_Zk"
         },
         {
-            "name": "Hacking the Voter: Lessons from a Decade of Russian Military Operations"
+            "name": "Hacking the Voter: Lessons from a Decade of Russian Military Operations",
+            "video": "https://www.youtube.com/watch?v=dmXJ6fWUAoM"
         },
         {
-            "name": "IoT Skimmer: Energy Market Manipulation through High-Wattage IoT Botnets"
+            "name": "IoT Skimmer: Energy Market Manipulation through High-Wattage IoT Botnets",
+            "video": "https://www.youtube.com/watch?v=Df4tPM6aGcA"
         },
         {
-            "name": "Office Drama on macOS"
+            "name": "Office Drama on macOS",
+            "video": "https://www.youtube.com/watch?v=VE2iUMGLj4E"
         },
         {
-            "name": "When TLS Hacks You"
+            "name": "When TLS Hacks You",
+            "video": "https://www.youtube.com/watch?v=udpamSmD_vU"
         },
         {
-            "name": "Demigod: The Art of Emulating Kernel Rootkits"
+            "name": "Demigod: The Art of Emulating Kernel Rootkits",
+            "video": "https://www.youtube.com/watch?v=Zh_Dfd-ukEQ"
         },
         {
-            "name": "Hacking Public Opinion"
+            "name": "Hacking Public Opinion",
+            "video": "https://www.youtube.com/watch?v=aA_VFXDcVvw"
         },
         {
-            "name": "Lamphone: Real-Time Passive Reconstruction of Speech Using Light Emitted from Lamps"
+            "name": "Lamphone: Real-Time Passive Reconstruction of Speech Using Light Emitted from Lamps",
+            "video": "https://www.youtube.com/watch?v=9b1ffAcKZ_c"
         },
         {
-            "name": "Breaking VSM by Attacking SecureKernel"
+            "name": "Breaking VSM by Attacking SecureKernel",
+            "video": "https://www.youtube.com/watch?v=pm1ejZ3LkYU"
         },
         {
-            "name": "EtherOops: Exploring Practical Methods to Exploit Ethernet Packet-in-Packet Attacks"
+            "name": "EtherOops: Exploring Practical Methods to Exploit Ethernet Packet-in-Packet Attacks",
+            "video": "https://www.youtube.com/watch?v=MJi2rjEe9Pg"
         },
         {
-            "name": "Making an Impact from India to the Rest of the World by Building and Nurturing Women Infosec Community"
+            "name": "Making an Impact from India to the Rest of the World by Building and Nurturing Women Infosec Community",
+            "video": "https://www.youtube.com/watch?v=YlDZOFH6lCs"
         },
         {
-            "name": "Escaping Virtualized Containers"
+            "name": "Escaping Virtualized Containers",
+            "video": "https://www.youtube.com/watch?v=0hrv0qyOEd0"
         },
         {
-            "name": "Security Research on Mercedes-Benz: From Hardware to Car Control"
+            "name": "Security Research on Mercedes-Benz: From Hardware to Car Control",
+            "video": "https://www.youtube.com/watch?v=bBUdMyCP3rY"
         },
         {
-            "name": "Fooling Windows through Superfetch"
+            "name": "Fooling Windows through Superfetch",
+            "video": "https://www.youtube.com/watch?v=XQdKCO1Ql8U"
         },
         {
-            "name": "Multiple Bugs in Multi-Party Computation: Breaking Cryptocurrency&#39;s Strongest Wallets"
+            "name": "Multiple Bugs in Multi-Party Computation: Breaking Cryptocurrency&#39;s Strongest Wallets",
+            "video": "https://www.youtube.com/watch?v=0Okqvm4lBQI"
         },
         {
-            "name": "How I Created My Clone Using AI - Next-Gen Social Engineering"
+            "name": "How I Created My Clone Using AI - Next-Gen Social Engineering",
+            "video": "https://www.youtube.com/watch?v=XafJT7I71yo"
         },
         {
-            "name": "Detecting Access Token Manipulation"
+            "name": "Detecting Access Token Manipulation",
+            "video": "https://www.youtube.com/watch?v=RMVyYvt0bLY"
         },
         {
-            "name": "Portable Document Flaws 101"
+            "name": "Portable Document Flaws 101",
+            "video": "https://www.youtube.com/watch?v=U1PjEfNtHqA"
         },
         {
-            "name": "I calc'd Calc - Exploiting Excel Online"
+            "name": "I calc'd Calc - Exploiting Excel Online",
+            "video": "https://www.youtube.com/watch?v=Apr23dzz7JA"
         },
         {
-            "name": "Building Cyber Security Strategies for Emerging Industries in Sub Saharan Africa"
+            "name": "Building Cyber Security Strategies for Emerging Industries in Sub Saharan Africa",
+            "video": "https://www.youtube.com/watch?v=5Lf1fwbHtNg"
         },
         {
-            "name": "A Framework for Evaluating and Patching the Human Factor in Cybersecurity"
+            "name": "A Framework for Evaluating and Patching the Human Factor in Cybersecurity",
+            "video": "https://www.youtube.com/watch?v=Q96o5K-eL60"
         },
         {
-            "name": "Plundervolt: Flipping Bits from Software without Rowhammer"
+            "name": "Plundervolt: Flipping Bits from Software without Rowhammer",
+            "video": "https://www.youtube.com/watch?v=zKIliM-pHFs"
         },
         {
-            "name": "A Decade After Stuxnet&#39;s Printer Vulnerability: Printing is Still the Stairway to Heaven"
+            "name": "A Decade After Stuxnet&#39;s Printer Vulnerability: Printing is Still the Stairway to Heaven",
+            "video": "https://www.youtube.com/watch?v=CHWSewPDfhs"
         },
         {
-            "name": "Spectra: Breaking Separation Between Wireless Chips"
+            "name": "Spectra: Breaking Separation Between Wireless Chips",
+            "video": "https://www.youtube.com/watch?v=QYzpHNIAFWw"
         },
         {
-            "name": "IMP4GT: IMPersonation Attacks in 4G NeTworks"
+            "name": "IMP4GT: IMPersonation Attacks in 4G NeTworks",
+            "video": "https://www.youtube.com/watch?v=VzWsLmVDqZc"
         },
         {
-            "name": "Kr00k: Serious Vulnerability Affected Encryption of Billion+ Wi-Fi Devices"
+            "name": "Kr00k: Serious Vulnerability Affected Encryption of Billion+ Wi-Fi Devices",
+            "video": "https://www.youtube.com/watch?v=iclIChl1Imw"
         },
         {
-            "name": "Hunting Invisible Salamanders: Cryptographic (in)Security with Attacker-Controlled Keys"
+            "name": "Hunting Invisible Salamanders: Cryptographic (in)Security with Attacker-Controlled Keys",
+            "video": "https://www.youtube.com/watch?v=1VwC6tZTqIY"
         },
         {
-            "name": "Breaking Brains, Solving Problems: Lessons Learned from Two Years of Setting Puzzles and Riddles for InfoSec Professionals"
+            "name": "Breaking Brains, Solving Problems: Lessons Learned from Two Years of Setting Puzzles and Riddles for InfoSec Professionals",
+            "video": "https://www.youtube.com/watch?v=16JWimnLE5A"
         },
         {
-            "name": "Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities"
+            "name": "Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities",
+            "video": "https://www.youtube.com/watch?v=1M-oQY8ujVU"
         },
         {
-            "name": "EdTech- The Ultimate APT"
+            "name": "EdTech- The Ultimate APT",
+            "video": "https://www.youtube.com/watch?v=hWXW8kZBzkU"
         },
         {
-            "name": "A Little Less Speculation, a Little More Action: A Deep Dive into Fuchsia&#39;s Mitigations for Specific CPU Side-Channel Attacks"
+            "name": "A Little Less Speculation, a Little More Action: A Deep Dive into Fuchsia&#39;s Mitigations for Specific CPU Side-Channel Attacks",
+            "video": "https://www.youtube.com/watch?v=vqZhYz0SPRU"
         },
         {
-            "name": "About Directed Fuzzing and Use-After-Free: How to Find Complex & Silent Bugs?"
+            "name": "About Directed Fuzzing and Use-After-Free: How to Find Complex & Silent Bugs?",
+            "video": "https://www.youtube.com/watch?v=S2IZUCegap0"
         },
         {
-            "name": "When Lightning Strikes Thrice: Breaking Thunderbolt 3 Security"
+            "name": "When Lightning Strikes Thrice: Breaking Thunderbolt 3 Security",
+            "video": "https://www.youtube.com/watch?v=Hvqoj5S2oZE"
         },
         {
-            "name": "Heroku Abuse Operations: Hunting Wolves in Sheep&#39;s Clothing"
+            "name": "Heroku Abuse Operations: Hunting Wolves in Sheep&#39;s Clothing",
+            "video": "https://www.youtube.com/watch?v=S4BQg-yX5WQ"
         },
         {
-            "name": "Remote Timing Attacks on TPMs, AKA TPM-Fail"
+            "name": "Remote Timing Attacks on TPMs, AKA TPM-Fail",
+            "video": "https://www.youtube.com/watch?v=QGKEwmMqwxE"
         },
         {
-            "name": "Improving Mental Models of End-to-End Encrypted Communication"
+            "name": "Improving Mental Models of End-to-End Encrypted Communication",
+            "video": "https://www.youtube.com/watch?v=K3gE0dseIys"
         },
         {
-            "name": "The Dark Side of the Cloud - How a Lack of EMR Security Controls Helped Amplify the Opioid Crisis"
+            "name": "The Dark Side of the Cloud - How a Lack of EMR Security Controls Helped Amplify the Opioid Crisis",
+            "video": "https://www.youtube.com/watch?v=i5OZLNhnBy4"
         },
         {
-            "name": "Exploiting Kernel Races through Taming Thread Interleaving"
+            "name": "Exploiting Kernel Races through Taming Thread Interleaving",
+            "video": "https://www.youtube.com/watch?v=5M3WhLVLCzs"
         },
         {
-            "name": "Routopsy: Modern Routing Protocol Vulnerability Analysis and Exploitation"
+            "name": "Routopsy: Modern Routing Protocol Vulnerability Analysis and Exploitation",
+            "video": "https://www.youtube.com/watch?v=n6BDdyhWSeU"
         },
         {
-            "name": "Dive into Apple IO80211FamilyV2"
+            "name": "Dive into Apple IO80211FamilyV2",
+            "video": "https://www.youtube.com/watch?v=GFHSE60N3io"
         },
         {
-            "name": "Experimenting with Real-Time Event Feeds"
+            "name": "Experimenting with Real-Time Event Feeds",
+            "video": "https://www.youtube.com/watch?v=XAjj1L2ixb4"
         },
         {
-            "name": "My Cloud is APT&#39;s Cloud: Investigating and Defending Office 365"
+            "name": "My Cloud is APT&#39;s Cloud: Investigating and Defending Office 365",
+            "video": "https://www.youtube.com/watch?v=ia0T8i7LAAI"
         },
         {
-            "name": "Black-Box Laser Fault Injection on a Secure Memory"
+            "name": "Black-Box Laser Fault Injection on a Secure Memory",
+            "video": "https://www.youtube.com/watch?v=7-9knubFJjY"
         },
         {
-            "name": "The Paramedic's Guide to Surviving Cybersecurity"
+            "name": "The Paramedic's Guide to Surviving Cybersecurity",
+            "video": "https://www.youtube.com/watch?v=gKkYMMFrCHU"
         },
         {
-            "name": "TiYunZong: An Exploit Chain to Remotely Root Modern Android Devices - Pwn Android Phones from 2015 to 2020"
+            "name": "TiYunZong: An Exploit Chain to Remotely Root Modern Android Devices - Pwn Android Phones from 2015 to 2020",
+            "video": "https://www.youtube.com/watch?v=K91SrkKt4IQ"
         },
         {
-            "name": "Virtually Private Networks"
+            "name": "Virtually Private Networks",
+            "video": "https://www.youtube.com/watch?v=1FbmSCpYIx4"
         },
         {
-            "name": "Lateral Movement and Privilege Escalation in GCP; Compromise any Organization without Dropping an Implant"
+            "name": "Lateral Movement and Privilege Escalation in GCP; Compromise any Organization without Dropping an Implant",
+            "video": "https://www.youtube.com/watch?v=kyqeBGNSEIc"
         },
         {
-            "name": "Beyond Root: Custom Firmware for Embedded Mobile Chipsets"
+            "name": "Beyond Root: Custom Firmware for Embedded Mobile Chipsets",
+            "video": "https://www.youtube.com/watch?v=5mRbq0d2Nss"
         },
         {
-            "name": "Operation Chimera - APT Operation Targets Semiconductor Vendors"
+            "name": "Operation Chimera - APT Operation Targets Semiconductor Vendors",
+            "video": "https://www.youtube.com/watch?v=gQ3Djw3Tl1g"
         },
         {
-            "name": "Mind Games: Using Data to Solve for the Human Element"
+            "name": "Mind Games: Using Data to Solve for the Human Element",
+            "video": "https://www.youtube.com/watch?v=INpKF0MY82M"
         },
         {
-            "name": "You have No Idea Who Sent that Email: 18 Attacks on Email Sender Authentication"
+            "name": "You have No Idea Who Sent that Email: 18 Attacks on Email Sender Authentication",
+            "video": "https://www.youtube.com/watch?v=ar_lVqkWcHk"
         },
         {
-            "name": "A Hacker's Guide to Reducing Side-Channel Attack Surfaces Using Deep-Learning"
+            "name": "A Hacker's Guide to Reducing Side-Channel Attack Surfaces Using Deep-Learning",
+            "video": "https://www.youtube.com/watch?v=rb1wzJeGbD8"
         }
     ]
 }

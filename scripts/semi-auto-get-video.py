@@ -32,12 +32,12 @@ def get_video_urls(year, conference, location):
         if len(results) == 0:
             print(f'No video found for {topic["name"]}')
             continue
-        print(f"[{i}/{len(data['topics'])}] talk: " + topic['name'])
+        print(f"[{i}/{len(data['topics'])}] Talk: " + topic['name'])
         for i, result in enumerate(results):
             print('----------------------------------------')
-            print(f'[{i}] candidate title: {result["title"]}')
-            print(f'[{i}] candidate published time: {result["publish_time"]}')
-            print(f'[{i}] candidate channel: {result["channel"]}')
+            print(f'[{i}] Title: {result["title"]}')
+            print(f'[{i}] Published Time: {result["publish_time"]}')
+            print(f'[{i}] Channel: {result["channel"]}')
         print('----------------------------------------')
 
         # select the video

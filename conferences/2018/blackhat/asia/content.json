@@ -1,109 +1,141 @@
 {
     "topics": [
         {
-            "name": "National Cyber-Aggression and Private-Sector Internet Infrastructure"
+            "name": "National Cyber-Aggression and Private-Sector Internet Infrastructure",
+            "video": "https://www.youtube.com/watch?v=KoEKclWpRJk"
         },
         {
             "name": "I Don't Want to Sleep Tonight: Subverting Intel TXT with S3 Sleep"
         },
         {
-            "name": "Nation-State Moneymule's Hunting Season \u2013 APT Attacks Targeting Financial Institutions"
+            "name": "Nation-State Moneymule's Hunting Season \u2013 APT Attacks Targeting Financial Institutions",
+            "video": "https://www.youtube.com/watch?v=n-LLgFUdRRU"
         },
         {
-            "name": "KSMA: Breaking Android Kernel Isolation and Rooting with ARM MMU Features"
+            "name": "KSMA: Breaking Android Kernel Isolation and Rooting with ARM MMU Features",
+            "video": "https://www.youtube.com/watch?v=qK6jEEZ1-lY"
         },
         {
-            "name": "XOM-switch: Hiding Your Code from Advanced Code Reuse Attacks In One Shot"
+            "name": "XOM-switch: Hiding Your Code from Advanced Code Reuse Attacks In One Shot",
+            "video": "https://www.youtube.com/watch?v=TqrYanDM9to"
         },
         {
-            "name": "Securing Your In-Ear-Fitness Coach: Challenges in Hardening Next Generation Wearables"
+            "name": "Securing Your In-Ear-Fitness Coach: Challenges in Hardening Next Generation Wearables",
+            "video": "https://www.youtube.com/watch?v=gsNJEd5CWa0"
         },
         {
             "name": "eMMC & UFS: Security, Vulnerabilities, Rootkits"
         },
         {
-            "name": "return-to-csu: A New Method to Bypass 64-bit Linux ASLR"
+            "name": "return-to-csu: A New Method to Bypass 64-bit Linux ASLR",
+            "video": "https://www.youtube.com/watch?v=mPbHroMVepM"
         },
         {
-            "name": "Hourglass Model 2.0: Case Study of Southeast Asia Underground Services Abusing Global 2FA"
+            "name": "Hourglass Model 2.0: Case Study of Southeast Asia Underground Services Abusing Global 2FA",
+            "video": "https://www.youtube.com/watch?v=VMLUKmvffO8"
         },
         {
-            "name": "Tales from the NOC: Going Public in Asia"
+            "name": "Tales from the NOC: Going Public in Asia",
+            "video": "https://www.youtube.com/watch?v=jy-Pb_APb5I"
         },
         {
-            "name": "Breaking State-of-the-Art Binary Code Obfuscation via Program Synthesis"
+            "name": "Breaking State-of-the-Art Binary Code Obfuscation via Program Synthesis",
+            "video": "https://www.youtube.com/watch?v=0SvX6F80qg8"
         },
         {
-            "name": "Shadow-Box v2: The Practical and Omnipotent Sandbox for ARM"
+            "name": "Shadow-Box v2: The Practical and Omnipotent Sandbox for ARM",
+            "video": "https://www.youtube.com/watch?v=20tXPsrBBig"
         },
         {
-            "name": "A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!"
+            "name": "A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!",
+            "video": "https://www.youtube.com/watch?v=R9pJ2YCXoJQ"
         },
         {
-            "name": "AES Wireless Keyboard \u2013 Template Attack for Eavesdropping"
+            "name": "AES Wireless Keyboard \u2013 Template Attack for Eavesdropping",
+            "video": "https://www.youtube.com/watch?v=KVYHFcmoO00"
         },
         {
-            "name": "UbootKit: A Worm Attack for the Bootloader of IoT Devices"
+            "name": "UbootKit: A Worm Attack for the Bootloader of IoT Devices",
+            "video": "https://www.youtube.com/watch?v=PNnlzP0fPyA"
         },
         {
-            "name": "Prison Break Season 6: Defeating the Mitigations Adopted by Android OEMs"
+            "name": "Prison Break Season 6: Defeating the Mitigations Adopted by Android OEMs",
+            "video": "https://www.youtube.com/watch?v=3zEcBu1T_hc"
         },
         {
-            "name": "Breach Detection At Scale With AWS Honey Tokens"
+            "name": "Breach Detection At Scale With AWS Honey Tokens",
+            "video": "https://www.youtube.com/watch?v=UJFDcLwq1uI"
         },
         {
-            "name": "All Your Payment Tokens Are Mine: Vulnerabilities of Mobile Payment Systems"
+            "name": "All Your Payment Tokens Are Mine: Vulnerabilities of Mobile Payment Systems",
+            "video": "https://www.youtube.com/watch?v=tWvGL9HRTRQ"
         },
         {
-            "name": "Cyber Comrades: Alliance-Building in Cyberspace"
+            "name": "Cyber Comrades: Alliance-Building in Cyberspace",
+            "video": "https://www.youtube.com/watch?v=Sh51yU1J-2Y"
         },
         {
-            "name": "A Short Course in Cyber Warfare"
+            "name": "A Short Course in Cyber Warfare",
+            "video": "https://www.youtube.com/watch?v=gvS4efEakpY"
         },
         {
-            "name": "International Problems: Serialized Fuzzing for ICU Vulnerabilities"
+            "name": "International Problems: Serialized Fuzzing for ICU Vulnerabilities",
+            "video": "https://www.youtube.com/watch?v=3j9dIF9KIOE"
         },
         {
-            "name": "Server Tailgating - A Chosen-PlainText Attack on RDP"
+            "name": "Server Tailgating - A Chosen-PlainText Attack on RDP",
+            "video": "https://www.youtube.com/watch?v=R9W-8oKHheI"
         },
         {
-            "name": "Analyzing & Breaking Exploit Mitigations and PRNGs on QNX for Automotive, Industrial, Medical and other Embedded Systems"
+            "name": "Analyzing & Breaking Exploit Mitigations and PRNGs on QNX for Automotive, Industrial, Medical and other Embedded Systems",
+            "video": "https://www.youtube.com/watch?v=-yrh-RIinto"
         },
         {
-            "name": "VSPMiner: Detecting Security Hazards in SEAndroid Vendor Customizations via Large-Scale Supervised Machine Learning"
+            "name": "VSPMiner: Detecting Security Hazards in SEAndroid Vendor Customizations via Large-Scale Supervised Machine Learning",
+            "video": "https://www.youtube.com/watch?v=Y60suXsYtFY"
         },
         {
-            "name": "When Good Turns Evil: Using Intel SGX to Stealthily Steal Bitcoins"
+            "name": "When Good Turns Evil: Using Intel SGX to Stealthily Steal Bitcoins",
+            "video": "https://www.youtube.com/watch?v=CfgcuVHpEKY"
         },
         {
-            "name": "Invoke-DOSfuscation: Techniques FOR %F IN (-style) DO (S-level CMD Obfuscation)"
+            "name": "Invoke-DOSfuscation: Techniques FOR %F IN (-style) DO (S-level CMD Obfuscation)",
+            "video": "https://www.youtube.com/watch?v=mej5L9PE1fs"
         },
         {
             "name": "Documenting the Undocumented: The Rise and Fall of AMSI"
         },
         {
-            "name": "Counter-Infiltration: Future-Proof Counter Attacks Against Exploit Kit Infrastructure"
+            "name": "Counter-Infiltration: Future-Proof Counter Attacks Against Exploit Kit Infrastructure",
+            "video": "https://www.youtube.com/watch?v=jATsubShSv4"
         },
         {
-            "name": "RustZone: Writing Trusted Applications in Rust"
+            "name": "RustZone: Writing Trusted Applications in Rust",
+            "video": "https://www.youtube.com/watch?v=5fxPuOrlE2I"
         },
         {
-            "name": "Back To The Epilogue: How to Evade Windows' Control Flow Guard with Less than 16 Bytes"
+            "name": "Back To The Epilogue: How to Evade Windows' Control Flow Guard with Less than 16 Bytes",
+            "video": "https://www.youtube.com/watch?v=HrQVaUIDpY8"
         },
         {
-            "name": "A Deal with the Devil: Breaking Smart Contracts"
+            "name": "A Deal with the Devil: Breaking Smart Contracts",
+            "video": "https://www.youtube.com/watch?v=95-pdnUQQSo"
         },
         {
-            "name": "New Compat Vulnerabilities in Linux Device Drivers"
+            "name": "New Compat Vulnerabilities in Linux Device Drivers",
+            "video": "https://www.youtube.com/watch?v=-Fg2EfOchUY"
         },
         {
-            "name": "Death Profile"
+            "name": "Death Profile",
+            "video": "https://www.youtube.com/watch?v=9b9_pIjfJCE"
         },
         {
-            "name": "Mac-A-Mal: An Automated Platform for Mac Malware Hunting"
+            "name": "Mac-A-Mal: An Automated Platform for Mac Malware Hunting",
+            "video": "https://www.youtube.com/watch?v=G5ZZXCEi_Rc"
         },
         {
-            "name": "Breaking the Attack Graph: How to Leverage Graphs to Strengthen Security in a Domain Environment"
+            "name": "Breaking the Attack Graph: How to Leverage Graphs to Strengthen Security in a Domain Environment",
+            "video": "https://www.youtube.com/watch?v=hglPRX23WPE"
         }
     ]
 }

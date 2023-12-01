@@ -1,67 +1,84 @@
 {
     "topics": [
         {
-            "name": "The Next Arms Race"
+            "name": "The Next Arms Race",
+            "video": "https://www.youtube.com/watch?v=l2rIVdpMToM"
         },
         {
             "name": "NetSpectre: A Truly Remote Spectre Variant"
         },
         {
-            "name": "Office in Wonderland"
+            "name": "Office in Wonderland",
+            "video": "https://www.youtube.com/watch?v=9ULzZA70Dzg"
         },
         {
-            "name": "PASTA: Portable Automotive Security Testbed with Adaptability"
+            "name": "PASTA: Portable Automotive Security Testbed with Adaptability",
+            "video": "https://www.youtube.com/watch?v=Av9B5B1BbbQ"
         },
         {
-            "name": "ACSploit: Exploit Algorithmic Complexity Vulnerabilities"
+            "name": "ACSploit: Exploit Algorithmic Complexity Vulnerabilities",
+            "video": "https://www.youtube.com/watch?v=FAVD_awNeeA"
         },
         {
-            "name": "CQTools: The New Ultimate Hacking Toolkit"
+            "name": "CQTools: The New Ultimate Hacking Toolkit",
+            "video": "https://www.youtube.com/watch?v=MZ0nSO0WOJg"
         },
         {
-            "name": "Keep Everyone In Sync: Effective Approaches Borrowed from Open Source Communities"
+            "name": "Keep Everyone In Sync: Effective Approaches Borrowed from Open Source Communities",
+            "video": "https://www.youtube.com/watch?v=smhhbXvT2_k"
         },
         {
-            "name": "How to Survive the Hardware Assisted Control-Flow Integrity Enforcement"
+            "name": "How to Survive the Hardware Assisted Control-Flow Integrity Enforcement",
+            "video": "https://www.youtube.com/watch?v=D4-YwGYYcTg"
         },
         {
             "name": "Pwning the Core of IoT Botnets: From a Honeypot to Gigabytes of Botnet Source Code"
         },
         {
-            "name": "Intel VISA: Through the Rabbit Hole"
+            "name": "Intel VISA: Through the Rabbit Hole",
+            "video": "https://www.youtube.com/watch?v=mYAelYWvSKg"
         },
         {
-            "name": "Preloading Insecurity In Your Electron"
+            "name": "Preloading Insecurity In Your Electron",
+            "video": "https://www.youtube.com/watch?v=Hw6JShd8Jxw"
         },
         {
             "name": "Finally, I Can Sleep Tonight: Catching Sleep Mode Vulnerabilities of the TPM with the Napper"
         },
         {
-            "name": "iOS Dual Booting Demystified "
+            "name": "iOS Dual Booting Demystified ",
+            "video": "https://www.youtube.com/watch?v=_gTzVrUKabY"
         },
         {
-            "name": "Investigating Malware Using Memory Forensics - A Practical Approach"
+            "name": "Investigating Malware Using Memory Forensics - A Practical Approach",
+            "video": "https://www.youtube.com/watch?v=BMFCdAGxVN4"
         },
         {
             "name": "Reverse Engineering Custom ASICs by Exploiting Potential Supply-Chain Leaks"
         },
         {
-            "name": "Winter is Coming Back: Defeating the Most Advanced Rowhammer Defenses to Gain Root and Kernel Privileges"
+            "name": "Winter is Coming Back: Defeating the Most Advanced Rowhammer Defenses to Gain Root and Kernel Privileges",
+            "video": "https://www.youtube.com/watch?v=utftGDx4AVU"
         },
         {
-            "name": "DevSecOps: What, Why and How"
+            "name": "DevSecOps: What, Why and How",
+            "video": "https://www.youtube.com/watch?v=DzX9Vi_UQ8o"
         },
         {
-            "name": "The Cost of Learning from the Best: How Prior Knowledge Weakens the Security of Deep Neural Networks"
+            "name": "The Cost of Learning from the Best: How Prior Knowledge Weakens the Security of Deep Neural Networks",
+            "video": "https://www.youtube.com/watch?v=PQGPxg4qhJc"
         },
         {
-            "name": "See Like a Bat: Using Echo-Analysis to Detect Man-in-the-Middle Attacks in LANs"
+            "name": "See Like a Bat: Using Echo-Analysis to Detect Man-in-the-Middle Attacks in LANs",
+            "video": "https://www.youtube.com/watch?v=1Px8eeaXN7g"
         },
         {
-            "name": "Modern Secure Boot Attacks: Bypassing Hardware Root of Trust from Software"
+            "name": "Modern Secure Boot Attacks: Bypassing Hardware Root of Trust from Software",
+            "video": "https://www.youtube.com/watch?v=0fZdL3ufVOI"
         },
         {
-            "name": "Zombie POODLE, GOLDENDOODLE, and How TLSv1.3 Can Save Us All"
+            "name": "Zombie POODLE, GOLDENDOODLE, and How TLSv1.3 Can Save Us All",
+            "video": "https://www.youtube.com/watch?v=R5z0mhzxKGc"
         },
         {
             "name": "Dive into VxWorks Based IoT Device: Debug the Undebugable Device"
@@ -82,7 +99,8 @@
             "name": "Attacking Browser Sandbox: Live Persistently and Prosperously"
         },
         {
-            "name": "Don&#39;t Eat Spaghetti with a Spoon - An Analysis of the Practical Value of Threat Intelligence"
+            "name": "Don&#39;t Eat Spaghetti with a Spoon - An Analysis of the Practical Value of Threat Intelligence",
+            "video": "https://www.youtube.com/watch?v=A3icvg-zsu4"
         },
         {
             "name": "Automated REST API Endpoint Identification for Security Testing at Scale: How Machine Learning Accelerates Security Testing"
@@ -91,7 +109,8 @@
             "name": "Who Left Open the Cookie Jar?"
         },
         {
-            "name": "Return of the Insecure Brazilian Voting Machines"
+            "name": "Return of the Insecure Brazilian Voting Machines",
+            "video": "https://www.youtube.com/watch?v=NGmHrxvefNo"
         },
         {
             "name": "Using the JIT Vulnerability to Pwn Microsoft Edge"
@@ -109,7 +128,8 @@
             "name": "AcuTherm: A Hybrid Attack on Password Entry Based on Both Acoustic and Thermal Side-Channels"
         },
         {
-            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC"
+            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC",
+            "video": "https://www.youtube.com/watch?v=RA7J58x5bUQ"
         }
     ]
 }

@@ -1,139 +1,183 @@
 {
     "topics": [
         {
-            "name": "Blue to Red: Traversing the Spectrum"
+            "name": "Blue to Red: Traversing the Spectrum",
+            "video": "https://www.youtube.com/watch?v=WhSrLk6vWgQ"
         },
         {
-            "name": "Conducting a Successful False Flag Cyber Operation (Blame it on China)"
+            "name": "Conducting a Successful False Flag Cyber Operation (Blame it on China)",
+            "video": "https://www.youtube.com/watch?v=W2vBu_Jui9A"
         },
         {
-            "name": "Chain of Fools: An Exploration of Certificate Chain Validation Mishaps"
+            "name": "Chain of Fools: An Exploration of Certificate Chain Validation Mishaps",
+            "video": "https://www.youtube.com/watch?v=gmYcsdXT3W8"
         },
         {
-            "name": "Money Doesn&#39;t Stink - Cybercriminal Business Insight of A New Android Botnet"
+            "name": "Money Doesn&#39;t Stink - Cybercriminal Business Insight of A New Android Botnet",
+            "video": "https://www.youtube.com/watch?v=p7XtZcFrS6g"
         },
         {
-            "name": "First Contact - Vulnerabilities in Contactless Payments"
+            "name": "First Contact - Vulnerabilities in Contactless Payments",
+            "video": "https://www.youtube.com/watch?v=YmJ4ULncNwg"
         },
         {
-            "name": "BluePill: Neutralizing Anti-Analysis Behavior in Malware Dissection"
+            "name": "BluePill: Neutralizing Anti-Analysis Behavior in Malware Dissection",
+            "video": "https://www.youtube.com/watch?v=F_AK5eDGeak"
         },
         {
-            "name": "Mobile Network Hacking, IP Edition"
+            "name": "Mobile Network Hacking, IP Edition",
+            "video": "https://www.youtube.com/watch?v=3XUo7UBn28o"
         },
         {
-            "name": "Doors of Durin: The Veiled Gate to Siemens S7 Silicon"
+            "name": "Doors of Durin: The Veiled Gate to Siemens S7 Silicon",
+            "video": "https://www.youtube.com/watch?v=Pp_fLPgmrTg"
         },
         {
-            "name": "Exploiting Windows Hello for Business"
+            "name": "Exploiting Windows Hello for Business",
+            "video": "https://www.youtube.com/watch?v=u22XC01ewn0"
         },
         {
-            "name": "Sneak into Your Room: Security Holes in the Integration and Management of Messaging Protocols on Commercial IoT Clouds"
+            "name": "Sneak into Your Room: Security Holes in the Integration and Management of Messaging Protocols on Commercial IoT Clouds",
+            "video": "https://www.youtube.com/watch?v=-XNMsxr1Jvg"
         },
         {
-            "name": "Hackers, Journalists and the Ethical Swamp"
+            "name": "Hackers, Journalists and the Ethical Swamp",
+            "video": "https://www.youtube.com/watch?v=_sNvrWk1ZfA"
         },
         {
-            "name": "Far Sides of Java Remote Protocols"
+            "name": "Far Sides of Java Remote Protocols",
+            "video": "https://www.youtube.com/watch?v=f3PXHijoP4s"
         },
         {
-            "name": "HTTP Desync Attacks: Request Smuggling Reborn"
+            "name": "HTTP Desync Attacks: Request Smuggling Reborn",
+            "video": "https://www.youtube.com/watch?v=_A04msdplXs"
         },
         {
-            "name": "Reverse Engineering and Exploiting Builds in the Cloud"
+            "name": "Reverse Engineering and Exploiting Builds in the Cloud",
+            "video": "https://www.youtube.com/watch?v=g6dtjtYOw2w"
         },
         {
-            "name": "Advanced VBA Macros Attack & Defence"
+            "name": "Advanced VBA Macros Attack & Defence",
+            "video": "https://www.youtube.com/watch?v=l5sMPGjtKn0"
         },
         {
-            "name": "Is Your Mental Health for Sale?"
+            "name": "Is Your Mental Health for Sale?",
+            "video": "https://www.youtube.com/watch?v=YMQQq_N1578"
         },
         {
-            "name": "Hands Off and Putting SLAB/SLUB Feng Shui in a Blackbox"
+            "name": "Hands Off and Putting SLAB/SLUB Feng Shui in a Blackbox",
+            "video": "https://www.youtube.com/watch?v=6xB5A7T5LyQ"
         },
         {
-            "name": "Booting the iOS Kernel to an Interactive Bash Shell on QEMU"
+            "name": "Booting the iOS Kernel to an Interactive Bash Shell on QEMU",
+            "video": "https://www.youtube.com/watch?v=reNv-7WWRw0"
         },
         {
-            "name": "Fuzzing and Exploiting Virtual Channels in Microsoft Remote Desktop Protocol for Fun and Profit"
+            "name": "Fuzzing and Exploiting Virtual Channels in Microsoft Remote Desktop Protocol for Fun and Profit",
+            "video": "https://www.youtube.com/watch?v=dGLrK8tUAFs"
         },
         {
-            "name": "ClusterFuzz: Fuzzing at Google Scale"
+            "name": "ClusterFuzz: Fuzzing at Google Scale",
+            "video": "https://www.youtube.com/watch?v=uK1irCH5cM0"
         },
         {
-            "name": "Bring Your Own Token (BYOT) to Replace the Traditional Smartcards for Strong Authentication and Signing"
+            "name": "Bring Your Own Token (BYOT) to Replace the Traditional Smartcards for Strong Authentication and Signing",
+            "video": "https://www.youtube.com/watch?v=9KEQSt81cp0"
         },
         {
-            "name": "Side Channel Attacks in 4G and 5G Cellular Networks"
+            "name": "Side Channel Attacks in 4G and 5G Cellular Networks",
+            "video": "https://www.youtube.com/watch?v=iOUDuecunjE"
         },
         {
-            "name": "Unleashing the Power of My 20+ Years Old Car"
+            "name": "Unleashing the Power of My 20+ Years Old Car",
+            "video": "https://www.youtube.com/watch?v=KM4whYLP9rg"
         },
         {
-            "name": "Understanding the IoT Threat Landscape and a Home Appliance Manufacturer&#39;s Approach to Counter Threats to IoT"
+            "name": "Understanding the IoT Threat Landscape and a Home Appliance Manufacturer&#39;s Approach to Counter Threats to IoT",
+            "video": "https://www.youtube.com/watch?v=JsEep_iTHZk"
         },
         {
-            "name": "Detecting (un)Intentionally Hidden Injected Code by Examining Page Table Entries"
+            "name": "Detecting (un)Intentionally Hidden Injected Code by Examining Page Table Entries",
+            "video": "https://www.youtube.com/watch?v=6u6YBk7o_7Q"
         },
         {
-            "name": "How to Break PDF Encryption"
+            "name": "How to Break PDF Encryption",
+            "video": "https://www.youtube.com/watch?v=phLOQ0pROag"
         },
         {
-            "name": "Unveiling the Underground World of Anti-Cheats"
+            "name": "Unveiling the Underground World of Anti-Cheats",
+            "video": "https://www.youtube.com/watch?v=yJHyHU5UjTg"
         },
         {
-            "name": "What the Fuzz"
+            "name": "What the Fuzz",
+            "video": "https://www.youtube.com/watch?v=Wy7qY5ms3qY"
         },
         {
-            "name": "Implementing the Lessons Learned From a Major Cyber Attack"
+            "name": "Implementing the Lessons Learned From a Major Cyber Attack",
+            "video": "https://www.youtube.com/watch?v=wQ8HIjkEe9o"
         },
         {
-            "name": "Tackling Privilege Escalation with Offense and Defense"
+            "name": "Tackling Privilege Escalation with Offense and Defense",
+            "video": "https://www.youtube.com/watch?v=xL-BjCWWmOc"
         },
         {
-            "name": "BitLeaker: Subverting BitLocker with One Vulnerability"
+            "name": "BitLeaker: Subverting BitLocker with One Vulnerability",
+            "video": "https://www.youtube.com/watch?v=EXyDAWWHeYY"
         },
         {
-            "name": "OEM Finder: Hunting Vulnerable OEM IoT Devices at Scale"
+            "name": "OEM Finder: Hunting Vulnerable OEM IoT Devices at Scale",
+            "video": "https://www.youtube.com/watch?v=AgzfII4pHYE"
         },
         {
-            "name": "New Exploit Technique In Java Deserialization Attack"
+            "name": "New Exploit Technique In Java Deserialization Attack",
+            "video": "https://www.youtube.com/watch?v=Lv9BC_bYaI8"
         },
         {
-            "name": "Alexa, Hack My Server(less) Please"
+            "name": "Alexa, Hack My Server(less) Please",
+            "video": "https://www.youtube.com/watch?v=R78An94BFaY"
         },
         {
-            "name": "Fatal Fury on ESP32: Time to Release Hardware Exploits"
+            "name": "Fatal Fury on ESP32: Time to Release Hardware Exploits",
+            "video": "https://www.youtube.com/watch?v=vwwTC_ivG00"
         },
         {
             "name": "Site Isolation: Confining Untrustworthy Code in the Web Browser"
         },
         {
-            "name": "BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication"
+            "name": "BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication",
+            "video": "https://www.youtube.com/watch?v=WM2OGaajE0c"
         },
         {
-            "name": "Trust in Apple&#39;s Secret Garden: Exploring &#38; Reversing Apple&#39;s Continuity Protocol"
+            "name": "Trust in Apple&#39;s Secret Garden: Exploring &#38; Reversing Apple&#39;s Continuity Protocol",
+            "video": "https://www.youtube.com/watch?v=HGykten2plk"
         },
         {
-            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC"
+            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC",
+            "video": "https://www.youtube.com/watch?v=RA7J58x5bUQ"
         },
         {
-            "name": "Practical Side-Channel Attacks Against WPA-TKIP"
+            "name": "Practical Side-Channel Attacks Against WPA-TKIP",
+            "video": "https://www.youtube.com/watch?v=AYD3by7J--k"
         },
         {
-            "name": "Bypassing KPTI Using the Speculative Behavior of the SWAPGS Instruction"
+            "name": "Bypassing KPTI Using the Speculative Behavior of the SWAPGS Instruction",
+            "video": "https://www.youtube.com/watch?v=XUwZUdOHT1c"
         },
         {
-            "name": "Breaking Bootloaders on the Cheap"
+            "name": "Breaking Bootloaders on the Cheap",
+            "video": "https://www.youtube.com/watch?v=QJwLjfhYiLE"
         },
         {
-            "name": "Simple Spyware: Androids Invisible Foreground Services and How to (Ab)use Them"
+            "name": "Simple Spyware: Androids Invisible Foreground Services and How to (Ab)use Them",
+            "video": "https://www.youtube.com/watch?v=EuInUW77CPo"
         },
         {
-            "name": "Thinking Outside the JIT Compiler: Understanding and Bypassing StructureID Randomization with Generic and Old-School Methods"
+            "name": "Thinking Outside the JIT Compiler: Understanding and Bypassing StructureID Randomization with Generic and Old-School Methods",
+            "video": "https://www.youtube.com/watch?v=CnqCkqTZUGs"
         },
         {
-            "name": "Inside Out - The Cloud has Never been so Close"
+            "name": "Inside Out - The Cloud has Never been so Close",
+            "video": "https://www.youtube.com/watch?v=PldQxID8pQA"
         }
     ]
 }

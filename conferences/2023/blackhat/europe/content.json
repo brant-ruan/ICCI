@@ -1,0 +1,127 @@
+{
+    "topics": [
+        {
+            "name": "Keynote: Industrialising Cyber Defence in an Asymmetric World"
+        },
+        {
+            "name": "LogoFAIL: Security Implications of Image Parsing During System Boot"
+        },
+        {
+            "name": "HODOR: Reducing Attack Surface on Node.js via System Call Limitation"
+        },
+        {
+            "name": "Evils in the Sparse Texture Memory: Exploit Kernel Based on Undefined Behaviors of Graphic APIs"
+        },
+        {
+            "name": "Millions of Patient Records at Risk: The Perils of Legacy Protocols"
+        },
+        {
+            "name": "AutoSpill: Zero Effort Credential Stealing from Mobile Password Managers"
+        },
+        {
+            "name": "TunnelCrack: Leaking VPN Traffic by Manipulating Routing Tables"
+        },
+        {
+            "name": "The Magnetic Pull of Mutable Protection: Worked Examples in Cryptographic Agility"
+        },
+        {
+            "name": "New Techniques for Split-Second DNS Rebinding"
+        },
+        {
+            "name": "A Decade After Stuxnet: How Siemens S7 is Still an Attacker&#39;s Heaven"
+        },
+        {
+            "name": "REDIScovering HeadCrab - A Technical Analysis of a Novel Malware and the Mind Behind It"
+        },
+        {
+            "name": "Something Rotten in the State of Data Centers"
+        },
+        {
+            "name": "Hiding in the Clouds: Abusing Azure DevOps Services to Bypass Microsoft Sentinel Analytic Rules"
+        },
+        {
+            "name": "Indirect Prompt Injection Into LLMs Using Images and Sounds"
+        },
+        {
+            "name": "TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers"
+        },
+        {
+            "name": "Through the Looking Glass: How Open Source Projects See Vulnerability Disclosure"
+        },
+        {
+            "name": "Breaking Theoretical Limits: The Gap Between Virtual NICs and Physical Network Cards"
+        },
+        {
+            "name": "Collide+Power: The Evolution of Software-based Power Side-Channels Attacks"
+        },
+        {
+            "name": "When The Front Door Becomes a Backdoor: The Security Paradox of OSDP"
+        },
+        {
+            "name": "Security Through Transparency: Scaling Your Customer Trust Program"
+        },
+        {
+            "name": "The Pool Party You Will Never Forget: New Process Injection Techniques Using Windows Thread Pools"
+        },
+        {
+            "name": "Keynote: My Lessons from the Uber Case"
+        },
+        {
+            "name": "Deleting Your Domain? Preventing Data Leaks at TLD Scale"
+        },
+        {
+            "name": "Breaching the Perimeter via Cloud Synchronized Browser Settings"
+        },
+        {
+            "name": "My Invisible Adversary: Burnout"
+        },
+        {
+            "name": "Reviving JIT Vulnerabilities: Unleashing the Power of Maglev Compiler Bugs on Chrome Browser"
+        },
+        {
+            "name": "Attacking NPUs of Multiple Platforms"
+        },
+        {
+            "name": "Illegitimate Data Protection Requests - To Delete or to Address?"
+        },
+        {
+            "name": "How I Learned to Stop Worrying and Build a Modern Detection & Response Program"
+        },
+        {
+            "name": "Old Code Dies Hard: Finding New Vulnerabilities in Old Third-Party Software Components and the Importance of Having SBoM for IoT/OT Devices"
+        },
+        {
+            "name": "Sweet QuaDreams or Nightmare Before Christmas? Dissecting an iOS 0-Day"
+        },
+        {
+            "name": "A Security RISC? The State of Microarchitectural Attacks on RISC-V"
+        },
+        {
+            "name": "How We Taught ChatGPT-4 to Break mbedTLS AES With Side-Channel Attacks"
+        },
+        {
+            "name": "Orchestrate This! Kubernetes Rootkit"
+        },
+        {
+            "name": "One Million ASUS Routers Under Control: Exploiting ASUS DDNS to MITM Admin Credentials"
+        },
+        {
+            "name": "Kidnapping Without Hostages: Virtual Kidnapping and the Dark Road Ahead"
+        },
+        {
+            "name": "Hacking Your Documentation: Who Should WTFM?"
+        },
+        {
+            "name": "A World-View of IP Spoofing in L4 Volumetric DoS Attacks - and a Call to Enable BCP38"
+        },
+        {
+            "name": "Off The Record - Weaponizing DHCP DNS Dynamic Updates"
+        },
+        {
+            "name": "VoBERT: Unstable Log Sequence Anomaly Detection: Introducing Vocabulary-Free BERT"
+        },
+        {
+            "name": "Unmasking APTs: An Automated Approach for Real-World Threat Attribution"
+        }
+    ]
+}

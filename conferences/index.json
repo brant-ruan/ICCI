@@ -69,8 +69,8 @@
             "pathName": "lss",
             "locations": [
                 {
-                    "displayName": "Europe",
-                    "pathName": "europe"
+                    "displayName": "North America",
+                    "pathName": "north-america"
                 }
             ]
         },

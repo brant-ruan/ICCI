@@ -1,0 +1,75 @@
+{
+    "topics": [
+        {
+            "name": "Deep Analysis of Exploitable Linux Kernel Vulnerabilities 2017-2019",
+            "video": "https://www.youtube.com/watch?v=MYEAGmP_id4"
+        },
+        {
+            "name": "Exploiting Race Conditions Using the Scheduler",
+            "video": "https://www.youtube.com/watch?v=MIJL5wLUtKE"
+        },
+        {
+            "name": "Dealing with Uninitialized Memory in the Kernel",
+            "video": "https://www.youtube.com/watch?v=4xJOjSZzqik"
+        },
+        {
+            "name": "A New Proposal for Protecting Kernel Data Memory",
+            "video": "https://www.youtube.com/watch?v=nPH2sQAD6RY"
+        },
+        {
+            "name": "Tracing: The Bane of You Security Folks",
+            "video": "https://www.youtube.com/watch?v=zUYCXBlUcYI"
+        },
+        {
+            "name": "Kernel Runtime Security Instrumentation",
+            "video": "https://www.youtube.com/watch?v=2CZSSRfgAgQ"
+        },
+        {
+            "name": "CRIU and SELinux",
+            "video": "https://www.youtube.com/watch?v=PZ8UHBtL_MM"
+        },
+        {
+            "name": "Address Spaces for Namespaces"
+        },
+        {
+            "name": "BoF: Simple Remote Attestation with Secure & Attested Communication Channels",
+            "video": "https://www.youtube.com/watch?v=mffdQgkvDNY"
+        },
+        {
+            "name": "Using a Different LSM from the Host in a Container",
+            "video": "https://www.youtube.com/watch?v=THzC4lZTH-k"
+        },
+        {
+            "name": "Tutorial: Using Linux Primitives to Build Your Own Containers",
+            "video": "https://www.youtube.com/watch?v=5KydVxAvLOA"
+        },
+        {
+            "name": "The Linux Crypto API",
+            "video": "https://www.youtube.com/watch?v=TKJYnq8WdPA"
+        },
+        {
+            "name": "OpenPOWER: Host OS (Linux Kernel) Secure Boot Key Management",
+            "video": "https://www.youtube.com/watch?v=yfdbuzvptsg"
+        },
+        {
+            "name": "Keylime - An Open Source TPM Project for Remote Trust.",
+            "video": "https://www.youtube.com/watch?v=YtPsruEqGeY"
+        },
+        {
+            "name": "Securing TPM Secrets with TXT and Kernel Signatures",
+            "video": "https://www.youtube.com/watch?v=Qbjz_5jUE9o"
+        },
+        {
+            "name": "LSM Stacking - What You Can Do Now and What's Next",
+            "video": "https://www.youtube.com/watch?v=XtKodXBxY6U"
+        },
+        {
+            "name": "Upcoming x86 Technologies for Malicious Hypervisor Protection",
+            "video": "https://www.youtube.com/watch?v=yr56SaJ_0QI"
+        },
+        {
+            "name": "Zephyr Project Security Status",
+            "video": "https://www.youtube.com/watch?v=VtAY2Ouw5l8"
+        }
+    ]
+}

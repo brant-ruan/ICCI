@@ -1,0 +1,74 @@
+{
+    "topics": [
+        {
+            "name": "Enarx - Attested, Secured Execution with AMD\u2019s SEV",
+            "video": "https://www.youtube.com/watch?v=0-ISmJNxGiY"
+        },
+        {
+            "name": "TrenchBoot - How to Nicely Boot System with Intel TXT and AMD SVM",
+            "video": "https://www.youtube.com/watch?v=DbpCU9iSi4g"
+        },
+        {
+            "name": "Making Containers Safer",
+            "video": "https://www.youtube.com/watch?v=uSrPrl3tn5U"
+        },
+        {
+            "name": "Kernel Runtime Security Instrumentation",
+            "video": "https://www.youtube.com/watch?v=2CZSSRfgAgQ"
+        },
+        {
+            "name": "Breaking and Protecting Linux Kernel Stack",
+            "video": "https://www.youtube.com/watch?v=FacpjoQbMhU"
+        },
+        {
+            "name": "Securing TPM Secrets with TXT and Kernel Signatures",
+            "video": "https://www.youtube.com/watch?v=Qbjz_5jUE9o"
+        },
+        {
+            "name": "Keynote: Retrospective: 26 Years of Flexible MAC",
+            "video": "https://www.youtube.com/watch?v=AKWFbxbsU3o"
+        },
+        {
+            "name": "NFS Support for the Linux Integrity Measurement Architecture",
+            "video": "https://www.youtube.com/watch?v=9P9pWxw26s0"
+        },
+        {
+            "name": "Application Whitelisting"
+        },
+        {
+            "name": "Rich Authorization in a Resource Constrained Device",
+            "video": "https://www.youtube.com/watch?v=rI9f5vrvIc8"
+        },
+        {
+            "name": "Writing Linux Kernel Modules in Safe Rust",
+            "video": "https://www.youtube.com/watch?v=RyY01fRyGhM"
+        },
+        {
+            "name": "Integrity Measurements and the Cruel World",
+            "video": "https://www.youtube.com/watch?v=nHIpLfon_LM"
+        },
+        {
+            "name": "Kernel Self-Protection Project",
+            "video": "https://www.youtube.com/watch?v=8Pg3vC-b1aY"
+        },
+        {
+            "name": "Making Remote Attestation Useful on Linux",
+            "video": "https://www.youtube.com/watch?v=TKva_h66Ptc"
+        },
+        {
+            "name": "It's Coming From Inside the House: Kernelspace Fault Injection with KRF",
+            "video": "https://www.youtube.com/watch?v=XNNYL8YEzmE"
+        },
+        {
+            "name": "Using and Implementing Keyring Restrictions for Userspace",
+            "video": "https://www.youtube.com/watch?v=K5ysLhHhPJI"
+        },
+        {
+            "name": "syzkaller Update and Open Problems"
+        },
+        {
+            "name": "Binary Policy with IMA and AppArmor",
+            "video": "https://www.youtube.com/watch?v=Qqp_pb8qKFY"
+        }
+    ]
+}

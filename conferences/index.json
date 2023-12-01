@@ -25,6 +25,10 @@
                 {
                     "displayName": "Asia",
                     "pathName": "asia"
+                },
+                {
+                    "displayName": "EU",
+                    "pathName": "europe"
                 }
             ]
         }

@@ -1,130 +1,172 @@
 {
     "topics": [
         {
-            "name": "Diplomacy and Combating Evolving International Cyber Threats"
+            "name": "Diplomacy and Combating Evolving International Cyber Threats",
+            "video": "https://www.youtube.com/watch?v=PHGfbtAKbW0"
         },
         {
-            "name": "Attacking NextGen Roaming Networks"
+            "name": "Attacking NextGen Roaming Networks",
+            "video": "https://www.youtube.com/watch?v=AySWvrpj9s8"
         },
         {
-            "name": "Breaking Bad: Stealing Patient Data Through Medical Devices"
+            "name": "Breaking Bad: Stealing Patient Data Through Medical Devices",
+            "video": "https://www.youtube.com/watch?v=jLnSB_5SR3I"
         },
         {
-            "name": "By-design Backdooring of Encryption System - Can We Trust Foreign Encryption Algorithms"
+            "name": "By-design Backdooring of Encryption System - Can We Trust Foreign Encryption Algorithms",
+            "video": "https://www.youtube.com/watch?v=uuC_dAnKQDM"
         },
         {
-            "name": "Dealing the Perfect Hand - Shuffling Memory Blocks on z/OS"
+            "name": "Dealing the Perfect Hand - Shuffling Memory Blocks on z/OS",
+            "video": "https://www.youtube.com/watch?v=0a5_I79dryA"
         },
         {
-            "name": "BlueBorne - A New Class of Airborne Attacks that can Remotely Compromise Any Linux/IoT Device"
+            "name": "BlueBorne - A New Class of Airborne Attacks that can Remotely Compromise Any Linux/IoT Device",
+            "video": "https://www.youtube.com/watch?v=WWQTlogqF1I"
         },
         {
-            "name": "Automatic Discovery of Evasion Vulnerabilities Using Targeted Protocol Fuzzing"
+            "name": "Automatic Discovery of Evasion Vulnerabilities Using Targeted Protocol Fuzzing",
+            "video": "https://www.youtube.com/watch?v=NDWGwrMk3AU"
         },
         {
-            "name": "Intel ME: Flash File System Explained"
+            "name": "Intel ME: Flash File System Explained",
+            "video": "https://www.youtube.com/watch?v=mYsTBPqbya8"
         },
         {
-            "name": "CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management"
+            "name": "CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management",
+            "video": "https://www.youtube.com/watch?v=0tM2v2SZDxY"
         },
         {
-            "name": "The Apple of Your EFI: An Updated Analysis of the State of Apple's EFI Security Support"
+            "name": "The Apple of Your EFI: An Updated Analysis of the State of Apple's EFI Security Support",
+            "video": "https://www.youtube.com/watch?v=wug_8lSv9hA"
         },
         {
-            "name": "Hiding Pin's Artifacts to Defeat Evasive Malware"
+            "name": "Hiding Pin's Artifacts to Defeat Evasive Malware",
+            "video": "https://www.youtube.com/watch?v=f-6d_siAVds"
         },
         {
-            "name": "How to Rob a Bank Over the Phone - Lessons Learned and Real Audio from an Actual Social Engineering Engagement"
+            "name": "How to Rob a Bank Over the Phone - Lessons Learned and Real Audio from an Actual Social Engineering Engagement",
+            "video": "https://www.youtube.com/watch?v=-EFHuZc8FAc"
         },
         {
-            "name": "Nation-State Moneymule's Hunting Season \u2013 APT Attacks Targeting Financial Institutions"
+            "name": "Nation-State Moneymule's Hunting Season \u2013 APT Attacks Targeting Financial Institutions",
+            "video": "https://www.youtube.com/watch?v=n-LLgFUdRRU"
         },
         {
-            "name": "Wi-Fi Direct to Hell: Attacking Wi-Fi Direct Protocol Implementations"
+            "name": "Wi-Fi Direct to Hell: Attacking Wi-Fi Direct Protocol Implementations",
+            "video": "https://www.youtube.com/watch?v=HukhsrYlrAo"
         },
         {
-            "name": "DIFUZZing Android Kernel Drivers"
+            "name": "DIFUZZing Android Kernel Drivers",
+            "video": "https://www.youtube.com/watch?v=XFDHzSLGx7o"
         },
         {
-            "name": "Self-Verifying Authentication \u2013 A Framework for Safer Integrations of Single-Sign-On Services"
+            "name": "Self-Verifying Authentication \u2013 A Framework for Safer Integrations of Single-Sign-On Services",
+            "video": "https://www.youtube.com/watch?v=DTc_z1k0uWc"
         },
         {
-            "name": "How to Hack a Turned-Off Computer, or Running Unsigned Code in Intel Management Engine"
+            "name": "How to Hack a Turned-Off Computer, or Running Unsigned Code in Intel Management Engine",
+            "video": "https://www.youtube.com/watch?v=9fhNokIgBMU"
         },
         {
-            "name": "Attacks Against GSMA's M2M Remote Provisioning"
+            "name": "Attacks Against GSMA's M2M Remote Provisioning",
+            "video": "https://www.youtube.com/watch?v=rI9hvDDbdlE"
         },
         {
-            "name": "Exposing Hidden Exploitable Behaviors in Programming Languages Using Differential Fuzzing"
+            "name": "Exposing Hidden Exploitable Behaviors in Programming Languages Using Differential Fuzzing",
+            "video": "https://www.youtube.com/watch?v=yJ-9_T19y0E"
         },
         {
-            "name": "I Trust My Zombies: A Trust-Enabled Botnet"
+            "name": "I Trust My Zombies: A Trust-Enabled Botnet",
+            "video": "https://www.youtube.com/watch?v=m4rKqdQEqSo"
         },
         {
-            "name": "GDPR and Third Party JS - Can it be Done?"
+            "name": "GDPR and Third Party JS - Can it be Done?",
+            "video": "https://www.youtube.com/watch?v=Br0yvn-ysas"
         },
         {
-            "name": "Security Through Distrusting"
+            "name": "Security Through Distrusting",
+            "video": "https://www.youtube.com/watch?v=PSLvfob0A4o"
         },
         {
-            "name": "Lost in Transaction: Process Doppelg\u00e4nging"
+            "name": "Lost in Transaction: Process Doppelg\u00e4nging",
+            "video": "https://www.youtube.com/watch?v=XmWOj-cfixs"
         },
         {
-            "name": "Red Team Techniques for Evading, Bypassing, and Disabling MS Advanced Threat Protection and Advanced Threat Analytics"
+            "name": "Red Team Techniques for Evading, Bypassing, and Disabling MS Advanced Threat Protection and Advanced Threat Analytics",
+            "video": "https://www.youtube.com/watch?v=2HNuzUuVyv0"
         },
         {
-            "name": "CALDERA: Automating Adversary Emulation"
+            "name": "CALDERA: Automating Adversary Emulation",
+            "video": "https://www.youtube.com/watch?v=fx3635hLewg"
         },
         {
-            "name": "A Process is No One: Hunting for Token Manipulation"
+            "name": "A Process is No One: Hunting for Token Manipulation",
+            "video": "https://www.youtube.com/watch?v=K7bW4I7txa8"
         },
         {
-            "name": "Ro(o)tten Apples: Vulnerability Heaven in the iOS Sandbox"
+            "name": "Ro(o)tten Apples: Vulnerability Heaven in the iOS Sandbox",
+            "video": "https://www.youtube.com/watch?v=8gYrDH8F9mw"
         },
         {
-            "name": "Exfiltrating Reconnaissance Data from Air-Gapped ICS/SCADA Networks"
+            "name": "Exfiltrating Reconnaissance Data from Air-Gapped ICS/SCADA Networks",
+            "video": "https://www.youtube.com/watch?v=CXVsoY6tJTM"
         },
         {
-            "name": "Breaking Out HSTS (and HPKP) on Firefox, IE/Edge and (Possibly) Chrome"
+            "name": "Breaking Out HSTS (and HPKP) on Firefox, IE/Edge and (Possibly) Chrome",
+            "video": "https://www.youtube.com/watch?v=dPnU9_pXJ5k"
         },
         {
-            "name": "Heap Layout Optimisation for Exploitation"
+            "name": "Heap Layout Optimisation for Exploitation",
+            "video": "https://www.youtube.com/watch?v=t1g4-s_8cPg"
         },
         {
-            "name": "Enraptured Minds: Strategic Gaming of Cognitive Mindhacks"
+            "name": "Enraptured Minds: Strategic Gaming of Cognitive Mindhacks",
+            "video": "https://www.youtube.com/watch?v=y_F4LafbzLM"
         },
         {
-            "name": "The Great Escapes of VMWare: A Retrospective Case Study of VMWare G2H Escape Vulnerabilities"
+            "name": "The Great Escapes of VMWare: A Retrospective Case Study of VMWare G2H Escape Vulnerabilities",
+            "video": "https://www.youtube.com/watch?v=p0OaGMlBb2k"
         },
         {
-            "name": "Key Reinstallation Attacks: Breaking the WPA2 Protocol"
+            "name": "Key Reinstallation Attacks: Breaking the WPA2 Protocol",
+            "video": "https://www.youtube.com/watch?v=fZ1R9RliM1w"
         },
         {
-            "name": "Inside Android's SafetyNet Attestation"
+            "name": "Inside Android's SafetyNet Attestation",
+            "video": "https://www.youtube.com/watch?v=acuRIZ0I774"
         },
         {
-            "name": "Passive Fingerprinting of HTTP/2 Clients"
+            "name": "Passive Fingerprinting of HTTP/2 Clients",
+            "video": "https://www.youtube.com/watch?v=RsNNb9nZuwQ"
         },
         {
-            "name": "How Samsung Secures Your Wallet and How to Break It"
+            "name": "How Samsung Secures Your Wallet and How to Break It",
+            "video": "https://www.youtube.com/watch?v=0XdlBfPTdqA"
         },
         {
-            "name": "Fed Up Getting Shattered and Log Jammed? A New Generation of Crypto is Coming"
+            "name": "Fed Up Getting Shattered and Log Jammed? A New Generation of Crypto is Coming",
+            "video": "https://www.youtube.com/watch?v=bTGLO4obxco"
         },
         {
-            "name": "Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits"
+            "name": "Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits",
+            "video": "https://www.youtube.com/watch?v=8BMULyCiSK4"
         },
         {
-            "name": "The Spear to Break the Security Wall of S7CommPlus"
+            "name": "The Spear to Break the Security Wall of S7CommPlus",
+            "video": "https://www.youtube.com/watch?v=JPFSuSLkDO4"
         },
         {
-            "name": "A Universal Controller to Take Over a Z-Wave Network"
+            "name": "A Universal Controller to Take Over a Z-Wave Network",
+            "video": "https://www.youtube.com/watch?v=eCny7c6_bFY"
         },
         {
-            "name": "Becoming You: A Glimpse into Credential Abuse"
+            "name": "Becoming You: A Glimpse into Credential Abuse",
+            "video": "https://www.youtube.com/watch?v=bZiJaI390kc"
         },
         {
-            "name": "Jailbreaking Apple Watch"
+            "name": "Jailbreaking Apple Watch",
+            "video": "https://www.youtube.com/watch?v=axH45m5xpJo"
         }
     ]
 }

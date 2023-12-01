@@ -1,121 +1,159 @@
 {
     "topics": [
         {
-            "name": "Lessons From 11 Billion Breached Records"
+            "name": "Lessons From 11 Billion Breached Records",
+            "video": "https://www.youtube.com/watch?v=N_y8B-tmDM0"
         },
         {
-            "name": "Disappeared Coins: Steal Hashrate in Stratum Secretly"
+            "name": "Disappeared Coins: Steal Hashrate in Stratum Secretly",
+            "video": "https://www.youtube.com/watch?v=Q785xOorNws"
         },
         {
-            "name": "A Walk Through Historical Correlations Between Vulnerabilities & Stock Prices"
+            "name": "A Walk Through Historical Correlations Between Vulnerabilities & Stock Prices",
+            "video": "https://www.youtube.com/watch?v=RMXk3X-gCHM"
         },
         {
-            "name": "Racing the Dark: A New TOCTTOU Story From Apple&#39;s Core"
+            "name": "Racing the Dark: A New TOCTTOU Story From Apple&#39;s Core",
+            "video": "https://www.youtube.com/watch?v=pJJttla8kLA"
         },
         {
-            "name": "Pre-built JOP Chains with the JOP ROCKET: Bypassing DEP without ROP"
+            "name": "Pre-built JOP Chains with the JOP ROCKET: Bypassing DEP without ROP",
+            "video": "https://www.youtube.com/watch?v=NYgTw-h6GT8"
         },
         {
-            "name": "The Rise of Potatoes: Privilege Escalations in Windows Services"
+            "name": "The Rise of Potatoes: Privilege Escalations in Windows Services",
+            "video": "https://www.youtube.com/watch?v=9cpHlXEVQM4"
         },
         {
-            "name": "Vibe Check: IDK About This\u2026. Why Students May Shy Away From Cyber in a Surveillance State"
+            "name": "Vibe Check: IDK About This\u2026. Why Students May Shy Away From Cyber in a Surveillance State",
+            "video": "https://www.youtube.com/watch?v=1TnA-4SPbu4"
         },
         {
-            "name": "Mining and Exploiting (Mobile) Payment Credential Leaks in the Wild"
+            "name": "Mining and Exploiting (Mobile) Payment Credential Leaks in the Wild",
+            "video": "https://www.youtube.com/watch?v=w8xcAy39Pls"
         },
         {
-            "name": "Give Me a SQL Injection, I Shall PWN IIS and SQL Server"
+            "name": "Give Me a SQL Injection, I Shall PWN IIS and SQL Server",
+            "video": "https://www.youtube.com/watch?v=6O0Rotpr7Rk"
         },
         {
-            "name": "Domain Borrowing: Catch My C2 Traffic if You Can"
+            "name": "Domain Borrowing: Catch My C2 Traffic if You Can",
+            "video": "https://www.youtube.com/watch?v=eVr0kKdgM2I"
         },
         {
-            "name": "Threat Hunting in Active Directory Environment"
+            "name": "Threat Hunting in Active Directory Environment",
+            "video": "https://www.youtube.com/watch?v=lBIaLmvVpBE"
         },
         {
-            "name": "Stuxnet-in-a-Box: In-Field Emulation and Fuzzing of PLCs to Uncover the Next Zero-Day Threat in Industrial Control Systems"
+            "name": "Stuxnet-in-a-Box: In-Field Emulation and Fuzzing of PLCs to Uncover the Next Zero-Day Threat in Industrial Control Systems",
+            "video": "https://www.youtube.com/watch?v=Gxj8yTG26k8"
         },
         {
-            "name": "The Cost of Complexity: Different Vulnerabilities While Implementing the Same RFC"
+            "name": "The Cost of Complexity: Different Vulnerabilities While Implementing the Same RFC",
+            "video": "https://www.youtube.com/watch?v=iQC6EUMSdWI"
         },
         {
-            "name": "Wideshears: Investigating and Breaking Widevine on QTEE"
+            "name": "Wideshears: Investigating and Breaking Widevine on QTEE",
+            "video": "https://www.youtube.com/watch?v=FMHshq5e3ck"
         },
         {
-            "name": "(Un)protected Broadcasts in Android 9 and 10"
+            "name": "(Un)protected Broadcasts in Android 9 and 10",
+            "video": "https://www.youtube.com/watch?v=nDHPZH20rtE"
         },
         {
-            "name": "How Did the Adversaries Abusing the Bitcoin Blockchain Evade Our Takeover?"
+            "name": "How Did the Adversaries Abusing the Bitcoin Blockchain Evade Our Takeover?",
+            "video": "https://www.youtube.com/watch?v=y8Z9KnL8s8s"
         },
         {
-            "name": "Enter Sandbox"
+            "name": "Enter Sandbox",
+            "video": "https://www.youtube.com/watch?v=JdPnnki_xAA"
         },
         {
-            "name": "Alarm.DISARM - Remotely Exploiting and Disarming Popular Physical Security System from Public Internet"
+            "name": "Alarm.DISARM - Remotely Exploiting and Disarming Popular Physical Security System from Public Internet",
+            "video": "https://www.youtube.com/watch?v=VC8T31t6G6M"
         },
         {
-            "name": "X-in-the-Middle: Attacking Fast Charging Piles and Electric Vehicles "
+            "name": "X-in-the-Middle: Attacking Fast Charging Piles and Electric Vehicles ",
+            "video": "https://www.youtube.com/watch?v=4HyVbNrV4CA"
         },
         {
-            "name": "Hunting Vulnerabilities of gRPC Protocol Armed Mobile/IoT Applications"
+            "name": "Hunting Vulnerabilities of gRPC Protocol Armed Mobile/IoT Applications",
+            "video": "https://www.youtube.com/watch?v=o9nUvz5Otpc"
         },
         {
             "name": "Insights and Predictions: What&#39;s Next in InfoSec"
         },
         {
-            "name": "A General Approach to Bypassing Many Kernel Protections and its Mitigation"
+            "name": "A General Approach to Bypassing Many Kernel Protections and its Mitigation",
+            "video": "https://www.youtube.com/watch?v=EIwEF3tCtg4"
         },
         {
-            "name": "How I Can Unlock Your Smart Door: Security Pitfalls in Cross-Vendor IoT Access Control"
+            "name": "How I Can Unlock Your Smart Door: Security Pitfalls in Cross-Vendor IoT Access Control",
+            "video": "https://www.youtube.com/watch?v=_t3nMfmYyl4"
         },
         {
-            "name": "Apple Neural Engine Internal: From ML Algorithm to HW Registers"
+            "name": "Apple Neural Engine Internal: From ML Algorithm to HW Registers",
+            "video": "https://www.youtube.com/watch?v=1wvBDUnPNEo"
         },
         {
-            "name": "Anti-Forensics: Reverse Engineering a Leading Phone Forensic Tool"
+            "name": "Anti-Forensics: Reverse Engineering a Leading Phone Forensic Tool",
+            "video": "https://www.youtube.com/watch?v=zos8NwwLeP4"
         },
         {
-            "name": "A New Era of One-Click Attacks: How to Break Install-Less Apps"
+            "name": "A New Era of One-Click Attacks: How to Break Install-Less Apps",
+            "video": "https://www.youtube.com/watch?v=sY_vBh13Pgc"
         },
         {
-            "name": "Scavenger: Misuse Error Handling Leading to Qemu/KVM Escape"
+            "name": "Scavenger: Misuse Error Handling Leading to Qemu/KVM Escape",
+            "video": "https://www.youtube.com/watch?v=NYmuFutQra4"
         },
         {
-            "name": "New Attack Surface in Safari: Using Just One Web Audio Vulnerability to Rule Safari"
+            "name": "New Attack Surface in Safari: Using Just One Web Audio Vulnerability to Rule Safari",
+            "video": "https://www.youtube.com/watch?v=XsRsDF4D1EM"
         },
         {
-            "name": "&#34;We Are About to Land&#34;: How CloudDragon Turns a Nightmare Into Reality"
+            "name": "&#34;We Are About to Land&#34;: How CloudDragon Turns a Nightmare Into Reality",
+            "video": "https://www.youtube.com/watch?v=rfzmHjZX70s"
         },
         {
-            "name": "The Price of Compatibility: Defeating macOS Kernel Using Extended File Attributes"
+            "name": "The Price of Compatibility: Defeating macOS Kernel Using Extended File Attributes",
+            "video": "https://www.youtube.com/watch?v=hSeNgEAgAIY"
         },
         {
-            "name": "Hiding Objects from Computer Vision by Exploiting Correlation Biases"
+            "name": "Hiding Objects from Computer Vision by Exploiting Correlation Biases",
+            "video": "https://www.youtube.com/watch?v=Lfsc5TkJ07U"
         },
         {
-            "name": "In-Depth Analyzing and Fuzzing for Qualcomm Hexagon Processor"
+            "name": "In-Depth Analyzing and Fuzzing for Qualcomm Hexagon Processor",
+            "video": "https://www.youtube.com/watch?v=V5B9zDHU2Do"
         },
         {
-            "name": "Mem2Img: Memory-Resident Malware Detection via Convolution Neural Network"
+            "name": "Mem2Img: Memory-Resident Malware Detection via Convolution Neural Network",
+            "video": "https://www.youtube.com/watch?v=6SDdUVejR2w"
         },
         {
-            "name": "The Tangled Webview ----- Javascriptinterface Once More"
+            "name": "The Tangled Webview ----- Javascriptinterface Once More",
+            "video": "https://www.youtube.com/watch?v=56sOniHFwVU"
         },
         {
-            "name": "A Mirage of Safety: Bug Finding and Exploit Techniques of Top Android Vendor&#39;s Privacy Protection Apps"
+            "name": "A Mirage of Safety: Bug Finding and Exploit Techniques of Top Android Vendor&#39;s Privacy Protection Apps",
+            "video": "https://www.youtube.com/watch?v=LKux50LIl7M"
         },
         {
-            "name": "The B-MAD Approach to Threat Modeling"
+            "name": "The B-MAD Approach to Threat Modeling",
+            "video": "https://www.youtube.com/watch?v=N5icvgTyg7k"
         },
         {
-            "name": "The Motion Sensor Western: The Good (Automatic Functionality Support), the Bad (Security Risks to Devices), and the Ugly (Privacy Risks to Individuals)"
+            "name": "The Motion Sensor Western: The Good (Automatic Functionality Support), the Bad (Security Risks to Devices), and the Ugly (Privacy Risks to Individuals)",
+            "video": "https://www.youtube.com/watch?v=AuVE2FE4CZw"
         },
         {
-            "name": "Hey, You, Get off My Private Data: Do Apps Respect Your Privacy as They Claim?"
+            "name": "Hey, You, Get off My Private Data: Do Apps Respect Your Privacy as They Claim?",
+            "video": "https://www.youtube.com/watch?v=-L8IpL0BFV0"
         },
         {
-            "name": "Reverse Engineering Compliance"
+            "name": "Reverse Engineering Compliance",
+            "video": "https://www.youtube.com/watch?v=j7nDXgLahhU"
         }
     ]
 }

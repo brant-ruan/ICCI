@@ -1,139 +1,183 @@
 {
     "topics": [
         {
-            "name": "Developments and Challenges in Cybersecurity from the Nation-State Perspective"
+            "name": "Developments and Challenges in Cybersecurity from the Nation-State Perspective",
+            "video": "https://www.youtube.com/watch?v=X4wZQJzTHeM"
         },
         {
-            "name": "Malware Buried Deep Down the SPI Flash: Sednit&#39;s First UEFI Rootkit Found in the Wild"
+            "name": "Malware Buried Deep Down the SPI Flash: Sednit&#39;s First UEFI Rootkit Found in the Wild",
+            "video": "https://www.youtube.com/watch?v=sObGrnesxv4"
         },
         {
-            "name": "No Free Charge Theorem 2.0: How to Steal Private Information from a Mobile Device Using a Powerbank"
+            "name": "No Free Charge Theorem 2.0: How to Steal Private Information from a Mobile Device Using a Powerbank",
+            "video": "https://www.youtube.com/watch?v=aX56u7ErSRk"
         },
         {
-            "name": "Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit"
+            "name": "Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit",
+            "video": "https://www.youtube.com/watch?v=zDXyH8HxTwg"
         },
         {
-            "name": "SDL at Scale: Growing Security Champions"
+            "name": "SDL at Scale: Growing Security Champions",
+            "video": "https://www.youtube.com/watch?v=gpGl3guuyDw"
         },
         {
-            "name": "Divide et Impera: MemoryRanger Runs Drivers in Isolated Kernel Spaces"
+            "name": "Divide et Impera: MemoryRanger Runs Drivers in Isolated Kernel Spaces",
+            "video": "https://www.youtube.com/watch?v=NK_h9nwa3Vo"
         },
         {
-            "name": "PASTA: Portable Automotive Security Testbed with Adaptability"
+            "name": "PASTA: Portable Automotive Security Testbed with Adaptability",
+            "video": "https://www.youtube.com/watch?v=Av9B5B1BbbQ"
         },
         {
-            "name": "DeepPhish: Simulating Malicious AI"
+            "name": "DeepPhish: Simulating Malicious AI",
+            "video": "https://www.youtube.com/watch?v=fGtPmiNebDE"
         },
         {
-            "name": "Real-Time Detection of Attacks Leveraging Domain Administrator Privilege"
+            "name": "Real-Time Detection of Attacks Leveraging Domain Administrator Privilege",
+            "video": "https://www.youtube.com/watch?v=U81vwXKTzks"
         },
         {
-            "name": "Attacking and Defending Blockchains: From Horror Stories to Secure Wallets"
+            "name": "Attacking and Defending Blockchains: From Horror Stories to Secure Wallets",
+            "video": "https://www.youtube.com/watch?v=OBzJVGkebI4"
         },
         {
-            "name": "Under the SEA - A Look at the Syrian Electronic Army's Mobile Tooling"
+            "name": "Under the SEA - A Look at the Syrian Electronic Army's Mobile Tooling",
+            "video": "https://www.youtube.com/watch?v=BhYtyjjjxvM"
         },
         {
-            "name": "Eternal War in XNU Kernel Objects"
+            "name": "Eternal War in XNU Kernel Objects",
+            "video": "https://www.youtube.com/watch?v=12fs0Vd7dbI"
         },
         {
-            "name": "Where 2 Worlds Collide: Bringing Mimikatz et al to UNIX"
+            "name": "Where 2 Worlds Collide: Bringing Mimikatz et al to UNIX",
+            "video": "https://www.youtube.com/watch?v=AmrAGdHBB0s"
         },
         {
-            "name": "The Undeniable Truth: How Remote Attestation Circumvents Deniability Guarantees in Secure Messaging Protocols"
+            "name": "The Undeniable Truth: How Remote Attestation Circumvents Deniability Guarantees in Secure Messaging Protocols",
+            "video": "https://www.youtube.com/watch?v=DkSD86trDss"
         },
         {
-            "name": "Container Attack Surface Reduction Beyond Name Space Isolation"
+            "name": "Container Attack Surface Reduction Beyond Name Space Isolation",
+            "video": "https://www.youtube.com/watch?v=Zfj2K6csh54"
         },
         {
-            "name": "A Measured Response to a Grain of Rice"
+            "name": "A Measured Response to a Grain of Rice",
+            "video": "https://www.youtube.com/watch?v=xU7Y5CiabE0"
         },
         {
-            "name": "Keeping Secrets: Emerging Practice in Database Encryption"
+            "name": "Keeping Secrets: Emerging Practice in Database Encryption",
+            "video": "https://www.youtube.com/watch?v=qQgLdrWDZP0"
         },
         {
             "name": "Old New Things: An Examination of the Philips TriMedia Architecture"
         },
         {
-            "name": "Level Up Your Security Mindset"
+            "name": "Level Up Your Security Mindset",
+            "video": "https://www.youtube.com/watch?v=-7ua_QfLqk4"
         },
         {
-            "name": "Video Killed the Text Star: OSINT Approach"
+            "name": "Video Killed the Text Star: OSINT Approach",
+            "video": "https://www.youtube.com/watch?v=l822K95oZtE"
         },
         {
-            "name": "When Everyone&#39;s Dog is Named Fluffy: Abusing the Brand New Security Questions in Windows 10 to Gain Domain-Wide Persistence"
+            "name": "When Everyone&#39;s Dog is Named Fluffy: Abusing the Brand New Security Questions in Windows 10 to Gain Domain-Wide Persistence",
+            "video": "https://www.youtube.com/watch?v=hZdnIlQgPPQ"
         },
         {
-            "name": "Broken Links: Emergence and Future of Software-Supply Chain Compromises"
+            "name": "Broken Links: Emergence and Future of Software-Supply Chain Compromises",
+            "video": "https://www.youtube.com/watch?v=od6te4SrjBY"
         },
         {
-            "name": "In Search of CurveSwap: Measuring Elliptic Curve Implementations in the Wild"
+            "name": "In Search of CurveSwap: Measuring Elliptic Curve Implementations in the Wild",
+            "video": "https://www.youtube.com/watch?v=kqMgeIZpPew"
         },
         {
-            "name": "AI Gone Rogue: Exterminating Deep Fakes Before They Cause Menace"
+            "name": "AI Gone Rogue: Exterminating Deep Fakes Before They Cause Menace",
+            "video": "https://www.youtube.com/watch?v=jGCTRUR7vDs"
         },
         {
-            "name": "The Last Line of Defense: Understanding and Attacking Apple File System on iOS"
+            "name": "The Last Line of Defense: Understanding and Attacking Apple File System on iOS",
+            "video": "https://www.youtube.com/watch?v=iBalvRwxIC4"
         },
         {
-            "name": "RustZone: Writing Trusted Applications in Rust"
+            "name": "RustZone: Writing Trusted Applications in Rust",
+            "video": "https://www.youtube.com/watch?v=5fxPuOrlE2I"
         },
         {
-            "name": "Don&#39;t Eat Spaghetti with a Spoon - An Analysis of the Practical Value of Threat Intelligence"
+            "name": "Don&#39;t Eat Spaghetti with a Spoon - An Analysis of the Practical Value of Threat Intelligence",
+            "video": "https://www.youtube.com/watch?v=A3icvg-zsu4"
         },
         {
-            "name": "Straight Outta VMware: Modern Exploitation of the SVGA Device for Guest-to-Host Escapes"
+            "name": "Straight Outta VMware: Modern Exploitation of the SVGA Device for Guest-to-Host Escapes",
+            "video": "https://www.youtube.com/watch?v=Y-G2WJ2cBKE"
         },
         {
-            "name": "Deep Impact: Recognizing Unknown Malicious Activities from Zero Knowledge"
+            "name": "Deep Impact: Recognizing Unknown Malicious Activities from Zero Knowledge",
+            "video": "https://www.youtube.com/watch?v=GIKpDxaAlfg"
         },
         {
-            "name": "Evolving Security Experts Among Teenagers"
+            "name": "Evolving Security Experts Among Teenagers",
+            "video": "https://www.youtube.com/watch?v=YTQR37HmEXg"
         },
         {
-            "name": "Perfectly Deniable Steganographic Disk Encryption"
+            "name": "Perfectly Deniable Steganographic Disk Encryption",
+            "video": "https://www.youtube.com/watch?v=f01t7OQjF4E"
         },
         {
-            "name": "Attacking Hardware Systems Using Resonance and the Laws of Physics"
+            "name": "Attacking Hardware Systems Using Resonance and the Laws of Physics",
+            "video": "https://www.youtube.com/watch?v=D6W9ykPtlA4"
         },
         {
-            "name": "I Block You Because I Love You: Social Account Identification Attack Against a Website Visitor"
+            "name": "I Block You Because I Love You: Social Account Identification Attack Against a Website Visitor",
+            "video": "https://www.youtube.com/watch?v=Vm9XJhevdSM"
         },
         {
-            "name": "Network Defender Archeology: An NSM Case Study in Lateral Movement with DCOM"
+            "name": "Network Defender Archeology: An NSM Case Study in Lateral Movement with DCOM",
+            "video": "https://www.youtube.com/watch?v=tiuAa_0vxaw"
         },
         {
-            "name": "Secure Boot Under Attack: Simulation to Enhance Fault Attacks &#38; Defenses"
+            "name": "Secure Boot Under Attack: Simulation to Enhance Fault Attacks &#38; Defenses",
+            "video": "https://www.youtube.com/watch?v=7DYkV4uZqS8"
         },
         {
-            "name": "Perception Deception: Physical Adversarial Attack Challenges and Tactics for DNN-Based Object Detection"
+            "name": "Perception Deception: Physical Adversarial Attack Challenges and Tactics for DNN-Based Object Detection",
+            "video": "https://www.youtube.com/watch?v=6CTnW2xfIEM"
         },
         {
-            "name": "BLEEDINGBIT: Your APs Belong to Us"
+            "name": "BLEEDINGBIT: Your APs Belong to Us",
+            "video": "https://www.youtube.com/watch?v=ZI-E37e6UHA"
         },
         {
-            "name": "Cutting Edge: Microsoft Browser Security \u2014 From People Who Owned It"
+            "name": "Cutting Edge: Microsoft Browser Security \u2014 From People Who Owned It",
+            "video": "https://www.youtube.com/watch?v=KKsOlB1zy8c"
         },
         {
-            "name": "How to Build Synthetic Persons in Cyberspace"
+            "name": "How to Build Synthetic Persons in Cyberspace",
+            "video": "https://www.youtube.com/watch?v=urleQ8yYJ1o"
         },
         {
-            "name": "When Machines Can't Talk: Security and Privacy Issues of Machine-to-Machine Data Protocols"
+            "name": "When Machines Can't Talk: Security and Privacy Issues of Machine-to-Machine Data Protocols",
+            "video": "https://www.youtube.com/watch?v=X3fUNWRgeao"
         },
         {
-            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC"
+            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC",
+            "video": "https://www.youtube.com/watch?v=RA7J58x5bUQ"
         },
         {
-            "name": "Thermanator and the Thermal Residue Attack"
+            "name": "Thermanator and the Thermal Residue Attack",
+            "video": "https://www.youtube.com/watch?v=OZQXwTzGDmI"
         },
         {
-            "name": "Off-Path Attacks Against PKI"
+            "name": "Off-Path Attacks Against PKI",
+            "video": "https://www.youtube.com/watch?v=Dcl2ZuE_myY"
         },
         {
-            "name": "Cloud-Native Sandboxes for Microservices: Understanding New Threats and Attacks"
+            "name": "Cloud-Native Sandboxes for Microservices: Understanding New Threats and Attacks",
+            "video": "https://www.youtube.com/watch?v=gkhgtwjLYcI"
         },
         {
-            "name": "The Mummy 2018 \u2013 Microsoft Accidentally Summons Back Ugly Attacks from the Past"
+            "name": "The Mummy 2018 \u2013 Microsoft Accidentally Summons Back Ugly Attacks from the Past",
+            "video": "https://www.youtube.com/watch?v=cFVasSozT_I"
         }
     ]
 }

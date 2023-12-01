@@ -1,121 +1,160 @@
 {
     "topics": [
         {
-            "name": "Practically-exploitable Cryptographic  Vulnerabilities in Matrix"
+            "name": "Practically-exploitable Cryptographic  Vulnerabilities in Matrix",
+            "video": "https://www.youtube.com/watch?v=9JS5pdYcpOM"
         },
         {
-            "name": "CSI:Rowhammer: Closing the Case of Half-Double and Beyond"
+            "name": "CSI:Rowhammer: Closing the Case of Half-Double and Beyond",
+            "video": "https://www.youtube.com/watch?v=TJJxhcKyM-w"
         },
         {
-            "name": "Aikido: Turning EDRs to Malicious Wipers Using 0-day Exploits"
+            "name": "Aikido: Turning EDRs to Malicious Wipers Using 0-day Exploits",
+            "video": "https://www.youtube.com/watch?v=y_me6tPt_xw"
         },
         {
-            "name": "Fail Harder: Finding Critical 0-Days in Spite of Ourselves"
+            "name": "Fail Harder: Finding Critical 0-Days in Spite of Ourselves",
+            "video": "https://www.youtube.com/watch?v=A5eG7cmVri8"
         },
         {
-            "name": "IoT Manufacturers' New Nightmare: Design Flaws and Deployment Chaos in Cloud-based IoT Access Control Policies"
+            "name": "IoT Manufacturers' New Nightmare: Design Flaws and Deployment Chaos in Cloud-based IoT Access Control Policies",
+            "video": "https://www.youtube.com/watch?v=wSTI3vFFDTM"
         },
         {
-            "name": "Vlind Glitch: A Blind VCC Glitching Technique to Bypass the Secure Boot of the Qualcomm MSM8916 Mobile SoC"
+            "name": "Vlind Glitch: A Blind VCC Glitching Technique to Bypass the Secure Boot of the Qualcomm MSM8916 Mobile SoC",
+            "video": "https://www.youtube.com/watch?v=zQKYazIlAgM"
         },
         {
-            "name": "The Aftermath of a Social Engineering Pentest - Are We Being Ethically Responsible?"
+            "name": "The Aftermath of a Social Engineering Pentest - Are We Being Ethically Responsible?",
+            "video": "https://www.youtube.com/watch?v=4HmCPmJ4_Bk"
         },
         {
-            "name": "Back-connect to the Connected Car. Search for Vulnerabilities in the VW Electric Car."
+            "name": "Back-connect to the Connected Car. Search for Vulnerabilities in the VW Electric Car.",
+            "video": "https://www.youtube.com/watch?v=4yBKYMKRPbU"
         },
         {
-            "name": "Abusing CNC Technologies"
+            "name": "Abusing CNC Technologies",
+            "video": "https://www.youtube.com/watch?v=jl-wVwk24k8"
         },
         {
-            "name": "Unwinding the Stack for Fun and Profit"
+            "name": "Unwinding the Stack for Fun and Profit",
+            "video": "https://www.youtube.com/watch?v=cQtycgYnDig"
         },
         {
-            "name": "How We Organize Large-Scale DDoS Exercises in the Netherlands"
+            "name": "How We Organize Large-Scale DDoS Exercises in the Netherlands",
+            "video": "https://www.youtube.com/watch?v=S2eXx5bTnk8"
         },
         {
-            "name": "DataBinding2Shell: Novel Pathways to RCE Web Frameworks"
+            "name": "DataBinding2Shell: Novel Pathways to RCE Web Frameworks",
+            "video": "https://www.youtube.com/watch?v=9BIAuwo4xvU"
         },
         {
-            "name": "Cross-Contract Ricochet Attacks & Off-Chain-On-Chain Manipulation of Billion Dollar NFT Collections"
+            "name": "Cross-Contract Ricochet Attacks & Off-Chain-On-Chain Manipulation of Billion Dollar NFT Collections",
+            "video": "https://www.youtube.com/watch?v=x57acY3f90s"
         },
         {
-            "name": "Confidence in Chaos: Strategies for World-Class Security Operations"
+            "name": "Confidence in Chaos: Strategies for World-Class Security Operations",
+            "video": "https://www.youtube.com/watch?v=D17-yJg3ML0"
         },
         {
-            "name": "Good Motive but Bad Design: Pitfalls in MPU Usage in Embedded Systems in the Wild"
+            "name": "Good Motive but Bad Design: Pitfalls in MPU Usage in Embedded Systems in the Wild",
+            "video": "https://www.youtube.com/watch?v=7OjwRylGP8M"
         },
         {
-            "name": "Perfect Spray: A Journey From Finding a New Type of Logical Flaw at Linux Kernel To Developing a New Heap Exploitation Technique"
+            "name": "Perfect Spray: A Journey From Finding a New Type of Logical Flaw at Linux Kernel To Developing a New Heap Exploitation Technique",
+            "video": "https://www.youtube.com/watch?v=C3ta-uUthfA"
         },
         {
-            "name": "Strengthening Cyber Resiliency in a Time of Geopolitical Crises: Applying Threat Intelligence &#38; Active Defense to Protecting Critical Information Infrastructures"
+            "name": "Strengthening Cyber Resiliency in a Time of Geopolitical Crises: Applying Threat Intelligence &#38; Active Defense to Protecting Critical Information Infrastructures",
+            "video": "https://www.youtube.com/watch?v=XHAPfJb-8zE"
         },
         {
-            "name": "Scammers Who Scam Scammers, Hackers Who Hack Hackers: Exploring a Hidden Sub-economy on Cybercrime Forums and Marketplaces"
+            "name": "Scammers Who Scam Scammers, Hackers Who Hack Hackers: Exploring a Hidden Sub-economy on Cybercrime Forums and Marketplaces",
+            "video": "https://www.youtube.com/watch?v=5bNQnNdZeb0"
         },
         {
-            "name": "Android Parcels: The Bad, the Good and the Better - Introducing Android&#39;s Safer Parcel"
+            "name": "Android Parcels: The Bad, the Good and the Better - Introducing Android&#39;s Safer Parcel",
+            "video": "https://www.youtube.com/watch?v=qIzMKfOmIAA"
         },
         {
-            "name": "Select Bugs From Binary Where Pattern Like CVE-1337-Days"
+            "name": "Select Bugs From Binary Where Pattern Like CVE-1337-Days",
+            "video": "https://www.youtube.com/watch?v=Lz8NMkirn1I"
         },
         {
-            "name": "Deep into Android Bluetooth Bug Hunting: New Attack Surfaces and Weak Code Patterns"
+            "name": "Deep into Android Bluetooth Bug Hunting: New Attack Surfaces and Weak Code Patterns",
+            "video": "https://www.youtube.com/watch?v=TDSgRWOeS-4"
         },
         {
-            "name": "Writing Your Own Ticket to the Cloud Like APT: A Deep-dive to AD FS Attacks, Detections, and Mitigations"
+            "name": "Writing Your Own Ticket to the Cloud Like APT: A Deep-dive to AD FS Attacks, Detections, and Mitigations",
+            "video": "https://www.youtube.com/watch?v=NqCqfBCV_18"
         },
         {
-            "name": "Grand Theft Drone: Reaching Breaking Point in Drone Proprietary RF Link Security"
+            "name": "Grand Theft Drone: Reaching Breaking Point in Drone Proprietary RF Link Security",
+            "video": "https://www.youtube.com/watch?v=jqLjAP16g8I"
         },
         {
-            "name": "Thresholds Are for Old Threats: Demystifying AI and Machine Learning to Enhance SOC Detection"
+            "name": "Thresholds Are for Old Threats: Demystifying AI and Machine Learning to Enhance SOC Detection",
+            "video": "https://www.youtube.com/watch?v=5jeWwSrgYN4"
         },
         {
-            "name": "Real-World Detection Evasion Techniques in the Cloud"
+            "name": "Real-World Detection Evasion Techniques in the Cloud",
+            "video": "https://www.youtube.com/watch?v=sSLUjr3PQmM"
         },
         {
-            "name": "Knockout Win Against TCC - 20+ NEW Ways to Bypass Your MacOS Privacy Mechanisms"
+            "name": "Knockout Win Against TCC - 20+ NEW Ways to Bypass Your MacOS Privacy Mechanisms",
+            "video": "https://www.youtube.com/watch?v=a9hsxPdRxsY"
         },
         {
-            "name": "LCDPwn: Breaking Enterprise-Things with Layer 2 Discovery Protocol Vulnerabilities Again"
+            "name": "LCDPwn: Breaking Enterprise-Things with Layer 2 Discovery Protocol Vulnerabilities Again",
+            "video": "https://www.youtube.com/watch?v=qIwKg2qny0c"
         },
         {
-            "name": "Dirty Vanity: A New Approach to Code Injection &#38; EDR Bypass"
+            "name": "Dirty Vanity: A New Approach to Code Injection &#38; EDR Bypass",
+            "video": "https://www.youtube.com/watch?v=Fpb4eL3vMgk"
         },
         {
-            "name": "DnD: Decompiling Deep Neural Network Compiled Binary"
+            "name": "DnD: Decompiling Deep Neural Network Compiled Binary",
+            "video": "https://www.youtube.com/watch?v=ygWgQcMrPvc"
         },
         {
-            "name": "The Hacker's Guide to Policyland"
+            "name": "The Hacker's Guide to Policyland",
+            "video": "https://www.youtube.com/watch?v=CIrwWU-VYJw"
         },
         {
-            "name": "Choo Choo, Network Train - The One to Rule Your Perimeter"
+            "name": "Choo Choo, Network Train - The One to Rule Your Perimeter",
+            "video": "https://www.youtube.com/watch?v=RpXoVwCSHA0"
         },
         {
-            "name": "Microsoft Defender for Office 365 Evasion - The Story of Confirmed Vulnerability"
+            "name": "Microsoft Defender for Office 365 Evasion - The Story of Confirmed Vulnerability",
+            "video": "https://www.youtube.com/watch?v=4TopXiSkseU"
         },
         {
-            "name": "Fuzzing and Breaking Security Functions of SIMATIC PLCs"
+            "name": "Fuzzing and Breaking Security Functions of SIMATIC PLCs",
+            "video": "https://www.youtube.com/watch?v=XeSSuWR5PaU"
         },
         {
-            "name": "Event-based Fuzzing, Patch-based Research, and Comment Police: Finding Bugs Through a Bug"
+            "name": "Event-based Fuzzing, Patch-based Research, and Comment Police: Finding Bugs Through a Bug",
+            "video": "https://www.youtube.com/watch?v=mPiv0eZlx9w"
         },
         {
-            "name": "Searching for RPC Functions to Coerce Authentications in Microsoft Protocols"
+            "name": "Searching for RPC Functions to Coerce Authentications in Microsoft Protocols",
+            "video": "https://www.youtube.com/watch?v=JWI_khgpyYM"
         },
         {
-            "name": "{JS-ON: Security-OFF}: Abusing JSON-Based SQL Queries"
+            "name": "{JS-ON: Security-OFF}: Abusing JSON-Based SQL Queries",
+            "video": "https://www.youtube.com/watch?v=V-VZ5WbR8uE"
         },
         {
-            "name": "Exploring a New Class of Kernel Exploit Primitive"
+            "name": "Exploring a New Class of Kernel Exploit Primitive",
+            "video": "https://www.youtube.com/watch?v=uqWiZXMh8TI"
         },
         {
-            "name": "Bridging the Gap Between Research and Practice in Intelligently Bypassing WAF"
+            "name": "Bridging the Gap Between Research and Practice in Intelligently Bypassing WAF",
+            "video": "https://www.youtube.com/watch?v=PhGDZad0DdA"
         },
         {
-            "name": "Breaking Kerberos&#39; RC4 Cipher and Spoofing Windows PACs"
+            "name": "Breaking Kerberos&#39; RC4 Cipher and Spoofing Windows PACs",
+            "video": "https://www.youtube.com/watch?v=Dxqb-q2OjoM"
         }
     ]
 }

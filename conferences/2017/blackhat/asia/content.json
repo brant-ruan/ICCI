@@ -1,109 +1,144 @@
 {
     "topics": [
         {
-            "name": "Why We are Not Building a Defendable Internet"
+            "name": "Why We are Not Building a Defendable Internet",
+            "video": "https://www.youtube.com/watch?v=PLJJY5UFtqY"
         },
         {
-            "name": "What Malware Authors Don't Want You to Know - Evasive Hollow Process Injection"
+            "name": "What Malware Authors Don't Want You to Know - Evasive Hollow Process Injection",
+            "video": "https://www.youtube.com/watch?v=9L9I1T5QDg4"
         },
         {
-            "name": "Exploiting USB/IP in Linux"
+            "name": "Exploiting USB/IP in Linux",
+            "video": "https://www.youtube.com/watch?v=EjYKF-xG_VY"
         },
         {
-            "name": "Fried Apples: Jailbreak DIY"
+            "name": "Fried Apples: Jailbreak DIY",
+            "video": "https://www.youtube.com/watch?v=J54xmz2YMVw"
         },
         {
-            "name": "Domo Arigato, Mr. Roboto: Security Robots a la Unit-Testing"
+            "name": "Domo Arigato, Mr. Roboto: Security Robots a la Unit-Testing",
+            "video": "https://www.youtube.com/watch?v=dgMsxwGfuEI"
         },
         {
-            "name": "Daily-Life Peeper: Bug Hunting and Exploit Techniques in IoT"
+            "name": "Daily-Life Peeper: Bug Hunting and Exploit Techniques in IoT",
+            "video": "https://www.youtube.com/watch?v=zWYYGPJdZnE"
         },
         {
-            "name": "Phishing for Funds: Understanding Business Email Compromise"
+            "name": "Phishing for Funds: Understanding Business Email Compromise",
+            "video": "https://www.youtube.com/watch?v=_gk4i33lriY"
         },
         {
-            "name": "Anti-Plugin: Don't Let Your App Play as an Android Plugin"
+            "name": "Anti-Plugin: Don't Let Your App Play as an Android Plugin",
+            "video": "https://www.youtube.com/watch?v=mWDgUBkjtyI"
         },
         {
-            "name": "Delegate to the Top: Abusing Kerberos for Arbitrary Impersonations and RCE"
+            "name": "Delegate to the Top: Abusing Kerberos for Arbitrary Impersonations and RCE",
+            "video": "https://www.youtube.com/watch?v=Y2Wh2e6eZVc"
         },
         {
-            "name": "Cross the Wall - Bypass All Modern Mitigations of Microsoft Edge"
+            "name": "Cross the Wall - Bypass All Modern Mitigations of Microsoft Edge",
+            "video": "https://www.youtube.com/watch?v=pH6qocUEor0"
         },
         {
-            "name": "\"Man-in-the-SCADA:\" Anatomy of Data Integrity Attacks in Industrial Control Systems"
+            "name": "\"Man-in-the-SCADA:\" Anatomy of Data Integrity Attacks in Industrial Control Systems",
+            "video": "https://www.youtube.com/watch?v=xGt4UStTFoI"
         },
         {
-            "name": "Open Sourcing Automotive Diagnostics"
+            "name": "Open Sourcing Automotive Diagnostics",
+            "video": "https://www.youtube.com/watch?v=2qcBVxCZr4k"
         },
         {
-            "name": "Hello From the Other Side: SSH Over Robust Cache Covert Channels in the Cloud"
+            "name": "Hello From the Other Side: SSH Over Robust Cache Covert Channels in the Cloud",
+            "video": "https://www.youtube.com/watch?v=6bCdFmehMSY"
         },
         {
-            "name": "Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox"
+            "name": "Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox",
+            "video": "https://www.youtube.com/watch?v=bP5VP7vLLKo"
         },
         {
-            "name": "Drop the ROP: Fine-Grained Control-Flow Integrity for the Linux Kernel"
+            "name": "Drop the ROP: Fine-Grained Control-Flow Integrity for the Linux Kernel",
+            "video": "https://www.youtube.com/watch?v=6Y-cNa-NNhk"
         },
         {
-            "name": "The Irrelevance of K-Bytes Detection - Building a Robust Pipeline for Malicious Documents"
+            "name": "The Irrelevance of K-Bytes Detection - Building a Robust Pipeline for Malicious Documents",
+            "video": "https://www.youtube.com/watch?v=d22Tzb0h9V4"
         },
         {
-            "name": "Breaking Korea Transit Card with Side-Channel Attack - Unauthorized Recharging"
+            "name": "Breaking Korea Transit Card with Side-Channel Attack - Unauthorized Recharging",
+            "video": "https://www.youtube.com/watch?v=3_ojBHBvF9s"
         },
         {
-            "name": "Hacking HTTP/2 - New Attacks on the Internet's Next Generation Foundation"
+            "name": "Hacking HTTP/2 - New Attacks on the Internet's Next Generation Foundation",
+            "video": "https://www.youtube.com/watch?v=kM8cc0kB21s"
         },
         {
-            "name": "Dig Into the Attack Surface of PDF and Gain 100+ CVEs in 1 Year"
+            "name": "Dig Into the Attack Surface of PDF and Gain 100+ CVEs in 1 Year",
+            "video": "https://www.youtube.com/watch?v=fRsXTYsmkPU"
         },
         {
-            "name": "The Seven Axioms of Security"
+            "name": "The Seven Axioms of Security",
+            "video": "https://www.youtube.com/watch?v=ullDGL_7i1c"
         },
         {
-            "name": "The UEFI Firmware Rootkits: Myths and Reality"
+            "name": "The UEFI Firmware Rootkits: Myths and Reality",
+            "video": "https://www.youtube.com/watch?v=P3yMXspLzoY"
         },
         {
-            "name": "Beyond the Blacklists: Detecting Malicious URL Through Machine Learning"
+            "name": "Beyond the Blacklists: Detecting Malicious URL Through Machine Learning",
+            "video": "https://www.youtube.com/watch?v=Kd3svc9HZ0Y"
         },
         {
-            "name": "Never Let Your Guard Down: Finding Unguarded Gates to Bypass Control Flow Guard with Big Data"
+            "name": "Never Let Your Guard Down: Finding Unguarded Gates to Bypass Control Flow Guard with Big Data",
+            "video": "https://www.youtube.com/watch?v=oD0rKvJcGbs"
         },
         {
-            "name": "Hack Microsoft Using Microsoft Signed Binaries"
+            "name": "Hack Microsoft Using Microsoft Signed Binaries",
+            "video": "https://www.youtube.com/watch?v=ZKDkiDByKa8"
         },
         {
-            "name": "Myth and Truth About Hypervisor-Based Kernel Protector: The Reason Why You Need Shadow-Box"
+            "name": "Myth and Truth About Hypervisor-Based Kernel Protector: The Reason Why You Need Shadow-Box",
+            "video": "https://www.youtube.com/watch?v=W4igcwWMLk8"
         },
         {
-            "name": "24 Techniques to Gather Threat Intel and Track Actors"
+            "name": "24 Techniques to Gather Threat Intel and Track Actors",
+            "video": "https://www.youtube.com/watch?v=beh5VUKc2EU"
         },
         {
-            "name": "3G/4G Intranet Scanning and its Application on the WormHole Vulnerability"
+            "name": "3G/4G Intranet Scanning and its Application on the WormHole Vulnerability",
+            "video": "https://www.youtube.com/watch?v=v6sLQCIzxuo"
         },
         {
-            "name": "The Power of Data-Oriented Attacks: Bypassing Memory Mitigation Using Data-Only Exploitation Techniques"
+            "name": "The Power of Data-Oriented Attacks: Bypassing Memory Mitigation Using Data-Only Exploitation Techniques",
+            "video": "https://www.youtube.com/watch?v=su9CnNROoE8"
         },
         {
-            "name": "What Malware Authors Don't Want You to Know - Evasive Hollow Process Injection"
+            "name": "What Malware Authors Don't Want You to Know - Evasive Hollow Process Injection",
+            "video": "https://www.youtube.com/watch?v=9L9I1T5QDg4"
         },
         {
-            "name": "Go Get My/Vulnerabilities: An In-Depth Analysis of Go Language Runtime and the New Class of Vulnerabilities It Introduces"
+            "name": "Go Get My/Vulnerabilities: An In-Depth Analysis of Go Language Runtime and the New Class of Vulnerabilities It Introduces",
+            "video": "https://www.youtube.com/watch?v=GGQcv7fK0JY"
         },
         {
-            "name": "Mobile-Telephony Threats in Asia"
+            "name": "Mobile-Telephony Threats in Asia",
+            "video": "https://www.youtube.com/watch?v=Ho-NlOfDwng"
         },
         {
-            "name": "Cache Side Channel Attack: Exploitability and Countermeasures"
+            "name": "Cache Side Channel Attack: Exploitability and Countermeasures",
+            "video": "https://www.youtube.com/watch?v=DkWqLDSqHm8"
         },
         {
-            "name": "MASHaBLE: Mobile Applications of Secret Handshakes Over Bluetooth LE"
+            "name": "MASHaBLE: Mobile Applications of Secret Handshakes Over Bluetooth LE",
+            "video": "https://www.youtube.com/watch?v=s79CG2Os0Nc"
         },
         {
-            "name": "Betting Against the House: Security and Stability When the Odds are Against You"
+            "name": "Betting Against the House: Security and Stability When the Odds are Against You",
+            "video": "https://www.youtube.com/watch?v=p9GNwvtrPBk"
         },
         {
-            "name": "All Your Emails Belong to Us: Exploiting Vulnerable Email Clients via Domain Name Collision"
+            "name": "All Your Emails Belong to Us: Exploiting Vulnerable Email Clients via Domain Name Collision",
+            "video": "https://www.youtube.com/watch?v=-C8p1Vu7sFg"
         }
     ]
 }

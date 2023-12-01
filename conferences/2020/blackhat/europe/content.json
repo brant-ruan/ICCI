@@ -1,115 +1,152 @@
 {
     "topics": [
         {
-            "name": "Hacking Government Cybersecurity"
+            "name": "Hacking Government Cybersecurity",
+            "video": "https://www.youtube.com/watch?v=umR-xZBdvrw"
         },
         {
-            "name": "It&#39;s not FINished: The Evolving Maturity in Ransomware Operations"
+            "name": "It&#39;s not FINished: The Evolving Maturity in Ransomware Operations",
+            "video": "https://www.youtube.com/watch?v=kxGpd_8xX20"
         },
         {
-            "name": "Shield with Hole: New Security Mitigation Helps Us Escape Chrome Sandbox to Exfiltrate User Privacy"
+            "name": "Shield with Hole: New Security Mitigation Helps Us Escape Chrome Sandbox to Exfiltrate User Privacy",
+            "video": "https://www.youtube.com/watch?v=pkIBnDJPluY"
         },
         {
-            "name": "Jack-in-the-Cache: A New Code injection Technique through Modifying X86-to-ARM Translation Cache"
+            "name": "Jack-in-the-Cache: A New Code injection Technique through Modifying X86-to-ARM Translation Cache",
+            "video": "https://www.youtube.com/watch?v=8wg7X5IaEto"
         },
         {
-            "name": "Finding Bugs Compiler Knows but Doesn&#39;t Tell You: Dissecting Undefined Behavior Optimizations in LLVM"
+            "name": "Finding Bugs Compiler Knows but Doesn&#39;t Tell You: Dissecting Undefined Behavior Optimizations in LLVM",
+            "video": "https://www.youtube.com/watch?v=9zQuo9O0h-Q"
         },
         {
-            "name": "The Subtle Art of Chaining Headers  - IKEv2 Attack Surface Case Study"
+            "name": "The Subtle Art of Chaining Headers  - IKEv2 Attack Surface Case Study",
+            "video": "https://www.youtube.com/watch?v=B45dGImZ4h8"
         },
         {
-            "name": "Graph Convolutional Network-Based Suspicious Communication Pair Estimation for Industrial Control Systems"
+            "name": "Graph Convolutional Network-Based Suspicious Communication Pair Estimation for Industrial Control Systems",
+            "video": "https://www.youtube.com/watch?v=pTdsYbqYPGc"
         },
         {
-            "name": "A New Hope: The One Last Chance to Save Your SSD Data"
+            "name": "A New Hope: The One Last Chance to Save Your SSD Data",
+            "video": "https://www.youtube.com/watch?v=JjZrP0NitGY"
         },
         {
-            "name": "Debug Resurrection on Nordic nRF52 Series"
+            "name": "Debug Resurrection on Nordic nRF52 Series",
+            "video": "https://www.youtube.com/watch?v=r8YXOBb2h48"
         },
         {
-            "name": "LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage"
+            "name": "LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage",
+            "video": "https://www.youtube.com/watch?v=Nk1uqe8Z7k4"
         },
         {
-            "name": "From Zero to Sixty: The Story of North Korea's Rapid Ascent to Becoming a Global Cyber Superpower"
+            "name": "From Zero to Sixty: The Story of North Korea's Rapid Ascent to Becoming a Global Cyber Superpower",
+            "video": "https://www.youtube.com/watch?v=CNFEqvzKSQw"
         },
         {
-            "name": "FPs are Cheap. Show me the CVEs!"
+            "name": "FPs are Cheap. Show me the CVEs!",
+            "video": "https://www.youtube.com/watch?v=8AleiqQetug"
         },
         {
-            "name": "Manufacturing Hardware Implants from Idea to Mass Production: A Hacker&#39;s Journey"
+            "name": "Manufacturing Hardware Implants from Idea to Mass Production: A Hacker&#39;s Journey",
+            "video": "https://www.youtube.com/watch?v=M0bDTzSAy9I"
         },
         {
-            "name": "Discovering 20 Year Old Vulnerabilities in Modern Windows Kernel"
+            "name": "Discovering 20 Year Old Vulnerabilities in Modern Windows Kernel",
+            "video": "https://www.youtube.com/watch?v=iat44TkUCHA"
         },
         {
-            "name": "Design Pitfalls in Commercial Mini-Programs on Android and iOS"
+            "name": "Design Pitfalls in Commercial Mini-Programs on Android and iOS",
+            "video": "https://www.youtube.com/watch?v=E5CwmcQNqMs"
         },
         {
-            "name": "How Embedded TCP/IP Stacks Breed Critical Vulnerabilities"
+            "name": "How Embedded TCP/IP Stacks Breed Critical Vulnerabilities",
+            "video": "https://www.youtube.com/watch?v=ChQoSswQ5qA"
         },
         {
-            "name": "IAM Concerned: OAuth Token Hijacking in Google Cloud (GCP)"
+            "name": "IAM Concerned: OAuth Token Hijacking in Google Cloud (GCP)",
+            "video": "https://www.youtube.com/watch?v=motZouxkVZ0"
         },
         {
-            "name": "Hermes Attack: Steal DNN Models In AI Privatization Deployment Scenarios"
+            "name": "Hermes Attack: Steal DNN Models In AI Privatization Deployment Scenarios",
+            "video": "https://www.youtube.com/watch?v=rlp3tV2D9sM"
         },
         {
-            "name": "efiXplorer: Hunting for UEFI Firmware Vulnerabilities at Scale with Automated Static Analysis"
+            "name": "efiXplorer: Hunting for UEFI Firmware Vulnerabilities at Scale with Automated Static Analysis",
+            "video": "https://www.youtube.com/watch?v=Sa779TGX3wY"
         },
         {
-            "name": "Precursor: Towards Evidence-Based Trust in Hardware"
+            "name": "Precursor: Towards Evidence-Based Trust in Hardware",
+            "video": "https://www.youtube.com/watch?v=mrKBKZ0RJAo"
         },
         {
-            "name": "Fingerprint-Jacking: Practical Fingerprint Authorization Hijacking in Android Apps"
+            "name": "Fingerprint-Jacking: Practical Fingerprint Authorization Hijacking in Android Apps",
+            "video": "https://www.youtube.com/watch?v=P5VAwTEIte0"
         },
         {
-            "name": "This is for the Pwners : Exploiting a WebKit 0-day in PlayStation 4"
+            "name": "This is for the Pwners : Exploiting a WebKit 0-day in PlayStation 4",
+            "video": "https://www.youtube.com/watch?v=ahNGpKgHZeU"
         },
         {
-            "name": "Bypassing NGAV for Fun and Profit"
+            "name": "Bypassing NGAV for Fun and Profit",
+            "video": "https://www.youtube.com/watch?v=RhB6Sqz-eLw"
         },
         {
-            "name": "BinTyper: Type Confusion Detection for C++ Binaries"
+            "name": "BinTyper: Type Confusion Detection for C++ Binaries",
+            "video": "https://www.youtube.com/watch?v=8GirGJnNguY"
         },
         {
-            "name": "My Ticks Don't Lie: New Timing Attacks for Hypervisor Detection"
+            "name": "My Ticks Don't Lie: New Timing Attacks for Hypervisor Detection",
+            "video": "https://www.youtube.com/watch?v=_M9SBzSKhsk"
         },
         {
-            "name": "POSWorld. Should You be Afraid of Hands-On Payment Devices?"
+            "name": "POSWorld. Should You be Afraid of Hands-On Payment Devices?",
+            "video": "https://www.youtube.com/watch?v=1cuTn6qGAj4"
         },
         {
-            "name": "Effective Vulnerability Discovery with Machine Learning"
+            "name": "Effective Vulnerability Discovery with Machine Learning",
+            "video": "https://www.youtube.com/watch?v=fvjbHF-cEYk"
         },
         {
-            "name": "Portable Data exFiltration: XSS for PDFs"
+            "name": "Portable Data exFiltration: XSS for PDFs",
+            "video": "https://www.youtube.com/watch?v=kMirO25kulw"
         },
         {
-            "name": "The Hunt for Major League IoT-ICS Threats: A Deep Dive into IoT Threat Terrain"
+            "name": "The Hunt for Major League IoT-ICS Threats: A Deep Dive into IoT Threat Terrain",
+            "video": "https://www.youtube.com/watch?v=aIDO1-7Zrtk"
         },
         {
-            "name": "Quantum Security and Cryptography: You Are (Probably) Doing it Wrong"
+            "name": "Quantum Security and Cryptography: You Are (Probably) Doing it Wrong",
+            "video": "https://www.youtube.com/watch?v=VaJzw1RVitU"
         },
         {
-            "name": "Circumventing the Guardians: How the Security Features in State-of-the-Art TLS Inspection Solutions can be Exploited for Covert Data Exfiltration"
+            "name": "Circumventing the Guardians: How the Security Features in State-of-the-Art TLS Inspection Solutions can be Exploited for Covert Data Exfiltration",
+            "video": "https://www.youtube.com/watch?v=Wo2PiS9eLAk"
         },
         {
-            "name": "Cross-Site Escape: Pwning macOS Safari Sandbox the Unusual Way"
+            "name": "Cross-Site Escape: Pwning macOS Safari Sandbox the Unusual Way",
+            "video": "https://www.youtube.com/watch?v=cBAd1as6grQ"
         },
         {
-            "name": "How to Better Fuzz Windows 10 Directx Kernel at Present"
+            "name": "How to Better Fuzz Windows 10 Directx Kernel at Present",
+            "video": "https://www.youtube.com/watch?v=7V-4S8HYp2o"
         },
         {
-            "name": "Please Make a Dentist Appointment ASAP: Attacking IOBluetoothFamily HCI and Vendor-Specific Commands"
+            "name": "Please Make a Dentist Appointment ASAP: Attacking IOBluetoothFamily HCI and Vendor-Specific Commands",
+            "video": "https://www.youtube.com/watch?v=KIcsci60So4"
         },
         {
-            "name": "Story of Jailbreaking iOS 13"
+            "name": "Story of Jailbreaking iOS 13",
+            "video": "https://www.youtube.com/watch?v=_DX5_p0NK8o"
         },
         {
-            "name": "Light Commands: Hacking Voice Assistants with Lasers"
+            "name": "Light Commands: Hacking Voice Assistants with Lasers",
+            "video": "https://www.youtube.com/watch?v=L3CAZWLoG1Y"
         },
         {
-            "name": "Permission Mining in GCP"
+            "name": "Permission Mining in GCP",
+            "video": "https://www.youtube.com/watch?v=FJRFIKxoKhQ"
         }
     ]
 }

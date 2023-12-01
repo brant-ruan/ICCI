@@ -28,7 +28,7 @@ def get_video_urls(year, conference, location):
         res['topics'].append(topic)
         if 'video' in topic:
             continue
-        results = get_video_url(topic['name'])
+        results = get_video_url(f"{conference} {topic['name']}")
         if len(results) == 0:
             print(f'No video found for {topic["name"]}')
             continue

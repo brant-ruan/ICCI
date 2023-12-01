@@ -1,0 +1,370 @@
+{
+    "topics": [
+        {
+            "name": "Every Security Team is a Software Team Now"
+        },
+        {
+            "name": "A Decade After Bleichenbacher &#39;06, RSA Signature Forgery Still Works"
+        },
+        {
+            "name": "ClickOnce and You&#39;re in - When Appref-ms Abuse is Operating as Intended"
+        },
+        {
+            "name": "Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception"
+        },
+        {
+            "name": "Detecting Deep Fakes with Mice"
+        },
+        {
+            "name": "Bypassing the Maginot Line: Remotely Exploit the Hardware Decoder on Smartphone"
+        },
+        {
+            "name": "Legal GNSS Spoofing and its Effects on Autonomous Vehicles"
+        },
+        {
+            "name": "Biometric Authentication Under Threat: Liveness Detection Hacking"
+        },
+        {
+            "name": "Battle of Windows Service: A Silver Bullet to Discover File Privilege Escalation Bugs Automatically"
+        },
+        {
+            "name": "SSO Wars: The Token Menace"
+        },
+        {
+            "name": "APIC's Adventures in Wonderland"
+        },
+        {
+            "name": "Behind the Scenes: The Industry of Social Media Manipulation Driven by Malware"
+        },
+        {
+            "name": "PicoDMA: DMA Attacks at Your Fingertips"
+        },
+        {
+            "name": "Attacking Electric Motors for Fun and Profit"
+        },
+        {
+            "name": "The Most Secure Browser? Pwning Chrome from 2016 to 2019"
+        },
+        {
+            "name": "Exploiting the Hyper-V IDE Emulator to Escape the Virtual Machine"
+        },
+        {
+            "name": "Hacking for the Greater Good: Empowering Technologists to Strengthen Digital Society"
+        },
+        {
+            "name": "Dragonblood: Attacking the Dragonfly Handshake of WPA3"
+        },
+        {
+            "name": "Attacking and Defending the Microsoft Cloud (Office 365 & Azure AD)\u00a0"
+        },
+        {
+            "name": "I&#39;m Unique, Just Like You: Human Side-Channels and Their Implications for Security and Privacy"
+        },
+        {
+            "name": "It&#39;s Not What You Know, It&#39;s What You Do: How Data Can Shape Security Engagement"
+        },
+        {
+            "name": "Cyber Insurance 101 for CISO\u2019s"
+        },
+        {
+            "name": "All the 4G Modules Could be Hacked"
+        },
+        {
+            "name": "The Path Less Traveled: Abusing Kubernetes Defaults"
+        },
+        {
+            "name": "Selling 0-Days to Governments and Offensive Security Companies"
+        },
+        {
+            "name": "Sensor and Process Fingerprinting in Industrial Control Systems"
+        },
+        {
+            "name": "HTTP Desync Attacks: Smashing into the Cell Next Door"
+        },
+        {
+            "name": "Behind the Scenes of Intel Security and Manageability Engine"
+        },
+        {
+            "name": "New Vulnerabilities in 5G Networks"
+        },
+        {
+            "name": "Lessons From Two Years of Crypto Audits"
+        },
+        {
+            "name": "Responding to a Cyber Attack with Missiles"
+        },
+        {
+            "name": "Finding a Needle in an Encrypted Haystack: Leveraging Cryptographic Abilities to Detect the Most Prevalent Attacks on Active Directory"
+        },
+        {
+            "name": "Look, No Hands! -- The Remote, Interaction-less Attack Surface of the iPhone"
+        },
+        {
+            "name": "Infiltrating Corporate Intranet Like NSA - Pre-auth RCE on Leading SSL VPNs"
+        },
+        {
+            "name": "Integration of Cyber Insurance Into A Risk Management Program"
+        },
+        {
+            "name": "Worm Charming: Harvesting Malware Lures for Fun and Profit"
+        },
+        {
+            "name": "Come Join the CAFSA - Continuous Automated Firmware Security Analysis"
+        },
+        {
+            "name": "MITRE ATT&CK: The Play at Home Edition"
+        },
+        {
+            "name": "Chip.Fail - Glitching the Silicon of the Connected World"
+        },
+        {
+            "name": "Internet-Scale Analysis of AWS Cognito Security"
+        },
+        {
+            "name": "How Do Cyber Insurers View The World?"
+        },
+        {
+            "name": "Messaging Layer Security: Towards a New Era of Secure Group Messaging"
+        },
+        {
+            "name": "Arm IDA and Cross Check: Reversing the Boeing 787&#39;s Core Network"
+        },
+        {
+            "name": "Hacking Your Non-Compete"
+        },
+        {
+            "name": "Hunting for Bugs, Catching Dragons"
+        },
+        {
+            "name": "Flying a False Flag: Advanced C2, Trust Conflicts, and Domain Takeover"
+        },
+        {
+            "name": "He Said, She Said \u2013 Poisoned RDP Offense and Defense"
+        },
+        {
+            "name": "Controlled Chaos: The Inevitable Marriage of DevOps &#38; Security"
+        },
+        {
+            "name": "The Cyber Shell Game \u2013 War, Information Warfare, and the Darkening Web"
+        },
+        {
+            "name": "MINimum Failure - Stealing Bitcoins with Electromagnetic Fault Injection"
+        },
+        {
+            "name": "Reverse Engineering WhatsApp Encryption for Chat Manipulation and More"
+        },
+        {
+            "name": "Detecting Malicious Files with YARA Rules as They Traverse the Network"
+        },
+        {
+            "name": "Defense Against Rapidly Morphing DDOS"
+        },
+        {
+            "name": "Going Beyond Coverage-Guided Fuzzing with Structured Fuzzing"
+        },
+        {
+            "name": "Transparency in the Software Supply Chain: Making SBOM a Reality"
+        },
+        {
+            "name": "Deconstructing the Phishing Campaigns that Target Gmail Users"
+        },
+        {
+            "name": "Cybersecurity Risk Assessment for Safety-Critical Systems"
+        },
+        {
+            "name": "PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary"
+        },
+        {
+            "name": "Woke Hiring Won't Save Us: An Actionable Approach to Diversity Hiring and Retention"
+        },
+        {
+            "name": "GDPArrrrr: Using Privacy Laws to Steal Identities"
+        },
+        {
+            "name": "The Future of Securing Intelligent Electronic Devices Using the IEC 62351-7 Standard for Monitoring"
+        },
+        {
+            "name": "Testing Your Organization&#39;s Social Media Awareness"
+        },
+        {
+            "name": "Mobile Interconnect Threats: How Next-Gen Products May be Already Outdated"
+        },
+        {
+            "name": "Death to the IOC: What&#39;s Next in Threat Intelligence"
+        },
+        {
+            "name": "On Trust: Stories from the Front Lines"
+        },
+        {
+            "name": "WebAuthn 101 - Demystifying WebAuthn"
+        },
+        {
+            "name": "Attack Surface as a Service"
+        },
+        {
+            "name": "Denial of Service with a Fistful of Packets: Exploiting Algorithmic Complexity Vulnerabilities"
+        },
+        {
+            "name": "Breaking Through Another Side: Bypassing Firmware Security Boundaries from Embedded Controller"
+        },
+        {
+            "name": "Project Zero: Five Years of &#39;Make 0Day Hard&#39;"
+        },
+        {
+            "name": "Rough and Ready: Frameworks to Measure Persistent Engagement and Deterrence"
+        },
+        {
+            "name": "100 Seconds of Solitude: Defeating Cisco Trust Anchor With FPGA Bitstream Shenanigans"
+        },
+        {
+            "name": "Planning a Bug Bounty: The Nuts and Bolts from Concept to Launch"
+        },
+        {
+            "name": "All Your Apple are Belong to Us: Unique Identification and Cross-Device Tracking of Apple Devices"
+        },
+        {
+            "name": "Playing Offense and Defense with Deepfakes"
+        },
+        {
+            "name": "The Enemy Within: Modern Supply Chain Attacks"
+        },
+        {
+            "name": "Information Security in the Public Interest"
+        },
+        {
+            "name": "Bounty Operations: Best Practices and Common Pitfalls to Avoid in the First 6-12 Months"
+        },
+        {
+            "name": "DevSecOps : What, Why and How"
+        },
+        {
+            "name": "Breaking Encrypted Databases: Generic Attacks on Range Queries"
+        },
+        {
+            "name": "Finding Our Path: How We&#39;re Trying to Improve Active Directory Security"
+        },
+        {
+            "name": "API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web"
+        },
+        {
+            "name": "Process Injection Techniques - Gotta Catch Them All"
+        },
+        {
+            "name": "Women in Security: Building a Female InfoSec Community in Korea, Japan, and Taiwan"
+        },
+        {
+            "name": "Rogue7: Rogue Engineering-Station Attacks on S7 Simatic PLCs"
+        },
+        {
+            "name": "Operational Templates for State-Level Attack and Collective Defense of Countries"
+        },
+        {
+            "name": "Exploiting Qualcomm WLAN and Modem Over The Air"
+        },
+        {
+            "name": "Zombie Ant Farming: Practical Tips for Playing Hide and Seek with Linux EDRs"
+        },
+        {
+            "name": "0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars"
+        },
+        {
+            "name": "Predictive Vulnerability Scoring System"
+        },
+        {
+            "name": "Behind the scenes of iOS and Mac Security"
+        },
+        {
+            "name": "Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale"
+        },
+        {
+            "name": "Managing for Success: Maintaining a Healthy Bug Bounty Program Long Term"
+        },
+        {
+            "name": "Ghidra - Journey from Classified NSA Tool to Open Source"
+        },
+        {
+            "name": "Firmware Cartography: Charting the Course for Modern Server Compromise"
+        },
+        {
+            "name": "Infighting Among Russian Security Services in the Cyber Sphere"
+        },
+        {
+            "name": "Preventing Authentication Bypass: A Tale of Two Researchers"
+        },
+        {
+            "name": "Automation Techniques in C++ Reverse Engineering"
+        },
+        {
+            "name": "Inside the Apple T2"
+        },
+        {
+            "name": "Making Big Things Better the Dead Cow Way"
+        },
+        {
+            "name": "Critical Zero Days Remotely Compromise the Most Popular Real-Time OS"
+        },
+        {
+            "name": "Fantastic Red-Team Attacks and How to Find Them"
+        },
+        {
+            "name": "Towards Discovering Remote Code Execution Vulnerabilities in Apple FaceTime"
+        },
+        {
+            "name": "Backdooring Hardware Devices by Injecting Malicious Payloads on Microcontrollers"
+        },
+        {
+            "name": "Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps"
+        },
+        {
+            "name": "Hacking Ten Million Useful Idiots: Online Propaganda as a Socio-Technical Security Project"
+        },
+        {
+            "name": "The Discovery of a Government Malware and an Unexpected Spy Scandal"
+        },
+        {
+            "name": "Attacking iPhone XS Max"
+        },
+        {
+            "name": "Everybody be Cool, This is a Robbery!"
+        },
+        {
+            "name": "The Future of ATO"
+        },
+        {
+            "name": "Securing Apps in the Open-By-Default Cloud"
+        },
+        {
+            "name": "Adventures in the Underland: The CQForensic Toolkit as a Unique Weapon Against Hackers"
+        },
+        {
+            "name": "A Compendium of Container Escapes"
+        },
+        {
+            "name": "HostSplit: Exploitable Antipatterns in Unicode Normalization"
+        },
+        {
+            "name": "Command Injection in F5 iRules"
+        },
+        {
+            "name": "Breaking Samsung's ARM TrustZone"
+        },
+        {
+            "name": "Exploring the New World : Remote Exploitation of SQLite and Curl"
+        },
+        {
+            "name": "How to Detect that Your Domains are Being Abused for Phishing by Using DNS"
+        },
+        {
+            "name": "Debug for Bug: Crack and Hack Apple Core by Itself - Fun and Profit to Debug and Fuzz Apple Kernel by lldb Script"
+        },
+        {
+            "name": "Shifting Knowledge Left: Keeping up with Modern Application Security"
+        },
+        {
+            "name": "Moving from Hacking IoT Gadgets to Breaking into One of Europe&#39;s Highest Hotel Suites"
+        },
+        {
+            "name": "Paging All Windows Geeks \u2013 Finding Evil in Windows 10 Compressed Memory"
+        }
+    ]
+}

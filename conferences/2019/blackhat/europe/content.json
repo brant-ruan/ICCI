@@ -1,0 +1,139 @@
+{
+    "topics": [
+        {
+            "name": "Blue to Red: Traversing the Spectrum"
+        },
+        {
+            "name": "Conducting a Successful False Flag Cyber Operation (Blame it on China)"
+        },
+        {
+            "name": "Chain of Fools: An Exploration of Certificate Chain Validation Mishaps"
+        },
+        {
+            "name": "Money Doesn&#39;t Stink - Cybercriminal Business Insight of A New Android Botnet"
+        },
+        {
+            "name": "First Contact - Vulnerabilities in Contactless Payments"
+        },
+        {
+            "name": "BluePill: Neutralizing Anti-Analysis Behavior in Malware Dissection"
+        },
+        {
+            "name": "Mobile Network Hacking, IP Edition"
+        },
+        {
+            "name": "Doors of Durin: The Veiled Gate to Siemens S7 Silicon"
+        },
+        {
+            "name": "Exploiting Windows Hello for Business"
+        },
+        {
+            "name": "Sneak into Your Room: Security Holes in the Integration and Management of Messaging Protocols on Commercial IoT Clouds"
+        },
+        {
+            "name": "Hackers, Journalists and the Ethical Swamp"
+        },
+        {
+            "name": "Far Sides of Java Remote Protocols"
+        },
+        {
+            "name": "HTTP Desync Attacks: Request Smuggling Reborn"
+        },
+        {
+            "name": "Reverse Engineering and Exploiting Builds in the Cloud"
+        },
+        {
+            "name": "Advanced VBA Macros Attack & Defence"
+        },
+        {
+            "name": "Is Your Mental Health for Sale?"
+        },
+        {
+            "name": "Hands Off and Putting SLAB/SLUB Feng Shui in a Blackbox"
+        },
+        {
+            "name": "Booting the iOS Kernel to an Interactive Bash Shell on QEMU"
+        },
+        {
+            "name": "Fuzzing and Exploiting Virtual Channels in Microsoft Remote Desktop Protocol for Fun and Profit"
+        },
+        {
+            "name": "ClusterFuzz: Fuzzing at Google Scale"
+        },
+        {
+            "name": "Bring Your Own Token (BYOT) to Replace the Traditional Smartcards for Strong Authentication and Signing"
+        },
+        {
+            "name": "Side Channel Attacks in 4G and 5G Cellular Networks"
+        },
+        {
+            "name": "Unleashing the Power of My 20+ Years Old Car"
+        },
+        {
+            "name": "Understanding the IoT Threat Landscape and a Home Appliance Manufacturer&#39;s Approach to Counter Threats to IoT"
+        },
+        {
+            "name": "Detecting (un)Intentionally Hidden Injected Code by Examining Page Table Entries"
+        },
+        {
+            "name": "How to Break PDF Encryption"
+        },
+        {
+            "name": "Unveiling the Underground World of Anti-Cheats"
+        },
+        {
+            "name": "What the Fuzz"
+        },
+        {
+            "name": "Implementing the Lessons Learned From a Major Cyber Attack"
+        },
+        {
+            "name": "Tackling Privilege Escalation with Offense and Defense"
+        },
+        {
+            "name": "BitLeaker: Subverting BitLocker with One Vulnerability"
+        },
+        {
+            "name": "OEM Finder: Hunting Vulnerable OEM IoT Devices at Scale"
+        },
+        {
+            "name": "New Exploit Technique In Java Deserialization Attack"
+        },
+        {
+            "name": "Alexa, Hack My Server(less) Please"
+        },
+        {
+            "name": "Fatal Fury on ESP32: Time to Release Hardware Exploits"
+        },
+        {
+            "name": "Site Isolation: Confining Untrustworthy Code in the Web Browser"
+        },
+        {
+            "name": "BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication"
+        },
+        {
+            "name": "Trust in Apple&#39;s Secret Garden: Exploring &#38; Reversing Apple&#39;s Continuity Protocol"
+        },
+        {
+            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC"
+        },
+        {
+            "name": "Practical Side-Channel Attacks Against WPA-TKIP"
+        },
+        {
+            "name": "Bypassing KPTI Using the Speculative Behavior of the SWAPGS Instruction"
+        },
+        {
+            "name": "Breaking Bootloaders on the Cheap"
+        },
+        {
+            "name": "Simple Spyware: Androids Invisible Foreground Services and How to (Ab)use Them"
+        },
+        {
+            "name": "Thinking Outside the JIT Compiler: Understanding and Bypassing StructureID Randomization with Generic and Old-School Methods"
+        },
+        {
+            "name": "Inside Out - The Cloud has Never been so Close"
+        }
+    ]
+}

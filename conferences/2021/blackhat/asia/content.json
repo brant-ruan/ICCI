@@ -1,0 +1,121 @@
+{
+    "topics": [
+        {
+            "name": "Lessons From 11 Billion Breached Records"
+        },
+        {
+            "name": "Disappeared Coins: Steal Hashrate in Stratum Secretly"
+        },
+        {
+            "name": "A Walk Through Historical Correlations Between Vulnerabilities & Stock Prices"
+        },
+        {
+            "name": "Racing the Dark: A New TOCTTOU Story From Apple&#39;s Core"
+        },
+        {
+            "name": "Pre-built JOP Chains with the JOP ROCKET: Bypassing DEP without ROP"
+        },
+        {
+            "name": "The Rise of Potatoes: Privilege Escalations in Windows Services"
+        },
+        {
+            "name": "Vibe Check: IDK About This\u2026. Why Students May Shy Away From Cyber in a Surveillance State"
+        },
+        {
+            "name": "Mining and Exploiting (Mobile) Payment Credential Leaks in the Wild"
+        },
+        {
+            "name": "Give Me a SQL Injection, I Shall PWN IIS and SQL Server"
+        },
+        {
+            "name": "Domain Borrowing: Catch My C2 Traffic if You Can"
+        },
+        {
+            "name": "Threat Hunting in Active Directory Environment"
+        },
+        {
+            "name": "Stuxnet-in-a-Box: In-Field Emulation and Fuzzing of PLCs to Uncover the Next Zero-Day Threat in Industrial Control Systems"
+        },
+        {
+            "name": "The Cost of Complexity: Different Vulnerabilities While Implementing the Same RFC"
+        },
+        {
+            "name": "Wideshears: Investigating and Breaking Widevine on QTEE"
+        },
+        {
+            "name": "(Un)protected Broadcasts in Android 9 and 10"
+        },
+        {
+            "name": "How Did the Adversaries Abusing the Bitcoin Blockchain Evade Our Takeover?"
+        },
+        {
+            "name": "Enter Sandbox"
+        },
+        {
+            "name": "Alarm.DISARM - Remotely Exploiting and Disarming Popular Physical Security System from Public Internet"
+        },
+        {
+            "name": "X-in-the-Middle: Attacking Fast Charging Piles and Electric Vehicles "
+        },
+        {
+            "name": "Hunting Vulnerabilities of gRPC Protocol Armed Mobile/IoT Applications"
+        },
+        {
+            "name": "Insights and Predictions: What&#39;s Next in InfoSec"
+        },
+        {
+            "name": "A General Approach to Bypassing Many Kernel Protections and its Mitigation"
+        },
+        {
+            "name": "How I Can Unlock Your Smart Door: Security Pitfalls in Cross-Vendor IoT Access Control"
+        },
+        {
+            "name": "Apple Neural Engine Internal: From ML Algorithm to HW Registers"
+        },
+        {
+            "name": "Anti-Forensics: Reverse Engineering a Leading Phone Forensic Tool"
+        },
+        {
+            "name": "A New Era of One-Click Attacks: How to Break Install-Less Apps"
+        },
+        {
+            "name": "Scavenger: Misuse Error Handling Leading to Qemu/KVM Escape"
+        },
+        {
+            "name": "New Attack Surface in Safari: Using Just One Web Audio Vulnerability to Rule Safari"
+        },
+        {
+            "name": "&#34;We Are About to Land&#34;: How CloudDragon Turns a Nightmare Into Reality"
+        },
+        {
+            "name": "The Price of Compatibility: Defeating macOS Kernel Using Extended File Attributes"
+        },
+        {
+            "name": "Hiding Objects from Computer Vision by Exploiting Correlation Biases"
+        },
+        {
+            "name": "In-Depth Analyzing and Fuzzing for Qualcomm Hexagon Processor"
+        },
+        {
+            "name": "Mem2Img: Memory-Resident Malware Detection via Convolution Neural Network"
+        },
+        {
+            "name": "The Tangled Webview ----- Javascriptinterface Once More"
+        },
+        {
+            "name": "A Mirage of Safety: Bug Finding and Exploit Techniques of Top Android Vendor&#39;s Privacy Protection Apps"
+        },
+        {
+            "name": "The B-MAD Approach to Threat Modeling"
+        },
+        {
+            "name": "The Motion Sensor Western: The Good (Automatic Functionality Support), the Bad (Security Risks to Devices), and the Ugly (Privacy Risks to Individuals)"
+        },
+        {
+            "name": "Hey, You, Get off My Private Data: Do Apps Respect Your Privacy as They Claim?"
+        },
+        {
+            "name": "Reverse Engineering Compliance"
+        }
+    ]
+}

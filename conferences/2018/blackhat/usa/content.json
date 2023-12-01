@@ -1,0 +1,355 @@
+{
+    "topics": [
+        {
+            "name": "Optimistic Dissatisfaction with the Status Quo: Steps We Must Take to Improve Security in Complex Landscapes"
+        },
+        {
+            "name": "Measuring the Speed of the Red Queen's Race; Adaption and Evasion in Malware"
+        },
+        {
+            "name": "Holding on for Tonight: Addiction in InfoSec"
+        },
+        {
+            "name": "Finding Xori: Malware Analysis Triage with Automated Disassembly"
+        },
+        {
+            "name": "Exposing the Bait: A Qualitative Look at the Impact of Autonomous Peer Communication to Enhance Organizational Phishing Detection"
+        },
+        {
+            "name": "Software Attacks on Hardware Wallets"
+        },
+        {
+            "name": "Dissecting Non-Malicious Artifacts: One IP at a Time"
+        },
+        {
+            "name": "Detecting Credential Compromise in AWS"
+        },
+        {
+            "name": "How I Learned to Stop Worrying and Love the SBOM"
+        },
+        {
+            "name": "Edge Side Include Injection: Abusing Caching Servers into SSRF and Transparent Session Hijacking"
+        },
+        {
+            "name": "KeenLab iOS Jailbreak Internals: Userland Read-Only Memory can be Dangerous"
+        },
+        {
+            "name": "Blockchain Autopsies - Analyzing Ethereum Smart Contract Deaths"
+        },
+        {
+            "name": "A Dive in to Hyper-V Architecture & Vulnerabilities"
+        },
+        {
+            "name": "TRITON: How it Disrupted Safety Systems and Changed the Threat Landscape of Industrial Control Systems, Forever"
+        },
+        {
+            "name": "Stress and Hacking: Understanding Cognitive Stress in Tactical Cyber Ops"
+        },
+        {
+            "name": "From Bot to Robot: How Abilities and Law Change with Physicality"
+        },
+        {
+            "name": "Miasm: Reverse Engineering Framework"
+        },
+        {
+            "name": "New Trends in Browser Exploitation: Attacking Client-Side JIT Compilers"
+        },
+        {
+            "name": "Deep Neural Networks for Hackers: Methods, Applications, and Open Source Tools"
+        },
+        {
+            "name": "Reversing a Japanese Wireless SD Card - From Zero to Code Execution"
+        },
+        {
+            "name": "Deep Dive into an ICS Firewall, Looking for the Fire Hole"
+        },
+        {
+            "name": "Legal Landmines: How Law and Policy are Rapidly Shaping Information Security"
+        },
+        {
+            "name": "No Royal Road \u2026 Notes on Dangerous Game"
+        },
+        {
+            "name": "There will be Glitches: Extracting and Analyzing Automotive Firmware Efficiently"
+        },
+        {
+            "name": "Compression Oracle Attacks on VPN Networks"
+        },
+        {
+            "name": "CANCELLED: Too Soft[ware Defined] Networks: SD-WAN VulnerabilityAssessment"
+        },
+        {
+            "name": "Screaming Channels: When Electromagnetic Side Channels Meet Radio Transceivers"
+        },
+        {
+            "name": "Remotely Attacking System Firmware"
+        },
+        {
+            "name": "Don't @ Me: Hunting Twitter Bots at Scale"
+        },
+        {
+            "name": "Every ROSE has its Thorn: The Dark Art of Remote Online Social Engineering"
+        },
+        {
+            "name": "From Workstation to Domain Admin: Why Secure Administration isn't Secure and How to Fix it"
+        },
+        {
+            "name": "An Attacker Looks at Docker: Approaching Multi-Container Applications"
+        },
+        {
+            "name": "The Unbearable Lightness of BMC's"
+        },
+        {
+            "name": "Mental Health Hacks: Fighting Burnout, Depression and Suicide in the Hacker Community"
+        },
+        {
+            "name": "WireGuard: Next Generation Secure Network Tunnel"
+        },
+        {
+            "name": "Threat Modeling in 2018: Attacks, Impacts and Other Updates"
+        },
+        {
+            "name": "Subverting Sysmon: Application of a Formalized Security Product Evasion Methodology"
+        },
+        {
+            "name": "A Brief History of Mitigation: The Path to EL1 in iOS 11"
+        },
+        {
+            "name": "ZEROing Trust:  Do Zero Trust Approaches Deliver Real Security?"
+        },
+        {
+            "name": "Behind the Speculative Curtain: The True Story of Fighting Meltdown and Spectre"
+        },
+        {
+            "name": "Breaking Parser Logic: Take Your Path Normalization off and Pop 0days Out!"
+        },
+        {
+            "name": "LTE Network Automation Under Threat"
+        },
+        {
+            "name": "Why so Spurious? How a Highly Error-Prone x86/x64 CPU \"Feature\" can be Abused to Achieve Local Privilege Escalation on Many Operating Systems"
+        },
+        {
+            "name": "Open Sesame: Picking Locks with Cortana"
+        },
+        {
+            "name": "Breaking the IIoT: Hacking industrial Control Gateways"
+        },
+        {
+            "name": "Squeezing a Key through a Carry Bit"
+        },
+        {
+            "name": "InfoSec Philosophies for the Corrupt Economy"
+        },
+        {
+            "name": "Back to the Future: A Radical Insecure Design of KVM on ARM"
+        },
+        {
+            "name": "A Tangled Curl: Attacks on the Curl-P Hash Function Leading to Signature Forgeries in the IOTA Signature Scheme"
+        },
+        {
+            "name": "I, for One, Welcome Our New Power Analysis Overlords"
+        },
+        {
+            "name": "How can Communities Move Forward After Incidents of Sexual Harassment or Assault?"
+        },
+        {
+            "name": "AFL's Blindspot and How to Resist AFL Fuzzing for Arbitrary ELF Binaries"
+        },
+        {
+            "name": "Is the Mafia Taking Over Cybercrime?"
+        },
+        {
+            "name": "The Air-Gap Jumpers"
+        },
+        {
+            "name": "Beating the Blockchain by Mapping Out Decentralized Namecoin and Emercoin Infrastructure"
+        },
+        {
+            "name": "Lessons from Virginia - A Comparative Forensic Analysis of WinVote Voting Machines"
+        },
+        {
+            "name": "Demystifying PTSD in the Cybersecurity Environment"
+        },
+        {
+            "name": "Real Eyes, Realize, Real Lies: Beating Deception Technologies"
+        },
+        {
+            "name": "ARTist - A Novel Instrumentation Framework for Reversing and Analyzing Android Apps and the Middleware"
+        },
+        {
+            "name": "Stop that Release, There's a Vulnerability!"
+        },
+        {
+            "name": "Two-Factor Authentication, Usable or Not? A Two-Phase Usability Study of the FIDO U2F Security Key"
+        },
+        {
+            "name": "Fire & Ice: Making and Breaking macOS Firewalls"
+        },
+        {
+            "name": "The Problems and Promise of WebAssembly"
+        },
+        {
+            "name": "Money-rity Report: Using Intelligence to Predict the Next Payment Card Fraud Victims"
+        },
+        {
+            "name": "Reconstruct the World from Vanished Shadow: Recovering Deleted VSS Snapshots"
+        },
+        {
+            "name": "The Science of Hiring and Retaining Female Cybersecurity Engineers"
+        },
+        {
+            "name": "The Windows Notification Facility: Peeling the Onion of the Most Undocumented Kernel Attack Surface Yet"
+        },
+        {
+            "name": "New Norms and Policies in Cyber-Diplomacy"
+        },
+        {
+            "name": "Kernel Mode Threats and Practical Defenses"
+        },
+        {
+            "name": "Snooping on Cellular Gateways and Their Critical Role in ICS"
+        },
+        {
+            "name": "Your Voice is My Passport"
+        },
+        {
+            "name": "Identity Theft: Attacks on SSO Systems"
+        },
+        {
+            "name": "Black Box is Dead. Long Live Black Box!"
+        },
+        {
+            "name": "Are You Trading Stocks Securely? Exposing Security Flaws in Trading Technologies"
+        },
+        {
+            "name": "Pestilential Protocol: How Unsecure HL7 Messages Threaten Patient Lives"
+        },
+        {
+            "name": "AI & ML in Cyber Security - Why Algorithms are Dangerous"
+        },
+        {
+            "name": "GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs"
+        },
+        {
+            "name": "Detecting Malicious Cloud Account Behavior: A Look at the New Native Platform Capabilities"
+        },
+        {
+            "name": "Efail: Breaking S/MIME and OpenPGP Email Encryption using Exfiltration Channels"
+        },
+        {
+            "name": "Decompiler Internals: Microcode"
+        },
+        {
+            "name": "Stealth Mango and the Prevalence of Mobile Surveillanceware"
+        },
+        {
+            "name": "A Deep Dive into macOS MDM (and How it can be Compromised)"
+        },
+        {
+            "name": "TLBleed: When Protecting Your CPU Caches is Not Enough"
+        },
+        {
+            "name": "Wrangling with the Ghost: An Inside Story of Mitigating Speculative Execution Side Channel Vulnerabilities"
+        },
+        {
+            "name": "Playback: A TLS 1.3 Story"
+        },
+        {
+            "name": "Outsmarting the Smart City"
+        },
+        {
+            "name": "Protecting the Protector, Hardening Machine Learning Defenses Against Adversarial Attacks"
+        },
+        {
+            "name": "So I became a Domain Controller"
+        },
+        {
+            "name": "None of My Pixel is Your Business: Active Watermarking Cancellation Against Video Streaming Service"
+        },
+        {
+            "name": "WebAssembly: A New World of Native Exploits on the Browser"
+        },
+        {
+            "name": "Applied Self-Driving Car Security"
+        },
+        {
+            "name": "From Thousands of Hours to a Couple of Minutes: Automating Exploit Generation for Arbitrary Types of Kernel Vulnerabilities"
+        },
+        {
+            "name": "Another Flip in the Row"
+        },
+        {
+            "name": "Windows Offender: Reverse Engineering Windows Defender's Antivirus Emulator"
+        },
+        {
+            "name": "Legal Liability for IOT Cybersecurity Vulnerabilities"
+        },
+        {
+            "name": "How can Someone with Autism Specifically Enhance the Cyber Security Workforce?"
+        },
+        {
+            "name": "Exploitation of a Modern Smartphone Baseband"
+        },
+        {
+            "name": "Last Call for SATCOM Security"
+        },
+        {
+            "name": "Automated Discovery of Deserialization Gadget Chains"
+        },
+        {
+            "name": "Catch me, Yes we can! \u2013 Pwning Social Engineers using Natural Language Processing Techniques in Real-Time"
+        },
+        {
+            "name": "Understanding and Exploiting Implanted Medical Devices"
+        },
+        {
+            "name": "IoT Malware: Comprehensive Survey, Analysis Framework and Case Studies"
+        },
+        {
+            "name": "SDL That Won't Break the Bank"
+        },
+        {
+            "name": "Lowering the Bar: Deep Learning for Side Channel Analysis"
+        },
+        {
+            "name": "Mainframe [z/OS] Reverse Engineering and Exploit Development"
+        },
+        {
+            "name": "Hardening Hyper-V through Offensive Security Research"
+        },
+        {
+            "name": "Practical Web Cache Poisoning: Redefining 'Unexploitable'"
+        },
+        {
+            "name": "For the Love of Money: Finding and Exploiting Vulnerabilities in Mobile Point of Sales Systems"
+        },
+        {
+            "name": "SirenJack: Cracking a 'Secure' Emergency Warning Siren System"
+        },
+        {
+            "name": "Meltdown: Basics, Details, Consequences"
+        },
+        {
+            "name": "Follow the White Rabbit: Simplifying Fuzz Testing Using FuzzExMachina"
+        },
+        {
+            "name": "The Finest Penetration Testing Framework for Software-Defined Networks "
+        },
+        {
+            "name": "It's a PHP Unserialization Vulnerability Jim, but Not as We Know It"
+        },
+        {
+            "name": "Unpacking the Packed Unpacker: Reverse Engineering an Android Anti-Analysis Native Library"
+        },
+        {
+            "name": "Return of Bleichenbacher's Oracle Threat (ROBOT)"
+        },
+        {
+            "name": "Over-the-Air: How we Remotely Compromised the Gateway, BCM, and Autopilot ECUs of Tesla Cars"
+        },
+        {
+            "name": "DeepLocker - Concealing Targeted Attacks with AI Locksmithing"
+        }
+    ]
+}

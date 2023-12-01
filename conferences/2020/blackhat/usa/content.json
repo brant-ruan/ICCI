@@ -1,0 +1,280 @@
+{
+    "topics": [
+        {
+            "name": "Stress-Testing Democracy: Election Integrity During a Global Pandemic"
+        },
+        {
+            "name": "Carrying our Insecurities with Us: The Risks of Implanted Medical Devices in Secure Spaces"
+        },
+        {
+            "name": "Hacking the Supply Chain \u2013 The Ripple20 Vulnerabilities Haunt Tens of Millions of Critical Devices"
+        },
+        {
+            "name": "HTTP Request Smuggling in 2020 \u2013 New Variants, New Defenses and New Challenges"
+        },
+        {
+            "name": "Hiding Process Memory via Anti-Forensic Techniques"
+        },
+        {
+            "name": "All You Ever Wanted to Know about the AMD Platform Security Processor and were Afraid to Emulate - Inside a Deeply Embedded Security Processor"
+        },
+        {
+            "name": "Room for Escape: Scribbling Outside the Lines of Template Security"
+        },
+        {
+            "name": "Defending Containers Like a Ninja: A Walk through the Advanced Security Features of Docker &#38; Kubernetes"
+        },
+        {
+            "name": "Emulating Samsung&#39;s Baseband for Security Testing"
+        },
+        {
+            "name": "CloudLeak: DNN Model Extractions from Commercial MLaaS Platforms"
+        },
+        {
+            "name": "Election Security: Securing America's Future "
+        },
+        {
+            "name": "An Unauthenticated Journey to Root: Pwning Your Company's Enterprise Software Servers"
+        },
+        {
+            "name": "Finding New Bluetooth Low Energy Exploits via Reverse Engineering Multiple Vendors' Firmwares"
+        },
+        {
+            "name": "Detecting Fake 4G Base Stations in Real Time"
+        },
+        {
+            "name": "Decade of the RATs \u2013 Custom Chinese Linux Rootkits for Everyone"
+        },
+        {
+            "name": "Industrial Protocol Gateways Under Analysis"
+        },
+        {
+            "name": "Engineering Empathy: Adapting Software Engineering Principles and Process to Security"
+        },
+        {
+            "name": "Web Cache Entanglement: Novel Pathways to Poisoning"
+        },
+        {
+            "name": "Repurposing Neural Networks to Generate Synthetic Media for Information Operations"
+        },
+        {
+            "name": "Policy Implications of Faulty Cyber Risk Models and How to Fix Them"
+        },
+        {
+            "name": "iOS Kernel PAC, One Year Later"
+        },
+        {
+            "name": "Ruling StarCraft Game Spitefully -- Exploiting the Blind Spot of AI-Powered Game Bots"
+        },
+        {
+            "name": "We Went to Iowa and All We Got were These Felony Arrest Records"
+        },
+        {
+            "name": "Whispers Among the Stars: A Practical Look at Perpetrating (and Preventing) Satellite Eavesdropping Attacks"
+        },
+        {
+            "name": "Demystifying Modern Windows Rootkits"
+        },
+        {
+            "name": "Stopping Snake Oil with Smaller Healthcare Providers:  Addressing Security with Actionable Plans and Maximum Value"
+        },
+        {
+            "name": "Reverse Engineering the Tesla Battery Management System to increase Power Available"
+        },
+        {
+            "name": "Discovering Hidden Properties to Attack the Node.js Ecosystem"
+        },
+        {
+            "name": "Reversing the Root: Identifying the Exploited Vulnerability in 0-days Used In-The-Wild"
+        },
+        {
+            "name": "OTRazor: Static Code Analysis for Vulnerability Discovery in Industrial Automation Scripts"
+        },
+        {
+            "name": "Breaking Samsung's Root of Trust: Exploiting Samsung S10 Secure Boot"
+        },
+        {
+            "name": "The Devil&#39;s in the Dependency: Data-Driven Software Composition Analysis"
+        },
+        {
+            "name": "Building a Vulnerability Disclosure Program that Works for Election Vendors and Hackers"
+        },
+        {
+            "name": "Uncommon Sense: Detecting Exploits with Novel Hardware Performance Counters and ML Magic"
+        },
+        {
+            "name": "Healthscare \u2013  An Insider&#39;s Biopsy of Healthcare Application Security"
+        },
+        {
+            "name": "FASTCash and INJX_Pure: How Threat Actors Use Public Standards for Financial Fraud"
+        },
+        {
+            "name": "NoJITsu: Locking Down JavaScript Engines"
+        },
+        {
+            "name": "Stealthily Access Your Android Phones: Bypass the Bluetooth Authentication"
+        },
+        {
+            "name": "Superman Powered by Kryptonite: Turn the Adversarial Attack into Your Defense Weapon"
+        },
+        {
+            "name": "Needing the DoH: The Ongoing Encryption and Centralization of DNS"
+        },
+        {
+            "name": "Practical Defenses Against Adversarial Machine Learning"
+        },
+        {
+            "name": "Hacking the Voter: Lessons from a Decade of Russian Military Operations"
+        },
+        {
+            "name": "IoT Skimmer: Energy Market Manipulation through High-Wattage IoT Botnets"
+        },
+        {
+            "name": "Office Drama on macOS"
+        },
+        {
+            "name": "When TLS Hacks You"
+        },
+        {
+            "name": "Demigod: The Art of Emulating Kernel Rootkits"
+        },
+        {
+            "name": "Hacking Public Opinion"
+        },
+        {
+            "name": "Lamphone: Real-Time Passive Reconstruction of Speech Using Light Emitted from Lamps"
+        },
+        {
+            "name": "Breaking VSM by Attacking SecureKernel"
+        },
+        {
+            "name": "EtherOops: Exploring Practical Methods to Exploit Ethernet Packet-in-Packet Attacks"
+        },
+        {
+            "name": "Making an Impact from India to the Rest of the World by Building and Nurturing Women Infosec Community"
+        },
+        {
+            "name": "Escaping Virtualized Containers"
+        },
+        {
+            "name": "Security Research on Mercedes-Benz: From Hardware to Car Control"
+        },
+        {
+            "name": "Fooling Windows through Superfetch"
+        },
+        {
+            "name": "Multiple Bugs in Multi-Party Computation: Breaking Cryptocurrency&#39;s Strongest Wallets"
+        },
+        {
+            "name": "How I Created My Clone Using AI - Next-Gen Social Engineering"
+        },
+        {
+            "name": "Detecting Access Token Manipulation"
+        },
+        {
+            "name": "Portable Document Flaws 101"
+        },
+        {
+            "name": "I calc'd Calc - Exploiting Excel Online"
+        },
+        {
+            "name": "Building Cyber Security Strategies for Emerging Industries in Sub Saharan Africa"
+        },
+        {
+            "name": "A Framework for Evaluating and Patching the Human Factor in Cybersecurity"
+        },
+        {
+            "name": "Plundervolt: Flipping Bits from Software without Rowhammer"
+        },
+        {
+            "name": "A Decade After Stuxnet&#39;s Printer Vulnerability: Printing is Still the Stairway to Heaven"
+        },
+        {
+            "name": "Spectra: Breaking Separation Between Wireless Chips"
+        },
+        {
+            "name": "IMP4GT: IMPersonation Attacks in 4G NeTworks"
+        },
+        {
+            "name": "Kr00k: Serious Vulnerability Affected Encryption of Billion+ Wi-Fi Devices"
+        },
+        {
+            "name": "Hunting Invisible Salamanders: Cryptographic (in)Security with Attacker-Controlled Keys"
+        },
+        {
+            "name": "Breaking Brains, Solving Problems: Lessons Learned from Two Years of Setting Puzzles and Riddles for InfoSec Professionals"
+        },
+        {
+            "name": "Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities"
+        },
+        {
+            "name": "EdTech- The Ultimate APT"
+        },
+        {
+            "name": "A Little Less Speculation, a Little More Action: A Deep Dive into Fuchsia&#39;s Mitigations for Specific CPU Side-Channel Attacks"
+        },
+        {
+            "name": "About Directed Fuzzing and Use-After-Free: How to Find Complex & Silent Bugs?"
+        },
+        {
+            "name": "When Lightning Strikes Thrice: Breaking Thunderbolt 3 Security"
+        },
+        {
+            "name": "Heroku Abuse Operations: Hunting Wolves in Sheep&#39;s Clothing"
+        },
+        {
+            "name": "Remote Timing Attacks on TPMs, AKA TPM-Fail"
+        },
+        {
+            "name": "Improving Mental Models of End-to-End Encrypted Communication"
+        },
+        {
+            "name": "The Dark Side of the Cloud - How a Lack of EMR Security Controls Helped Amplify the Opioid Crisis"
+        },
+        {
+            "name": "Exploiting Kernel Races through Taming Thread Interleaving"
+        },
+        {
+            "name": "Routopsy: Modern Routing Protocol Vulnerability Analysis and Exploitation"
+        },
+        {
+            "name": "Dive into Apple IO80211FamilyV2"
+        },
+        {
+            "name": "Experimenting with Real-Time Event Feeds"
+        },
+        {
+            "name": "My Cloud is APT&#39;s Cloud: Investigating and Defending Office 365"
+        },
+        {
+            "name": "Black-Box Laser Fault Injection on a Secure Memory"
+        },
+        {
+            "name": "The Paramedic's Guide to Surviving Cybersecurity"
+        },
+        {
+            "name": "TiYunZong: An Exploit Chain to Remotely Root Modern Android Devices - Pwn Android Phones from 2015 to 2020"
+        },
+        {
+            "name": "Virtually Private Networks"
+        },
+        {
+            "name": "Lateral Movement and Privilege Escalation in GCP; Compromise any Organization without Dropping an Implant"
+        },
+        {
+            "name": "Beyond Root: Custom Firmware for Embedded Mobile Chipsets"
+        },
+        {
+            "name": "Operation Chimera - APT Operation Targets Semiconductor Vendors"
+        },
+        {
+            "name": "Mind Games: Using Data to Solve for the Human Element"
+        },
+        {
+            "name": "You have No Idea Who Sent that Email: 18 Attacks on Email Sender Authentication"
+        },
+        {
+            "name": "A Hacker's Guide to Reducing Side-Channel Attack Surfaces Using Deep-Learning"
+        }
+    ]
+}

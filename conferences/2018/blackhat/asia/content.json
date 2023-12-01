@@ -1,0 +1,109 @@
+{
+    "topics": [
+        {
+            "name": "National Cyber-Aggression and Private-Sector Internet Infrastructure"
+        },
+        {
+            "name": "I Don't Want to Sleep Tonight: Subverting Intel TXT with S3 Sleep"
+        },
+        {
+            "name": "Nation-State Moneymule's Hunting Season \u2013 APT Attacks Targeting Financial Institutions"
+        },
+        {
+            "name": "KSMA: Breaking Android Kernel Isolation and Rooting with ARM MMU Features"
+        },
+        {
+            "name": "XOM-switch: Hiding Your Code from Advanced Code Reuse Attacks In One Shot"
+        },
+        {
+            "name": "Securing Your In-Ear-Fitness Coach: Challenges in Hardening Next Generation Wearables"
+        },
+        {
+            "name": "eMMC & UFS: Security, Vulnerabilities, Rootkits"
+        },
+        {
+            "name": "return-to-csu: A New Method to Bypass 64-bit Linux ASLR"
+        },
+        {
+            "name": "Hourglass Model 2.0: Case Study of Southeast Asia Underground Services Abusing Global 2FA"
+        },
+        {
+            "name": "Tales from the NOC: Going Public in Asia"
+        },
+        {
+            "name": "Breaking State-of-the-Art Binary Code Obfuscation via Program Synthesis"
+        },
+        {
+            "name": "Shadow-Box v2: The Practical and Omnipotent Sandbox for ARM"
+        },
+        {
+            "name": "A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!"
+        },
+        {
+            "name": "AES Wireless Keyboard \u2013 Template Attack for Eavesdropping"
+        },
+        {
+            "name": "UbootKit: A Worm Attack for the Bootloader of IoT Devices"
+        },
+        {
+            "name": "Prison Break Season 6: Defeating the Mitigations Adopted by Android OEMs"
+        },
+        {
+            "name": "Breach Detection At Scale With AWS Honey Tokens"
+        },
+        {
+            "name": "All Your Payment Tokens Are Mine: Vulnerabilities of Mobile Payment Systems"
+        },
+        {
+            "name": "Cyber Comrades: Alliance-Building in Cyberspace"
+        },
+        {
+            "name": "A Short Course in Cyber Warfare"
+        },
+        {
+            "name": "International Problems: Serialized Fuzzing for ICU Vulnerabilities"
+        },
+        {
+            "name": "Server Tailgating - A Chosen-PlainText Attack on RDP"
+        },
+        {
+            "name": "Analyzing & Breaking Exploit Mitigations and PRNGs on QNX for Automotive, Industrial, Medical and other Embedded Systems"
+        },
+        {
+            "name": "VSPMiner: Detecting Security Hazards in SEAndroid Vendor Customizations via Large-Scale Supervised Machine Learning"
+        },
+        {
+            "name": "When Good Turns Evil: Using Intel SGX to Stealthily Steal Bitcoins"
+        },
+        {
+            "name": "Invoke-DOSfuscation: Techniques FOR %F IN (-style) DO (S-level CMD Obfuscation)"
+        },
+        {
+            "name": "Documenting the Undocumented: The Rise and Fall of AMSI"
+        },
+        {
+            "name": "Counter-Infiltration: Future-Proof Counter Attacks Against Exploit Kit Infrastructure"
+        },
+        {
+            "name": "RustZone: Writing Trusted Applications in Rust"
+        },
+        {
+            "name": "Back To The Epilogue: How to Evade Windows' Control Flow Guard with Less than 16 Bytes"
+        },
+        {
+            "name": "A Deal with the Devil: Breaking Smart Contracts"
+        },
+        {
+            "name": "New Compat Vulnerabilities in Linux Device Drivers"
+        },
+        {
+            "name": "Death Profile"
+        },
+        {
+            "name": "Mac-A-Mal: An Automated Platform for Mac Malware Hunting"
+        },
+        {
+            "name": "Breaking the Attack Graph: How to Leverage Graphs to Strengthen Security in a Domain Environment"
+        }
+    ]
+}

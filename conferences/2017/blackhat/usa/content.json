@@ -1,0 +1,355 @@
+{
+    "topics": [
+        {
+            "name": "Stepping Up Our Game: Re-focusing the Security Community on Defense and Making Security Work for Everyone"
+        },
+        {
+            "name": "All Your SMS & Contacts Belong to ADUPS & Others"
+        },
+        {
+            "name": "PEIMA: Harnessing Power Laws to Detect Malicious Activities from Denial of Service to Intrusion Detection, Traffic Analysis, and Beyond"
+        },
+        {
+            "name": "Breaking Electronic Door Locks Like You're on CSI: Cyber"
+        },
+        {
+            "name": "Ichthyology: Phishing as a Science"
+        },
+        {
+            "name": "They're Coming for Your Tools: Exploiting Design Flaws for Active Intrusion Prevention"
+        },
+        {
+            "name": "Web Cache Deception Attack"
+        },
+        {
+            "name": "Adventures in Attacking Wind Farm Control Networks"
+        },
+        {
+            "name": "Wire Me Through Machine Learning"
+        },
+        {
+            "name": "Orange is the New Purple - How and Why to Integrate Development Teams with Red/Blue Teams to Build More Secure Software"
+        },
+        {
+            "name": "New Adventures in Spying 3G and 4G Users: Locate, Track & Monitor"
+        },
+        {
+            "name": "Real Humans, Simulated Attacks: Usability Testing with Attack Scenarios"
+        },
+        {
+            "name": "Splunking Dark Tools - A Pentesters Guide to Pwnage Visualization"
+        },
+        {
+            "name": "Many Birds, One Stone: Exploiting a Single SQLite Vulnerability Across Multiple Software"
+        },
+        {
+            "name": "Industroyer/Crashoverride: Zero Things Cool About a Threat Group Targeting the Power Grid"
+        },
+        {
+            "name": "FlowFuzz - A Framework for Fuzzing OpenFlow-Enabled Software and Hardware Switches"
+        },
+        {
+            "name": "The Avalanche Takedown: Landslide for Law Enforcement"
+        },
+        {
+            "name": "Taking DMA Attacks to the Next Level: How to do Arbitrary Memory Reads/Writes in a Live and Unmodified System Using a Rogue Memory Controller"
+        },
+        {
+            "name": "When IoT Attacks: Understanding the Safety Risks Associated with Connected Devices"
+        },
+        {
+            "name": "Challenges of Cooperation Across Cyberspace"
+        },
+        {
+            "name": "The Active Directory Botnet"
+        },
+        {
+            "name": "Taking Windows 10 Kernel Exploitation to the Next Level \u2013 Leveraging Write-What-Where Vulnerabilities in Creators Update"
+        },
+        {
+            "name": "SS7 Attacker Heaven Turns into Riot: How to Make Nation-State and Intelligence Attackers' Lives Much Harder on Mobile Networks"
+        },
+        {
+            "name": "Hacking Hardware with a $10 SD Card Reader"
+        },
+        {
+            "name": "Network Automation is Not Your Safe Haven: Protocol Analysis and Vulnerabilities of Autonomic Network"
+        },
+        {
+            "name": "Hacking Serverless Runtimes: Profiling AWS Lambda, Azure Functions, and More"
+        },
+        {
+            "name": "Delivering Javascript to World+Dog"
+        },
+        {
+            "name": "How We Created the First SHA-1 Collision and What it Means for Hash Security"
+        },
+        {
+            "name": "So You Want to Market Your Security Product..."
+        },
+        {
+            "name": "The Art of Securing 100 Products"
+        },
+        {
+            "name": "What's on the Wireless? Automating RF Signal Identification"
+        },
+        {
+            "name": "ShieldFS: The Last Word in Ransomware Resilient File Systems"
+        },
+        {
+            "name": "Big Game Theory Hunting: The Peculiarities of Human Behavior in the InfoSec Game"
+        },
+        {
+            "name": "Fractured Backbone: Breaking Modern OS Defenses with Firmware Attacks"
+        },
+        {
+            "name": "An ACE Up the Sleeve: Designing Active Directory DACL Backdoors"
+        },
+        {
+            "name": "Automated Testing of Crypto Software Using Differential Fuzzing"
+        },
+        {
+            "name": "Bochspwn Reloaded: Detecting Kernel Memory Disclosure with x86 Emulation and Taint Tracking"
+        },
+        {
+            "name": "WSUSpendu: How to Hang WSUS Clients"
+        },
+        {
+            "name": "Evilsploit \u2013 A Universal Hardware Hacking Toolkit"
+        },
+        {
+            "name": "Cracking the Lens: Targeting HTTP's Hidden Attack-Surface"
+        },
+        {
+            "name": "Fighting the Previous War (aka: Attacking and Defending in the Era of the Cloud)"
+        },
+        {
+            "name": "Developing Trust and Gitting Betrayed"
+        },
+        {
+            "name": "White Hat Privilege:  The Legal Landscape for a Cybersecurity Professional Seeking to Safeguard Sensitive Client Data"
+        },
+        {
+            "name": "Go Nuclear: Breaking Radiation Monitoring Devices"
+        },
+        {
+            "name": "Ochko123 - How the Feds Caught Russian Mega-Carder Roman Seleznev"
+        },
+        {
+            "name": "What They're Teaching Kids These Days: Comparing Security Curricula and Accreditations to Industry Needs"
+        },
+        {
+            "name": "Protecting Visual Assets: Digital Image Counter-Forensics"
+        },
+        {
+            "name": "(in)Security in Building Automation: How to Create Dark Buildings with Light Speed"
+        },
+        {
+            "name": "Garbage In, Garbage Out: How Purportedly Great Machine Learning Models can be Screwed Up by Bad Data"
+        },
+        {
+            "name": "Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits"
+        },
+        {
+            "name": "Fighting Targeted Malware in the Mobile Ecosystem"
+        },
+        {
+            "name": "Offensive Malware Analysis: Dissecting OSX/FruitFly via a Custom C&C Server"
+        },
+        {
+            "name": "Tracking Ransomware End to End"
+        },
+        {
+            "name": "Protecting Pentests: Recommendations for Performing More Secure Tests"
+        },
+        {
+            "name": "Intercepting iCloud Keychain"
+        },
+        {
+            "name": "Escalating Insider Threats Using VMware's API"
+        },
+        {
+            "name": "The Industrial Revolution of Lateral Movement"
+        },
+        {
+            "name": "Bot vs. Bot for Evading Machine Learning Malware Detection"
+        },
+        {
+            "name": "The Shadow Brokers \u2013 Cyber Fear Game-Changers"
+        },
+        {
+            "name": "OpenCrypto: Unchaining the JavaCard Ecosystem"
+        },
+        {
+            "name": "Skype & Type: Keystroke Leakage over VoIP"
+        },
+        {
+            "name": "The Future of ApplePwn - How to Save Your Money"
+        },
+        {
+            "name": "Influencing the Market to Improve Security"
+        },
+        {
+            "name": "The Epocholypse 2038: What's in Store for the Next 20 Years"
+        },
+        {
+            "name": "Broadpwn: Remotely Compromising Android and iOS via a Bug in Broadcom's Wi-Fi Chipsets"
+        },
+        {
+            "name": "Sonic Gun to Smart Devices: Your Devices Lose Control Under Ultrasound/Sound"
+        },
+        {
+            "name": "Advanced Pre-Breach Planning: Utilizing a Purple Team to Measure Effectiveness vs. Maturity"
+        },
+        {
+            "name": "'Ghost Telephonist' Link Hijack Exploitations in 4G LTE CS Fallback"
+        },
+        {
+            "name": "Redesigning PKI to Solve Revocation, Expiration, and Rotation Problems"
+        },
+        {
+            "name": "Fad or Future? Getting Past the Bug Bounty Hype"
+        },
+        {
+            "name": "Evading Microsoft ATA for Active Directory Domination"
+        },
+        {
+            "name": "Datacenter Orchestration Security and Insecurity: Assessing Kubernetes, Mesos, and Docker at Scale"
+        },
+        {
+            "name": "rVMI: A New Paradigm for Full System Analysis"
+        },
+        {
+            "name": "Practical Tips for Defending Web Applications in the Age of DevOps"
+        },
+        {
+            "name": "Intel SGX Remote Attestation is Not Sufficient"
+        },
+        {
+            "name": "Why Most Cyber Security Training Fails and What We Can Do About it"
+        },
+        {
+            "name": "Bug Collisions Meet Government Vulnerability Disclosure"
+        },
+        {
+            "name": "Hunting GPS Jammers"
+        },
+        {
+            "name": "Breaking the Laws of Robotics: Attacking Industrial Robots"
+        },
+        {
+            "name": "Don't Trust the DOM: Bypassing XSS Mitigations via Script Gadgets"
+        },
+        {
+            "name": "Go to Hunt, Then Sleep"
+        },
+        {
+            "name": "Infecting the Enterprise: Abusing Office365+Powershell for Covert C2"
+        },
+        {
+            "name": "kR^X: Comprehensive Kernel Protection Against Just-In-Time Code Reuse"
+        },
+        {
+            "name": "Honey, I Shrunk the Attack Surface \u2013 Adventures in Android Security Hardening"
+        },
+        {
+            "name": "Cyber Wargaming: Lessons Learned in Influencing Security Stakeholders Inside and Outside Your Organization"
+        },
+        {
+            "name": "Quantifying Risk in Consumer Software at Scale - Consumer Reports' Digital Standard"
+        },
+        {
+            "name": "Attacking Encrypted USB Keys the Hard(ware) Way"
+        },
+        {
+            "name": "AVPASS: Leaking and Bypassing Antivirus Detection Model Automatically"
+        },
+        {
+            "name": "Free-Fall: Hacking Tesla from Wireless to CAN Bus"
+        },
+        {
+            "name": "Game of Chromes: Owning the Web with Zombie Chrome Extensions"
+        },
+        {
+            "name": "Evil Bubbles or How to Deliver Attack Payload via the Physics of the Process"
+        },
+        {
+            "name": "Firmware is the New Black - Analyzing Past Three Years of BIOS/UEFI Security Vulnerabilities"
+        },
+        {
+            "name": "Taking Over the World Through MQTT - Aftermath"
+        },
+        {
+            "name": "Exploit Kit Cornucopia"
+        },
+        {
+            "name": "Automated Detection of Vulnerabilities in Black-Box Routers (and Other Network Devices)"
+        },
+        {
+            "name": "Evolutionary Kernel Fuzzing"
+        },
+        {
+            "name": "The Origin of Array [@@species]: How Standards Drive Bugs in Script Engines "
+        },
+        {
+            "name": "Friday the 13th: JSON Attacks"
+        },
+        {
+            "name": "Defeating Samsung KNOX with Zero Privilege"
+        },
+        {
+            "name": "Intel AMT Stealth Breakthrough"
+        },
+        {
+            "name": "Digital Vengeance: Exploiting the Most Notorious C&C Toolkits"
+        },
+        {
+            "name": "Well, that Escalated Quickly! How Abusing Docker API Led to Remote Code Execution, Same Origin Bypass and Persistence in the Hypervisor via Shadow Containers"
+        },
+        {
+            "name": "Exploiting Network Printers"
+        },
+        {
+            "name": "Lies, and Damn Lies: Getting Past the Hype of Endpoint Security Solutions"
+        },
+        {
+            "name": "Electronegativity - A Study of Electron Security"
+        },
+        {
+            "name": "Blue Pill for Your Phone"
+        },
+        {
+            "name": "WiFuzz: Detecting and Exploiting Logical Flaws in the Wi-Fi Cryptographic Handshake"
+        },
+        {
+            "name": "And Then the Script-Kiddie Said, \"Let There be No Light.\" Are Cyber-Attacks on the Power Grid Limited to Nation-State Actors?"
+        },
+        {
+            "name": "IoTCandyJar: Towards an Intelligent-Interaction Honeypot for IoT Devices"
+        },
+        {
+            "name": "A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!"
+        },
+        {
+            "name": "RBN Reloaded - Amplifying Signals from the Underground"
+        },
+        {
+            "name": "Cloak & Dagger: From Two Permissions to Complete Control of the UI Feedback Loop"
+        },
+        {
+            "name": "Breaking the x86 Instruction Set"
+        },
+        {
+            "name": "The Adventures of AV and the Leaky Sandbox"
+        },
+        {
+            "name": "Behind the Plexiglass Curtain: Stats and Stories from the Black Hat NOC"
+        },
+        {
+            "name": "Betraying the BIOS: Where the Guardians of the BIOS are Failing"
+        },
+        {
+            "name": "Revoke-Obfuscation: PowerShell Obfuscation Detection (And Evasion) Using Science"
+        }
+    ]
+}

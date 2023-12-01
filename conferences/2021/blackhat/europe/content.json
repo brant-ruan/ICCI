@@ -1,0 +1,151 @@
+{
+    "topics": [
+        {
+            "name": "Securing the Public, who is in Charge?"
+        },
+        {
+            "name": "New Ways of IPV6 Scanning"
+        },
+        {
+            "name": "One Glitch to Rule Them All: Fault Injection Attacks Against the AMD Secure Processor"
+        },
+        {
+            "name": "HTTP/2: The Sequel is Always Worse"
+        },
+        {
+            "name": "Who Did It - How We Attributed Campaigns of a Cyber Mercenary"
+        },
+        {
+            "name": "Re-route Your Intent for Privilege Escalation: A Universal Way to Exploit Android PendingIntents in High-profile and System Apps"
+        },
+        {
+            "name": "Owfuzz: WiFi Nightmare"
+        },
+        {
+            "name": "How Your E-book Might Be Reading You: Exploiting EPUB Reading Systems"
+        },
+        {
+            "name": "TeamTNT: Explosive Cryptomining"
+        },
+        {
+            "name": "The Art of Exploiting UAF by Ret2bpf in Android Kernel"
+        },
+        {
+            "name": "Practical Attacks Against Attribute-based Encryption"
+        },
+        {
+            "name": "From Coordinated Disclosure to Cooperative Vulnerability Research When Dealing with Critical Software Stacks"
+        },
+        {
+            "name": "Is This My Domain Controller? A New Class of Active Directory Protocol Injection Attacks"
+        },
+        {
+            "name": "Veni, No Vidi, No Vici: Attacks on ETW Blind EDR Sensors"
+        },
+        {
+            "name": "2021: A Titan M Odyssey"
+        },
+        {
+            "name": "&#34;We Wait, Because We Know You&#34; - Inside the Ransomware Negotiation Economics"
+        },
+        {
+            "name": "Skeletons in the App Sandbox: 5+ Ways to Escape"
+        },
+        {
+            "name": "AIModel-Mutator: Finding Vulnerabilities in TensorFlow"
+        },
+        {
+            "name": "Lost in the Loader: The Many Faces of the Windows PE File Format"
+        },
+        {
+            "name": "Burning Bridges - Stopping Lateral Movement via the RPC Firewall"
+        },
+        {
+            "name": "Your Trash Kernel Bug, My Precious 0-day"
+        },
+        {
+            "name": "The Bad Guys Win \u2013 Analysis of 10,000 Magecart Vulnerabilities"
+        },
+        {
+            "name": "They Hacked Thousands of Cloud Accounts Then Sent Us Weird GIFs"
+        },
+        {
+            "name": "Embedding a Human-Centric Approach Into a Global Cyber Security Program"
+        },
+        {
+            "name": "Clocking On"
+        },
+        {
+            "name": "Achieving Linux Kernel Code Execution Through a Malicious USB Device"
+        },
+        {
+            "name": "Greetings from the '90s: Exploiting the Design of Industrial Controllers in Modern Settings"
+        },
+        {
+            "name": "A Deep Dive into Privacy Dashboard of Top Android Vendors"
+        },
+        {
+            "name": "BadMesher: New Attack Surfaces of Wi-Fi Mesh Network"
+        },
+        {
+            "name": "The Data Distribution Service (DDS) Protocol is Critical: Let's Use it Securely!"
+        },
+        {
+            "name": "Vulnerability Intelligence"
+        },
+        {
+            "name": "Building Better CSIRTs Using Behavioral Psychology"
+        },
+        {
+            "name": "Exploiting CSP in WebKit to Break Authentication and Authorization"
+        },
+        {
+            "name": "No Such Thing as a Stupid Question: Why Knowledge Shaming is Making Us Less Secure"
+        },
+        {
+            "name": "Windows Defender - Demystifying and Bypassing ASR by Understanding the AV&#39;s Signatures"
+        },
+        {
+            "name": "Security Industry Call-to-Action: We Need a Cloud Vulnerability Database"
+        },
+        {
+            "name": "Message in a Broken Bottle: Exploring the Linux IPC Attack Surface"
+        },
+        {
+            "name": "Hardware Security Module - Executing Unsigned Code in HSM TEE"
+        },
+        {
+            "name": "Zen and the Art of Adversarial Machine Learning"
+        },
+        {
+            "name": "ChaosDB: How We Hacked Databases of Thousands of Azure Customers"
+        },
+        {
+            "name": "Hand in Your Pocket Without You Noticing: Current State of Mobile Wallet Security"
+        },
+        {
+            "name": "ECMO: Rehost Embedded Linux Kernels via Peripheral Transplantation"
+        },
+        {
+            "name": "APTs Go Teleworking: The Rise of VPN Exploits"
+        },
+        {
+            "name": "Resting on Feet of Clay: Securely Bootstrapping OPC UA Deployments"
+        },
+        {
+            "name": "Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS and Beyond"
+        },
+        {
+            "name": "From Logic to Memory: Winning the Solitaire in Reparse Points"
+        },
+        {
+            "name": "No More Secret Sauce!: How We Can Power Real Security Machine Learning Progress Through Open Algorithms and Benchmarks"
+        },
+        {
+            "name": "Picking Lockfiles:  Attacking & Defending Your Supply Chain"
+        },
+        {
+            "name": "ReCertifying Active Directory Certificate Services"
+        }
+    ]
+}

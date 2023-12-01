@@ -1,0 +1,130 @@
+{
+    "topics": [
+        {
+            "name": "Keynote - Preparing the Long Journey for Data Security"
+        },
+        {
+            "name": "Bypassing Anti-Cheats & Hacking Competitive Games"
+        },
+        {
+            "name": "Revisiting Stealthy Sensitive Information Collection from Android Apps"
+        },
+        {
+            "name": "Alice in Kernel Land: Lessons Learned From the eBPF Rabbit Hole"
+        },
+        {
+            "name": "When Knowledge Graph Meets TTPs: Highly Automated and Adaptive Executable TTP Intelligence for Security Evaluation"
+        },
+        {
+            "name": "Stealing With Style: Using CSS to Exploit ProtonMail & Friends"
+        },
+        {
+            "name": "Two Bugs With One PoC: Rooting Pixel 6 From Android 12 to Android 13"
+        },
+        {
+            "name": "Dilemma in IoT Access Control: Revealing Novel Attacks and Design Challenges in Mobile-as-a-Gateway IoT"
+        },
+        {
+            "name": "Operation Clairvoyance: How APT Groups Spy on the Media Industry"
+        },
+        {
+            "name": "Dirty Stream Attack, Turning Android Share Targets Into Attack Vectors"
+        },
+        {
+            "name": "Grand Theft House: RF Lock Pick Tool to Unlock Smart Door Lock"
+        },
+        {
+            "name": "Prototype Pollution Leads to RCE: Gadgets Everywhere"
+        },
+        {
+            "name": "Behind the Scenes: How Criminal Enterprises Pre-infect Millions of Mobile Devices"
+        },
+        {
+            "name": "PMFault: Voltage Fault Injection on Server Platforms Through the PMBus"
+        },
+        {
+            "name": "PPLdump Is Dead. Long Live PPLdump!"
+        },
+        {
+            "name": "Insider Threats Packing Their Bags With Corporate Data"
+        },
+        {
+            "name": "Deception at Scale: How Malware Abuses Trust"
+        },
+        {
+            "name": "firmWar: An Imminent Threat to the Foundation of Computing"
+        },
+        {
+            "name": "Nakatomi Space: Lateral Movement as L1 Post-exploitation in OT"
+        },
+        {
+            "name": "Hacked on National Television"
+        },
+        {
+            "name": "Leveraging Streaming-Based Outlier Detection and SliceLine to Stop Heavily Distributed Bot Attacks"
+        },
+        {
+            "name": "Forward Focus \u2013 The Impact of Artificial Intelligence"
+        },
+        {
+            "name": "Trends and Top Takeaways from Black Hat Asia"
+        },
+        {
+            "name": "Dirty Bin Cache: A New Code Injection Poisoning Binary Translation Cache"
+        },
+        {
+            "name": "Sweet Dreams: Abusing Sleep Mode to Break Wi-Fi Encryption and Disrupt WPA2/3 Networks"
+        },
+        {
+            "name": "Breaking Managed Data Services in the Cloud"
+        },
+        {
+            "name": "E-Meet (or Emit?) My Keystrokes: How Benign Screen-sharing Meetings Could Leak Typing Behaviors"
+        },
+        {
+            "name": "Security Advocacy Shouldn't Be for Security Professionals: An Analysis of How the Industry Misses the Mark and How We Can Improve"
+        },
+        {
+            "name": "Hand Me Your SECRET, MCU! Microarchitectural Timing Attacks on Microcontrollers are Practical"
+        },
+        {
+            "name": "Weaponizing Mobile Infrastructure: Are Politically Motivated Cyber Attacks a Threat to Democracy?"
+        },
+        {
+            "name": "New Wine in an Old Bottle: Attacking Chrome WebSQL"
+        },
+        {
+            "name": "Abusing Azure Active Directory: From MFA Bypass to Listing Global Administrators"
+        },
+        {
+            "name": "A Run a Day Won't Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks"
+        },
+        {
+            "name": "A New Attack Interface in Java Applications"
+        },
+        {
+            "name": "Fuzzing the Native NTFS Read-Write Driver (NTFS3) in the Linux Kernel"
+        },
+        {
+            "name": "Attacking the WebAssembly Compiler of WebKit"
+        },
+        {
+            "name": "You Can Run, but You Can&#39;t Hide - Finding the Footprints of Hidden Shellcode"
+        },
+        {
+            "name": "Phoenix Domain Attack: Vulnerable Links in Domain Name Delegation and Revocation"
+        },
+        {
+            "name": "Engaging the Next Generation of Cybersecurity Professionals: The Power of Security Zines"
+        },
+        {
+            "name": "Cloudy With a Chance of Exploits: Compromising Critical Infrastructure Through IIoT Cloud Solutions"
+        },
+        {
+            "name": "The Various Shades of Supply Chain: SBOM, N-Days and Zero Trust"
+        },
+        {
+            "name": "Breaking the Chain: An Attacker&#39;s Perspective on Supply Chain Vulnerabilities and Flaws"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "topics": [
+        {
+            "name": "Why We are Not Building a Defendable Internet"
+        },
+        {
+            "name": "What Malware Authors Don't Want You to Know - Evasive Hollow Process Injection"
+        },
+        {
+            "name": "Exploiting USB/IP in Linux"
+        },
+        {
+            "name": "Fried Apples: Jailbreak DIY"
+        },
+        {
+            "name": "Domo Arigato, Mr. Roboto: Security Robots a la Unit-Testing"
+        },
+        {
+            "name": "Daily-Life Peeper: Bug Hunting and Exploit Techniques in IoT"
+        },
+        {
+            "name": "Phishing for Funds: Understanding Business Email Compromise"
+        },
+        {
+            "name": "Anti-Plugin: Don't Let Your App Play as an Android Plugin"
+        },
+        {
+            "name": "Delegate to the Top: Abusing Kerberos for Arbitrary Impersonations and RCE"
+        },
+        {
+            "name": "Cross the Wall - Bypass All Modern Mitigations of Microsoft Edge"
+        },
+        {
+            "name": "\"Man-in-the-SCADA:\" Anatomy of Data Integrity Attacks in Industrial Control Systems"
+        },
+        {
+            "name": "Open Sourcing Automotive Diagnostics"
+        },
+        {
+            "name": "Hello From the Other Side: SSH Over Robust Cache Covert Channels in the Cloud"
+        },
+        {
+            "name": "Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox"
+        },
+        {
+            "name": "Drop the ROP: Fine-Grained Control-Flow Integrity for the Linux Kernel"
+        },
+        {
+            "name": "The Irrelevance of K-Bytes Detection - Building a Robust Pipeline for Malicious Documents"
+        },
+        {
+            "name": "Breaking Korea Transit Card with Side-Channel Attack - Unauthorized Recharging"
+        },
+        {
+            "name": "Hacking HTTP/2 - New Attacks on the Internet's Next Generation Foundation"
+        },
+        {
+            "name": "Dig Into the Attack Surface of PDF and Gain 100+ CVEs in 1 Year"
+        },
+        {
+            "name": "The Seven Axioms of Security"
+        },
+        {
+            "name": "The UEFI Firmware Rootkits: Myths and Reality"
+        },
+        {
+            "name": "Beyond the Blacklists: Detecting Malicious URL Through Machine Learning"
+        },
+        {
+            "name": "Never Let Your Guard Down: Finding Unguarded Gates to Bypass Control Flow Guard with Big Data"
+        },
+        {
+            "name": "Hack Microsoft Using Microsoft Signed Binaries"
+        },
+        {
+            "name": "Myth and Truth About Hypervisor-Based Kernel Protector: The Reason Why You Need Shadow-Box"
+        },
+        {
+            "name": "24 Techniques to Gather Threat Intel and Track Actors"
+        },
+        {
+            "name": "3G/4G Intranet Scanning and its Application on the WormHole Vulnerability"
+        },
+        {
+            "name": "The Power of Data-Oriented Attacks: Bypassing Memory Mitigation Using Data-Only Exploitation Techniques"
+        },
+        {
+            "name": "What Malware Authors Don't Want You to Know - Evasive Hollow Process Injection"
+        },
+        {
+            "name": "Go Get My/Vulnerabilities: An In-Depth Analysis of Go Language Runtime and the New Class of Vulnerabilities It Introduces"
+        },
+        {
+            "name": "Mobile-Telephony Threats in Asia"
+        },
+        {
+            "name": "Cache Side Channel Attack: Exploitability and Countermeasures"
+        },
+        {
+            "name": "MASHaBLE: Mobile Applications of Secret Handshakes Over Bluetooth LE"
+        },
+        {
+            "name": "Betting Against the House: Security and Stability When the Odds are Against You"
+        },
+        {
+            "name": "All Your Emails Belong to Us: Exploiting Vulnerable Email Clients via Domain Name Collision"
+        }
+    ]
+}

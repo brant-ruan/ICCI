@@ -1,0 +1,121 @@
+{
+    "topics": [
+        {
+            "name": "Practically-exploitable Cryptographic  Vulnerabilities in Matrix"
+        },
+        {
+            "name": "CSI:Rowhammer: Closing the Case of Half-Double and Beyond"
+        },
+        {
+            "name": "Aikido: Turning EDRs to Malicious Wipers Using 0-day Exploits"
+        },
+        {
+            "name": "Fail Harder: Finding Critical 0-Days in Spite of Ourselves"
+        },
+        {
+            "name": "IoT Manufacturers' New Nightmare: Design Flaws and Deployment Chaos in Cloud-based IoT Access Control Policies"
+        },
+        {
+            "name": "Vlind Glitch: A Blind VCC Glitching Technique to Bypass the Secure Boot of the Qualcomm MSM8916 Mobile SoC"
+        },
+        {
+            "name": "The Aftermath of a Social Engineering Pentest - Are We Being Ethically Responsible?"
+        },
+        {
+            "name": "Back-connect to the Connected Car. Search for Vulnerabilities in the VW Electric Car."
+        },
+        {
+            "name": "Abusing CNC Technologies"
+        },
+        {
+            "name": "Unwinding the Stack for Fun and Profit"
+        },
+        {
+            "name": "How We Organize Large-Scale DDoS Exercises in the Netherlands"
+        },
+        {
+            "name": "DataBinding2Shell: Novel Pathways to RCE Web Frameworks"
+        },
+        {
+            "name": "Cross-Contract Ricochet Attacks & Off-Chain-On-Chain Manipulation of Billion Dollar NFT Collections"
+        },
+        {
+            "name": "Confidence in Chaos: Strategies for World-Class Security Operations"
+        },
+        {
+            "name": "Good Motive but Bad Design: Pitfalls in MPU Usage in Embedded Systems in the Wild"
+        },
+        {
+            "name": "Perfect Spray: A Journey From Finding a New Type of Logical Flaw at Linux Kernel To Developing a New Heap Exploitation Technique"
+        },
+        {
+            "name": "Strengthening Cyber Resiliency in a Time of Geopolitical Crises: Applying Threat Intelligence &#38; Active Defense to Protecting Critical Information Infrastructures"
+        },
+        {
+            "name": "Scammers Who Scam Scammers, Hackers Who Hack Hackers: Exploring a Hidden Sub-economy on Cybercrime Forums and Marketplaces"
+        },
+        {
+            "name": "Android Parcels: The Bad, the Good and the Better - Introducing Android&#39;s Safer Parcel"
+        },
+        {
+            "name": "Select Bugs From Binary Where Pattern Like CVE-1337-Days"
+        },
+        {
+            "name": "Deep into Android Bluetooth Bug Hunting: New Attack Surfaces and Weak Code Patterns"
+        },
+        {
+            "name": "Writing Your Own Ticket to the Cloud Like APT: A Deep-dive to AD FS Attacks, Detections, and Mitigations"
+        },
+        {
+            "name": "Grand Theft Drone: Reaching Breaking Point in Drone Proprietary RF Link Security"
+        },
+        {
+            "name": "Thresholds Are for Old Threats: Demystifying AI and Machine Learning to Enhance SOC Detection"
+        },
+        {
+            "name": "Real-World Detection Evasion Techniques in the Cloud"
+        },
+        {
+            "name": "Knockout Win Against TCC - 20+ NEW Ways to Bypass Your MacOS Privacy Mechanisms"
+        },
+        {
+            "name": "LCDPwn: Breaking Enterprise-Things with Layer 2 Discovery Protocol Vulnerabilities Again"
+        },
+        {
+            "name": "Dirty Vanity: A New Approach to Code Injection &#38; EDR Bypass"
+        },
+        {
+            "name": "DnD: Decompiling Deep Neural Network Compiled Binary"
+        },
+        {
+            "name": "The Hacker's Guide to Policyland"
+        },
+        {
+            "name": "Choo Choo, Network Train - The One to Rule Your Perimeter"
+        },
+        {
+            "name": "Microsoft Defender for Office 365 Evasion - The Story of Confirmed Vulnerability"
+        },
+        {
+            "name": "Fuzzing and Breaking Security Functions of SIMATIC PLCs"
+        },
+        {
+            "name": "Event-based Fuzzing, Patch-based Research, and Comment Police: Finding Bugs Through a Bug"
+        },
+        {
+            "name": "Searching for RPC Functions to Coerce Authentications in Microsoft Protocols"
+        },
+        {
+            "name": "{JS-ON: Security-OFF}: Abusing JSON-Based SQL Queries"
+        },
+        {
+            "name": "Exploring a New Class of Kernel Exploit Primitive"
+        },
+        {
+            "name": "Bridging the Gap Between Research and Practice in Intelligently Bypassing WAF"
+        },
+        {
+            "name": "Breaking Kerberos&#39; RC4 Cipher and Spoofing Windows PACs"
+        }
+    ]
+}

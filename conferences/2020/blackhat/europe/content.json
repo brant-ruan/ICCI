@@ -1,0 +1,115 @@
+{
+    "topics": [
+        {
+            "name": "Hacking Government Cybersecurity"
+        },
+        {
+            "name": "It&#39;s not FINished: The Evolving Maturity in Ransomware Operations"
+        },
+        {
+            "name": "Shield with Hole: New Security Mitigation Helps Us Escape Chrome Sandbox to Exfiltrate User Privacy"
+        },
+        {
+            "name": "Jack-in-the-Cache: A New Code injection Technique through Modifying X86-to-ARM Translation Cache"
+        },
+        {
+            "name": "Finding Bugs Compiler Knows but Doesn&#39;t Tell You: Dissecting Undefined Behavior Optimizations in LLVM"
+        },
+        {
+            "name": "The Subtle Art of Chaining Headers  - IKEv2 Attack Surface Case Study"
+        },
+        {
+            "name": "Graph Convolutional Network-Based Suspicious Communication Pair Estimation for Industrial Control Systems"
+        },
+        {
+            "name": "A New Hope: The One Last Chance to Save Your SSD Data"
+        },
+        {
+            "name": "Debug Resurrection on Nordic nRF52 Series"
+        },
+        {
+            "name": "LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage"
+        },
+        {
+            "name": "From Zero to Sixty: The Story of North Korea's Rapid Ascent to Becoming a Global Cyber Superpower"
+        },
+        {
+            "name": "FPs are Cheap. Show me the CVEs!"
+        },
+        {
+            "name": "Manufacturing Hardware Implants from Idea to Mass Production: A Hacker&#39;s Journey"
+        },
+        {
+            "name": "Discovering 20 Year Old Vulnerabilities in Modern Windows Kernel"
+        },
+        {
+            "name": "Design Pitfalls in Commercial Mini-Programs on Android and iOS"
+        },
+        {
+            "name": "How Embedded TCP/IP Stacks Breed Critical Vulnerabilities"
+        },
+        {
+            "name": "IAM Concerned: OAuth Token Hijacking in Google Cloud (GCP)"
+        },
+        {
+            "name": "Hermes Attack: Steal DNN Models In AI Privatization Deployment Scenarios"
+        },
+        {
+            "name": "efiXplorer: Hunting for UEFI Firmware Vulnerabilities at Scale with Automated Static Analysis"
+        },
+        {
+            "name": "Precursor: Towards Evidence-Based Trust in Hardware"
+        },
+        {
+            "name": "Fingerprint-Jacking: Practical Fingerprint Authorization Hijacking in Android Apps"
+        },
+        {
+            "name": "This is for the Pwners : Exploiting a WebKit 0-day in PlayStation 4"
+        },
+        {
+            "name": "Bypassing NGAV for Fun and Profit"
+        },
+        {
+            "name": "BinTyper: Type Confusion Detection for C++ Binaries"
+        },
+        {
+            "name": "My Ticks Don't Lie: New Timing Attacks for Hypervisor Detection"
+        },
+        {
+            "name": "POSWorld. Should You be Afraid of Hands-On Payment Devices?"
+        },
+        {
+            "name": "Effective Vulnerability Discovery with Machine Learning"
+        },
+        {
+            "name": "Portable Data exFiltration: XSS for PDFs"
+        },
+        {
+            "name": "The Hunt for Major League IoT-ICS Threats: A Deep Dive into IoT Threat Terrain"
+        },
+        {
+            "name": "Quantum Security and Cryptography: You Are (Probably) Doing it Wrong"
+        },
+        {
+            "name": "Circumventing the Guardians: How the Security Features in State-of-the-Art TLS Inspection Solutions can be Exploited for Covert Data Exfiltration"
+        },
+        {
+            "name": "Cross-Site Escape: Pwning macOS Safari Sandbox the Unusual Way"
+        },
+        {
+            "name": "How to Better Fuzz Windows 10 Directx Kernel at Present"
+        },
+        {
+            "name": "Please Make a Dentist Appointment ASAP: Attacking IOBluetoothFamily HCI and Vendor-Specific Commands"
+        },
+        {
+            "name": "Story of Jailbreaking iOS 13"
+        },
+        {
+            "name": "Light Commands: Hacking Voice Assistants with Lasers"
+        },
+        {
+            "name": "Permission Mining in GCP"
+        }
+    ]
+}

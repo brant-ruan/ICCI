@@ -1,0 +1,139 @@
+{
+    "topics": [
+        {
+            "name": "Developments and Challenges in Cybersecurity from the Nation-State Perspective"
+        },
+        {
+            "name": "Malware Buried Deep Down the SPI Flash: Sednit&#39;s First UEFI Rootkit Found in the Wild"
+        },
+        {
+            "name": "No Free Charge Theorem 2.0: How to Steal Private Information from a Mobile Device Using a Powerbank"
+        },
+        {
+            "name": "Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit"
+        },
+        {
+            "name": "SDL at Scale: Growing Security Champions"
+        },
+        {
+            "name": "Divide et Impera: MemoryRanger Runs Drivers in Isolated Kernel Spaces"
+        },
+        {
+            "name": "PASTA: Portable Automotive Security Testbed with Adaptability"
+        },
+        {
+            "name": "DeepPhish: Simulating Malicious AI"
+        },
+        {
+            "name": "Real-Time Detection of Attacks Leveraging Domain Administrator Privilege"
+        },
+        {
+            "name": "Attacking and Defending Blockchains: From Horror Stories to Secure Wallets"
+        },
+        {
+            "name": "Under the SEA - A Look at the Syrian Electronic Army's Mobile Tooling"
+        },
+        {
+            "name": "Eternal War in XNU Kernel Objects"
+        },
+        {
+            "name": "Where 2 Worlds Collide: Bringing Mimikatz et al to UNIX"
+        },
+        {
+            "name": "The Undeniable Truth: How Remote Attestation Circumvents Deniability Guarantees in Secure Messaging Protocols"
+        },
+        {
+            "name": "Container Attack Surface Reduction Beyond Name Space Isolation"
+        },
+        {
+            "name": "A Measured Response to a Grain of Rice"
+        },
+        {
+            "name": "Keeping Secrets: Emerging Practice in Database Encryption"
+        },
+        {
+            "name": "Old New Things: An Examination of the Philips TriMedia Architecture"
+        },
+        {
+            "name": "Level Up Your Security Mindset"
+        },
+        {
+            "name": "Video Killed the Text Star: OSINT Approach"
+        },
+        {
+            "name": "When Everyone&#39;s Dog is Named Fluffy: Abusing the Brand New Security Questions in Windows 10 to Gain Domain-Wide Persistence"
+        },
+        {
+            "name": "Broken Links: Emergence and Future of Software-Supply Chain Compromises"
+        },
+        {
+            "name": "In Search of CurveSwap: Measuring Elliptic Curve Implementations in the Wild"
+        },
+        {
+            "name": "AI Gone Rogue: Exterminating Deep Fakes Before They Cause Menace"
+        },
+        {
+            "name": "The Last Line of Defense: Understanding and Attacking Apple File System on iOS"
+        },
+        {
+            "name": "RustZone: Writing Trusted Applications in Rust"
+        },
+        {
+            "name": "Don&#39;t Eat Spaghetti with a Spoon - An Analysis of the Practical Value of Threat Intelligence"
+        },
+        {
+            "name": "Straight Outta VMware: Modern Exploitation of the SVGA Device for Guest-to-Host Escapes"
+        },
+        {
+            "name": "Deep Impact: Recognizing Unknown Malicious Activities from Zero Knowledge"
+        },
+        {
+            "name": "Evolving Security Experts Among Teenagers"
+        },
+        {
+            "name": "Perfectly Deniable Steganographic Disk Encryption"
+        },
+        {
+            "name": "Attacking Hardware Systems Using Resonance and the Laws of Physics"
+        },
+        {
+            "name": "I Block You Because I Love You: Social Account Identification Attack Against a Website Visitor"
+        },
+        {
+            "name": "Network Defender Archeology: An NSM Case Study in Lateral Movement with DCOM"
+        },
+        {
+            "name": "Secure Boot Under Attack: Simulation to Enhance Fault Attacks &#38; Defenses"
+        },
+        {
+            "name": "Perception Deception: Physical Adversarial Attack Challenges and Tactics for DNN-Based Object Detection"
+        },
+        {
+            "name": "BLEEDINGBIT: Your APs Belong to Us"
+        },
+        {
+            "name": "Cutting Edge: Microsoft Browser Security \u2014 From People Who Owned It"
+        },
+        {
+            "name": "How to Build Synthetic Persons in Cyberspace"
+        },
+        {
+            "name": "When Machines Can't Talk: Security and Privacy Issues of Machine-to-Machine Data Protocols"
+        },
+        {
+            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC"
+        },
+        {
+            "name": "Thermanator and the Thermal Residue Attack"
+        },
+        {
+            "name": "Off-Path Attacks Against PKI"
+        },
+        {
+            "name": "Cloud-Native Sandboxes for Microservices: Understanding New Threats and Attacks"
+        },
+        {
+            "name": "The Mummy 2018 \u2013 Microsoft Accidentally Summons Back Ugly Attacks from the Past"
+        }
+    ]
+}

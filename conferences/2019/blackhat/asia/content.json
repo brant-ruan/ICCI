@@ -1,0 +1,115 @@
+{
+    "topics": [
+        {
+            "name": "The Next Arms Race"
+        },
+        {
+            "name": "NetSpectre: A Truly Remote Spectre Variant"
+        },
+        {
+            "name": "Office in Wonderland"
+        },
+        {
+            "name": "PASTA: Portable Automotive Security Testbed with Adaptability"
+        },
+        {
+            "name": "ACSploit: Exploit Algorithmic Complexity Vulnerabilities"
+        },
+        {
+            "name": "CQTools: The New Ultimate Hacking Toolkit"
+        },
+        {
+            "name": "Keep Everyone In Sync: Effective Approaches Borrowed from Open Source Communities"
+        },
+        {
+            "name": "How to Survive the Hardware Assisted Control-Flow Integrity Enforcement"
+        },
+        {
+            "name": "Pwning the Core of IoT Botnets: From a Honeypot to Gigabytes of Botnet Source Code"
+        },
+        {
+            "name": "Intel VISA: Through the Rabbit Hole"
+        },
+        {
+            "name": "Preloading Insecurity In Your Electron"
+        },
+        {
+            "name": "Finally, I Can Sleep Tonight: Catching Sleep Mode Vulnerabilities of the TPM with the Napper"
+        },
+        {
+            "name": "iOS Dual Booting Demystified "
+        },
+        {
+            "name": "Investigating Malware Using Memory Forensics - A Practical Approach"
+        },
+        {
+            "name": "Reverse Engineering Custom ASICs by Exploiting Potential Supply-Chain Leaks"
+        },
+        {
+            "name": "Winter is Coming Back: Defeating the Most Advanced Rowhammer Defenses to Gain Root and Kernel Privileges"
+        },
+        {
+            "name": "DevSecOps: What, Why and How"
+        },
+        {
+            "name": "The Cost of Learning from the Best: How Prior Knowledge Weakens the Security of Deep Neural Networks"
+        },
+        {
+            "name": "See Like a Bat: Using Echo-Analysis to Detect Man-in-the-Middle Attacks in LANs"
+        },
+        {
+            "name": "Modern Secure Boot Attacks: Bypassing Hardware Root of Trust from Software"
+        },
+        {
+            "name": "Zombie POODLE, GOLDENDOODLE, and How TLSv1.3 Can Save Us All"
+        },
+        {
+            "name": "Dive into VxWorks Based IoT Device: Debug the Undebugable Device"
+        },
+        {
+            "name": "When Voice Phishing Met Malicious Android App"
+        },
+        {
+            "name": "Oh No! KPTI Defeated, Unauthorized Data Leakage is Still Possible"
+        },
+        {
+            "name": "Industrial Remote Controller: Safety, Security, Vulnerabilities"
+        },
+        {
+            "name": "Monocerus: Dynamic Analysis for Smart Contract"
+        },
+        {
+            "name": "Attacking Browser Sandbox: Live Persistently and Prosperously"
+        },
+        {
+            "name": "Don&#39;t Eat Spaghetti with a Spoon - An Analysis of the Practical Value of Threat Intelligence"
+        },
+        {
+            "name": "Automated REST API Endpoint Identification for Security Testing at Scale: How Machine Learning Accelerates Security Testing"
+        },
+        {
+            "name": "Who Left Open the Cookie Jar?"
+        },
+        {
+            "name": "Return of the Insecure Brazilian Voting Machines"
+        },
+        {
+            "name": "Using the JIT Vulnerability to Pwn Microsoft Edge"
+        },
+        {
+            "name": "Ghosts in a Nutshell"
+        },
+        {
+            "name": "Efficient Approach to Fuzzing Interpreters"
+        },
+        {
+            "name": "Make Redirection Evil Again - URL Parser Issues in OAuth"
+        },
+        {
+            "name": "AcuTherm: A Hybrid Attack on Password Entry Based on Both Acoustic and Thermal Side-Channels"
+        },
+        {
+            "name": "Decisions and Revisions - The Ever Evolving Face of the Black Hat NOC"
+        }
+    ]
+}

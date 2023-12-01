@@ -1,0 +1,316 @@
+{
+    "topics": [
+        {
+            "name": "Civil Cyber Defense: Use Your Resources to Defend Non-Profits as They Combat Human Trafficking and Subvert Authoritarian Regimes"
+        },
+        {
+            "name": "Smashing the State Machine: The True Potential of Web Race Conditions"
+        },
+        {
+            "name": "Video-Based Cryptanalysis: Recovering Cryptographic Keys from Non-compromised Devices Using Video Footage of a Device&#39;s Power LED"
+        },
+        {
+            "name": "Reflections on Trust in the Software Supply Chain"
+        },
+        {
+            "name": "Chained to Hit: Discovering New Vectors to Gain Remote and Root Access in SAP Enterprise Software"
+        },
+        {
+            "name": "Defender-Pretender: When Windows Defender Updates Become a Security Risk"
+        },
+        {
+            "name": "Core Escalation: Unleashing the Power of Cross-Core Attacks on Heterogeneous System"
+        },
+        {
+            "name": "Devising and Detecting Phishing: Large Language Models (GPT3, GPT4) vs. Smaller Human Models (V-Triad, Generic Emails)"
+        },
+        {
+            "name": "A Pain in the NAS: Exploiting Cloud Connectivity to PWN Your NAS"
+        },
+        {
+            "name": "Route to Bugs: Analyzing the Security of BGP Message Parsing"
+        },
+        {
+            "name": "Lost Control: Breaking Hardware-Assisted Kernel Control-Flow Integrity with Page-Oriented Programming"
+        },
+        {
+            "name": "All Cops Are Broadcasting: Breaking TETRA After Decades in the Shadows"
+        },
+        {
+            "name": "Badge of Shame: Breaking into Secure Facilities with OSDP"
+        },
+        {
+            "name": "Jailbreaking an Electric Vehicle in 2023 or What It Means to Hotwire Tesla&#39;s x86-Based Seat Heater"
+        },
+        {
+            "name": "BingBang: Hacking Bing.com (and much more) with Azure Active Directory"
+        },
+        {
+            "name": "Fast, Ever-Evolving Defenders: The Resilience Revolution"
+        },
+        {
+            "name": "Risks of AI Risk Policy: Five Lessons"
+        },
+        {
+            "name": "Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1"
+        },
+        {
+            "name": "Becoming a Dark Knight: Adversary Emulation Demonstration for ATT&CK Evaluations"
+        },
+        {
+            "name": "The Integration Cyber Security and Insurance: The Journey of Cysurance"
+        },
+        {
+            "name": "Sure, Let Business Users Build Their Own. What Could Go Wrong?"
+        },
+        {
+            "name": "Hot Topics in Cyber and Privacy Regulation"
+        },
+        {
+            "name": "Small Leaks, Billions Of Dollars: Practical Cryptographic Exploits That Undermine Leading Crypto Wallets"
+        },
+        {
+            "name": "Physical Attacks Against Smartphones"
+        },
+        {
+            "name": "Windows Agentless C2: (Ab)using the MDM Client Stack"
+        },
+        {
+            "name": "Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare"
+        },
+        {
+            "name": "I Watched You Roll the Die: Unparalleled RDP Monitoring Reveal Attackers&#39; Tradecraft"
+        },
+        {
+            "name": "Single Instruction Multiple Data Leaks in Cutting-edge CPUs, AKA Downfall"
+        },
+        {
+            "name": "HARry Parser and the Cursed Tracker: Breaking the Spell of Online Data Collection"
+        },
+        {
+            "name": "A Manufacturer&#39;s Post-Shipment Approach to Fend-Off IoT Malware in Home Appliances"
+        },
+        {
+            "name": "BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables"
+        },
+        {
+            "name": "Second Breakfast:  Implicit and Mutation-Based Serialization Vulnerabilities in .NET"
+        },
+        {
+            "name": "From Dead Data to Digestion: Extracting Windows Fibers for Your Digital Forensics Diet"
+        },
+        {
+            "name": "MaginotDNS: Attacking the Boundary of DNS Caching Protection"
+        },
+        {
+            "name": "Leverage and Demonstrate Value with your Cyber Insurance Renewal"
+        },
+        {
+            "name": "Identifying and Reducing Permission Explosion in AWS: A Graph-Based and Analytical Approach"
+        },
+        {
+            "name": "The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders"
+        },
+        {
+            "name": "Cookie Crumbles: Unveiling Web Session Integrity Vulnerabilities"
+        },
+        {
+            "name": "Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures"
+        },
+        {
+            "name": "Over the Air, Under the Radar: Attacking and Securing the Pixel Modem"
+        },
+        {
+            "name": "Diversity Microtalks: Perspectives on Creating Change"
+        },
+        {
+            "name": "Shuffle Up and Deal: Analyzing the Security of Automated Card Shufflers"
+        },
+        {
+            "name": "Close Encounters of the Advanced Persistent Kind: Leveraging Rootkits for Post-Exploitation"
+        },
+        {
+            "name": "Nothing but Net: Leveraging macOS's Networking Frameworks to Heuristically Detect Malware"
+        },
+        {
+            "name": "Why Cyber Insurance Should be Your SOC's New Best Friend"
+        },
+        {
+            "name": "Dismantling DDoS - Lessons in Scaling"
+        },
+        {
+            "name": "A SSLippery Slope: Unraveling the Hidden Dangers of Certificate Misuse"
+        },
+        {
+            "name": "Bad io_uring: A New Era of Rooting for Android"
+        },
+        {
+            "name": "Bridging Cyber and Insurance"
+        },
+        {
+            "name": "All You Need is Guest"
+        },
+        {
+            "name": "IRonMAN: InterpRetable Incident Inspector Based ON Large-Scale Language Model and Association miNing"
+        },
+        {
+            "name": "AI Assisted Decision Making of Security Review Needs for New Features"
+        },
+        {
+            "name": "What Does an LLM-Powered Threat Intelligence Program Look Like?"
+        },
+        {
+            "name": "Oven Repair (The Hardware Hacking Way)"
+        },
+        {
+            "name": "Entrepreneur's Dilemma: Managing Growth and Dedication to Product Quality"
+        },
+        {
+            "name": "Diving into Windows Remote Access Service for Pre-Auth Bugs"
+        },
+        {
+            "name": "Unsafe At Any Speed: CISA's Plan to Foster Tech Ecosystem Security"
+        },
+        {
+            "name": "Making and Breaking NSA's Codebreaker Challenge"
+        },
+        {
+            "name": "EDR = Erase Data Remotely, By Cooking An Unforgettable (Byte) Signature Dish"
+        },
+        {
+            "name": "Idea to Realization: Cybersecurity Entrepreneurship"
+        },
+        {
+            "name": "Three New Attacks Against JSON Web Tokens"
+        },
+        {
+            "name": "Lessons Learned from the KA-SAT Cyberattack: Response, Mitigation and  Information Sharing"
+        },
+        {
+            "name": "Apple's Predicament: NSPredicate Exploits on iOS and macOS"
+        },
+        {
+            "name": "Me and My Evil Digital Twin: The Psychology of Human Exploitation by AI Assistants"
+        },
+        {
+            "name": "Uncovering Azure&#39;s Silent Threats: A Journey into Cloud Vulnerabilities"
+        },
+        {
+            "name": "First Party Problems in a Zero Trust World: The Accidental Discovery of a New Vulnerability in Google&#39;s OAuth Implementation"
+        },
+        {
+            "name": "Mac-ing Sense of the 3CX Supply Chain Attack: Analysis of the macOS Payloads"
+        },
+        {
+            "name": "Lemons and Liability: Cyber Warranties as an Experiment in Software Regulation"
+        },
+        {
+            "name": "How NOT to Train Your Hack Bot: Dos and Don&#39;ts of Building Offensive GPTs"
+        },
+        {
+            "name": "Evasive Maneuvers: Trends in Phishing Evasion & Anti-Evasion"
+        },
+        {
+            "name": "Houston, We Have a Problem: Analyzing the Security of Low Earth Orbit Satellites"
+        },
+        {
+            "name": "Input Output + Syslog (iO+S): Obtaining Data From Locked iOS Devices via Live Monitoring"
+        },
+        {
+            "name": "Synthetic Trust: Exploiting Biases at Scale"
+        },
+        {
+            "name": "One Drive, Double Agent: Clouded OneDrive Turns Sides"
+        },
+        {
+            "name": "TSSHOCK: Breaking MPC Wallets and Digital Custodians for $BILLION$ Profit"
+        },
+        {
+            "name": "npm and Sigstore: Provenance Comes to the World&#39;s Largest OSS Ecosystem"
+        },
+        {
+            "name": "Forward Focus: Perspectives on AI, Hype, and Security"
+        },
+        {
+            "name": "Lifting the Fog of War - Monitoring, Identifying and Mitigating MS-RPC Based Threats"
+        },
+        {
+            "name": "When a Zero Day and Access Keys Collide in the Cloud: Responding to the SugarCRM 0-Day Vulnerability"
+        },
+        {
+            "name": "Does Public Disclosure of Vulnerabilities Affect Hacker Participation in Bug Bounty Programs?"
+        },
+        {
+            "name": "Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes"
+        },
+        {
+            "name": "Mirage: Cyber Deception Against Autonomous Cyber Attacks"
+        },
+        {
+            "name": "Endoscope: Unpacking Android Apps with VM-Based Obfuscation"
+        },
+        {
+            "name": "Evading Logging in the Cloud: Bypassing AWS CloudTrail"
+        },
+        {
+            "name": "Protecting the CISO: A Legal Journey"
+        },
+        {
+            "name": "Dive into Apple UserFS (Userspace Filesystem)"
+        },
+        {
+            "name": "mTLS: When Certificate Authentication is Done Wrong"
+        },
+        {
+            "name": "A Q&A with a16z's Zane Lackey: Unlocking the Secrets of Cybersecurity Entrepreneurship"
+        },
+        {
+            "name": "Seeing Through the Invisible: Radiation Spikes Detected in Chernobyl During the Russian Invasion Show Possible Evidence of Fabrication"
+        },
+        {
+            "name": "Know Thy Enemy: The Taxonomies That Meta Uses to Map the Offensive Privacy Space"
+        },
+        {
+            "name": "CodeQL: Also a Powerful Binary Analysis Engine"
+        },
+        {
+            "name": "I Was Tasked With Enrolling Millions of Developers in 2FA - Here&#39;s What Happened"
+        },
+        {
+            "name": "The Hat Trick: Exploit Chrome Twice from Runtime to JIT"
+        },
+        {
+            "name": "MoustachedBouncer: AitM-Powered Surveillance via Belarus ISPs"
+        },
+        {
+            "name": "Poisoning Web-Scale Training Datasets is Practical"
+        },
+        {
+            "name": "The Living Dead: Hacking Mobile Face Recognition SDKs with Non-Deepfake Attacks"
+        },
+        {
+            "name": "Low-level RASP: Protecting Applications Implemented in High-level Programming Languages"
+        },
+        {
+            "name": "Make KSMA Great Again: The Art of Rooting Android Devices by GPU MMU Features"
+        },
+        {
+            "name": "ODDFuzz: Hunting Java Deserialization Gadget Chains via Structure-Aware Directed Greybox Fuzzing"
+        },
+        {
+            "name": "Compromising LLMs: The Advent of AI Malware"
+        },
+        {
+            "name": "Kids in the Ad Fraud Crosshair: Why International Threat Actors are Targeting Children to Steal Money from Banks and Major Corporations"
+        },
+        {
+            "name": "Zero-Touch-Pwn: Abusing Zoom&#39;s Zero Touch Provisioning for Remote Attacks on Desk Phones"
+        },
+        {
+            "name": "CoDe16; 16 Zero-Day Vulnerabilities Affecting CODESYS Framework Leading to Remote Code Execution on Millions of Industrial Devices Across Industries"
+        },
+        {
+            "name": "The Yandex Leak: How a Russian Search Giant Uses Consumer Data"
+        }
+    ]
+}

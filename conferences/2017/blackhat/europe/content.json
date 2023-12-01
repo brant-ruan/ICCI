@@ -1,0 +1,130 @@
+{
+    "topics": [
+        {
+            "name": "Diplomacy and Combating Evolving International Cyber Threats"
+        },
+        {
+            "name": "Attacking NextGen Roaming Networks"
+        },
+        {
+            "name": "Breaking Bad: Stealing Patient Data Through Medical Devices"
+        },
+        {
+            "name": "By-design Backdooring of Encryption System - Can We Trust Foreign Encryption Algorithms"
+        },
+        {
+            "name": "Dealing the Perfect Hand - Shuffling Memory Blocks on z/OS"
+        },
+        {
+            "name": "BlueBorne - A New Class of Airborne Attacks that can Remotely Compromise Any Linux/IoT Device"
+        },
+        {
+            "name": "Automatic Discovery of Evasion Vulnerabilities Using Targeted Protocol Fuzzing"
+        },
+        {
+            "name": "Intel ME: Flash File System Explained"
+        },
+        {
+            "name": "CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management"
+        },
+        {
+            "name": "The Apple of Your EFI: An Updated Analysis of the State of Apple's EFI Security Support"
+        },
+        {
+            "name": "Hiding Pin's Artifacts to Defeat Evasive Malware"
+        },
+        {
+            "name": "How to Rob a Bank Over the Phone - Lessons Learned and Real Audio from an Actual Social Engineering Engagement"
+        },
+        {
+            "name": "Nation-State Moneymule's Hunting Season \u2013 APT Attacks Targeting Financial Institutions"
+        },
+        {
+            "name": "Wi-Fi Direct to Hell: Attacking Wi-Fi Direct Protocol Implementations"
+        },
+        {
+            "name": "DIFUZZing Android Kernel Drivers"
+        },
+        {
+            "name": "Self-Verifying Authentication \u2013 A Framework for Safer Integrations of Single-Sign-On Services"
+        },
+        {
+            "name": "How to Hack a Turned-Off Computer, or Running Unsigned Code in Intel Management Engine"
+        },
+        {
+            "name": "Attacks Against GSMA's M2M Remote Provisioning"
+        },
+        {
+            "name": "Exposing Hidden Exploitable Behaviors in Programming Languages Using Differential Fuzzing"
+        },
+        {
+            "name": "I Trust My Zombies: A Trust-Enabled Botnet"
+        },
+        {
+            "name": "GDPR and Third Party JS - Can it be Done?"
+        },
+        {
+            "name": "Security Through Distrusting"
+        },
+        {
+            "name": "Lost in Transaction: Process Doppelg\u00e4nging"
+        },
+        {
+            "name": "Red Team Techniques for Evading, Bypassing, and Disabling MS Advanced Threat Protection and Advanced Threat Analytics"
+        },
+        {
+            "name": "CALDERA: Automating Adversary Emulation"
+        },
+        {
+            "name": "A Process is No One: Hunting for Token Manipulation"
+        },
+        {
+            "name": "Ro(o)tten Apples: Vulnerability Heaven in the iOS Sandbox"
+        },
+        {
+            "name": "Exfiltrating Reconnaissance Data from Air-Gapped ICS/SCADA Networks"
+        },
+        {
+            "name": "Breaking Out HSTS (and HPKP) on Firefox, IE/Edge and (Possibly) Chrome"
+        },
+        {
+            "name": "Heap Layout Optimisation for Exploitation"
+        },
+        {
+            "name": "Enraptured Minds: Strategic Gaming of Cognitive Mindhacks"
+        },
+        {
+            "name": "The Great Escapes of VMWare: A Retrospective Case Study of VMWare G2H Escape Vulnerabilities"
+        },
+        {
+            "name": "Key Reinstallation Attacks: Breaking the WPA2 Protocol"
+        },
+        {
+            "name": "Inside Android's SafetyNet Attestation"
+        },
+        {
+            "name": "Passive Fingerprinting of HTTP/2 Clients"
+        },
+        {
+            "name": "How Samsung Secures Your Wallet and How to Break It"
+        },
+        {
+            "name": "Fed Up Getting Shattered and Log Jammed? A New Generation of Crypto is Coming"
+        },
+        {
+            "name": "Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits"
+        },
+        {
+            "name": "The Spear to Break the Security Wall of S7CommPlus"
+        },
+        {
+            "name": "A Universal Controller to Take Over a Z-Wave Network"
+        },
+        {
+            "name": "Becoming You: A Glimpse into Credential Abuse"
+        },
+        {
+            "name": "Jailbreaking Apple Watch"
+        }
+    ]
+}

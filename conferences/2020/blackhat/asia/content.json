@@ -1,0 +1,118 @@
+{
+    "topics": [
+        {
+            "name": "Engineering Cybersecurity for a Nation: What Singapore is Learning from Cars and Sanitation"
+        },
+        {
+            "name": "BitLeaker: Subverting BitLocker with One Vulnerability"
+        },
+        {
+            "name": "Demystify Today&#39;s Binary Disassembling and How Modern ABI Makes it Easier"
+        },
+        {
+            "name": "The Evil of Spy Camera"
+        },
+        {
+            "name": "The Evil Alt-Ego: (ab)using HTTP Alternative Services"
+        },
+        {
+            "name": "Faking a Factory: Creating and Operating a Realistic Honeypot"
+        },
+        {
+            "name": "3d Red Pill:  A Guest-to-Host Escape on QEMU/KVM Virtio Device"
+        },
+        {
+            "name": "Securing the Next Version of HTTP: How QUIC and HTTP/3 Compare to HTTP/2"
+        },
+        {
+            "name": "CDPwn: Taking Over Millions of Enterprise-Things with Layer 2 Zero-Days"
+        },
+        {
+            "name": "Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation"
+        },
+        {
+            "name": "Making an Impact from India to the Rest of the World by Building and Nurturing Women Infosec Community"
+        },
+        {
+            "name": "Tracking the Criminal of Fake News Based on a Unified Embedding"
+        },
+        {
+            "name": "WIFI-Important Remote Attack Surface: Threat is Expanding"
+        },
+        {
+            "name": "What the Log?! So Many Events, so Little Time..."
+        },
+        {
+            "name": "The Inside Story: There are Apps in Apps and Here is How to Break Them"
+        },
+        {
+            "name": "Wi-Fi Brokering"
+        },
+        {
+            "name": "Walking Your Dog in Multiple Forests - Breaking AD Trust Boundaries through Kerberos Vulnerabilities"
+        },
+        {
+            "name": "Page Cache Attacks: Microarchitectural Attacks on Flawless Hardware"
+        },
+        {
+            "name": "First Contact - Vulnerabilities in Contactless Payments"
+        },
+        {
+            "name": "Complexity Killed Security"
+        },
+        {
+            "name": "The Black Hat NOC: Greatest Hits and Holy...Cows"
+        },
+        {
+            "name": "Win the 0-Day Racing Game Against Botnet in Public Cloud"
+        },
+        {
+            "name": "Adversary Detection Pipelines: Finally Making Your Threat Intel Useful"
+        },
+        {
+            "name": "Patching Loopholes: Finding Backdoors in Applications"
+        },
+        {
+            "name": "Identifying Multi-Binary Vulnerabilities in Embedded Firmware at Scale"
+        },
+        {
+            "name": "Biometrics &#38; Privacy: Time to Faceoff or is that FaceApp?"
+        },
+        {
+            "name": "From an URGENT/11 Vulnerability to a Full Take-Down of a Factory, Using a Single Packet"
+        },
+        {
+            "name": "Raiden Glitching Framework"
+        },
+        {
+            "name": "Store-to-Leak Forwarding: There and Back Again"
+        },
+        {
+            "name": "Escaping Virtualized Containers"
+        },
+        {
+            "name": "Attacking and Defending Machine Learning Applications of Public Cloud"
+        },
+        {
+            "name": "Hey Google, Activate Spyware! \u2013 When Google Assistant Uses a Vulnerability as a Feature"
+        },
+        {
+            "name": "Misuse of DNS, the Second Most Used Protocol"
+        },
+        {
+            "name": "Redback: Advanced Static Binary Injection"
+        },
+        {
+            "name": "ZombieLoad: Leaking Data on Intel CPUs"
+        },
+        {
+            "name": "Back to the Future. Cross-Protocol Attacks in the Era of 5G"
+        },
+        {
+            "name": "Kr00k: How KRACKing Amazon Echo Exposed a Billion+ Vulnerable Wi-Fi Devices"
+        },
+        {
+            "name": "May the Trust be with You: Empowering TrustZone-M with Multiple Trusted Environments"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "topics": [
+        {
+            "name": "Keynote: #HackingDemocracy: Will Our Societies Hold?"
+        },
+        {
+            "name": "A False Door: Crack the Bluetooth Digital Vehicle Key"
+        },
+        {
+            "name": "Remote Memory-Deduplication Attacks"
+        },
+        {
+            "name": "Backdoor Investigation and Incident Response: From  Zero to Profit"
+        },
+        {
+            "name": "SideWinder Uncoils to Strike"
+        },
+        {
+            "name": "AutoSpear: Towards Automatically Bypassing and Inspecting Web Application Firewalls"
+        },
+        {
+            "name": "The Firmware Supply-Chain Security Is Broken: Can We Fix It?"
+        },
+        {
+            "name": "The Next Gen PlugX/ShadowPad? A Dive into the Emerging China-Nexus Modular Trojan, Pangolin8RAT"
+        },
+        {
+            "name": "DroidGuard: A Deep Dive into SafetyNet"
+        },
+        {
+            "name": "Using Zero to Attack Zero-Knowledge Proof (ZKP) PLONK"
+        },
+        {
+            "name": "Hunting and Exploiting Recursive MMIO Flaws in QEMU/KVM"
+        },
+        {
+            "name": "Non-Intrusive Vulnerability Localization and Hotpatching for Industrial Control Systems"
+        },
+        {
+            "name": "Start Arbitrary Activity App Components as the System User Vulnerability Affecting Samsung Android Devices"
+        },
+        {
+            "name": "The Little Seal Bug: Optical Sound Recovery from Lightweight Reflective Objects"
+        },
+        {
+            "name": "Unix Domain Socket: A Hidden Door Leading to Privilege Escalation in the Android Ecosystem"
+        },
+        {
+            "name": "USMA: Share Kernel Code With Me"
+        },
+        {
+            "name": "Keynote: Quantify Security Effectively \u2013  Moving the Security Needle From the  Security Trenches to the Boardroom"
+        },
+        {
+            "name": "The Next Generation of Windows Exploitation: Attacking the Common Log File System"
+        },
+        {
+            "name": "SMS PVA Services Fueled by Compromised Supply-Chain Mobile Botnets"
+        },
+        {
+            "name": "Like Lightning From the Cloud: Finding RCEs in an Embedded TLS Library and Toasting a Popular Cloud-connected UPS"
+        },
+        {
+            "name": "Codema Attack: Controlling Your Smart Home Through Dangling Management Channels"
+        },
+        {
+            "name": "The Virtual Battlefield in 2022: Russia-Ukraine War &#38; Its Policy Implications"
+        },
+        {
+            "name": "AMSI Unchained: Review of Known AMSI Bypass Techniques and Introducing a New One"
+        },
+        {
+            "name": "To Loot or Not to Loot? That Is Not a Question When State-Nexus APT Targets Online Entertainment Industry"
+        },
+        {
+            "name": "The Hidden RCE Surfaces That Control the Droids"
+        },
+        {
+            "name": "Cooper Knows the Shortest Stave: Finding 134 Bugs in the Binding Code of Scripting Languages with Cooperative Mutation"
+        },
+        {
+            "name": "Backdooring of Real Time Automotive OS Devices"
+        },
+        {
+            "name": "Bypass CFG in Chrome"
+        },
+        {
+            "name": "Dynamic Process Isolation"
+        },
+        {
+            "name": "macOS Vulnerabilities Hiding in Plain Sight"
+        },
+        {
+            "name": "Taking Kernel Hardening to the Next Level"
+        },
+        {
+            "name": "ExplosION: The Hidden Mines in the Android ION Driver"
+        }
+    ]
+}

@@ -13,6 +13,20 @@
                     "pathName": "europe"
                 }
             ]
+        },
+        "blackhat": {
+            "displayName": "Black Hat",
+            "pathName": "blackhat",
+            "locations": [
+                {
+                    "displayName": "USA",
+                    "pathName": "usa"
+                },
+                {
+                    "displayName": "Asia",
+                    "pathName": "asia"
+                }
+            ]
         }
     },
     "2022": {
@@ -37,6 +51,14 @@
                 {
                     "displayName": "USA",
                     "pathName": "usa"
+                },
+                {
+                    "displayName": "Asia",
+                    "pathName": "asia"
+                },
+                {
+                    "displayName": "Europe",
+                    "pathName": "europe"
                 }
             ]
         }
@@ -46,6 +68,104 @@
             "displayName": "Linux Security Summit",
             "pathName": "lss",
             "locations": [
+                {
+                    "displayName": "Europe",
+                    "pathName": "europe"
+                }
+            ]
+        },
+        "blackhat": {
+            "displayName": "Black Hat",
+            "pathName": "blackhat",
+            "locations": [
+                {
+                    "displayName": "USA",
+                    "pathName": "usa"
+                },
+                {
+                    "displayName": "Asia",
+                    "pathName": "asia"
+                },
+                {
+                    "displayName": "Europe",
+                    "pathName": "europe"
+                }
+            ]
+        }
+    },
+    "2020": {
+        "blackhat": {
+            "displayName": "Black Hat",
+            "pathName": "blackhat",
+            "locations": [
+                {
+                    "displayName": "USA",
+                    "pathName": "usa"
+                },
+                {
+                    "displayName": "Asia",
+                    "pathName": "asia"
+                },
+                {
+                    "displayName": "Europe",
+                    "pathName": "europe"
+                }
+            ]
+        }
+    },
+    "2019": {
+        "blackhat": {
+            "displayName": "Black Hat",
+            "pathName": "blackhat",
+            "locations": [
+                {
+                    "displayName": "USA",
+                    "pathName": "usa"
+                },
+                {
+                    "displayName": "Asia",
+                    "pathName": "asia"
+                },
+                {
+                    "displayName": "Europe",
+                    "pathName": "europe"
+                }
+            ]
+        }
+    },
+    "2018": {
+        "blackhat": {
+            "displayName": "Black Hat",
+            "pathName": "blackhat",
+            "locations": [
+                {
+                    "displayName": "USA",
+                    "pathName": "usa"
+                },
+                {
+                    "displayName": "Asia",
+                    "pathName": "asia"
+                },
+                {
+                    "displayName": "Europe",
+                    "pathName": "europe"
+                }
+            ]
+        }
+    },
+    "2017": {
+        "blackhat": {
+            "displayName": "Black Hat",
+            "pathName": "blackhat",
+            "locations": [
+                {
+                    "displayName": "USA",
+                    "pathName": "usa"
+                },
+                {
+                    "displayName": "Asia",
+                    "pathName": "asia"
+                },
                 {
                     "displayName": "Europe",
                     "pathName": "europe"

@@ -2,30 +2,53 @@ let globalIndex = {};
 
 const indexUrl = '/conferences/index.json';
 
-function searchFunction() {
-    var input, filter, table, tr, td, i;
-    input = document.getElementById("searchInput");
-    filter = input.value.toUpperCase();
-    table = document.getElementById("conference-table");
-    tr = table.getElementsByTagName("tr");
+let searchTimeout;
 
-    for (i = 0; i < tr.length; i++) {
-        td = tr[i].getElementsByTagName("td")[3];
-        if (td) {
-            var txtValue = td.textContent || td.innerText;
-            var upperTxtValue = txtValue.toUpperCase();
-            if (upperTxtValue.indexOf(filter) > -1) {
+function searchFunction() {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(function() {
+        var input, filter, table, tr, td, i;
+        input = document.getElementById("searchInput");
+        filter = input.value.toUpperCase();
+
+        table = document.getElementById("conference-table");
+        tr = table.getElementsByTagName("tr");
+
+        if (filter.length === 0) {
+            // 如果搜索框为空，则显示所有行并移除高亮
+            for (i = 0; i < tr.length; i++) {
                 tr[i].style.display = "";
-                const regExp = new RegExp(filter, 'gi');
-                td.innerHTML = txtValue.replace(regExp, function(matched){
-                    return "<span class='highlight'>" + matched + "</span>";
-                });
-            } else {
-                tr[i].style.display = "none";
-                td.innerHTML = txtValue;
+                td = tr[i].getElementsByTagName("td")[3];
+                if (td) {
+                    td.innerHTML = td.textContent || td.innerText;
+                }
+            }
+            return;
+        }
+
+        if (filter.length <= 2) {
+            // 如果输入的字符数小于最小限制，则不执行搜索
+            return;
+        }
+
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[3];
+            if (td) {
+                var txtValue = td.textContent || td.innerText;
+                var upperTxtValue = txtValue.toUpperCase();
+                if (upperTxtValue.indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                    const regExp = new RegExp(filter, 'gi');
+                    td.innerHTML = txtValue.replace(regExp, function(matched) {
+                        return "<span class='highlight'>" + matched + "</span>";
+                    });
+                } else {
+                    tr[i].style.display = "none";
+                    td.innerHTML = txtValue; // 重置原始文本
+                }
             }
         }
-    }
+    }, 500); // 延迟500毫秒执行搜索
 }
 
 function populateSelectors() {

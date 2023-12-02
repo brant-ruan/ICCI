@@ -1,91 +1,120 @@
 {
     "topics": [
         {
-            "name": "Exploitation with Shell Reverse and Infection with PowerShell"
+            "name": "Exploitation with Shell Reverse and Infection with PowerShell",
+            "video": "https://www.youtube.com/watch?v=VhCY2FDTSUM"
         },
         {
-            "name": "Model Robustness Will Hurt Data Privacy"
+            "name": "Model Robustness Will Hurt Data Privacy",
+            "video": "https://www.youtube.com/watch?v=PXfKpKx9xc4"
         },
         {
-            "name": "One Stop Anomaly Shop"
+            "name": "One Stop Anomaly Shop",
+            "video": "https://www.youtube.com/watch?v=Wi5NXGzsFC4"
         },
         {
-            "name": "Shaping The Future of the 0Day Market"
+            "name": "Shaping The Future of the 0Day Market",
+            "video": "https://www.youtube.com/watch?v=N2-r94RmHSs"
         },
         {
-            "name": "The History of Adversarial AI"
+            "name": "The History of Adversarial AI",
+            "video": "https://www.youtube.com/watch?v=DykL1uUJSYo"
         },
         {
-            "name": "Bypassing DEP with Jump-Oriented Programming"
+            "name": "Bypassing DEP with Jump-Oriented Programming",
+            "video": "https://www.youtube.com/watch?v=MxIySXHvKyE"
         },
         {
-            "name": "Client-Side Attacks on Live-Streaming Services Using Grid Computing"
+            "name": "Client-Side Attacks on Live-Streaming Services Using Grid Computing",
+            "video": "https://www.youtube.com/watch?v=40fKLoMK_14"
         },
         {
-            "name": "MacOS Local Security - Escaping the Sandbox and Bypassing TCC"
+            "name": "MacOS Local Security - Escaping the Sandbox and Bypassing TCC",
+            "video": "https://www.youtube.com/watch?v=UAkC-brF6iQ"
         },
         {
-            "name": "POSWorld - Should You be Afraid of Hands-On Payment Devices?"
+            "name": "POSWorld - Should You be Afraid of Hands-On Payment Devices?",
+            "video": "https://www.youtube.com/watch?v=57dRz2mYdM4"
         },
         {
-            "name": "Utilizing Lol-Drivers in Post Exploitation Tradecraft"
+            "name": "Utilizing Lol-Drivers in Post Exploitation Tradecraft",
+            "video": "https://www.youtube.com/watch?v=1pL0rqMTFu8"
         },
         {
-            "name": "A Journey into Synology NAS"
+            "name": "A Journey into Synology NAS",
+            "video": "https://www.youtube.com/watch?v=XGmzeM2IEB4"
         },
         {
-            "name": "Exploiting QSEE the Raelize Way"
+            "name": "Exploiting QSEE the Raelize Way",
+            "video": "https://www.youtube.com/watch?v=oRYA2AEoHRs"
         },
         {
-            "name": "Rebuilding Heavens Gate"
+            "name": "Rebuilding Heavens Gate",
+            "video": "https://www.youtube.com/watch?v=OuN2jgre-3o"
         },
         {
-            "name": "When Qiling Framework Meets Symbolic Execution"
+            "name": "When Qiling Framework Meets Symbolic Execution",
+            "video": "https://www.youtube.com/watch?v=8omtif6CnnY"
         },
         {
-            "name": "X-in-the-Middle - Attacking Fast Charging Piles and Electric Vehicles"
+            "name": "X-in-the-Middle - Attacking Fast Charging Piles and Electric Vehicles",
+            "video": "https://www.youtube.com/watch?v=4HyVbNrV4CA"
         },
         {
-            "name": "5G Networks and Interconnect Threats"
+            "name": "5G Networks and Interconnect Threats",
+            "video": "https://www.youtube.com/watch?v=zoy4DG7jBhs"
         },
         {
-            "name": "Breaking Siemens SIMATIC S7 PLC Protection Mechanism"
+            "name": "Breaking Siemens SIMATIC S7 PLC Protection Mechanism",
+            "video": "https://www.youtube.com/watch?v=ocOEiNp-8K0"
         },
         {
-            "name": "JARM Randomizer Evading JARM Fingerprinting"
+            "name": "JARM Randomizer Evading JARM Fingerprinting",
+            "video": "https://www.youtube.com/watch?v=pyYsrg5z3FE"
         },
         {
-            "name": "Playing hide-n-seek with AWS GuardDuty"
+            "name": "Playing hide-n-seek with AWS GuardDuty",
+            "video": "https://www.youtube.com/watch?v=liQjug4uFQI"
         },
         {
-            "name": "A New Attack Model for Hybrid Mobile Applications"
+            "name": "A New Attack Model for Hybrid Mobile Applications",
+            "video": "https://www.youtube.com/watch?v=rT41G6FNLb4"
         },
         {
-            "name": "How I Found 16 Microsoft Office Excel Vulnerabilities in 6 Months"
+            "name": "How I Found 16 Microsoft Office Excel Vulnerabilities in 6 Months",
+            "video": "https://www.youtube.com/watch?v=LJohkmj_tzk"
         },
         {
-            "name": "The Phishermen - Dissecting Phishing Techniques of CloudDragon APT"
+            "name": "The Phishermen - Dissecting Phishing Techniques of CloudDragon APT",
+            "video": "https://www.youtube.com/watch?v=Dv2_DK3tRgI"
         },
         {
-            "name": "The Rise of Potatoes - Privilege Escalation in Windows Services"
+            "name": "The Rise of Potatoes - Privilege Escalation in Windows Services",
+            "video": "https://www.youtube.com/watch?v=9cpHlXEVQM4"
         },
         {
-            "name": "A Black Box Escape Of Qemu Based On The USB Device"
+            "name": "A Black Box Escape Of Qemu Based On The USB Device",
+            "video": "https://www.youtube.com/watch?v=dHZSAiLKvSY"
         },
         {
-            "name": "Attacking Cloud Native Kubernetes with CDK"
+            "name": "Attacking Cloud Native Kubernetes with CDK",
+            "video": "https://www.youtube.com/watch?v=e8aYJyO6nNQ"
         },
         {
-            "name": "Binary Fuzzing with Snapshot-Assisted-Driven Comparison Branch Analysis"
+            "name": "Binary Fuzzing with Snapshot-Assisted-Driven Comparison Branch Analysis",
+            "video": "https://www.youtube.com/watch?v=cvathUa7Lno"
         },
         {
-            "name": "Discovering 10+ Vulnerabilities in Virtualbox"
+            "name": "Discovering 10+ Vulnerabilities in Virtualbox",
+            "video": "https://www.youtube.com/watch?v=_4kttxArxuk"
         },
         {
-            "name": "Insecure Link：Security Analysis and Practical Attacks of LPWAN"
+            "name": "Insecure Link\uff1aSecurity Analysis and Practical Attacks of LPWAN",
+            "video": "https://www.youtube.com/watch?v=mEUCbQL-raM"
         },
         {
-            "name": "The State of Mobile Security"
+            "name": "The State of Mobile Security",
+            "video": "https://www.youtube.com/watch?v=oGZL3ywcy1E"
         }
     ]
 }

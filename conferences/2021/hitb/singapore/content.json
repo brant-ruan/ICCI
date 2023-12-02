@@ -1,64 +1,84 @@
 {
     "topics": [
         {
-            "name": "Practical AI Red Teaming - A Facial Recognition Case Study"
+            "name": "Practical AI Red Teaming - A Facial Recognition Case Study",
+            "video": "https://www.youtube.com/watch?v=5X6p_VMaju4"
         },
         {
-            "name": "Scaling Up Offensive Pipelines"
+            "name": "Scaling Up Offensive Pipelines",
+            "video": "https://www.youtube.com/watch?v=ofLs9q_Hzhs"
         },
         {
-            "name": "ShadowPad - A Masterpiece of Privately Sold Malware in Chinese Espionage"
+            "name": "ShadowPad - A Masterpiece of Privately Sold Malware in Chinese Espionage",
+            "video": "https://www.youtube.com/watch?v=r1zAVX_HnJg"
         },
         {
-            "name": "The Art of Exploiting UAF by Ret2bpf in Android Kernel"
+            "name": "The Art of Exploiting UAF by Ret2bpf in Android Kernel",
+            "video": "https://www.youtube.com/watch?v=7UXtirV1Vzg"
         },
         {
-            "name": "What Modern RF Combat Looks Like in the Next Decade"
+            "name": "What Modern RF Combat Looks Like in the Next Decade",
+            "video": "https://www.youtube.com/watch?v=U3Ql82pzt_U"
         },
         {
-            "name": "Fooling Apple AppAttest API"
+            "name": "Fooling Apple AppAttest API",
+            "video": "https://www.youtube.com/watch?v=NBH-HrR4_hU"
         },
         {
-            "name": "Going Deeper into Schneider Modicon PAC Security"
+            "name": "Going Deeper into Schneider Modicon PAC Security",
+            "video": "https://www.youtube.com/watch?v=s184S7LDtEg"
         },
         {
-            "name": "IDA2Obj - Static Binary Instrumentation On Steroids"
+            "name": "IDA2Obj - Static Binary Instrumentation On Steroids",
+            "video": "https://www.youtube.com/watch?v=4VAS2-BVFtc"
         },
         {
-            "name": "Make JDBC Attacks Brilliant Again"
+            "name": "Make JDBC Attacks Brilliant Again",
+            "video": "https://www.youtube.com/watch?v=MJWI8YXH1lg"
         },
         {
-            "name": "Taking Ghidra to The Next Level"
+            "name": "Taking Ghidra to The Next Level",
+            "video": "https://www.youtube.com/watch?v=stebk91Lrq4"
         },
         {
-            "name": "Automated 0-day Discovery in 2021 - Squashing the Low-hanging Fruit in Embedded Software"
+            "name": "Automated 0-day Discovery in 2021 - Squashing the Low-hanging Fruit in Embedded Software",
+            "video": "https://www.youtube.com/watch?v=VTXOZdubN0k"
         },
         {
-            "name": "Holding The Stick at Both Ends - Fuzzing RDP Client and Server"
+            "name": "Holding The Stick at Both Ends - Fuzzing RDP Client and Server",
+            "video": "https://www.youtube.com/watch?v=UCDqpeAqy8s"
         },
         {
-            "name": "Malware Protocol Simulations in Distributed Networks"
+            "name": "Malware Protocol Simulations in Distributed Networks",
+            "video": "https://www.youtube.com/watch?v=4te5QRp3nBk"
         },
         {
-            "name": "Summer of Fuzz - MacOS"
+            "name": "Summer of Fuzz - MacOS",
+            "video": "https://www.youtube.com/watch?v=hk0fGcFPBx8"
         },
         {
-            "name": "Ccntainer Escape in 2021"
+            "name": "Ccntainer Escape in 2021",
+            "video": "https://www.youtube.com/watch?v=WBC7hhgMvQQ"
         },
         {
-            "name": "Securing Webviews and The Story Behind CVE-2021–21136"
+            "name": "Securing Webviews and The Story Behind CVE-2021\u201321136",
+            "video": "https://www.youtube.com/watch?v=7mqPDFb2svc"
         },
         {
-            "name": "Stay Off My Private Data- A Framework to Examine Mobile App Privacy Claims"
+            "name": "Stay Off My Private Data- A Framework to Examine Mobile App Privacy Claims",
+            "video": "https://www.youtube.com/watch?v=mGvgS00fFzg"
         },
         {
-            "name": "trapfuzzer- Coverage-guided Binary Fuzzing with Breakpoints"
+            "name": "trapfuzzer- Coverage-guided Binary Fuzzing with Breakpoints",
+            "video": "https://www.youtube.com/watch?v=cuqOTnilzyo"
         },
         {
-            "name": "Security Technology Arms Race"
+            "name": "Security Technology Arms Race",
+            "video": "https://www.youtube.com/watch?v=mi6ZLmrXNP0"
         },
         {
-            "name": "Protective DNS – Why It Matters and How to Deploy It With No Cloud Needed"
+            "name": "Protective DNS \u2013 Why It Matters and How to Deploy It With No Cloud Needed",
+            "video": "https://www.youtube.com/watch?v=NrnFDFaFztE"
         }
     ]
 }

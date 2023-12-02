@@ -1,76 +1,100 @@
 {
     "topics": [
         {
-            "name": "Exploiting the Lexmark PostScript Stack"
+            "name": "Exploiting the Lexmark PostScript Stack",
+            "video": "https://www.youtube.com/watch?v=MPEX4TtZqEU"
         },
         {
-            "name": "It Was Harder to Sniff Bluetooth Through My Mask During The Pandemic"
+            "name": "It Was Harder to Sniff Bluetooth Through My Mask During The Pandemic",
+            "video": "https://www.youtube.com/watch?v=FRgHhB2X2x8"
         },
         {
-            "name": "gVisor: Modern Linux Sandboxing Technology"
+            "name": "gVisor: Modern Linux Sandboxing Technology",
+            "video": "https://www.youtube.com/watch?v=bPvxMWydTko"
         },
         {
-            "name": "How to Design Your Own Electronic Attack Device"
+            "name": "How to Design Your Own Electronic Attack Device",
+            "video": "https://www.youtube.com/watch?v=OWwmA3s8FwM"
         },
         {
-            "name": "FrankeNAND – Extracting Info From Automotive Internet Units"
+            "name": "FrankeNAND \u2013 Extracting Info From Automotive Internet Units",
+            "video": "https://www.youtube.com/watch?v=sRL-urIerKA"
         },
         {
-            "name": "Cracking the Shield: Analyzing and Reverse Engineering Antivirus Signatures"
+            "name": "Cracking the Shield: Analyzing and Reverse Engineering Antivirus Signatures",
+            "video": "https://www.youtube.com/watch?v=Sxw8K6gFSbg"
         },
         {
-            "name": "Lazarus Group’s Undercover Operations: Large-Scale Infection Campaigns 2022 – 2023"
+            "name": "Lazarus Group\u2019s Undercover Operations: Large-Scale Infection Campaigns 2022 \u2013 2023",
+            "video": "https://www.youtube.com/watch?v=B5hYzdCSQ2E"
         },
         {
-            "name": "Rogue CDB: Escaping from VMware Workstation Through The Disk Controller"
+            "name": "Rogue CDB: Escaping from VMware Workstation Through The Disk Controller",
+            "video": "https://www.youtube.com/watch?v=_PfuJN-I8-8"
         },
         {
-            "name": "Hakuin: Injecting Brains Into Blind SQL Injection"
+            "name": "Hakuin: Injecting Brains Into Blind SQL Injection",
+            "video": "https://www.youtube.com/watch?v=6tIUActqebU"
         },
         {
-            "name": "An Ode to Rabbit Holes: Writing a New Decompiler Just for a Security Audit"
+            "name": "An Ode to Rabbit Holes: Writing a New Decompiler Just for a Security Audit",
+            "video": "https://www.youtube.com/watch?v=h-x5Igpp9bY"
         },
         {
-            "name": "How NTLM Relay Ruins Your Exchange Servers"
+            "name": "How NTLM Relay Ruins Your Exchange Servers",
+            "video": "https://www.youtube.com/watch?v=Lrt2_NHJeWc"
         },
         {
-            "name": "Timekiller: Leveraging Asynchronous Clock to Escape from QEMU/KVM"
+            "name": "Timekiller: Leveraging Asynchronous Clock to Escape from QEMU/KVM",
+            "video": "https://www.youtube.com/watch?v=Zm32_ekspEc"
         },
         {
-            "name": "KeyBleed: Attacking the OneKey Mini"
+            "name": "KeyBleed: Attacking the OneKey Mini",
+            "video": "https://www.youtube.com/watch?v=gMxtgoW0yx4"
         },
         {
-            "name": "Locate Vulnerabilities of Ethereum Smart Contracts with Semi-Automated Analysis"
+            "name": "Locate Vulnerabilities of Ethereum Smart Contracts with Semi-Automated Analysis",
+            "video": "https://www.youtube.com/watch?v=_6Lvxm7poyo"
         },
         {
-            "name": "Breaking ML Services: Finding 0-days in Azure Machine Learning"
+            "name": "Breaking ML Services: Finding 0-days in Azure Machine Learning",
+            "video": "https://www.youtube.com/watch?v=-K08hpzevYY"
         },
         {
-            "name": "TSSHOCK – Breaking MPC Wallets and Digital Custodians"
+            "name": "TSSHOCK \u2013 Breaking MPC Wallets and Digital Custodians",
+            "video": "https://www.youtube.com/watch?v=1ks2jcS7UE4"
         },
         {
-            "name": "Hacking into iOS’s VOLTE implementation"
+            "name": "Hacking into iOS\u2019s VOLTE implementation",
+            "video": "https://www.youtube.com/watch?v=07zYupFwtQ0"
         },
         {
-            "name": "Scarlet OT – OT Adversary Emulation for Fun and Profit"
+            "name": "Scarlet OT \u2013 OT Adversary Emulation for Fun and Profit",
+            "video": "https://www.youtube.com/watch?v=VkreOTAfvw0"
         },
         {
-            "name": "GPTHound – Your Active Directory Security Assistant"
+            "name": "GPTHound \u2013 Your Active Directory Security Assistant",
+            "video": "https://www.youtube.com/watch?v=3SuTzdDuVNI"
         },
         {
-            "name": "Take a Picture of Your App Code – Android MRI Interpreter"
+            "name": "Take a Picture of Your App Code \u2013 Android MRI Interpreter",
+            "video": "https://www.youtube.com/watch?v=3SPZtf1Rg04"
         },
         {
-            "name": "Hunting for Amazon Cognito Security Misconfigurations"
+            "name": "Hunting for Amazon Cognito Security Misconfigurations",
+            "video": "https://www.youtube.com/watch?v=U9EAov5tvl0"
         },
         {
-            "name": "Windows Kernel Security: A Deep Dive into Two Exploits Demonstrated at Pwn2Own"
+            "name": "Windows Kernel Security: A Deep Dive into Two Exploits Demonstrated at Pwn2Own",
+            "video": "https://www.youtube.com/watch?v=d0I-UOQHCVs"
         },
         {
-            "name": "NVMe: New Vulnerabilities Made Easy"
+            "name": "NVMe: New Vulnerabilities Made Easy",
+            "video": "https://www.youtube.com/watch?v=FvsvY-iI2uA"
         },
         {
-            "name": "From Unknown Parameter to Root: A Story of Unexpected Intrusion Testing Results"
+            "name": "From Unknown Parameter to Root: A Story of Unexpected Intrusion Testing Results",
+            "video": "https://www.youtube.com/watch?v=jkSaP_KH-yY"
         }
     ]
 }

@@ -1,82 +1,108 @@
 {
     "topics": [
         {
-            "name": "API Security Through External Attack Surface Management"
+            "name": "API Security Through External Attack Surface Management",
+            "video": "https://www.youtube.com/watch?v=luyIAab8v60"
         },
         {
-            "name": "Building an Army of Bots by Hijacking a Unicorn’s Twitter Handle"
+            "name": "Building an Army of Bots by Hijacking a Unicorn\u2019s Twitter Handle",
+            "video": "https://www.youtube.com/watch?v=KJXaCJL4hCg"
         },
         {
-            "name": "Faking at Level 1 - How Digital Twins Save Your PLCs"
+            "name": "Faking at Level 1 - How Digital Twins Save Your PLCs",
+            "video": "https://www.youtube.com/watch?v=D7za8xVyPrw"
         },
         {
-            "name": "Fuzzing the MCU of Connected Vehicles for Security and Safety"
+            "name": "Fuzzing the MCU of Connected Vehicles for Security and Safety",
+            "video": "https://www.youtube.com/watch?v=_YeB_t867sY"
         },
         {
-            "name": "ICEFALL – Revisiting a Decade of OT Insecure-by-Design Practices"
+            "name": "ICEFALL \u2013 Revisiting a Decade of OT Insecure-by-Design Practices",
+            "video": "https://www.youtube.com/watch?v=OHRgak1fI9k"
         },
         {
-            "name": "MPT - Pentest In Action"
+            "name": "MPT - Pentest In Action",
+            "video": "https://www.youtube.com/watch?v=ewCRbnXGqS0"
         },
         {
-            "name": "Attacking WPA3 - New Vulnerabilities and Exploit Framework"
+            "name": "Attacking WPA3 - New Vulnerabilities and Exploit Framework",
+            "video": "https://www.youtube.com/watch?v=MWaIhYaQuM8"
         },
         {
-            "name": "Breaking Web3 - Exploitation Techniques for Cryptocurrency Hacking"
+            "name": "Breaking Web3 - Exploitation Techniques for Cryptocurrency Hacking",
+            "video": "https://www.youtube.com/watch?v=ie5kmTHaeN8"
         },
         {
-            "name": "EDR Evasion Primer for Red Teamers"
+            "name": "EDR Evasion Primer for Red Teamers",
+            "video": "https://www.youtube.com/watch?v=CKfjLnEMfvI"
         },
         {
-            "name": "Erybody Gettin TIPC - Demystifying Remote Linux Kernel Exploitation"
+            "name": "Erybody Gettin TIPC - Demystifying Remote Linux Kernel Exploitation",
+            "video": "https://www.youtube.com/watch?v=OmvGf-zVcbI"
         },
         {
-            "name": "One-Click to Completely Takeover a MacOS Device"
+            "name": "One-Click to Completely Takeover a MacOS Device",
+            "video": "https://www.youtube.com/watch?v=jmkrSimmUIw"
         },
         {
-            "name": "Settlers of Netlink - Exploiting a Limited UAF on Ubuntu 22.04 to Achieve LPE"
+            "name": "Settlers of Netlink - Exploiting a Limited UAF on Ubuntu 22.04 to Achieve LPE",
+            "video": "https://www.youtube.com/watch?v=7T_ajYpRWJw"
         },
         {
-            "name": "Biometrics System Hacking in the Age of the Smart Vehicle"
+            "name": "Biometrics System Hacking in the Age of the Smart Vehicle",
+            "video": "https://www.youtube.com/watch?v=InmS6vklBio"
         },
         {
-            "name": "Best Practices For Simulating Execution in Malicious Text Detection"
+            "name": "Best Practices For Simulating Execution in Malicious Text Detection",
+            "video": "https://www.youtube.com/watch?v=i_uSSeozIFE"
         },
         {
-            "name": "Can a Fuzzer Match a Human"
+            "name": "Can a Fuzzer Match a Human",
+            "video": "https://www.youtube.com/watch?v=Q6kEvIeUiEY"
         },
         {
-            "name": "Cracking Kyocera Printers"
+            "name": "Cracking Kyocera Printers",
+            "video": "https://www.youtube.com/watch?v=WaCOzp9HH7o"
         },
         {
-            "name": "Exploiting Race Condition Vulnerabilities in Web Applications"
+            "name": "Exploiting Race Condition Vulnerabilities in Web Applications",
+            "video": "https://www.youtube.com/watch?v=rSizIebpBo8"
         },
         {
-            "name": "Getting Clear Text Passwords from an IdP & More: Our Research Methodology"
+            "name": "Getting Clear Text Passwords from an IdP & More: Our Research Methodology",
+            "video": "https://www.youtube.com/watch?v=VRnx7Jx5a3Y"
         },
         {
-            "name": "Web3 + Scams = It’s a Match"
+            "name": "Web3 + Scams = It\u2019s a Match",
+            "video": "https://www.youtube.com/watch?v=U25P_lRLNw0"
         },
         {
-            "name": "Browser Hacking with ANGLE"
+            "name": "Browser Hacking with ANGLE",
+            "video": "https://www.youtube.com/watch?v=F2EgGrCn4Lg"
         },
         {
-            "name": "Scripts-behavioral ML Classification Using Windows 10 AMSI-instrumentation"
+            "name": "Scripts-behavioral ML Classification Using Windows 10 AMSI-instrumentation",
+            "video": "https://www.youtube.com/watch?v=3dM2LsDiEA4"
         },
         {
-            "name": "Suborner - Windows Bribery for Invisible Persistence"
+            "name": "Suborner - Windows Bribery for Invisible Persistence",
+            "video": "https://www.youtube.com/watch?v=XejYuLQ1R3w"
         },
         {
-            "name": "The Ransomware Protection Full Of Holes"
+            "name": "The Ransomware Protection Full Of Holes",
+            "video": "https://www.youtube.com/watch?v=QrqD79CsQqA"
         },
         {
-            "name": "Unlocking KeeLoq - A Reverse Engineering Story"
+            "name": "Unlocking KeeLoq - A Reverse Engineering Story",
+            "video": "https://www.youtube.com/watch?v=Zr_NCoSH2cg"
         },
         {
-            "name": "A Random Walk through a Few Million Things"
+            "name": "A Random Walk through a Few Million Things",
+            "video": "https://www.youtube.com/watch?v=Qgo2gU7_Vyc"
         },
         {
-            "name": "Adventures in Security Research"
+            "name": "Adventures in Security Research",
+            "video": "https://www.youtube.com/watch?v=bfFU6sk06So"
         }
     ]
 }

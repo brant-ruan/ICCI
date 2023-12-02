@@ -1,67 +1,84 @@
 {
     "topics": [
         {
-            "name": "Poisoned Apples: Current State of iOS Malware Detection"
+            "name": "Poisoned Apples: Current State of iOS Malware Detection",
+            "video": "https://www.youtube.com/watch?v=3gnGPfKu7FE"
         },
         {
-            "name": "Nakatomi Space: Lateral Movement as L1 Post-Exploitation in OT"
+            "name": "Nakatomi Space: Lateral Movement as L1 Post-Exploitation in OT",
+            "video": "https://www.youtube.com/watch?v=0b87g3tY6bY"
         },
         {
-            "name": "XRP Raid Protector: Killing a Critical Bug Worth 40 Billion Dollars"
+            "name": "XRP Raid Protector: Killing a Critical Bug Worth 40 Billion Dollars",
+            "video": "https://www.youtube.com/watch?v=c9zZ3aMAyDs"
         },
         {
-            "name": "Windows Syscalls in Shellcode: Advanced Techniques for Malicious Functionality"
+            "name": "Windows Syscalls in Shellcode: Advanced Techniques for Malicious Functionality",
+            "video": "https://www.youtube.com/watch?v=179l_gnPp2U"
         },
         {
-            "name": "Your Not so 'Home' Office – Soho Hacking at Pwn2Own"
+            "name": "Your Not so 'Home' Office \u2013 Soho Hacking at Pwn2Own",
+            "video": "https://www.youtube.com/watch?v=vvUrSHLsNxI"
         },
         {
-            "name": "The Lost World of DirectComposition: Hunting Windows Desktop Window Manager Bugs"
+            "name": "The Lost World of DirectComposition: Hunting Windows Desktop Window Manager Bugs",
+            "video": "https://www.youtube.com/watch?v=4_ExouTXe10"
         },
         {
-            "name": "The Next Generation of Virtualization-based Obfuscators"
+            "name": "The Next Generation of Virtualization-based Obfuscators",
+            "video": "https://www.youtube.com/watch?v=DRH0oRFwFiM"
         },
         {
-            "name": "3 Years in China: A Tale of Building a REAL Full Speed Anti-Censorship Router"
+            "name": "3 Years in China: A Tale of Building a REAL Full Speed Anti-Censorship Router",
+            "video": "https://www.youtube.com/watch?v=NY7kBh3XVzE"
         },
         {
-            "name": "Resurrecting Zombies – Leveraging Advanced Techniques of DMA Reentrancy to Escape QEMU"
+            "name": "Resurrecting Zombies \u2013 Leveraging Advanced Techniques of DMA Reentrancy to Escape QEMU",
+            "video": "https://www.youtube.com/watch?v=km6QTMDb8Yw"
         },
         {
-            "name": "Bypassing Anti-Cheats & Hacking Competitive Games"
+            "name": "Bypassing Anti-Cheats & Hacking Competitive Games",
+            "video": "https://www.youtube.com/watch?v=vwnjqmAruEw"
         },
         {
-            "name": "PANEL DISCUSSION: iOS / OS X Security"
+            "name": "How MySQL Servers Can Attack YOU",
+            "video": "https://www.youtube.com/watch?v=Qz92QTo9yr8"
         },
         {
-            "name": "How MySQL Servers Can Attack YOU"
+            "name": "ChatGPT: Please Write Me a Piece of Polymorphic Malware",
+            "video": "https://www.youtube.com/watch?v=kRF3CoQ9jfk"
         },
         {
-            "name": "ChatGPT: Please Write Me a Piece of Polymorphic Malware"
+            "name": "Automated Black-box Security Testing of 'Smart' Embedded Devices",
+            "video": "https://www.youtube.com/watch?v=F2TV7SsPxTQ"
         },
         {
-            "name": "Automated Black-box Security Testing of 'Smart' Embedded Devices"
+            "name": "Exploiting Inter-Process Communication with New Desynchronization Primitives",
+            "video": "https://www.youtube.com/watch?v=CTil1laLf98"
         },
         {
-            "name": "Exploiting Inter-Process Communication with New Desynchronization Primitives"
+            "name": "Smart Speaker Shenanigans \u2013 Making the SONOS One Sing Its Secrets",
+            "video": "https://www.youtube.com/watch?v=Wqcbp9wFO7o"
         },
         {
-            "name": "Smart Speaker Shenanigans – Making the SONOS One Sing Its Secrets"
+            "name": "Compromising Garmin\u2019s Sport Watches: A Deep Dive into GarminOS and its MonkeyC Virtual Machine",
+            "video": "https://www.youtube.com/watch?v=KsqLb-l-TjA"
         },
         {
-            "name": "Compromising Garmin’s Sport Watches: A Deep Dive into GarminOS and its MonkeyC Virtual Machine"
+            "name": "Active Directory Abuse Primitives and Operation Security",
+            "video": "https://www.youtube.com/watch?v=CIkSiECswYw"
         },
         {
-            "name": "Active Directory Abuse Primitives and Operation Security"
+            "name": "Privilege Escalation Using DOP in MacOS x86-64",
+            "video": "https://www.youtube.com/watch?v=C4HiS_2accs"
         },
         {
-            "name": "Privilege Escalation Using DOP in MacOS x86-64"
+            "name": "A Security Analysis of Computer Numerical Control Machines in Industry 4.0",
+            "video": "https://www.youtube.com/watch?v=b3k7R8FUdIE"
         },
         {
-            "name": "A Security Analysis of Computer Numerical Control Machines in Industry 4.0"
-        },
-        {
-            "name": "Investigating Web3 with OSINT"
+            "name": "Investigating Web3 with OSINT",
+            "video": "https://www.youtube.com/watch?v=vOqa-CxINDM"
         }
     ]
 }

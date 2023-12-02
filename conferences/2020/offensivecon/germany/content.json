@@ -1,0 +1,75 @@
+{
+    "topics": [
+        {
+            "name": "Look What You Could be Up Against Soon",
+            "video": "https://www.youtube.com/watch?v=fgp0KQNjrMQ"
+        },
+        {
+            "name": "Bad Binder: Finding an Android In The Wild 0day",
+            "video": "https://www.youtube.com/watch?v=TAwQ4ezgEIo"
+        },
+        {
+            "name": "Bugs on the Windshield: Fuzzing the Windows Kernel",
+            "video": "https://www.youtube.com/watch?v=kJmuvjPDOOo"
+        },
+        {
+            "name": "Simplifying iOS Research: Booting the iOS Kernel to an Interactive Bash Shell on QEMU",
+            "video": "https://www.youtube.com/watch?v=6SGB5hqtpCg"
+        },
+        {
+            "name": "Don't forget to SUBSCRIBE",
+            "video": "https://www.youtube.com/watch?v=4XP5D5tTaJU"
+        },
+        {
+            "name": "Adventures on Hunting for Safari Sandbox Escapes",
+            "video": "https://www.youtube.com/watch?v=fTNzylTMYks"
+        },
+        {
+            "name": "Grab those keyz and learn somebodies darkest secrets!",
+            "video": "https://www.youtube.com/watch?v=8Clacdmg6gw"
+        },
+        {
+            "name": "Emulating Hypervisors: A Samsung RKP Case Study",
+            "video": "https://www.youtube.com/watch?v=SxezUdv1whQ"
+        },
+        {
+            "name": "Exploring the MediaTek Baseband",
+            "video": "https://www.youtube.com/watch?v=OSJdAGtn8Qw"
+        },
+        {
+            "name": "Modern Phone Forensics"
+        },
+        {
+            "name": "Hacking Sony PlayStation Blu-ray Drives",
+            "video": "https://www.youtube.com/watch?v=tS0eMrhCISM"
+        },
+        {
+            "name": "Exploiting a Linux Kernel Vulnerability in the V4L2 Subsystem",
+            "video": "https://www.youtube.com/watch?v=J6xIohyARSU"
+        },
+        {
+            "name": "Untrusted Roots: exploiting vulnerabilities in Intel ACMs",
+            "video": "https://www.youtube.com/watch?v=YH8gPs8ZGHc"
+        },
+        {
+            "name": "How CVE-2018-8611 Can be Exploited to Achieve Privilege Escalation on Windows 10 1809 (RS5) and Earlier",
+            "video": "https://www.youtube.com/watch?v=YVnsIBlsM4s"
+        },
+        {
+            "name": "No Clicks Required: Finding Fully Remote Vulnerabilities in Messaging Applications",
+            "video": "https://www.youtube.com/watch?v=1xqAfvEJm9g"
+        },
+        {
+            "name": "No Clicks Required: Exploiting Memory Corruption Vulnerabilities in Messenger Apps",
+            "video": "https://www.youtube.com/watch?v=-KkRZNb6kwI"
+        },
+        {
+            "name": "Popping Calc with Hardware Vulnerabilities",
+            "video": "https://www.youtube.com/watch?v=ugZzQvXUTIk"
+        },
+        {
+            "name": "A Bug Collision Tale",
+            "video": "https://www.youtube.com/watch?v=WOdRkZwGYDQ"
+        }
+    ]
+}

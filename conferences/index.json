@@ -45,6 +45,16 @@
                     "pathName": "phuket"
                 }
             ]
+        },
+        "offensivecon": {
+            "displayName": "OFFC",
+            "pathName": "offensivecon",
+            "locations": [
+                {
+                    "displayName": "DE",
+                    "pathName": "germany"
+                }
+            ]
         }
     },
     "2022": {
@@ -87,6 +97,16 @@
                 {
                     "displayName": "SG",
                     "pathName": "singapore"
+                }
+            ]
+        },
+        "offensivecon": {
+            "displayName": "OFFC",
+            "pathName": "offensivecon",
+            "locations": [
+                {
+                    "displayName": "DE",
+                    "pathName": "germany"
                 }
             ]
         }
@@ -181,6 +201,16 @@
                     "pathName": "singapore"
                 }
             ]
+        },
+        "offensivecon": {
+            "displayName": "OFFC",
+            "pathName": "offensivecon",
+            "locations": [
+                {
+                    "displayName": "DE",
+                    "pathName": "germany"
+                }
+            ]
         }
     },
     "2019": {
@@ -225,6 +255,16 @@
                     "pathName": "amsterdam"
                 }
             ]
+        },
+        "offensivecon": {
+            "displayName": "OFFC",
+            "pathName": "offensivecon",
+            "locations": [
+                {
+                    "displayName": "DE",
+                    "pathName": "germany"
+                }
+            ]
         }
     },
     "2018": {
@@ -261,6 +301,16 @@
                 {
                     "displayName": "DXB",
                     "pathName": "dubai"
+                }
+            ]
+        },
+        "offensivecon": {
+            "displayName": "OFFC",
+            "pathName": "offensivecon",
+            "locations": [
+                {
+                    "displayName": "DE",
+                    "pathName": "germany"
                 }
             ]
         }

@@ -1,0 +1,52 @@
+{
+    "topics": [
+        {
+            "name": "Concolic Testing for Kernel Fuzzing and Vulnerability Discovery",
+            "video": "https://www.youtube.com/watch?v=mpfKN1URqdQ"
+        },
+        {
+            "name": "New and Improved UMCI, Same Old Bugs",
+            "video": "https://www.youtube.com/watch?v=02QMna-Jp1I"
+        },
+        {
+            "name": "Inside the Machine Keynote Day 1",
+            "video": "https://www.youtube.com/watch?v=Rh5lDM8O4MA"
+        },
+        {
+            "name": "Surprise Rant",
+            "video": "https://www.youtube.com/watch?v=VTic5d13u2E"
+        },
+        {
+            "name": "Linux ASLR and GNU Libc",
+            "video": "https://www.youtube.com/watch?v=D4Q_ad-ORq4"
+        },
+        {
+            "name": "Windows 10 RS2 RS3 GDI Data Only Exploitation Tales",
+            "video": "https://www.youtube.com/watch?v=SmHBsUMRYvg"
+        },
+        {
+            "name": "Betraying the BIOS Going Deeper into BIOS Guard Implementations",
+            "video": "https://www.youtube.com/watch?v=kSQVGFbTfqE"
+        },
+        {
+            "name": "Robin Hood vs Cisco ASA AnyConnect",
+            "video": "https://www.youtube.com/watch?v=eDyxBgIUaR8"
+        },
+        {
+            "name": "Field Report on a Zero Day Machine",
+            "video": "https://www.youtube.com/watch?v=VTIdiJO1r20"
+        },
+        {
+            "name": "The Evolution of CFI Attacks and Defenses",
+            "video": "https://www.youtube.com/watch?v=oOqpl-2rMTw"
+        },
+        {
+            "name": "The Smarts Behind Hacking Dumb Devices",
+            "video": "https://www.youtube.com/watch?v=yU1BrY1ZB2o"
+        },
+        {
+            "name": "Dissecting QNX",
+            "video": "https://www.youtube.com/watch?v=oStklD6wP-4"
+        }
+    ]
+}

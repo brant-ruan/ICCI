@@ -1,0 +1,60 @@
+{
+    "topics": [
+        {
+            "name": "These Are My Principals, If You Don't like Them, I Have Others",
+            "video": "https://www.youtube.com/watch?v=yXZQ0KKI8n0"
+        },
+        {
+            "name": "Attacking Javascript Engines in 2022",
+            "video": "https://www.youtube.com/watch?v=FK2-1FAbbXA"
+        },
+        {
+            "name": "Bug Hunting S21's 10ADAB1E FW",
+            "video": "https://www.youtube.com/watch?v=XvmtEwkG_Cc"
+        },
+        {
+            "name": "Rage Against the Machine Clear",
+            "video": "https://www.youtube.com/watch?v=oVbpy1KbiBc"
+        },
+        {
+            "name": "UEFI Firmware Vulnerabilities: Past, Present and Future",
+            "video": "https://www.youtube.com/watch?v=F2HbtmGPE6Y"
+        },
+        {
+            "name": "BlackSwan - Exploiting a Gaggle of Windows Privilege Escalation Bugs",
+            "video": "https://www.youtube.com/watch?v=1CjQ1_QWssI"
+        },
+        {
+            "name": "Counter-Strike: Global Offsets - A Journey into Exploiting the Source Engine",
+            "video": "https://www.youtube.com/watch?v=3EUo6RA-4y8"
+        },
+        {
+            "name": "Building a DIY Baseband Debugger from Scratch",
+            "video": "https://www.youtube.com/watch?v=3RYf3g0nJmM"
+        },
+        {
+            "name": "Chip Red Pill: How we Achieved the Arbitrary [micro]Code Execution inside Intel Atom CPUs",
+            "video": "https://www.youtube.com/watch?v=V1nJeV0Uq0M"
+        },
+        {
+            "name": "Real World 0-days: A Year-in-Review of 0-day Exploits Used In-the-Wild in 2021",
+            "video": "https://www.youtube.com/watch?v=8SV5l-Bxj_U"
+        },
+        {
+            "name": "Pwn2Own'ing your Router over the Internet",
+            "video": "https://www.youtube.com/watch?v=nnAxXnjsbUI"
+        },
+        {
+            "name": "Case Studies of Fuzzing with Xen",
+            "video": "https://www.youtube.com/watch?v=EFrIfXd3KZQ"
+        },
+        {
+            "name": "Beaconfuzz - A Journey into Ethereum 2.0 Blockchain Fuzzing and Vulnerability Discovery",
+            "video": "https://www.youtube.com/watch?v=nERNZ5mL46Q"
+        },
+        {
+            "name": "Data Only Sandbox Escapes",
+            "video": "https://www.youtube.com/watch?v=iyQ44bltV6A"
+        }
+    ]
+}

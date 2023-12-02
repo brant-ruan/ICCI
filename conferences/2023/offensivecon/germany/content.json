@@ -1,0 +1,76 @@
+{
+    "topics": [
+        {
+            "name": "Information Security Is an Ecology of Horrors and You Are the Solution",
+            "video": "https://www.youtube.com/watch?v=BarJCn4yChA"
+        },
+        {
+            "name": "Abusing Linux In-Kernel SMB Server to Gain Kernel Remote Code Execution",
+            "video": "https://www.youtube.com/watch?v=XT6jLBbzwFM"
+        },
+        {
+            "name": "The Print Spooler Bug that Wasn\u2019t in the Print Spooler",
+            "video": "https://www.youtube.com/watch?v=H03b0UaogVs"
+        },
+        {
+            "name": "New Phones, Software & Chips = New Bugs?",
+            "video": "https://www.youtube.com/watch?v=KAyfJt0CRVs"
+        },
+        {
+            "name": "Racing Against the Lock: Exploiting Spinlock UAF in the Android Kernel",
+            "video": "https://www.youtube.com/watch?v=E3CVDOlcHC4"
+        },
+        {
+            "name": "MacDirtyCow \u2013 Auditing and Exploiting XNU Virtual Memory",
+            "video": "https://www.youtube.com/watch?v=jrxOhGGxDZ8"
+        },
+        {
+            "name": "Exploit Engineering \u2013 Attacking the Linux Kernel",
+            "video": "https://www.youtube.com/watch?v=9wgHENj_YNk"
+        },
+        {
+            "name": "A Dark Side of UEFI: Cross-Silicon Exploitation",
+            "video": "https://www.youtube.com/watch?v=7COjaySYOBM"
+        },
+        {
+            "name": "ASN.1 and Done: A Journey of Exploiting ASN.1 Parsers in the Baseband",
+            "video": "https://www.youtube.com/watch?v=Blytiwrf9bY"
+        },
+        {
+            "name": "Changing and Unchanged Things in Vulnerability Research",
+            "video": "https://www.youtube.com/watch?v=hz9HiM2eKFY"
+        },
+        {
+            "name": "Your Mitigations Are My Opportunities",
+            "video": "https://www.youtube.com/watch?v=YnxGW8Fvqvk"
+        },
+        {
+            "name": "Embedded Threats: A Deep Dive into the Attack Surface and Security Implications of eSIM Technology",
+            "video": "https://www.youtube.com/watch?v=5oecn43xsDg"
+        },
+        {
+            "name": "Unearthing Vulnerabilities in the Apple Ecosystem: The Art of KidFuzzerV2.0",
+            "video": "https://www.youtube.com/watch?v=oML1h3ic__0"
+        },
+        {
+            "name": "What\u2019s in a Name?",
+            "video": "https://www.youtube.com/watch?v=rX8kfeksdi4"
+        },
+        {
+            "name": "Advancements in JavaScript Engine Fuzzing",
+            "video": "https://www.youtube.com/watch?v=Yd9m7e9-pG0"
+        },
+        {
+            "name": "Inside Apple\u2019s Lightning: JTAGging the iPhone for Fuzzing and Profit",
+            "video": "https://www.youtube.com/watch?v=-nFWcKHIUN4"
+        },
+        {
+            "name": "CustomProcessingUnit: Reverse Engineering and Customization of Intel Microcode",
+            "video": "https://www.youtube.com/watch?v=5Pq1FmxS6H8"
+        },
+        {
+            "name": "How to Hack Shannon Baseband (from a Phone)",
+            "video": "https://www.youtube.com/watch?v=quw8SnmMWg4"
+        }
+    ]
+}

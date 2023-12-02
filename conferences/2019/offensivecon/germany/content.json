@@ -1,0 +1,71 @@
+{
+    "topics": [
+        {
+            "name": "Modern Source Fuzzing",
+            "video": "https://www.youtube.com/watch?v=xzG0pLM4Q64"
+        },
+        {
+            "name": "IPC You Outside the Sandbox: One bug to Rule the Chrome Broker",
+            "video": "https://www.youtube.com/watch?v=MMxtKq8UgwE"
+        },
+        {
+            "name": "3D Accelerated Exploitation",
+            "video": "https://www.youtube.com/watch?v=_14Bx4arqic"
+        },
+        {
+            "name": "Bugs so Nice they Patched them Twice! A (Continuing)? Story About Failed Patches",
+            "video": "https://www.youtube.com/watch?v=IXKlMYeVVe4"
+        },
+        {
+            "name": "Attacking Hardware Root of Trust from UEFI Firmware",
+            "video": "https://www.youtube.com/watch?v=Ap-2CnoyBek"
+        },
+        {
+            "name": "OSX XPC Revisited - 3rd Party Application Flaws",
+            "video": "https://www.youtube.com/watch?v=KPzhTqwf0bA"
+        },
+        {
+            "name": "Growing Hypervisor 0day with Hyperseed",
+            "video": "https://www.youtube.com/watch?v=Qms328deZ68"
+        },
+        {
+            "name": "Attacking Edge Through the JavaScript Just-In-Time compiler",
+            "video": "https://www.youtube.com/watch?v=r4J7Zu1RV40"
+        },
+        {
+            "name": "Coverage-Guided USB Fuzzing with Syzkaller",
+            "video": "https://www.youtube.com/watch?v=1MD5JV6LfxA"
+        },
+        {
+            "name": "Updated Analysis of PatchGuard on Windows RS4: Is the Mouse Finally Caught?",
+            "video": "https://www.youtube.com/watch?v=ifWdeFHXj7s"
+        },
+        {
+            "name": "iOS Dual Booting Demystified",
+            "video": "https://www.youtube.com/watch?v=_gTzVrUKabY"
+        },
+        {
+            "name": "macOS: How to Gain Root with CVE-2018-4193 in < 10s",
+            "video": "https://www.youtube.com/watch?v=dWQRetMjS6Q"
+        },
+        {
+            "name": "Reverse Engineering of Error-Correcting Codes",
+            "video": "https://www.youtube.com/watch?v=R2aPo_wwmZw"
+        },
+        {
+            "name": "Glitch in the Matrix: Exploiting Bitcoin Hardware Wallets",
+            "video": "https://www.youtube.com/watch?v=ZCUrm4STreU"
+        },
+        {
+            "name": "Attack Surface of a Connected Vehicle"
+        },
+        {
+            "name": "Bypass Windows Exploit Guard ASR",
+            "video": "https://www.youtube.com/watch?v=YMHsuu3qldE"
+        },
+        {
+            "name": "FuzzIL: Guided Fuzzing for JavaScript Engines",
+            "video": "https://www.youtube.com/watch?v=OHjq9Y66yfc"
+        }
+    ]
+}

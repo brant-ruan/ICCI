@@ -1,0 +1,88 @@
+{
+    "topics": [
+        {
+            "name": "Zooming in on Zero-click Exploits",
+            "video": "https://www.youtube.com/watch?v=23gfRU99vGY"
+        },
+        {
+            "name": "Reverse engineering of black-box binaries with symbolic and concolic execution techniques",
+            "video": "https://www.youtube.com/watch?v=896uujmljDU"
+        },
+        {
+            "name": "Instrumenting system applications on Android stock images",
+            "video": "https://www.youtube.com/watch?v=qbIhMyGcDtI"
+        },
+        {
+            "name": "Reversing an M32C firmware -- Lesson learned from playing with an uncommon architecture",
+            "video": "https://www.youtube.com/watch?v=OZ86eJFmFqU"
+        },
+        {
+            "name": "Breaking the Glass Sandbox: Find Linux Kernel Bugs and Escape",
+            "video": "https://www.youtube.com/watch?v=2R46lJsOOTE"
+        },
+        {
+            "name": "Researching the Unisoc baseband, like in the army",
+            "video": "https://www.youtube.com/watch?v=XNhXNXiBkO8"
+        },
+        {
+            "name": "The Next Generation of Virtualization-based Obfuscators",
+            "video": "https://www.youtube.com/watch?v=EWCcOlJf4pE"
+        },
+        {
+            "name": "Project TEMPA - Demystifying Tesla's Bluetooth Passive Entry system",
+            "video": "https://www.youtube.com/watch?v=VYTAR3nVQ8A"
+        },
+        {
+            "name": "Analysis of a nation-state Chrome exploit"
+        },
+        {
+            "name": "Beyond AlphaGolang: Automated hunting based on reversing Go binaries",
+            "video": "https://www.youtube.com/watch?v=JoGrnucibJU"
+        },
+        {
+            "name": "Function overrides, from a Security mitigation to a fully-fledged Performance Feature in Windows",
+            "video": "https://www.youtube.com/watch?v=RbqIg1HwYpo"
+        },
+        {
+            "name": "Living Off the Walled Garden: Abusing the Features of the Early Launch Antimalware Ecosystem",
+            "video": "https://www.youtube.com/watch?v=eboMa361r7M"
+        },
+        {
+            "name": "Malware Wars: DarkSide Strikes Back as BlackMatter",
+            "video": "https://www.youtube.com/watch?v=FalMFNlTLaY"
+        },
+        {
+            "name": "Pulling MikroTik into the Limelight: Demystifying and Jailbreaking RouterOS",
+            "video": "https://www.youtube.com/watch?v=aWQ-xiMvGYU"
+        },
+        {
+            "name": "OopsSec -The bad, the worst and the ugly of APT\u2019s operations security"
+        },
+        {
+            "name": "Samsara Metamorphic Engine",
+            "video": "https://www.youtube.com/watch?v=DLxwYwB4FRI"
+        },
+        {
+            "name": "Under the hood of Wslink\u2019s multilayered virtual machine",
+            "video": "https://www.youtube.com/watch?v=o3VL2nxu3iA"
+        },
+        {
+            "name": "The Mysterious Life of an Exception",
+            "video": "https://www.youtube.com/watch?v=hBFAdEqnv7w"
+        },
+        {
+            "name": "A Dirty Little History: Bypassing Spectre Hardware Defenses to Leak Kernel Data",
+            "video": "https://www.youtube.com/watch?v=uPai1050hak"
+        },
+        {
+            "name": "Detect Me If You Can - Anti-Firmware Forensics"
+        },
+        {
+            "name": "Dotnetfile: parsing .NET PE files has never been easier"
+        },
+        {
+            "name": "When Wireless Malware Stays On After Turning Off iPhones",
+            "video": "https://www.youtube.com/watch?v=C_n0Kav4aNI"
+        }
+    ]
+}

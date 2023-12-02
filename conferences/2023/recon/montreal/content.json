@@ -1,0 +1,88 @@
+{
+    "topics": [
+        {
+            "name": "Ice Ice Baby: Coppin' RAM With DIY Cryo-Mechanical Robot",
+            "video": "https://www.youtube.com/watch?v=nTvIQDe0rQU"
+        },
+        {
+            "name": "Hello 1994: Abusing Windows Explorer via Component Object Model in 2023",
+            "video": "https://www.youtube.com/watch?v=Gyp3uLFYQ8I"
+        },
+        {
+            "name": "Cracking the final frontier: Reverse engineering and exploiting low-earth orbit satellites",
+            "video": "https://www.youtube.com/watch?v=gt9YaeWzbpc"
+        },
+        {
+            "name": "Recent Experiments with Mask ROMs",
+            "video": "https://www.youtube.com/watch?v=pd1dpH19VrY"
+        },
+        {
+            "name": "A Backdoor Lockpick",
+            "video": "https://www.youtube.com/watch?v=3dbyOukvjwc"
+        },
+        {
+            "name": "Be Kind, Please Rewind: Adventures in creating a macOS record/replay debugger",
+            "video": "https://www.youtube.com/watch?v=KYkHDQYJ6fg"
+        },
+        {
+            "name": "Adventures of My Oven (Pinocchio) with ChipWhisperer",
+            "video": "https://www.youtube.com/watch?v=uEPiIYxHqLY"
+        },
+        {
+            "name": "The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders",
+            "video": "https://www.youtube.com/watch?v=ia1zDlwWRWU"
+        },
+        {
+            "name": "Unchained Skies: A Deep Dive into Reverse Engineering and Exploitation of Drones"
+        },
+        {
+            "name": "Handoff All Your Privacy (Again)"
+        },
+        {
+            "name": "Press Play to Restart: Under the Hood of the Windows Restart Manager",
+            "video": "https://www.youtube.com/watch?v=OKE4vYCftrU"
+        },
+        {
+            "name": "Enabling Security Research on Qualcomm Wifi Chips",
+            "video": "https://www.youtube.com/watch?v=y1puT_4en5I"
+        },
+        {
+            "name": "Smashing Virtual Function Pointers on the Heights of Elbrus"
+        },
+        {
+            "name": "GRU\u2019s toolkit: A deep dive into the disruptive arsenal",
+            "video": "https://www.youtube.com/watch?v=bL9QhGopASQ"
+        },
+        {
+            "name": "Unveiling Secrets in Binaries using Code Detection Strategies",
+            "video": "https://www.youtube.com/watch?v=y95MNr2Xu-g"
+        },
+        {
+            "name": "The Hunt for Red October - One Ping Too Many",
+            "video": "https://www.youtube.com/watch?v=jzA5aLrK4OY"
+        },
+        {
+            "name": "How to Hack Shannon Baseband (from a Phone)",
+            "video": "https://www.youtube.com/watch?v=LJ1NzJLMDUs"
+        },
+        {
+            "name": "Reversing NIM binaries: the easy way"
+        },
+        {
+            "name": "You have become the very thing you swore to destroy: Remotely exploiting an Antivirus engine",
+            "video": "https://www.youtube.com/watch?v=fhCtpv-YJ7M"
+        },
+        {
+            "name": "NVMe: New Vulnerabilities Made easy",
+            "video": "https://www.youtube.com/watch?v=szCZH6xzrkk"
+        },
+        {
+            "name": "Portrait of the artist as a young vx-er: This painting is an MBR bootkit",
+            "video": "https://www.youtube.com/watch?v=hbLchRcRb4c"
+        },
+        {
+            "name": "Dissecting the Modern Android Data Encryption Scheme",
+            "video": "https://www.youtube.com/watch?v=unRFQhkK1DE"
+        }
+    ]
+}

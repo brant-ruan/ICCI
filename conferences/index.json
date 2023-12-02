@@ -15,7 +15,7 @@
             ]
         },
         "blackhat": {
-            "displayName": "BH",
+            "displayName": "BlackHat",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -47,7 +47,7 @@
             ]
         },
         "offensivecon": {
-            "displayName": "OFFC",
+            "displayName": "OffensiveCon",
             "pathName": "offensivecon",
             "locations": [
                 {
@@ -73,7 +73,7 @@
             ]
         },
         "blackhat": {
-            "displayName": "BH",
+            "displayName": "BlackHat",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -101,7 +101,7 @@
             ]
         },
         "offensivecon": {
-            "displayName": "OFFC",
+            "displayName": "OffensiveCon",
             "pathName": "offensivecon",
             "locations": [
                 {
@@ -123,7 +123,7 @@
             ]
         },
         "blackhat": {
-            "displayName": "BH",
+            "displayName": "BlackHat",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -157,7 +157,7 @@
     },
     "2020": {
         "blackhat": {
-            "displayName": "BH",
+            "displayName": "BlackHat",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -203,7 +203,7 @@
             ]
         },
         "offensivecon": {
-            "displayName": "OFFC",
+            "displayName": "OffensiveCon",
             "pathName": "offensivecon",
             "locations": [
                 {
@@ -215,7 +215,7 @@
     },
     "2019": {
         "blackhat": {
-            "displayName": "BH",
+            "displayName": "BlackHat",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -257,7 +257,7 @@
             ]
         },
         "offensivecon": {
-            "displayName": "OFFC",
+            "displayName": "OffensiveCon",
             "pathName": "offensivecon",
             "locations": [
                 {
@@ -269,7 +269,7 @@
     },
     "2018": {
         "blackhat": {
-            "displayName": "BH",
+            "displayName": "BlackHat",
             "pathName": "blackhat",
             "locations": [
                 {
@@ -305,7 +305,7 @@
             ]
         },
         "offensivecon": {
-            "displayName": "OFFC",
+            "displayName": "OffensiveCon",
             "pathName": "offensivecon",
             "locations": [
                 {
@@ -317,7 +317,7 @@
     },
     "2017": {
         "blackhat": {
-            "displayName": "BH",
+            "displayName": "BlackHat",
             "pathName": "blackhat",
             "locations": [
                 {

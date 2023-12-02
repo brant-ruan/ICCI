@@ -1,0 +1,52 @@
+{
+    "topics": [
+        {
+            "name": "Navigating the Light and Darkness in the World of Vulnerabilities"
+        },
+        {
+            "name": "Building More Windows RPC Tooling for Security Research"
+        },
+        {
+            "name": "Modern Chrome Exploit Chain Development"
+        },
+        {
+            "name": "OLE object are still dangerous today — Exploiting Microsoft Office"
+        },
+        {
+            "name": "A roadmap to $50,000 at Pwn2Own Vehicle 2024: Dissecting QNX and exploiting its vulnerabilities"
+        },
+        {
+            "name": "Attack Move Verifiers: Our Experiences of Exploiting and Enhancing Move-based Blockchain"
+        },
+        {
+            "name": "Fuzzing as Reinforcement Learning"
+        },
+        {
+            "name": "Bug Hunting and Exploiting in Microsoft's Message Queuing (MSMQ) Components"
+        },
+        {
+            "name": "Simple bug but not easy exploit: Rooting Android devices in one shot"
+        },
+        {
+            "name": "Tracking APTs through Advanced SIGINT techniques"
+        },
+        {
+            "name": "Exploiting null-derefs: Doing the impossible in the Linux kernel"
+        },
+        {
+            "name": "One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability"
+        },
+        {
+            "name": "MTE as Tested"
+        },
+        {
+            "name": "Evolution of Safari mitigations and bypasses in 2022"
+        },
+        {
+            "name": "Linux user namespaces: a blessing and a curse"
+        },
+        {
+            "name": "10 years of Windows Privilege Escalation with Potatoes"
+        }
+    ]
+}

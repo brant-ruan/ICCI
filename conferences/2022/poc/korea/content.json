@@ -1,0 +1,67 @@
+{
+    "topics": [
+        {
+            "name": "Exploiting cross table object reference in Linux Netfilter table module"
+        },
+        {
+            "name": "Blockchain events and accidents"
+        },
+        {
+            "name": "Explore ’BUS’ Mysteries via Automotive fuzzing"
+        },
+        {
+            "name": "Expanding attack surface to bypass security in Electron framework"
+        },
+        {
+            "name": "Hacking Zoom and other XMPP applications: More Adventures with XMPP Stanza Smuggling"
+        },
+        {
+            "name": "Fugu15 - A deep dive into iOS 15 exploitation"
+        },
+        {
+            "name": "Controlled chaos: Predicting object addresses in Chrome (without breaking a sweat)"
+        },
+        {
+            "name": "Time-Traveling JIT Bugs"
+        },
+        {
+            "name": "🦀 How unsafe {} is Rust? (Keynote)"
+        },
+        {
+            "name": "Package Disaster: Diving Deep into macOS PackageKit and Discovering 15+ New SIP-Bypass Vulnerabilities"
+        },
+        {
+            "name": "Attacking Apple's Neural Engine (ANE)"
+        },
+        {
+            "name": "How to Backup and Pwn using Time Machine"
+        },
+        {
+            "name": "Rainbow Bridge to the Aurora"
+        },
+        {
+            "name": "MikroTik RouterOS Security: The Forgotten IPC Message"
+        },
+        {
+            "name": "Discovering vendor-specific vulnerabilities in Android"
+        },
+        {
+            "name": "RCEing Your Way Into the Blockchain: Uncovering a critical vulnerability and taking over Decentralized Identity (DID) networks"
+        },
+        {
+            "name": "API wars in 5G networks"
+        },
+        {
+            "name": "compRCEssed:Compressed File Manipulation @WebApps"
+        },
+        {
+            "name": "Exploiting Errors in Windows Error Reporting Service in 2022"
+        },
+        {
+            "name": "DiDe - Build a pattern-based detection module from scratch"
+        },
+        {
+            "name": "The Journey To Hybrid Apple Driver Fuzzing"
+        }
+    ]
+}

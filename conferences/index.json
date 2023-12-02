@@ -65,6 +65,16 @@
                     "pathName": "montreal"
                 }
             ]
+        },
+        "poc": {
+            "displayName": "POC",
+            "pathName": "poc",
+            "locations": [
+                {
+                    "displayName": "KR",
+                    "pathName": "korea"
+                }
+            ]
         }
     },
     "2022": {
@@ -127,6 +137,16 @@
                 {
                     "displayName": "MTL",
                     "pathName": "montreal"
+                }
+            ]
+        },
+        "poc": {
+            "displayName": "POC",
+            "pathName": "poc",
+            "locations": [
+                {
+                    "displayName": "KR",
+                    "pathName": "korea"
                 }
             ]
         }

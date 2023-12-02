@@ -1,0 +1,179 @@
+{
+    "topics": [
+        {
+            "name": "CSP - A Successful Mess Between Hardening and Mitigation",
+            "video": "https://www.youtube.com/watch?v=vrcKJkkTQng"
+        },
+        {
+            "name": "MBUF-OFLOW - Finding Vulnerabilities in iOS MacOS Networking Code",
+            "video": "https://www.youtube.com/watch?v=0EHP2gzwVAY"
+        },
+        {
+            "name": "Make ARM Shellcode Great Again",
+            "video": "https://www.youtube.com/watch?v=c_jUELOScLc"
+        },
+        {
+            "name": "Modern Techniques to Deobfuscate UEFI:BIOS Malware",
+            "video": "https://www.youtube.com/watch?v=bCaMuHAJcHw"
+        },
+        {
+            "name": "Pwning Centrally-Controlled Smart Homes",
+            "video": "https://www.youtube.com/watch?v=Ml8ePWAXM6I"
+        },
+        {
+            "name": "SeasCoASA - Exploiting a Small Leak in a Great Ship",
+            "video": "https://www.youtube.com/watch?v=Cur_HcF57Xc"
+        },
+        {
+            "name": "The Birdman and Cospas-Sarsat Satellites",
+            "video": "https://www.youtube.com/watch?v=uVY916u96BY"
+        },
+        {
+            "name": "Toctou Attacks Against Secure Boot",
+            "video": "https://www.youtube.com/watch?v=hx9MS1_1e2c"
+        },
+        {
+            "name": "Automated Discovery of Logical Privilege Escalation Bugs in Windows 10",
+            "video": "https://www.youtube.com/watch?v=s4VvXR5xJLI"
+        },
+        {
+            "name": "Bypassing GSMA Recommendations on SS7 Networks",
+            "video": "https://www.youtube.com/watch?v=GvhsNXtdjo8"
+        },
+        {
+            "name": "Duplicating Black Box Machine Learning Models",
+            "video": "https://www.youtube.com/watch?v=GqcUweUJUu0"
+        },
+        {
+            "name": "Fresh Apples - Researching New Attack Interfaces on iOS and OSX",
+            "video": "https://www.youtube.com/watch?v=59yQ47m5c_E"
+        },
+        {
+            "name": "Hourglass Fuzz - A Quick Bug Hunting Method",
+            "video": "https://www.youtube.com/watch?v=dloXHP5e5Fs"
+        },
+        {
+            "name": "Pwning HDMI for Fun and Profit",
+            "video": "https://www.youtube.com/watch?v=uyYZDRY01OY"
+        },
+        {
+            "name": "fn_fuzzy - Fast Multiple Binary Diffing Triage",
+            "video": "https://www.youtube.com/watch?v=kkvNebE9amY"
+        },
+        {
+            "name": "Attacking GSM \u2013 Alarms, Smart Homes, Smart Watches and More",
+            "video": "https://www.youtube.com/watch?v=wWXf9dS3L-o"
+        },
+        {
+            "name": "How to Dump, Parse, and Analyze i.MX Flash Memory Chips",
+            "video": "https://www.youtube.com/watch?v=1u0OqFhDTdw"
+        },
+        {
+            "name": "Reversing with Radare2",
+            "video": "https://www.youtube.com/watch?v=317dNavABKo"
+        },
+        {
+            "name": "Wireless Hacking with Hack Cube"
+        },
+        {
+            "name": "Securing Journalists",
+            "video": "https://www.youtube.com/watch?v=kdJSaxJ5zL0"
+        },
+        {
+            "name": "Attacking Industrial Remote Controllers",
+            "video": "https://www.youtube.com/watch?v=pEP7EOQkm_0"
+        },
+        {
+            "name": "Compiler Bugs and Bug Compilers",
+            "video": "https://www.youtube.com/watch?v=MmUkkMNxP80"
+        },
+        {
+            "name": "Hacking Jenkins",
+            "video": "https://www.youtube.com/watch?v=_x8BsBnQPmU"
+        },
+        {
+            "name": "Muraena - The Unexpected Phish",
+            "video": "https://www.youtube.com/watch?v=glzq5yL8LCE"
+        },
+        {
+            "name": "Sneaking Past Device Guard",
+            "video": "https://www.youtube.com/watch?v=uxTuHL94Rn4"
+        },
+        {
+            "name": "Binder - The Bridge to Root",
+            "video": "https://www.youtube.com/watch?v=l38YQxrk7V8"
+        },
+        {
+            "name": "Improving Unicode Encoding Attacks with Deep Learning",
+            "video": "https://www.youtube.com/watch?v=9SXRe0dWyxM"
+        },
+        {
+            "name": "ModJack - Hijacking the MacOS Kernel",
+            "video": "https://www.youtube.com/watch?v=OVT1DrSiLWQ"
+        },
+        {
+            "name": "PanicXNU 3.0",
+            "video": "https://www.youtube.com/watch?v=0x4vfjsUQP8"
+        },
+        {
+            "name": "Reversing Cryptographic Primitives Using Quantum Computing",
+            "video": "https://www.youtube.com/watch?v=Awc0TD_pHco"
+        },
+        {
+            "name": "A Decade of Infosec Tools",
+            "video": "https://www.youtube.com/watch?v=fAfWuV05TKI"
+        },
+        {
+            "name": "Building an International Coordinated Bug Disclosure Bridge for the European Union",
+            "video": "https://www.youtube.com/watch?v=DVNsVdTevD8"
+        },
+        {
+            "name": "Ghost Tunnel 2.0 - Blue Ghost",
+            "video": "https://www.youtube.com/watch?v=d2bDqgqq9kw"
+        },
+        {
+            "name": "Hacking LTE Public Warning Systems",
+            "video": "https://www.youtube.com/watch?v=Kagw47aCwfY"
+        },
+        {
+            "name": "Hacking the 0day Market",
+            "video": "https://www.youtube.com/watch?v=1VajO0OUloo"
+        },
+        {
+            "name": "Hiding a Secret Distributed Chat System Inside 802.11 Management Frames",
+            "video": "https://www.youtube.com/watch?v=-yrikNi4nEI"
+        },
+        {
+            "name": "Infrared - Old Threats Meets New Devices",
+            "video": "https://www.youtube.com/watch?v=hRBLe9k6_jA"
+        },
+        {
+            "name": "Social Networks - Can We Fix Them",
+            "video": "https://www.youtube.com/watch?v=Mk2rITAoIqg"
+        },
+        {
+            "name": "VoLTE Phreaking",
+            "video": "https://www.youtube.com/watch?v=H8vo56vImU4"
+        },
+        {
+            "name": "WiCy - Monitoring 802.11AC Networks at Scale",
+            "video": "https://www.youtube.com/watch?v=5lU9fPP4ebM"
+        },
+        {
+            "name": "Attacking Encrypted VoIP Protocols",
+            "video": "https://www.youtube.com/watch?v=3v3tB54RVNs"
+        },
+        {
+            "name": "Demystifying IoT:OT Hacks With SDR",
+            "video": "https://www.youtube.com/watch?v=Uv5-EfHQvWc"
+        },
+        {
+            "name": "Implementation and Evaluation of Secure and Scalable Anomaly-Based Network Intrusion Detection",
+            "video": "https://www.youtube.com/watch?v=UOrHGWO6Hc4"
+        },
+        {
+            "name": "The Red Flavour of SOC Automation and Orchestration",
+            "video": "https://www.youtube.com/watch?v=t-fVM5_lS4o"
+        }
+    ]
+}

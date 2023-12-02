@@ -12,7 +12,7 @@ I hope ICCI makes your research more efficient and interesting. If you find it u
 
 ## Integrated Conferences
 
-|      | BlackHat   | HITB       | OffensiveCon | POC  | REcon | LSS   |
+|      | BH   | HITB       | OFF | POC  | RE | LSS   |
 | ---- | ---------- | ---------- | ------------ | ---- | ----- | ----- |
 | 2023 | US \| ASIA \| EU | AMS \| HKT    | DE           | KR   | MTL   | NA \| EU |
 | 2022 | US \| ASIA \| EU | SG         | DE           | KR   | MTL   | NA \| EU |
@@ -21,4 +21,13 @@ I hope ICCI makes your research more efficient and interesting. If you find it u
 | 2019 | US \| ASIA \| EU | AMS        | DE           |      |       | NA \| EU |
 | 2018 | US \| ASIA \| EU | AMS \| BJ \| DXB | DE           |      |       |       |
 | 2017 | US \| ASIA \| EU |            |              |      |       |       |
+
+Note:
+
+```
+BH = BlackHat
+OFF = OffensiveCon
+RE = REcon
+LSS = Linux Security Summit
+```
 

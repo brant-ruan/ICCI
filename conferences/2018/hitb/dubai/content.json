@@ -1,0 +1,184 @@
+{
+    "topics": [
+        {
+            "name": "Blind Digital Signatures",
+            "video": "https://www.youtube.com/watch?v=sTb5EXhJJ-Q"
+        },
+        {
+            "name": "Blockchain - The New Line of Defense"
+        },
+        {
+            "name": "Creating Custom Browser Extensions to Hunt Low Hanging Fruits",
+            "video": "https://www.youtube.com/watch?v=Cg-_TLdfUGw"
+        },
+        {
+            "name": "Cyber Security of the Future"
+        },
+        {
+            "name": "Building Security Beyond The Genesis Block",
+            "video": "https://www.youtube.com/watch?v=3cFCs6YkwMs"
+        },
+        {
+            "name": "Building Your Own Self Driving, Self Racing Car",
+            "video": "https://www.youtube.com/watch?v=agSPx_p-KI8"
+        },
+        {
+            "name": "Enhancing Deep Learning DGA Detection Models Using Separate Character Embedding",
+            "video": "https://www.youtube.com/watch?v=jm7wH2G0h6c"
+        },
+        {
+            "name": "Hacking Yachts Remotely - IoT Hacking at Sea",
+            "video": "https://www.youtube.com/watch?v=hSFz2diUTvE"
+        },
+        {
+            "name": "Hacking into Broadband and Broadcast TV Systems",
+            "video": "https://www.youtube.com/watch?v=LsLfbnAXEw8"
+        },
+        {
+            "name": "Hacking the 0day Market",
+            "video": "https://www.youtube.com/watch?v=yAW49z4vHns"
+        },
+        {
+            "name": "System-level Threats - Dangerous Assumptions in Modern Product Security",
+            "video": "https://www.youtube.com/watch?v=gNZFvZBbQd8"
+        },
+        {
+            "name": "Taking Over Telecom Networks",
+            "video": "https://www.youtube.com/watch?v=j1dO_UCx9O4"
+        },
+        {
+            "name": "Crouching Tiger Sudden Keynote",
+            "video": "https://www.youtube.com/watch?v=6EvI-DdWJZM"
+        },
+        {
+            "name": "AI Model Security - Reverse Engineering Machine Learning Models",
+            "video": "https://www.youtube.com/watch?v=Dn3jb2BBBCE"
+        },
+        {
+            "name": "Hunting for Backdoors in IoT Firmware at Unprecedented Scale",
+            "video": "https://www.youtube.com/watch?v=WXBT79figGg"
+        },
+        {
+            "name": "Infecting Files On The Fly",
+            "video": "https://www.youtube.com/watch?v=ao-DcP6jvvs"
+        },
+        {
+            "name": "Rooting Routers Using Symbolic Execution",
+            "video": "https://www.youtube.com/watch?v=9WPTGv87lXA"
+        },
+        {
+            "name": "The Phantom Menace- Intel ME Manufacturing Mode",
+            "video": "https://www.youtube.com/watch?v=sfX5un2Oemk"
+        },
+        {
+            "name": "Virtualizing IoT With Code Coverage Guided Fuzzing",
+            "video": "https://www.youtube.com/watch?v=BGqkfKV1KFk"
+        },
+        {
+            "name": "A Multidimensional Hardware Attack and Defense Tool Set",
+            "video": "https://www.youtube.com/watch?v=R-RP0BZGCQ4"
+        },
+        {
+            "name": "Cloudy With a Chance of Messages - Extracting Messages from iCloud",
+            "video": "https://www.youtube.com/watch?v=drbEQeSlyqg"
+        },
+        {
+            "name": "Gold Digging - Discovering Hidden Gems in APKs",
+            "video": "https://www.youtube.com/watch?v=gONh9FMKb7Q"
+        },
+        {
+            "name": "Hacking Telephone Systems for Fun and Profit",
+            "video": "https://www.youtube.com/watch?v=-KWZ-m_l4Jc"
+        },
+        {
+            "name": "IPv666 \u2013 Address of the Beast",
+            "video": "https://www.youtube.com/watch?v=bNp2nBvxkIQ"
+        },
+        {
+            "name": "IoT Woodpecker - Intrusion-Detection On The Hardware Bus",
+            "video": "https://www.youtube.com/watch?v=5F81wlbzG60"
+        },
+        {
+            "name": "Growth Hacking Your Community"
+        },
+        {
+            "name": "Hunting Threats in Your Enterprise",
+            "video": "https://www.youtube.com/watch?v=P5D0S69nhW0"
+        },
+        {
+            "name": "My Experience of Running CTF Competitions in 7 Arab Countries",
+            "video": "https://www.youtube.com/watch?v=CU4Xv0GY5_8"
+        },
+        {
+            "name": "Women in Cybersecurity"
+        },
+        {
+            "name": "A Secured and Robust Wireless Communication System for Low-Latency Applications",
+            "video": "https://www.youtube.com/watch?v=fFkGdT6W2FA"
+        },
+        {
+            "name": "Evolution of Security Threats to Telecommunications Infrastructures",
+            "video": "https://www.youtube.com/watch?v=lemlFMPn5zs"
+        },
+        {
+            "name": "HWallet - The Simple Cryptocurrency Hardware Wallet",
+            "video": "https://www.youtube.com/watch?v=EO0DxgZhz_g"
+        },
+        {
+            "name": "Hacking the International RFQ Process",
+            "video": "https://www.youtube.com/watch?v=Zs0p1-1ZVfw"
+        },
+        {
+            "name": "Improved Blockchain Infrastructure with IoT",
+            "video": "https://www.youtube.com/watch?v=KoRUF-YC1JY"
+        },
+        {
+            "name": "Offensive Memory Forensics",
+            "video": "https://www.youtube.com/watch?v=P-OpyGJcMHE"
+        },
+        {
+            "name": "Cyber Arms Race",
+            "video": "https://www.youtube.com/watch?v=C_pdkP6YalM"
+        },
+        {
+            "name": "DHCP is Hard",
+            "video": "https://www.youtube.com/watch?v=DmyY2-rEIf4"
+        },
+        {
+            "name": "GLitch Chronicles - Turning WebGL Into A Hammer",
+            "video": "https://www.youtube.com/watch?v=5c_1vZxZvuc"
+        },
+        {
+            "name": "Horror On The Bus - Hacking COMBUS",
+            "video": "https://www.youtube.com/watch?v=Vdg7QQR3Gu8"
+        },
+        {
+            "name": "It WISN\u2019t Me - Attacking Industrial Wireless Mesh Networks",
+            "video": "https://www.youtube.com/watch?v=PNt1ZZbPOxM"
+        },
+        {
+            "name": "Vote of No Confidence - Second Factor Correctness",
+            "video": "https://www.youtube.com/watch?v=UW95fTnUr08"
+        },
+        {
+            "name": "Are You Listening? Auditable & Provable Privacy of Smart Speakers",
+            "video": "https://www.youtube.com/watch?v=Rs7n46HTCyE"
+        },
+        {
+            "name": "Back On The Chain Gang - Blockchain, Public Chain and Contract Security",
+            "video": "https://www.youtube.com/watch?v=XE-woojOSq0"
+        },
+        {
+            "name": "Capture This - Real Time Packet Processing with FPGAs",
+            "video": "https://www.youtube.com/watch?v=ddEHhIrMlzw"
+        },
+        {
+            "name": "NTLM Relay Is Dead Long Live NTLM Relay",
+            "video": "https://www.youtube.com/watch?v=gyR3RQEpfxU"
+        },
+        {
+            "name": "Using Machine-Learning to Investigate Web Campaigns at Large",
+            "video": "https://www.youtube.com/watch?v=3F44JbkaU7k"
+        }
+    ]
+}

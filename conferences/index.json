@@ -245,6 +245,24 @@
                     "pathName": "europe"
                 }
             ]
+        },
+        "hitb": {
+            "displayName": "HITB",
+            "pathName": "hitb",
+            "locations": [
+                {
+                    "displayName": "AMS",
+                    "pathName": "amsterdam"
+                },
+                {
+                    "displayName": "BJ",
+                    "pathName": "beijing"
+                },
+                {
+                    "displayName": "DXB",
+                    "pathName": "dubai"
+                }
+            ]
         }
     },
     "2017": {

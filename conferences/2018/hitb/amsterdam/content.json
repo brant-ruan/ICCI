@@ -1,0 +1,133 @@
+{
+    "topics": [
+        {
+            "name": "Privacy and Protection for Criminals - Behaviors and Patterns of Rogue Hosting Providers"
+        },
+        {
+            "name": "A Deep Dive Into Malicious Documents"
+        },
+        {
+            "name": "How to Find and Exploit Bugs in IoT Devices"
+        },
+        {
+            "name": "Keynterceptor - Press Any Key to Continue"
+        },
+        {
+            "name": "Creating an Isolated Data Center Security Policy Model Using SmartNICs"
+        },
+        {
+            "name": "The Life & Death of Kernel Object Abuse"
+        },
+        {
+            "name": "Steganography Ante Portas"
+        },
+        {
+            "name": "Hacking IoT Speakers"
+        },
+        {
+            "name": "Modern Pentest Tricks for Faster, Wider, Greater Engagements"
+        },
+        {
+            "name": "Practical Quantum Computing for Hackers Without a PhD"
+        },
+        {
+            "name": "Fuzzing Javascript Engines for Fun and Pwnage"
+        },
+        {
+            "name": "Sneaky Element- Real World Attacks Against Secure Elements"
+        },
+        {
+            "name": "Brida When Burp Suite Meets Frida"
+        },
+        {
+            "name": "Ghost Tunnel- Covert Data Exfiltration Channel to Circumvent Air Gapping"
+        },
+        {
+            "name": "Abusing the Travel and Hospitality Industry for Profit"
+        },
+        {
+            "name": "How to Analyze and Find Bugs in MacOS and iOS Kernel Drivers"
+        },
+        {
+            "name": "Smashing Ethereum Smart Contracts for Fun and ACTUAL Profit"
+        },
+        {
+            "name": "Invoke-DOSfuscation"
+        },
+        {
+            "name": "Applying Machine Learning to User Behavior Anomaly Analysis"
+        },
+        {
+            "name": "Rooting Android 8 with a Kernel Space Mirroring Attack"
+        },
+        {
+            "name": "Attacking Microsoft’s .NET Framework Through CLR"
+        },
+        {
+            "name": "Hacking Intelligent Buildings - Pwning KNX & ZigBee Networks"
+        },
+        {
+            "name": "SDR Lab"
+        },
+        {
+            "name": "From Zero to ARM Assembly Bind Shellcode"
+        },
+        {
+            "name": "Wireless Hacking with HackCUBE"
+        },
+        {
+            "name": "Hacking a Hospital for Fun and Profit"
+        },
+        {
+            "name": "Smart Contract (in)security"
+        },
+        {
+            "name": "ProdSec - A Technical Approach"
+        },
+        {
+            "name": "Hiding Tasks via Hardware Task Switching"
+        },
+        {
+            "name": "Automatic Generation of ROP Chains Using a Turing-Complete Instruction Set"
+        },
+        {
+            "name": "PyREBox - Making Dynamic Instrumentation Great Again"
+        },
+        {
+            "name": "Establishing Covert Channels by Abusing GSM AT Commands"
+        },
+        {
+            "name": "Sandbox Evasion Using VBA Referencing"
+        },
+        {
+            "name": "Uncovering the Android Patch Gap Through Binary-Only Patch Level Analysis"
+        },
+        {
+            "name": "Expanding Your WMI Lateral Movement Arsenal"
+        },
+        {
+            "name": "Backdooring & Remotely Controlling Cars With The Bicho"
+        },
+        {
+            "name": "Exposing Hidden Exploitable Behaviors Using Extended Differential Fuzzing"
+        },
+        {
+            "name": "Defense-in-Depth Techniques for Modern Web Applications and Google’s Journey with CSP"
+        },
+        {
+            "name": "Pwning The Windows Kernel"
+        },
+        {
+            "name": "Towards a Generic Interecepting Proxy"
+        },
+        {
+            "name": "A New Fuzzing Method for Android"
+        },
+        {
+            "name": "Predicting Malicious Domains Using Convolutional Neural Networks"
+        },
+        {
+            "name": "Lend Me Your kernel_task Port"
+        }
+    ]
+}

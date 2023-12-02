@@ -1,0 +1,112 @@
+{
+    "topics": [
+        {
+            "name": "AI Powered Security and Securing AI"
+        },
+        {
+            "name": "Application and Practice of Machine Learning in Anti-Malware"
+        },
+        {
+            "name": "Applications of Open Source Hardware in Security Research"
+        },
+        {
+            "name": "Challenges and Practices of Local Differential Privacy in Real-World"
+        },
+        {
+            "name": "Expediting Exploitability Assessment Through an Exploitation Facilitation Framework"
+        },
+        {
+            "name": "Smart Nation Meets Privacy-Preserving Analytics"
+        },
+        {
+            "name": "Unconventional Vulnerabilities in Google Cloud Platform"
+        },
+        {
+            "name": "Who Hijacked My Smart Home"
+        },
+        {
+            "name": "Attack Trees - Methodology and Application in Red Teaming Operations"
+        },
+        {
+            "name": "Finding Vulnerabilities in a Closed Source Video Decoder Driver"
+        },
+        {
+            "name": "Offensive Memory Forensics"
+        },
+        {
+            "name": "Security 2020 - The Threats and Opportunities for Cyber Leaders"
+        },
+        {
+            "name": "Stop Laughing - Cyber Security Is Cool Now"
+        },
+        {
+            "name": "Apple iOS UI Access Permission Vulnerabilities"
+        },
+        {
+            "name": "Our Quantum Future"
+        },
+        {
+            "name": "Some Experiments with Code Similarity"
+        },
+        {
+            "name": "Telecoms - Generational Evolution of Attack Surfaces"
+        },
+        {
+            "name": "The Inner Workings of the Windows Runtime"
+        },
+        {
+            "name": "Travel Hacking - Hotel Edition"
+        },
+        {
+            "name": "Vulnerability Research - What It Takes to Keep Going and Going and Going"
+        },
+        {
+            "name": "Gentlemen Start Your AIs - Self-Racing Cars"
+        },
+        {
+            "name": "Hacking The 0day Market"
+        },
+        {
+            "name": "Solving The Last Mile Problem Between Machine Learning and Security Operations"
+        },
+        {
+            "name": "Dissecting a Cloud-Connected E-Scooter"
+        },
+        {
+            "name": "Finding 0days in Embedded Systems with Code Coverage Guided Fuzzing"
+        },
+        {
+            "name": "Make ARM Shellcode Great Again"
+        },
+        {
+            "name": "Modern Car Security"
+        },
+        {
+            "name": "Multi ARCH Firmware Emulation"
+        },
+        {
+            "name": "Social Media Mining for Threat Intelligence"
+        },
+        {
+            "name": "Using Machine Learning to Investigate Web Campaigns at Large"
+        },
+        {
+            "name": "Bye Bye IMSI Catchers - Security Enhancements in 5g"
+        },
+        {
+            "name": "Hacking Robots"
+        },
+        {
+            "name": "How Your Smartphone Tracks Your Entire Life"
+        },
+        {
+            "name": "Monitoring Massive Network Traffic using Bayesian Inference"
+        },
+        {
+            "name": "Taint Driven Crash Analysis"
+        },
+        {
+            "name": "USB Armory - Past Present and Future"
+        }
+    ]
+}

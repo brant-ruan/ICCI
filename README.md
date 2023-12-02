@@ -16,7 +16,7 @@ I hope ICCI makes your research more efficient and interesting. If you find it u
 
 |      | BH   | HITB       | OFF | POC  | RE | LSS   |
 | ---- | ---------- | ---------- | ------------ | ---- | ----- | ----- |
-| 2017 | US \| ASIA \| EU |            |              |      |       |       |
+| 2017 | US \| ASIA \| EU |  AMS          |              |      |       |       |
 | 2018 | US \| ASIA \| EU | AMS \| BJ \| DXB | DE           |      |       |       |
 | 2019 | US \| ASIA \| EU | AMS        | DE           |      |       | NA \| EU |
 | 2020 | US \| ASIA \| EU | AMS \| SG     | DE           |      |       | NA \| EU |

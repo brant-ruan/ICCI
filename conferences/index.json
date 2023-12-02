@@ -373,6 +373,16 @@
                     "pathName": "europe"
                 }
             ]
+        },
+        "hitb": {
+            "displayName": "HITB",
+            "pathName": "hitb",
+            "locations": [
+                {
+                    "displayName": "AMS",
+                    "pathName": "amsterdam"
+                }
+            ]
         }
     }
 }

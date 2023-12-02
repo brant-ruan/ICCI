@@ -1,0 +1,100 @@
+{
+    "topics": [
+        {
+            "name": "Redefining Defense",
+            "video": "https://www.youtube.com/watch?v=vpj3pU02tWg"
+        },
+        {
+            "name": "All Fall Down: Interdependencies In The Cloud",
+            "video": "https://www.youtube.com/watch?v=FIaKhM2Gm8M"
+        },
+        {
+            "name": "Hacking Customer Information Control System",
+            "video": "https://www.youtube.com/watch?v=KnY0Gg_WSLU"
+        },
+        {
+            "name": "We Broke All CSPs And You Won't Believe What Happened",
+            "video": "https://www.youtube.com/watch?v=lZSxbEzWyqM"
+        },
+        {
+            "name": "Can't Touch This: Cloning Any Android HCE Contactless Card",
+            "video": "https://www.youtube.com/watch?v=7gYXjT2WE30"
+        },
+        {
+            "name": "A New RISC",
+            "video": "https://www.youtube.com/watch?v=BgEhoMFxBwI"
+        },
+        {
+            "name": "The Secret Of Chakracore: 10 Ways To Go Beyond The Edge",
+            "video": "https://www.youtube.com/watch?v=JcBmkZpvxAI"
+        },
+        {
+            "name": "Drammer: The Making Of",
+            "video": "https://www.youtube.com/watch?v=_oCEpfw1IPM"
+        },
+        {
+            "name": "Side Channel Attacks Against iOS Crypto Libraries And More",
+            "video": "https://www.youtube.com/watch?v=dsugka8criQ"
+        },
+        {
+            "name": "Harnessing Intel Processor Trace On Windows For Vuln Discovery",
+            "video": "https://www.youtube.com/watch?v=r8lzui24Cdw"
+        },
+        {
+            "name": "Shadow Box: The Practical And Omnipotent Sandbox",
+            "video": "https://www.youtube.com/watch?v=HMzODnrgQHY"
+        },
+        {
+            "name": "I Got 99 Trends And A # Is All Of Them!",
+            "video": "https://www.youtube.com/watch?v=8umLQOhrqW0"
+        },
+        {
+            "name": "Most Impressive: A Guide To Key Impressioning Attacks",
+            "video": "https://www.youtube.com/watch?v=_W7Cx3TxvBc"
+        },
+        {
+            "name": "Everybody Wants SOME: Advance Same Origin Method Execution",
+            "video": "https://www.youtube.com/watch?v=OvarkOxxdic"
+        },
+        {
+            "name": "Chasing Cars: Keyless Entry System Attacks",
+            "video": "https://www.youtube.com/watch?v=rhm1TiFJc7s"
+        },
+        {
+            "name": "Vulnerabilities In Android Password Managers",
+            "video": "https://www.youtube.com/watch?v=L8HmNm0kCBc"
+        },
+        {
+            "name": "The Best Laid Schemes: Attacking URL Schemes",
+            "video": "https://www.youtube.com/watch?v=gwVa7WF2Vt0"
+        },
+        {
+            "name": "Hunting For Vulnerabilities In Signal",
+            "video": "https://www.youtube.com/watch?v=2n9HmllVftA"
+        },
+        {
+            "name": "In Depth Analysis Of Multicast DNS And DNS Service Discovery",
+            "video": "https://www.youtube.com/watch?v=z78qCaha9H0"
+        },
+        {
+            "name": "Oversight: Exposing Spies On MacOS",
+            "video": "https://www.youtube.com/watch?v=xsDGozG5t9A"
+        },
+        {
+            "name": "Bypassing Memory Mitigations Using Data Only Exploitation Techniques",
+            "video": "https://www.youtube.com/watch?v=cbFrkoBbyIA"
+        },
+        {
+            "name": "Bootstrapping Systems With Open Source Firmware",
+            "video": "https://www.youtube.com/watch?v=0UtTGwO73TA"
+        },
+        {
+            "name": "Hacking Medical Devices And Healthcare Infrastructure",
+            "video": "https://www.youtube.com/watch?v=3S6RQo-OQ24"
+        },
+        {
+            "name": "The ECMA And The Chakra",
+            "video": "https://www.youtube.com/watch?v=P4NI4qYWqes"
+        }
+    ]
+}

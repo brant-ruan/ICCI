@@ -1,0 +1,82 @@
+{
+    "topics": [
+        {
+            "name": "API Security Through External Attack Surface Management"
+        },
+        {
+            "name": "Building an Army of Bots by Hijacking a Unicorn’s Twitter Handle"
+        },
+        {
+            "name": "Faking at Level 1 - How Digital Twins Save Your PLCs"
+        },
+        {
+            "name": "Fuzzing the MCU of Connected Vehicles for Security and Safety"
+        },
+        {
+            "name": "ICEFALL – Revisiting a Decade of OT Insecure-by-Design Practices"
+        },
+        {
+            "name": "MPT - Pentest In Action"
+        },
+        {
+            "name": "Attacking WPA3 - New Vulnerabilities and Exploit Framework"
+        },
+        {
+            "name": "Breaking Web3 - Exploitation Techniques for Cryptocurrency Hacking"
+        },
+        {
+            "name": "EDR Evasion Primer for Red Teamers"
+        },
+        {
+            "name": "Erybody Gettin TIPC - Demystifying Remote Linux Kernel Exploitation"
+        },
+        {
+            "name": "One-Click to Completely Takeover a MacOS Device"
+        },
+        {
+            "name": "Settlers of Netlink - Exploiting a Limited UAF on Ubuntu 22.04 to Achieve LPE"
+        },
+        {
+            "name": "Biometrics System Hacking in the Age of the Smart Vehicle"
+        },
+        {
+            "name": "Best Practices For Simulating Execution in Malicious Text Detection"
+        },
+        {
+            "name": "Can a Fuzzer Match a Human"
+        },
+        {
+            "name": "Cracking Kyocera Printers"
+        },
+        {
+            "name": "Exploiting Race Condition Vulnerabilities in Web Applications"
+        },
+        {
+            "name": "Getting Clear Text Passwords from an IdP & More: Our Research Methodology"
+        },
+        {
+            "name": "Web3 + Scams = It’s a Match"
+        },
+        {
+            "name": "Browser Hacking with ANGLE"
+        },
+        {
+            "name": "Scripts-behavioral ML Classification Using Windows 10 AMSI-instrumentation"
+        },
+        {
+            "name": "Suborner - Windows Bribery for Invisible Persistence"
+        },
+        {
+            "name": "The Ransomware Protection Full Of Holes"
+        },
+        {
+            "name": "Unlocking KeeLoq - A Reverse Engineering Story"
+        },
+        {
+            "name": "A Random Walk through a Few Million Things"
+        },
+        {
+            "name": "Adventures in Security Research"
+        }
+    ]
+}

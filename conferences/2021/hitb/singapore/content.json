@@ -1,0 +1,64 @@
+{
+    "topics": [
+        {
+            "name": "Practical AI Red Teaming - A Facial Recognition Case Study"
+        },
+        {
+            "name": "Scaling Up Offensive Pipelines"
+        },
+        {
+            "name": "ShadowPad - A Masterpiece of Privately Sold Malware in Chinese Espionage"
+        },
+        {
+            "name": "The Art of Exploiting UAF by Ret2bpf in Android Kernel"
+        },
+        {
+            "name": "What Modern RF Combat Looks Like in the Next Decade"
+        },
+        {
+            "name": "Fooling Apple AppAttest API"
+        },
+        {
+            "name": "Going Deeper into Schneider Modicon PAC Security"
+        },
+        {
+            "name": "IDA2Obj - Static Binary Instrumentation On Steroids"
+        },
+        {
+            "name": "Make JDBC Attacks Brilliant Again"
+        },
+        {
+            "name": "Taking Ghidra to The Next Level"
+        },
+        {
+            "name": "Automated 0-day Discovery in 2021 - Squashing the Low-hanging Fruit in Embedded Software"
+        },
+        {
+            "name": "Holding The Stick at Both Ends - Fuzzing RDP Client and Server"
+        },
+        {
+            "name": "Malware Protocol Simulations in Distributed Networks"
+        },
+        {
+            "name": "Summer of Fuzz - MacOS"
+        },
+        {
+            "name": "Ccntainer Escape in 2021"
+        },
+        {
+            "name": "Securing Webviews and The Story Behind CVE-2021–21136"
+        },
+        {
+            "name": "Stay Off My Private Data- A Framework to Examine Mobile App Privacy Claims"
+        },
+        {
+            "name": "trapfuzzer- Coverage-guided Binary Fuzzing with Breakpoints"
+        },
+        {
+            "name": "Security Technology Arms Race"
+        },
+        {
+            "name": "Protective DNS – Why It Matters and How to Deploy It With No Cloud Needed"
+        }
+    ]
+}

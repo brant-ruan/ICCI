@@ -1,0 +1,67 @@
+{
+    "topics": [
+        {
+            "name": "Poisoned Apples: Current State of iOS Malware Detection"
+        },
+        {
+            "name": "Nakatomi Space: Lateral Movement as L1 Post-Exploitation in OT"
+        },
+        {
+            "name": "XRP Raid Protector: Killing a Critical Bug Worth 40 Billion Dollars"
+        },
+        {
+            "name": "Windows Syscalls in Shellcode: Advanced Techniques for Malicious Functionality"
+        },
+        {
+            "name": "Your Not so 'Home' Office – Soho Hacking at Pwn2Own"
+        },
+        {
+            "name": "The Lost World of DirectComposition: Hunting Windows Desktop Window Manager Bugs"
+        },
+        {
+            "name": "The Next Generation of Virtualization-based Obfuscators"
+        },
+        {
+            "name": "3 Years in China: A Tale of Building a REAL Full Speed Anti-Censorship Router"
+        },
+        {
+            "name": "Resurrecting Zombies – Leveraging Advanced Techniques of DMA Reentrancy to Escape QEMU"
+        },
+        {
+            "name": "Bypassing Anti-Cheats & Hacking Competitive Games"
+        },
+        {
+            "name": "PANEL DISCUSSION: iOS / OS X Security"
+        },
+        {
+            "name": "How MySQL Servers Can Attack YOU"
+        },
+        {
+            "name": "ChatGPT: Please Write Me a Piece of Polymorphic Malware"
+        },
+        {
+            "name": "Automated Black-box Security Testing of 'Smart' Embedded Devices"
+        },
+        {
+            "name": "Exploiting Inter-Process Communication with New Desynchronization Primitives"
+        },
+        {
+            "name": "Smart Speaker Shenanigans – Making the SONOS One Sing Its Secrets"
+        },
+        {
+            "name": "Compromising Garmin’s Sport Watches: A Deep Dive into GarminOS and its MonkeyC Virtual Machine"
+        },
+        {
+            "name": "Active Directory Abuse Primitives and Operation Security"
+        },
+        {
+            "name": "Privilege Escalation Using DOP in MacOS x86-64"
+        },
+        {
+            "name": "A Security Analysis of Computer Numerical Control Machines in Industry 4.0"
+        },
+        {
+            "name": "Investigating Web3 with OSINT"
+        }
+    ]
+}

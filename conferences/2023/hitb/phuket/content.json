@@ -1,0 +1,76 @@
+{
+    "topics": [
+        {
+            "name": "Exploiting the Lexmark PostScript Stack"
+        },
+        {
+            "name": "It Was Harder to Sniff Bluetooth Through My Mask During The Pandemic"
+        },
+        {
+            "name": "gVisor: Modern Linux Sandboxing Technology"
+        },
+        {
+            "name": "How to Design Your Own Electronic Attack Device"
+        },
+        {
+            "name": "FrankeNAND – Extracting Info From Automotive Internet Units"
+        },
+        {
+            "name": "Cracking the Shield: Analyzing and Reverse Engineering Antivirus Signatures"
+        },
+        {
+            "name": "Lazarus Group’s Undercover Operations: Large-Scale Infection Campaigns 2022 – 2023"
+        },
+        {
+            "name": "Rogue CDB: Escaping from VMware Workstation Through The Disk Controller"
+        },
+        {
+            "name": "Hakuin: Injecting Brains Into Blind SQL Injection"
+        },
+        {
+            "name": "An Ode to Rabbit Holes: Writing a New Decompiler Just for a Security Audit"
+        },
+        {
+            "name": "How NTLM Relay Ruins Your Exchange Servers"
+        },
+        {
+            "name": "Timekiller: Leveraging Asynchronous Clock to Escape from QEMU/KVM"
+        },
+        {
+            "name": "KeyBleed: Attacking the OneKey Mini"
+        },
+        {
+            "name": "Locate Vulnerabilities of Ethereum Smart Contracts with Semi-Automated Analysis"
+        },
+        {
+            "name": "Breaking ML Services: Finding 0-days in Azure Machine Learning"
+        },
+        {
+            "name": "TSSHOCK – Breaking MPC Wallets and Digital Custodians"
+        },
+        {
+            "name": "Hacking into iOS’s VOLTE implementation"
+        },
+        {
+            "name": "Scarlet OT – OT Adversary Emulation for Fun and Profit"
+        },
+        {
+            "name": "GPTHound – Your Active Directory Security Assistant"
+        },
+        {
+            "name": "Take a Picture of Your App Code – Android MRI Interpreter"
+        },
+        {
+            "name": "Hunting for Amazon Cognito Security Misconfigurations"
+        },
+        {
+            "name": "Windows Kernel Security: A Deep Dive into Two Exploits Demonstrated at Pwn2Own"
+        },
+        {
+            "name": "NVMe: New Vulnerabilities Made Easy"
+        },
+        {
+            "name": "From Unknown Parameter to Root: A Story of Unexpected Intrusion Testing Results"
+        }
+    ]
+}

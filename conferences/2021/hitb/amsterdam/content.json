@@ -1,0 +1,91 @@
+{
+    "topics": [
+        {
+            "name": "Exploitation with Shell Reverse and Infection with PowerShell"
+        },
+        {
+            "name": "Model Robustness Will Hurt Data Privacy"
+        },
+        {
+            "name": "One Stop Anomaly Shop"
+        },
+        {
+            "name": "Shaping The Future of the 0Day Market"
+        },
+        {
+            "name": "The History of Adversarial AI"
+        },
+        {
+            "name": "Bypassing DEP with Jump-Oriented Programming"
+        },
+        {
+            "name": "Client-Side Attacks on Live-Streaming Services Using Grid Computing"
+        },
+        {
+            "name": "MacOS Local Security - Escaping the Sandbox and Bypassing TCC"
+        },
+        {
+            "name": "POSWorld - Should You be Afraid of Hands-On Payment Devices?"
+        },
+        {
+            "name": "Utilizing Lol-Drivers in Post Exploitation Tradecraft"
+        },
+        {
+            "name": "A Journey into Synology NAS"
+        },
+        {
+            "name": "Exploiting QSEE the Raelize Way"
+        },
+        {
+            "name": "Rebuilding Heavens Gate"
+        },
+        {
+            "name": "When Qiling Framework Meets Symbolic Execution"
+        },
+        {
+            "name": "X-in-the-Middle - Attacking Fast Charging Piles and Electric Vehicles"
+        },
+        {
+            "name": "5G Networks and Interconnect Threats"
+        },
+        {
+            "name": "Breaking Siemens SIMATIC S7 PLC Protection Mechanism"
+        },
+        {
+            "name": "JARM Randomizer Evading JARM Fingerprinting"
+        },
+        {
+            "name": "Playing hide-n-seek with AWS GuardDuty"
+        },
+        {
+            "name": "A New Attack Model for Hybrid Mobile Applications"
+        },
+        {
+            "name": "How I Found 16 Microsoft Office Excel Vulnerabilities in 6 Months"
+        },
+        {
+            "name": "The Phishermen - Dissecting Phishing Techniques of CloudDragon APT"
+        },
+        {
+            "name": "The Rise of Potatoes - Privilege Escalation in Windows Services"
+        },
+        {
+            "name": "A Black Box Escape Of Qemu Based On The USB Device"
+        },
+        {
+            "name": "Attacking Cloud Native Kubernetes with CDK"
+        },
+        {
+            "name": "Binary Fuzzing with Snapshot-Assisted-Driven Comparison Branch Analysis"
+        },
+        {
+            "name": "Discovering 10+ Vulnerabilities in Virtualbox"
+        },
+        {
+            "name": "Insecure Link：Security Analysis and Practical Attacks of LPWAN"
+        },
+        {
+            "name": "The State of Mobile Security"
+        }
+    ]
+}

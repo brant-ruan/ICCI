@@ -31,6 +31,20 @@
                     "pathName": "europe"
                 }
             ]
+        },
+        "hitb": {
+            "displayName": "HITB",
+            "pathName": "hitb",
+            "locations": [
+                {
+                    "displayName": "AMS",
+                    "pathName": "amsterdam"
+                },
+                {
+                    "displayName": "Phuket",
+                    "pathName": "phuket"
+                }
+            ]
         }
     },
     "2022": {
@@ -65,6 +79,16 @@
                     "pathName": "europe"
                 }
             ]
+        },
+        "hitb": {
+            "displayName": "HITB",
+            "pathName": "hitb",
+            "locations": [
+                {
+                    "displayName": "SG",
+                    "pathName": "singapore"
+                }
+            ]
         }
     },
     "2021": {
@@ -93,6 +117,20 @@
                 {
                     "displayName": "EU",
                     "pathName": "europe"
+                }
+            ]
+        },
+        "hitb": {
+            "displayName": "HITB",
+            "pathName": "hitb",
+            "locations": [
+                {
+                    "displayName": "AMS",
+                    "pathName": "amsterdam"
+                },
+                {
+                    "displayName": "SG",
+                    "pathName": "singapore"
                 }
             ]
         }

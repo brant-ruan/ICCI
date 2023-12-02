@@ -1,0 +1,100 @@
+{
+    "topics": [
+        {
+            "name": "A Journey Into the Secret Flaws of In-DRAM RowHammer Mitigations",
+            "video": "https://www.youtube.com/watch?v=9gSxQfoARAI"
+        },
+        {
+            "name": "Breakout Script of the Westworld",
+            "video": "https://www.youtube.com/watch?v=KE592jKUcvk"
+        },
+        {
+            "name": "Clandestine Hunter - Two Strategies for Supply Chain Attack",
+            "video": "https://www.youtube.com/watch?v=pwq0Q05WdPU"
+        },
+        {
+            "name": "FIDLing with Decompilers",
+            "video": "https://www.youtube.com/watch?v=wd5bNMoepmc"
+        },
+        {
+            "name": "The Dojo of Blue - How Adversary Emulator Can Enhance Blue Team Performance",
+            "video": "https://www.youtube.com/watch?v=d6AueWjUHfA"
+        },
+        {
+            "name": "The Secret Codes Tell the Secrets",
+            "video": "https://www.youtube.com/watch?v=tO06IRZghE0"
+        },
+        {
+            "name": "Zen - A Complex Campaign of Harmful Android Apps",
+            "video": "https://www.youtube.com/watch?v=-G4A3wCOBho"
+        },
+        {
+            "name": "A DECEPTICON and AUTOBOT Walk Into a Bar- Python for Enhanced OPSEC",
+            "video": "https://www.youtube.com/watch?v=oU19r5CXiEY"
+        },
+        {
+            "name": "From Authors of COMPFun: HTTP Statuses as C2 Commands and Compromised TLS",
+            "video": "https://www.youtube.com/watch?v=9gXi75SGw7U"
+        },
+        {
+            "name": "How to Hack Medical Imaging Applications via DICOM",
+            "video": "https://www.youtube.com/watch?v=VWo2uGpnJKw"
+        },
+        {
+            "name": "Kernel Hijacking Is Not an Option - MemoryRanger Comes to the Rescue Again",
+            "video": "https://www.youtube.com/watch?v=DfPPl7qI_rg"
+        },
+        {
+            "name": "Operation SemiChimera - APT Operation Targets Semiconductor Vendors",
+            "video": "https://www.youtube.com/watch?v=ED9X8W-78rQ"
+        },
+        {
+            "name": "Serverless Security- Attack & Defense",
+            "video": "https://www.youtube.com/watch?v=wp4Sgn18pDo"
+        },
+        {
+            "name": "Exploring Deficiencies in the State-of-the-art Automatic Software Vulnerability Mining Technologies",
+            "video": "https://www.youtube.com/watch?v=Ar8NsSQ8ERk"
+        },
+        {
+            "name": "Public and Private, Common Flaws in ICS Network Protocols",
+            "video": "https://www.youtube.com/watch?v=Bhq4kC52Qg8"
+        },
+        {
+            "name": "SAP RCE - The Agent Who Spoke Too Much",
+            "video": "https://www.youtube.com/watch?v=u4NMmpWyQmY"
+        },
+        {
+            "name": "The Weakest Element of Acquiring Bank Infrastructure",
+            "video": "https://www.youtube.com/watch?v=sE49n8Qe5FU"
+        },
+        {
+            "name": "A Review of Modern Code Deobfuscation Techniques",
+            "video": "https://www.youtube.com/watch?v=tYqXStZv1W4"
+        },
+        {
+            "name": "PEsidious \u2013 Create Mutated Evasive Malware Using Artificial Intelligence",
+            "video": "https://www.youtube.com/watch?v=aplHu2YMEFo"
+        },
+        {
+            "name": "PayDay - Jackpotting Fortune-500 Treasuries",
+            "video": "https://www.youtube.com/watch?v=-UUATur6dfg"
+        },
+        {
+            "name": "Quark Engine - An Obfuscation-Neglect Android Malware Scoring System",
+            "video": "https://www.youtube.com/watch?v=-XMTow9boyA"
+        },
+        {
+            "name": "The Fragile Art of Edge Computing- Walk through Access Control Systems",
+            "video": "https://www.youtube.com/watch?v=cEks6bNhRZE"
+        },
+        {
+            "name": "Hardware Security is Hard - How Hardware Boundaries Define Platform Security",
+            "video": "https://www.youtube.com/watch?v=0kjah8vokb4"
+        },
+        {
+            "name": "DevSecOps, Chaos Security, and Not Being Left Behind",
+            "video": "https://www.youtube.com/watch?v=IBSYKRIh4Ok"
+        }
+    ]
+}

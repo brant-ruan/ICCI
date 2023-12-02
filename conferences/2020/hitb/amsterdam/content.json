@@ -1,0 +1,51 @@
+{
+    "topics": [
+        {
+            "name": "Building Next-Gen Security Analysis Tools with Qiling Framework",
+            "video": "https://www.youtube.com/watch?v=2fHCrWduGuw"
+        },
+        {
+            "name": "Exploiting Directory Permissions on MacOS",
+            "video": "https://www.youtube.com/watch?v=lwh7fEtLIco"
+        },
+        {
+            "name": "Hiding In Plain Sight: Analyzing Recent Evolutions in Malware Loaders",
+            "video": "https://www.youtube.com/watch?v=_uGazNKH1EQ"
+        },
+        {
+            "name": "Open the Gates \u2013 The (in)security of Cloudless Smart Door Systems",
+            "video": "https://www.youtube.com/watch?v=M-1IxJjxbWo"
+        },
+        {
+            "name": "Pwning Adobe Reader Multiple Times with Malformed Strings",
+            "video": "https://www.youtube.com/watch?v=vSMDlg0kJes"
+        },
+        {
+            "name": "Army of Undead: Tailored Firmware Emulation",
+            "video": "https://www.youtube.com/watch?v=Tw9XNpp4PTY"
+        },
+        {
+            "name": "Breaking and Securing Cloud Platforms",
+            "video": "https://www.youtube.com/watch?v=5A9eYJDhEU4"
+        },
+        {
+            "name": "BugRank - A Community Bug Bounty Platform",
+            "video": "https://www.youtube.com/watch?v=BkAz7j4G6V8"
+        },
+        {
+            "name": "Documents of Doom \u2013 Infecting macOS via Office Macros",
+            "video": "https://www.youtube.com/watch?v=-iSMrYZbbgo"
+        },
+        {
+            "name": "From Man-in-the-Middle to Privesc and RCE: Exploiting the Netlogon Protocol",
+            "video": "https://www.youtube.com/watch?v=rVsnB8tQong"
+        },
+        {
+            "name": "Fuzzing File System Implementations to Uncover Security Bugs",
+            "video": "https://www.youtube.com/watch?v=a3H3FKrxYQA"
+        },
+        {
+            "name": "The DNA of Hidden Cobra"
+        }
+    ]
+}

@@ -1,70 +1,89 @@
 {
     "topics": [
         {
-            "name": "Privacy and Protection for Criminals - Behaviors and Patterns of Rogue Hosting Providers"
+            "name": "Privacy and Protection for Criminals - Behaviors and Patterns of Rogue Hosting Providers",
+            "video": "https://www.youtube.com/watch?v=co2cvi_5FIc"
         },
         {
-            "name": "A Deep Dive Into Malicious Documents"
+            "name": "A Deep Dive Into Malicious Documents",
+            "video": "https://www.youtube.com/watch?v=Ii0ENuigBSM"
         },
         {
-            "name": "How to Find and Exploit Bugs in IoT Devices"
+            "name": "How to Find and Exploit Bugs in IoT Devices",
+            "video": "https://www.youtube.com/watch?v=Qh1jdxVbcXg"
         },
         {
-            "name": "Keynterceptor - Press Any Key to Continue"
+            "name": "Keynterceptor - Press Any Key to Continue",
+            "video": "https://www.youtube.com/watch?v=ING815B8WHU"
         },
         {
-            "name": "Creating an Isolated Data Center Security Policy Model Using SmartNICs"
+            "name": "Creating an Isolated Data Center Security Policy Model Using SmartNICs",
+            "video": "https://www.youtube.com/watch?v=h-GF_QX2rVc"
         },
         {
-            "name": "The Life & Death of Kernel Object Abuse"
+            "name": "The Life & Death of Kernel Object Abuse",
+            "video": "https://www.youtube.com/watch?v=_u7d9kLdi0c"
         },
         {
-            "name": "Steganography Ante Portas"
+            "name": "Steganography Ante Portas",
+            "video": "https://www.youtube.com/watch?v=XO6737KLaTg"
         },
         {
-            "name": "Hacking IoT Speakers"
+            "name": "Hacking IoT Speakers",
+            "video": "https://www.youtube.com/watch?v=za6F0pfisek"
         },
         {
-            "name": "Modern Pentest Tricks for Faster, Wider, Greater Engagements"
+            "name": "Modern Pentest Tricks for Faster, Wider, Greater Engagements",
+            "video": "https://www.youtube.com/watch?v=cZa11zhOKUM"
         },
         {
             "name": "Practical Quantum Computing for Hackers Without a PhD"
         },
         {
-            "name": "Fuzzing Javascript Engines for Fun and Pwnage"
+            "name": "Fuzzing Javascript Engines for Fun and Pwnage",
+            "video": "https://www.youtube.com/watch?v=1WWb2HOqjcU"
         },
         {
-            "name": "Sneaky Element- Real World Attacks Against Secure Elements"
+            "name": "Sneaky Element- Real World Attacks Against Secure Elements",
+            "video": "https://www.youtube.com/watch?v=1CNAMgctAp0"
         },
         {
-            "name": "Brida When Burp Suite Meets Frida"
+            "name": "Brida When Burp Suite Meets Frida",
+            "video": "https://www.youtube.com/watch?v=wPepicuHDzs"
         },
         {
-            "name": "Ghost Tunnel- Covert Data Exfiltration Channel to Circumvent Air Gapping"
+            "name": "Ghost Tunnel- Covert Data Exfiltration Channel to Circumvent Air Gapping",
+            "video": "https://www.youtube.com/watch?v=EuAEZv7ZnkQ"
         },
         {
             "name": "Abusing the Travel and Hospitality Industry for Profit"
         },
         {
-            "name": "How to Analyze and Find Bugs in MacOS and iOS Kernel Drivers"
+            "name": "How to Analyze and Find Bugs in MacOS and iOS Kernel Drivers",
+            "video": "https://www.youtube.com/watch?v=IKAaL0jY-ZI"
         },
         {
-            "name": "Smashing Ethereum Smart Contracts for Fun and ACTUAL Profit"
+            "name": "Smashing Ethereum Smart Contracts for Fun and ACTUAL Profit",
+            "video": "https://www.youtube.com/watch?v=iqf6epACgds"
         },
         {
             "name": "Invoke-DOSfuscation"
         },
         {
-            "name": "Applying Machine Learning to User Behavior Anomaly Analysis"
+            "name": "Applying Machine Learning to User Behavior Anomaly Analysis",
+            "video": "https://www.youtube.com/watch?v=jbN-e9zhdYo"
         },
         {
-            "name": "Rooting Android 8 with a Kernel Space Mirroring Attack"
+            "name": "Rooting Android 8 with a Kernel Space Mirroring Attack",
+            "video": "https://www.youtube.com/watch?v=saOpke5huxE"
         },
         {
-            "name": "Attacking Microsoft’s .NET Framework Through CLR"
+            "name": "Attacking Microsoft\u2019s .NET Framework Through CLR",
+            "video": "https://www.youtube.com/watch?v=s5yf97U6DNw"
         },
         {
-            "name": "Hacking Intelligent Buildings - Pwning KNX & ZigBee Networks"
+            "name": "Hacking Intelligent Buildings - Pwning KNX & ZigBee Networks",
+            "video": "https://www.youtube.com/watch?v=1Bv_xQ4A9ZQ"
         },
         {
             "name": "SDR Lab"
@@ -76,52 +95,68 @@
             "name": "Wireless Hacking with HackCUBE"
         },
         {
-            "name": "Hacking a Hospital for Fun and Profit"
+            "name": "Hacking a Hospital for Fun and Profit",
+            "video": "https://www.youtube.com/watch?v=CfgujGY8bSo"
         },
         {
-            "name": "Smart Contract (in)security"
+            "name": "Smart Contract (in)security",
+            "video": "https://www.youtube.com/watch?v=RHa9ZFyGP_c"
         },
         {
-            "name": "ProdSec - A Technical Approach"
+            "name": "ProdSec - A Technical Approach",
+            "video": "https://www.youtube.com/watch?v=WC89Hx2YKsY"
         },
         {
-            "name": "Hiding Tasks via Hardware Task Switching"
+            "name": "Hiding Tasks via Hardware Task Switching",
+            "video": "https://www.youtube.com/watch?v=F26hu2q9Nus"
         },
         {
-            "name": "Automatic Generation of ROP Chains Using a Turing-Complete Instruction Set"
+            "name": "Automatic Generation of ROP Chains Using a Turing-Complete Instruction Set",
+            "video": "https://www.youtube.com/watch?v=0i3TidnkcFk"
         },
         {
-            "name": "PyREBox - Making Dynamic Instrumentation Great Again"
+            "name": "PyREBox - Making Dynamic Instrumentation Great Again",
+            "video": "https://www.youtube.com/watch?v=F2voG87obzM"
         },
         {
-            "name": "Establishing Covert Channels by Abusing GSM AT Commands"
+            "name": "Establishing Covert Channels by Abusing GSM AT Commands",
+            "video": "https://www.youtube.com/watch?v=DaGzPdvq6tA"
         },
         {
-            "name": "Sandbox Evasion Using VBA Referencing"
+            "name": "Sandbox Evasion Using VBA Referencing",
+            "video": "https://www.youtube.com/watch?v=eS1hw1PppMM"
         },
         {
-            "name": "Uncovering the Android Patch Gap Through Binary-Only Patch Level Analysis"
+            "name": "Uncovering the Android Patch Gap Through Binary-Only Patch Level Analysis",
+            "video": "https://www.youtube.com/watch?v=413cminL7c4"
         },
         {
-            "name": "Expanding Your WMI Lateral Movement Arsenal"
+            "name": "Expanding Your WMI Lateral Movement Arsenal",
+            "video": "https://www.youtube.com/watch?v=RRc_3c5diC4"
         },
         {
-            "name": "Backdooring & Remotely Controlling Cars With The Bicho"
+            "name": "Backdooring & Remotely Controlling Cars With The Bicho",
+            "video": "https://www.youtube.com/watch?v=1at33wF6fLE"
         },
         {
-            "name": "Exposing Hidden Exploitable Behaviors Using Extended Differential Fuzzing"
+            "name": "Exposing Hidden Exploitable Behaviors Using Extended Differential Fuzzing",
+            "video": "https://www.youtube.com/watch?v=iFmJoij341Q"
         },
         {
-            "name": "Defense-in-Depth Techniques for Modern Web Applications and Google’s Journey with CSP"
+            "name": "Defense-in-Depth Techniques for Modern Web Applications and Google\u2019s Journey with CSP",
+            "video": "https://www.youtube.com/watch?v=RR_EqKsYb9o"
         },
         {
-            "name": "Pwning The Windows Kernel"
+            "name": "Pwning The Windows Kernel",
+            "video": "https://www.youtube.com/watch?v=0tFmqSbWSZE"
         },
         {
-            "name": "Towards a Generic Interecepting Proxy"
+            "name": "Towards a Generic Interecepting Proxy",
+            "video": "https://www.youtube.com/watch?v=mE8zNFLHsRM"
         },
         {
-            "name": "A New Fuzzing Method for Android"
+            "name": "A New Fuzzing Method for Android",
+            "video": "https://www.youtube.com/watch?v=g1qDYIKZTUk"
         },
         {
             "name": "Predicting Malicious Domains Using Convolutional Neural Networks"

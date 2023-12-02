@@ -14,13 +14,13 @@ I hope ICCI makes your research more efficient and interesting. If you find it u
 
 |      | BH   | HITB       | OFF | POC  | RE | LSS   |
 | ---- | ---------- | ---------- | ------------ | ---- | ----- | ----- |
-| 2023 | US \| ASIA \| EU | AMS \| HKT    | DE           | KR   | MTL   | NA \| EU |
-| 2022 | US \| ASIA \| EU | SG         | DE           | KR   | MTL   | NA \| EU |
-| 2021 | US \| ASIA \| EU | AMS \| SG     |              |      |       | NA    |
-| 2020 | US \| ASIA \| EU | AMS \| SG     | DE           |      |       | NA \| EU |
-| 2019 | US \| ASIA \| EU | AMS        | DE           |      |       | NA \| EU |
-| 2018 | US \| ASIA \| EU | AMS \| BJ \| DXB | DE           |      |       |       |
 | 2017 | US \| ASIA \| EU |            |              |      |       |       |
+| 2018 | US \| ASIA \| EU | AMS \| BJ \| DXB | DE           |      |       |       |
+| 2019 | US \| ASIA \| EU | AMS        | DE           |      |       | NA \| EU |
+| 2020 | US \| ASIA \| EU | AMS \| SG     | DE           |      |       | NA \| EU |
+| 2021 | US \| ASIA \| EU | AMS \| SG     |              |      |       | NA    |
+| 2022 | US \| ASIA \| EU | SG         | DE           | KR   | MTL   | NA \| EU |
+| 2023 | US \| ASIA \| EU | AMS \| HKT    | DE           | KR   | MTL   | NA \| EU |
 
 Note:
 

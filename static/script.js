@@ -3,7 +3,7 @@ let globalIndex = {};
 const indexUrl = '/conferences/index.json';
 
 function searchFunction() {
-    var input, filter, table, tr, td, i, txtValue;
+    var input, filter, table, tr, td, i;
     input = document.getElementById("searchInput");
     filter = input.value.toUpperCase();
     table = document.getElementById("conference-table");
@@ -12,11 +12,17 @@ function searchFunction() {
     for (i = 0; i < tr.length; i++) {
         td = tr[i].getElementsByTagName("td")[3];
         if (td) {
-            txtValue = td.textContent || td.innerText;
-            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            var txtValue = td.textContent || td.innerText;
+            var upperTxtValue = txtValue.toUpperCase();
+            if (upperTxtValue.indexOf(filter) > -1) {
                 tr[i].style.display = "";
+                const regExp = new RegExp(filter, 'gi');
+                td.innerHTML = txtValue.replace(regExp, function(matched){
+                    return "<span class='highlight'>" + matched + "</span>";
+                });
             } else {
                 tr[i].style.display = "none";
+                td.innerHTML = txtValue;
             }
         }
     }

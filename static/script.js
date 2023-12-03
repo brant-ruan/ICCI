@@ -72,7 +72,7 @@ function populateSelectors() {
                 const latestYear = sortedYears[0];
                 updateConferenceSelector(index, latestYear);
 
-                showFirstConference(index, latestYear);
+                showAllConferencesForYear(latestYear);
             }
         })
         .catch(error => console.error('Error fetching index:', error));
@@ -81,6 +81,9 @@ function populateSelectors() {
 function updateConferenceSelector(index, selectedYear) {
     const conferenceSelector = document.getElementById('conference-selector');
     conferenceSelector.innerHTML = '';
+
+    let allOption = new Option("All", "all");
+    conferenceSelector.add(allOption);
 
     const conferences = index[selectedYear];
     for (const conferenceKey in conferences) {
@@ -160,6 +163,28 @@ async function showAllConferences() {
     document.getElementById('conference-table').classList.remove('hidden');
 }
 
+async function showAllConferencesForYear(year) {
+    const tableBody = document.getElementById('conference-table').querySelector('tbody');
+    tableBody.innerHTML = '';
+
+    const conferences = globalIndex[year];
+    for (const conferenceKey in conferences) {
+        const conference = conferences[conferenceKey];
+        for (const location of conference.locations) {
+            const info = {
+                year: year,
+                conferenceDisplayName: conference.displayName,
+                locationDisplayName: location.displayName,
+                conferencePath: conference.pathName,
+                locationPath: location.pathName
+            };
+            await appendConferenceInfo(info, tableBody);
+        }
+    }
+
+    document.getElementById('conference-table').classList.remove('hidden');
+}
+
 async function appendConferenceInfo(info, tableBody) {
     const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;
 
@@ -187,22 +212,29 @@ document.getElementById('year-selector').addEventListener('change', (event) => {
     const selectedYear = event.target.value;
     updateConferenceSelector(globalIndex, selectedYear);
     // show first conference
-    showFirstConference(globalIndex, selectedYear);
+    showAllConferencesForYear(selectedYear);
 });
 
 document.getElementById('conference-selector').addEventListener('change', (event) => {
     const selectedYear = document.getElementById('year-selector').value;
-    const [conferencePath, locationPath] = event.target.value.split('|');
-    const conference = globalIndex[selectedYear][conferencePath];
-    const location = conference.locations.find(loc => loc.pathName === locationPath);
-    const info = {
-        year: selectedYear,
-        conferenceDisplayName: conference.displayName,
-        locationDisplayName: location.displayName,
-        conferencePath: conferencePath,
-        locationPath: locationPath
-    };
-    showConference(info);
+    const selectedValue = event.target.value;
+
+    if (selectedValue === "all") {
+        // 显示该年份的所有会议议题
+        showAllConferencesForYear(selectedYear);
+    } else {
+        const [conferencePath, locationPath] = selectedValue.split('|');
+        const conference = globalIndex[selectedYear][conferencePath];
+        const location = conference.locations.find(loc => loc.pathName === locationPath);
+        const info = {
+            year: selectedYear,
+            conferenceDisplayName: conference.displayName,
+            locationDisplayName: location.displayName,
+            conferencePath: conferencePath,
+            locationPath: locationPath
+        };
+        showConference(info);
+    }
 });
 
 document.getElementById('show-all').addEventListener('click', showAllConferences);

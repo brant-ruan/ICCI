@@ -46,6 +46,14 @@ th {
     border-color: blueviolet;
 }
 
+#show-academic {
+    /* display: block; */
+    /* margin-top: 10px;
+    margin-bottom: 25px; */
+    /* margin-left: auto; */
+    border-color: blueviolet;
+}
+
 .container {
     margin: 20px auto;
     padding: 20px;
@@ -63,6 +71,7 @@ select {
 button {
     padding: 4px;
     color: blueviolet;
+    margin-right: 20px;
 }
 
 select,

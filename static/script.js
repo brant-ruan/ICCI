@@ -263,6 +263,39 @@ async function appendConferenceInfo(info, tableBody) {
         .catch(error => console.error('Error fetching content:', error));
 }
 
+function showAcademicStudies() {
+    const tableBody = document.getElementById('conference-table').querySelector('tbody');
+    tableBody.innerHTML = '';
+
+    // 获取所有年份并按照倒序排序
+    const years = Object.keys(globalContent).sort((a, b) => parseInt(b) - parseInt(a));
+
+    for (const year of years) {
+        const conferences = globalContent[year];
+        for (const conferenceKey in conferences) {
+            const conference = globalIndex[year][conferenceKey];
+            for (const locationKey in conferences[conferenceKey]) {
+                const location = conference.locations.find(loc => loc.pathName === locationKey);
+                const data = conferences[conferenceKey][locationKey];
+                data.topics.filter(topic => topic.academic).forEach(topic => {
+                    let row = tableBody.insertRow(-1);
+                    let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+                    let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+                    row.innerHTML = `
+                        <td>${year}</td>
+                        <td>${conference.displayName}</td>
+                        <td>${location.displayName}</td>
+                        <td>${topic.name}${academicLink}</td>
+                        <td>${videoLink}</td>
+                    `;
+                });
+            }
+        }
+    }
+
+    document.getElementById('conference-table').classList.remove('hidden');
+}
+
 document.getElementById('year-selector').addEventListener('change', (event) => {
     const selectedYear = event.target.value;
     updateConferenceSelector(globalIndex, selectedYear);
@@ -293,6 +326,6 @@ document.getElementById('conference-selector').addEventListener('change', (event
 });
 
 document.getElementById('show-all').addEventListener('click', showAllConferences);
-
+document.getElementById('show-academic').addEventListener('click', showAcademicStudies);
 
 populateSelectors();

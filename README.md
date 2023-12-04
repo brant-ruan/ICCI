@@ -33,3 +33,18 @@ OFF = OffensiveCon
 RE = REcon
 LSS = Linux Security Summit
 ```
+
+## How to Contribute
+
+To add talks of one conference into ICCI, you can:
+
+- Fork this repository.
+- Create the hierarchical directory path and the `content.json` file in [`conferences/`](conferences/).
+    - The `name` entry for each talk is compulsory, while others (e.g., `video` and `academic`) are optional.
+    - (Optional) Run [semi-auto-get-video.py](scripts/semi-auto-get-video.py) to add video link for each talk.
+    - (Optional) Add `academic` mark for talks if applicable.
+- Update the [table](#integrated-conferences) in README.md.
+- Commit and push your contribution.
+
+Adding video links or academic marks for existing talks is welcome as well!
+

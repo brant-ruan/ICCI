@@ -1,9 +1,56 @@
 let globalIndex = {};
+let globalContent = {}; // 新的全局变量来存储所有会议内容
 let originalHTML = {};
+
 
 const indexUrl = '/conferences/index.json';
 
 let searchTimeout;
+
+async function populateSelectors() {
+    try {
+        const indexResponse = await fetch(indexUrl);
+        const index = await indexResponse.json();
+        globalIndex = index;
+        globalContent = {}; // 初始化全局内容对象
+
+        const yearSelector = document.getElementById('year-selector');
+        const conferenceSelector = document.getElementById('conference-selector');
+
+        yearSelector.innerHTML = '';
+        conferenceSelector.innerHTML = '';
+
+        const sortedYears = Object.keys(index).sort((a, b) => parseInt(b) - parseInt(a));
+        for (const year of sortedYears) {
+            let yearOption = new Option(year, year);
+            yearSelector.add(yearOption);
+            const conferences = index[year];
+            for (const conferenceKey in conferences) {
+                const conference = conferences[conferenceKey];
+                for (const location of conference.locations) {
+                    const contentUrl = `/conferences/${year}/${conference.pathName}/${location.pathName}/content.json`;
+                    const contentResponse = await fetch(contentUrl);
+                    const content = await contentResponse.json();
+                    if (!globalContent[year]) {
+                        globalContent[year] = {};
+                    }
+                    if (!globalContent[year][conference.pathName]) {
+                        globalContent[year][conference.pathName] = {};
+                    }
+                    globalContent[year][conference.pathName][location.pathName] = content;
+                }
+            }
+        }
+        // 更新会议选择器并显示最新年份的会议
+        if (sortedYears.length > 0) {
+            const latestYear = sortedYears[0];
+            updateConferenceSelector(index, latestYear);
+            showAllConferencesForYear(latestYear);
+        }
+    } catch (error) {
+        console.error('Error fetching index:', error);
+    }
+}
 
 function escapeRegExp(string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -81,33 +128,6 @@ function searchFunction() {
     }, 500); // 延迟500毫秒执行搜索
 }
 
-function populateSelectors() {
-    fetch(indexUrl)
-        .then(response => response.json())
-        .then(index => {
-            globalIndex = index;
-            const yearSelector = document.getElementById('year-selector');
-            const conferenceSelector = document.getElementById('conference-selector');
-
-            yearSelector.innerHTML = '';
-            conferenceSelector.innerHTML = '';
-
-            const sortedYears = Object.keys(index).sort((a, b) => parseInt(b) - parseInt(a));
-            sortedYears.forEach(year => {
-                let yearOption = new Option(year, year);
-                yearSelector.add(yearOption);
-            });
-
-            if (sortedYears.length > 0) {
-                const latestYear = sortedYears[0];
-                updateConferenceSelector(index, latestYear);
-
-                showAllConferencesForYear(latestYear);
-            }
-        })
-        .catch(error => console.error('Error fetching index:', error));
-}
-
 function updateConferenceSelector(index, selectedYear) {
     const conferenceSelector = document.getElementById('conference-selector');
     conferenceSelector.innerHTML = '';
@@ -126,31 +146,24 @@ function updateConferenceSelector(index, selectedYear) {
 }
 
 function showConference(info) {
-    const contentUrl = `/conferences/${info.year}/${info.conferencePath}/${info.locationPath}/content.json`;
+    const data = globalContent[info.year][info.conferencePath][info.locationPath];
+    const tableBody = document.getElementById('conference-table').querySelector('tbody');
+    tableBody.innerHTML = '';
 
-    // console.log('Fetching content from:', contentUrl);
-    fetch(contentUrl)
-        .then(response => response.json())
-        .then(data => {
-            const tableBody = document.getElementById('conference-table').querySelector('tbody');
-            tableBody.innerHTML = '';
+    data.topics.forEach(topic => {
+        let row = tableBody.insertRow();
+        let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+        let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+        row.innerHTML = `
+            <td>${info.year}</td>
+            <td>${info.conferenceDisplayName}</td>
+            <td>${info.locationDisplayName}</td>
+            <td>${topic.name}${academicLink}</td>
+            <td>${videoLink}</td>
+        `;
+    });
 
-            data.topics.forEach(topic => {
-                let row = tableBody.insertRow();
-                let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
-                let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
-                row.innerHTML = `
-                    <td>${info.year}</td>
-                    <td>${info.conferenceDisplayName}</td>
-                    <td>${info.locationDisplayName}</td>
-                    <td>${topic.name}${academicLink}</td>
-                    <td>${videoLink}</td>
-                `;
-            });
-
-            document.getElementById('conference-table').classList.remove('hidden');
-        })
-        .catch(error => console.error('Error fetching content:', error));
+    document.getElementById('conference-table').classList.remove('hidden');
 }
 
 function showFirstConference(index, selectedYear) {
@@ -171,22 +184,28 @@ async function showAllConferences() {
     const tableBody = document.getElementById('conference-table').querySelector('tbody');
     tableBody.innerHTML = '';
 
-    const years = Object.keys(globalIndex).sort((a, b) => parseInt(b) - parseInt(a));
-    // console.log('Years:', years);
+    // 获取所有年份并按照倒序排序
+    const years = Object.keys(globalContent).sort((a, b) => parseInt(b) - parseInt(a));
+
     for (const year of years) {
-        const conferences = globalIndex[year];
-        // console.log('Year:', year, 'Conferences:', conferences);
+        const conferences = globalContent[year];
         for (const conferenceKey in conferences) {
-            const conference = conferences[conferenceKey];
-            for (const location of conference.locations) {
-                const info = {
-                    year: year,
-                    conferenceDisplayName: conference.displayName,
-                    locationDisplayName: location.displayName,
-                    conferencePath: conference.pathName,
-                    locationPath: location.pathName
-                };
-                await appendConferenceInfo(info, tableBody);
+            const conference = globalIndex[year][conferenceKey];
+            for (const locationKey in conferences[conferenceKey]) {
+                const location = conference.locations.find(loc => loc.pathName === locationKey);
+                const data = conferences[conferenceKey][locationKey];
+                data.topics.forEach(topic => {
+                    let row = tableBody.insertRow(-1);
+                    let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+                    let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+                    row.innerHTML = `
+                        <td>${year}</td>
+                        <td>${conference.displayName}</td>
+                        <td>${location.displayName}</td>
+                        <td>${topic.name}${academicLink}</td>
+                        <td>${videoLink}</td>
+                    `;
+                });
             }
         }
     }
@@ -198,18 +217,24 @@ async function showAllConferencesForYear(year) {
     const tableBody = document.getElementById('conference-table').querySelector('tbody');
     tableBody.innerHTML = '';
 
-    const conferences = globalIndex[year];
+    const conferences = globalContent[year];
     for (const conferenceKey in conferences) {
-        const conference = conferences[conferenceKey];
-        for (const location of conference.locations) {
-            const info = {
-                year: year,
-                conferenceDisplayName: conference.displayName,
-                locationDisplayName: location.displayName,
-                conferencePath: conference.pathName,
-                locationPath: location.pathName
-            };
-            await appendConferenceInfo(info, tableBody);
+        const conference = globalIndex[year][conferenceKey];
+        for (const locationKey in conferences[conferenceKey]) {
+            const location = conference.locations.find(loc => loc.pathName === locationKey);
+            const data = conferences[conferenceKey][locationKey];
+            data.topics.forEach(topic => {
+                let row = tableBody.insertRow(-1);
+                let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+                let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+                row.innerHTML = `
+                    <td>${year}</td>
+                    <td>${conference.displayName}</td>
+                    <td>${location.displayName}</td>
+                    <td>${topic.name}${academicLink}</td>
+                    <td>${videoLink}</td>
+                `;
+            });
         }
     }
 
@@ -237,8 +262,6 @@ async function appendConferenceInfo(info, tableBody) {
         })
         .catch(error => console.error('Error fetching content:', error));
 }
-
-populateSelectors();
 
 document.getElementById('year-selector').addEventListener('change', (event) => {
     const selectedYear = event.target.value;
@@ -270,3 +293,6 @@ document.getElementById('conference-selector').addEventListener('change', (event
 });
 
 document.getElementById('show-all').addEventListener('click', showAllConferences);
+
+
+populateSelectors();

@@ -58,7 +58,8 @@
         {
             "name": "SyzDescribe: Principled, Automated, Static Generation of Syscall Descriptions for Kernel Drivers",
             "speakers": "Yu Hao",
-            "video": "https://www.youtube.com/watch?v=gkGVgh3Y-54"
+            "video": "https://www.youtube.com/watch?v=gkGVgh3Y-54",
+            "academic": "SP'23"
         },
         {
             "name": "Dynamic Key Managed PowerPC Guest Secure Boot",

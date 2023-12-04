@@ -318,7 +318,8 @@
         },
         {
             "name": "Cautious: A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe",
-            "video": "https://www.youtube.com/watch?v=KEStazCf8vc"
+            "video": "https://www.youtube.com/watch?v=KEStazCf8vc",
+            "academic": "CCS'22"
         },
         {
             "name": "DirectX: The New Hyper-V Attack Surface",

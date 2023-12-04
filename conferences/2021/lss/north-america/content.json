@@ -3,7 +3,8 @@
         {
             "name": "SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs",
             "speaker": "Xiaochen Zou",
-            "video": "https://www.youtube.com/watch?v=MJbqeo5qtQ0"
+            "video": "https://www.youtube.com/watch?v=MJbqeo5qtQ0",
+            "academic": "Sec'22"
         },
         {
             "name": "Hardening the Linux Guest for the Confidential Cloud Computing",

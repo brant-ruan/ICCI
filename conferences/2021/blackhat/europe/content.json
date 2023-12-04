@@ -82,7 +82,8 @@
         },
         {
             "name": "Your Trash Kernel Bug, My Precious 0-day",
-            "video": "https://www.youtube.com/watch?v=eJbqXndvuMM"
+            "video": "https://www.youtube.com/watch?v=eJbqXndvuMM",
+            "academic": "SP'22"
         },
         {
             "name": "The Bad Guys Win \u2013 Analysis of 10,000 Magecart Vulnerabilities",

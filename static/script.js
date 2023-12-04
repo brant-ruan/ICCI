@@ -1,10 +1,38 @@
 let globalIndex = {};
+let originalHTML = {};
 
 const indexUrl = '/conferences/index.json';
 
 let searchTimeout;
 
+function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function highlightText(td, filter, rowIndex) {
+    if (!originalHTML[rowIndex]) {
+        originalHTML[rowIndex] = td.innerHTML;
+    }
+
+    const innerHtml = td.innerHTML;
+    const regExp = new RegExp(filter, 'gi');
+    td.innerHTML = innerHtml.replace(regExp, function(matched) {
+        return "<span class='highlight'>" + matched + "</span>";
+    });
+}
+
+function resetText(td, rowIndex) {
+    if (originalHTML[rowIndex]) {
+        td.innerHTML = originalHTML[rowIndex];
+    }
+}
+
+function clearOriginalHTML() {
+    originalHTML = {};
+}
+
 function searchFunction() {
+    clearOriginalHTML();
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(function() {
         var input, filter, table, tr, td, i;
@@ -20,7 +48,7 @@ function searchFunction() {
                 tr[i].style.display = "";
                 td = tr[i].getElementsByTagName("td")[3];
                 if (td) {
-                    td.innerHTML = td.textContent || td.innerText;
+                    resetText(td, i);
                 }
             }
             return;
@@ -34,17 +62,16 @@ function searchFunction() {
         for (i = 0; i < tr.length; i++) {
             td = tr[i].getElementsByTagName("td")[3];
             if (td) {
+                var rowIndex = tr[i].rowIndex;
                 var txtValue = td.textContent || td.innerText;
                 var upperTxtValue = txtValue.toUpperCase();
+                var escapeFilter = escapeRegExp(filter);
                 if (upperTxtValue.indexOf(filter) > -1) {
                     tr[i].style.display = "";
-                    const regExp = new RegExp(filter, 'gi');
-                    td.innerHTML = txtValue.replace(regExp, function(matched) {
-                        return "<span class='highlight'>" + matched + "</span>";
-                    });
+                    highlightText(td, escapeFilter, rowIndex);
                 } else {
                     tr[i].style.display = "none";
-                    td.innerHTML = txtValue; // 重置原始文本
+                    resetText(td, rowIndex);
                 }
             }
         }
@@ -108,11 +135,12 @@ function showConference(info) {
             data.topics.forEach(topic => {
                 let row = tableBody.insertRow();
                 let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+                let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
                 row.innerHTML = `
                     <td>${info.year}</td>
                     <td>${info.conferenceDisplayName}</td>
                     <td>${info.locationDisplayName}</td>
-                    <td>${topic.name}</td>
+                    <td>${topic.name}${academicLink}</td>
                     <td>${videoLink}</td>
                 `;
             });
@@ -194,11 +222,12 @@ async function appendConferenceInfo(info, tableBody) {
             data.topics.forEach(topic => {
                 let row = tableBody.insertRow(-1);
                 let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+                let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
                 row.innerHTML = `
                     <td>${info.year}</td>
                     <td>${info.conferenceDisplayName}</td>
                     <td>${info.locationDisplayName}</td>
-                    <td>${topic.name}</td>
+                    <td>${topic.name}${academicLink}</td>
                     <td>${videoLink}</td>
                 `;
             });

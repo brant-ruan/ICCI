@@ -326,7 +326,8 @@
         },
         {
             "name": "kR^X: Comprehensive Kernel Protection Against Just-In-Time Code Reuse",
-            "video": "https://www.youtube.com/watch?v=L-3eCmZ8s3A"
+            "video": "https://www.youtube.com/watch?v=L-3eCmZ8s3A",
+            "academic": "EuroSys'17"
         },
         {
             "name": "Honey, I Shrunk the Attack Surface \u2013 Adventures in Android Security Hardening",

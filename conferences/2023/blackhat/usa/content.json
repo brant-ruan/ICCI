@@ -34,7 +34,8 @@
             "name": "Lost Control: Breaking Hardware-Assisted Kernel Control-Flow Integrity with Page-Oriented Programming"
         },
         {
-            "name": "All Cops Are Broadcasting: Breaking TETRA After Decades in the Shadows"
+            "name": "All Cops Are Broadcasting: Breaking TETRA After Decades in the Shadows",
+            "academic": "Sec'23"
         },
         {
             "name": "Badge of Shame: Breaking into Secure Facilities with OSDP"
@@ -52,7 +53,8 @@
             "name": "Risks of AI Risk Policy: Five Lessons"
         },
         {
-            "name": "Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1"
+            "name": "Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1",
+            "academic": "Sec'23"
         },
         {
             "name": "Becoming a Dark Knight: Adversary Emulation Demonstration for ATT&CK Evaluations"
@@ -91,7 +93,8 @@
             "name": "A Manufacturer&#39;s Post-Shipment Approach to Fend-Off IoT Malware in Home Appliances"
         },
         {
-            "name": "BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables"
+            "name": "BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables",
+            "academic": "Sec'23"
         },
         {
             "name": "Second Breakfast:  Implicit and Mutation-Based Serialization Vulnerabilities in .NET"
@@ -110,10 +113,12 @@
             "name": "Identifying and Reducing Permission Explosion in AWS: A Graph-Based and Analytical Approach"
         },
         {
-            "name": "The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders"
+            "name": "The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders",
+            "academic": "Sec'23"
         },
         {
-            "name": "Cookie Crumbles: Unveiling Web Session Integrity Vulnerabilities"
+            "name": "Cookie Crumbles: Unveiling Web Session Integrity Vulnerabilities",
+            "academic": "Sec'23"
         },
         {
             "name": "Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures"

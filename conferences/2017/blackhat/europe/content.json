@@ -58,7 +58,8 @@
         },
         {
             "name": "DIFUZZing Android Kernel Drivers",
-            "video": "https://www.youtube.com/watch?v=XFDHzSLGx7o"
+            "video": "https://www.youtube.com/watch?v=XFDHzSLGx7o",
+            "academic": "CCS'17"
         },
         {
             "name": "Self-Verifying Authentication \u2013 A Framework for Safer Integrations of Single-Sign-On Services",

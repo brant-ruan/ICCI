@@ -62,7 +62,8 @@
         },
         {
             "name": "Perfect Spray: A Journey From Finding a New Type of Logical Flaw at Linux Kernel To Developing a New Heap Exploitation Technique",
-            "video": "https://www.youtube.com/watch?v=C3ta-uUthfA"
+            "video": "https://www.youtube.com/watch?v=C3ta-uUthfA",
+            "academic": "Sec'23"
         },
         {
             "name": "Strengthening Cyber Resiliency in a Time of Geopolitical Crises: Applying Threat Intelligence &#38; Active Defense to Protecting Critical Information Infrastructures",

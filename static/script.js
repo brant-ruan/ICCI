@@ -8,6 +8,8 @@ const indexUrl = '/conferences/index.json';
 let searchTimeout;
 
 async function populateSelectors() {
+    document.getElementById('loading').style.display = 'block'; // 显示进度条
+    document.getElementById('conference-table').classList.add('hidden'); // 隐藏表格
     try {
         const indexResponse = await fetch(indexUrl);
         const index = await indexResponse.json();
@@ -50,6 +52,8 @@ async function populateSelectors() {
     } catch (error) {
         console.error('Error fetching index:', error);
     }
+    document.getElementById('loading').style.display = 'none'; // 隐藏进度条
+    document.getElementById('conference-table').classList.remove('hidden'); // 显示表格
 }
 
 function escapeRegExp(string) {

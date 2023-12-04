@@ -189,3 +189,23 @@ footer a {
 .highlight {
     background-color: lightgreen;
 }
+
+.loading {
+    display: none; /* 默认隐藏 */
+    text-align: center;
+}
+
+/* .progress-bar {
+    width: 30%;
+    background-color: #ddd;
+
+}
+
+.progress {
+    width: 0;
+    height: 20px;
+    background-color: #4caf50;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+} */

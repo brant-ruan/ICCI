@@ -16,6 +16,7 @@ I hope ICCI makes your research more efficient and interesting. If you find it u
 
 |      | BH   | HITB       | OFF | POC  | RE | LSS   |
 | ---- | ---------- | ---------- | ------------ | ---- | ----- | ----- |
+| 2016 |  |  AMS          |    -          |      |       |       |
 | 2017 | US \| ASIA \| EU |  AMS          |    -          |      |       |       |
 | 2018 | US \| ASIA \| EU | AMS \| BJ \| DXB | DE           |      |       |       |
 | 2019 | US \| ASIA \| EU | AMS        | DE           |      |       | NA \| EU |
@@ -24,7 +25,7 @@ I hope ICCI makes your research more efficient and interesting. If you find it u
 | 2022 | US \| ASIA \| EU | SG         | DE           | KR   | MTL   | NA \| EU |
 | 2023 | US \| ASIA \| EU | AMS \| HKT    | DE           | KR   | MTL   | NA \| EU |
 
-Note:
+Abbreviations:
 
 ```
 BH = BlackHat
@@ -32,4 +33,3 @@ OFF = OffensiveCon
 RE = REcon
 LSS = Linux Security Summit
 ```
-

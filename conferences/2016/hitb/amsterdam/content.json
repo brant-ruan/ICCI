@@ -1,0 +1,104 @@
+{
+    "topics": [
+        {
+            "name": "Beyond FBI vs Apple: What's Next For The Crypto Wars",
+            "video": "https://www.youtube.com/watch?v=56-548yzk8Q"
+        },
+        {
+            "name": "Virtualization System Vulnerability Discovery Framework",
+            "video": "https://www.youtube.com/watch?v=GE8lVf2iKks"
+        },
+        {
+            "name": "Hardsploit Project",
+            "video": "https://www.youtube.com/watch?v=rdbwdPhZKJk"
+        },
+        {
+            "name": "Escape From The Docker KVM QEMU Machine",
+            "video": "https://www.youtube.com/watch?v=XcvRfg3_ACY"
+        },
+        {
+            "name": "CSP Oddities",
+            "video": "https://www.youtube.com/watch?v=eewyLp9QLEs"
+        },
+        {
+            "name": "TeLeScope: Peering Into The Depths Of TLS Traffic In Real Time",
+            "video": "https://www.youtube.com/watch?v=Vj_FjO6TqXg"
+        },
+        {
+            "name": "Kernel Exploit Hunting And Mitigation",
+            "video": "https://www.youtube.com/watch?v=nvI6w8aW-4Q"
+        },
+        {
+            "name": "Using The Observer Effect And Cyber Feng Shui",
+            "video": "https://www.youtube.com/watch?v=0C_DgijjB6o"
+        },
+        {
+            "name": "Sandjacking: Profiting From iOS Malware",
+            "video": "https://www.youtube.com/watch?v=Qoi5wtlkDN0"
+        },
+        {
+            "name": "Exploit Kits: Hunting The Hunters",
+            "video": "https://www.youtube.com/watch?v=fSUxDVE66QM"
+        },
+        {
+            "name": "IRON HID: Create Your Own Bad USB Device",
+            "video": "https://www.youtube.com/watch?v=7scdyA7goB0"
+        },
+        {
+            "name": "Forcing A Targeted LTE Cellphone Into An Eavesdropping Network",
+            "video": "https://www.youtube.com/watch?v=hNDChDM1hEE"
+        },
+        {
+            "name": "Adaptive Android Kernel Live Patching",
+            "video": "https://www.youtube.com/watch?v=CWVlfag0fKk"
+        },
+        {
+            "name": "The Future Has Arrived And It's Effin' Hilarious",
+            "video": "https://www.youtube.com/watch?v=Qhn5WRwAlmc"
+        },
+        {
+            "name": "Forging a Wireless Time Signal to Attack NTP Servers",
+            "video": "https://www.youtube.com/watch?v=iac9O1uOCn0"
+        },
+        {
+            "name": "Go Speed Tracer Guided Fuzzing",
+            "video": "https://www.youtube.com/watch?v=MPv8LcUoGVE"
+        },
+        {
+            "name": "Cache Side Channel Attacks: CPU Design As A Security Problem",
+            "video": "https://www.youtube.com/watch?v=UH6dFbiX_hM"
+        },
+        {
+            "name": "New Methods For Exploiting ORM Injections",
+            "video": "https://www.youtube.com/watch?v=DKEwWy043WI"
+        },
+        {
+            "name": "In Plain Sight: The Perfect Exfiltration Technique",
+            "video": "https://www.youtube.com/watch?v=T6PscV43C0w"
+        },
+        {
+            "name": "Perf: From Profiling To Kernel Exploiting",
+            "video": "https://www.youtube.com/watch?v=37v14rMtALs"
+        },
+        {
+            "name": "Attacking Next Generation Firewalls: Breaking PAN OS",
+            "video": "https://www.youtube.com/watch?v=1i_ltQUArO8"
+        },
+        {
+            "name": "Advanced Exploitation: Xen Hypervisor VM Escape",
+            "video": "https://www.youtube.com/watch?v=6Ld5CiInrcI"
+        },
+        {
+            "name": "CANsee: An Automobile Intrusion Detection System",
+            "video": "https://www.youtube.com/watch?v=XBg8xhK7L0w"
+        },
+        {
+            "name": "Breaking Naive ESSID/WPA2 Key Generation Algorithms",
+            "video": "https://www.youtube.com/watch?v=yYypIsvwdiU"
+        },
+        {
+            "name": "Hardware Side Channels in Virtualized Environments",
+            "video": "https://www.youtube.com/watch?v=1KteO7FPXYw"
+        }
+    ]
+}

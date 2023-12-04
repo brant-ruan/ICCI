@@ -23,16 +23,19 @@ function highlightText(td, filter, rowIndex) {
 
 function resetText(td, rowIndex) {
     if (originalHTML[rowIndex]) {
+        // 恢复原始 HTML
         td.innerHTML = originalHTML[rowIndex];
+        // td.innerHTML = td.innerHTML.replace(/<span class='highlight'>(.*?)<\/span>/gi, "$1");
     }
 }
+
 
 function clearOriginalHTML() {
     originalHTML = {};
 }
 
 function searchFunction() {
-    clearOriginalHTML();
+    // clearOriginalHTML();
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(function() {
         var input, filter, table, tr, td, i;

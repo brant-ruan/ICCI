@@ -23,7 +23,8 @@
         {
             "name": "HotBPF++: A More Powerful Memory Protection for the Linux Kernel",
             "speakers": "Zicheng Wang, Yueqi Chen",
-            "video": "https://www.youtube.com/watch?v=SgGWCWKSyHk"
+            "video": "https://www.youtube.com/watch?v=SgGWCWKSyHk",
+            "academic": "Sec'23"
         },
         {
             "name": "Controlling Script Execution",

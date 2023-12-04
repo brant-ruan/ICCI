@@ -296,7 +296,8 @@
             "name": "Make KSMA Great Again: The Art of Rooting Android Devices by GPU MMU Features"
         },
         {
-            "name": "ODDFuzz: Hunting Java Deserialization Gadget Chains via Structure-Aware Directed Greybox Fuzzing"
+            "name": "ODDFuzz: Hunting Java Deserialization Gadget Chains via Structure-Aware Directed Greybox Fuzzing",
+            "academic": "SP'23"
         },
         {
             "name": "Compromising LLMs: The Advent of AI Malware"

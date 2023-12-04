@@ -7,7 +7,8 @@
             "name": "LogoFAIL: Security Implications of Image Parsing During System Boot"
         },
         {
-            "name": "HODOR: Reducing Attack Surface on Node.js via System Call Limitation"
+            "name": "HODOR: Reducing Attack Surface on Node.js via System Call Limitation",
+            "academic": "CCS'23"
         },
         {
             "name": "Evils in the Sparse Texture Memory: Exploit Kernel Based on Undefined Behaviors of Graphic APIs"
@@ -43,7 +44,8 @@
             "name": "Indirect Prompt Injection Into LLMs Using Images and Sounds"
         },
         {
-            "name": "TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers"
+            "name": "TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers",
+            "academic": "CCS'23"
         },
         {
             "name": "Through the Looking Glass: How Open Source Projects See Vulnerability Disclosure"
@@ -52,7 +54,8 @@
             "name": "Breaking Theoretical Limits: The Gap Between Virtual NICs and Physical Network Cards"
         },
         {
-            "name": "Collide+Power: The Evolution of Software-based Power Side-Channels Attacks"
+            "name": "Collide+Power: The Evolution of Software-based Power Side-Channels Attacks",
+            "academic": "Sec'23"
         },
         {
             "name": "When The Front Door Becomes a Backdoor: The Security Paradox of OSDP"

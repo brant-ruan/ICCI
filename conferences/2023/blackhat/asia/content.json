@@ -54,7 +54,8 @@
         },
         {
             "name": "PMFault: Voltage Fault Injection on Server Platforms Through the PMBus",
-            "video": "https://www.youtube.com/watch?v=J9A5tDVZE4Y"
+            "video": "https://www.youtube.com/watch?v=J9A5tDVZE4Y",
+            "academic": "CHES'23"
         },
         {
             "name": "PPLdump Is Dead. Long Live PPLdump!",
@@ -146,7 +147,8 @@
         },
         {
             "name": "Phoenix Domain Attack: Vulnerable Links in Domain Name Delegation and Revocation",
-            "video": "https://www.youtube.com/watch?v=rcwUhKolJq0"
+            "video": "https://www.youtube.com/watch?v=rcwUhKolJq0",
+            "academic": "NDSS'23"
         },
         {
             "name": "Engaging the Next Generation of Cybersecurity Professionals: The Power of Security Zines",

@@ -310,7 +310,8 @@
         },
         {
             "name": "Exploiting Kernel Races through Taming Thread Interleaving",
-            "video": "https://www.youtube.com/watch?v=5M3WhLVLCzs"
+            "video": "https://www.youtube.com/watch?v=5M3WhLVLCzs",
+            "academic": "Sec'21"
         },
         {
             "name": "Routopsy: Modern Routing Protocol Vulnerability Analysis and Exploitation",

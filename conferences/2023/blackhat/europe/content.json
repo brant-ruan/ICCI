@@ -20,7 +20,8 @@
             "name": "AutoSpill: Zero Effort Credential Stealing from Mobile Password Managers"
         },
         {
-            "name": "TunnelCrack: Leaking VPN Traffic by Manipulating Routing Tables"
+            "name": "TunnelCrack: Leaking VPN Traffic by Manipulating Routing Tables",
+            "academic": "Sec'23"
         },
         {
             "name": "The Magnetic Pull of Mutable Protection: Worked Examples in Cryptographic Agility"

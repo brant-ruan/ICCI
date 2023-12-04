@@ -226,7 +226,8 @@
         },
         {
             "name": "PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary",
-            "video": "https://www.youtube.com/watch?v=NUkfkr2fgGc"
+            "video": "https://www.youtube.com/watch?v=NUkfkr2fgGc",
+            "academic": "NDSS'19"
         },
         {
             "name": "Woke Hiring Won't Save Us: An Actionable Approach to Diversity Hiring and Retention",

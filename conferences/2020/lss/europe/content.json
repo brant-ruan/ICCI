@@ -32,7 +32,8 @@
         },
         {
             "name": "Bypassing Many Kernel Protections Using Elastic Objects",
-            "video": "https://www.youtube.com/watch?v=yXhH0IJAxkE"
+            "video": "https://www.youtube.com/watch?v=yXhH0IJAxkE",
+            "academic": "CCS'20"
         },
         {
             "name": "Container Runtime Support for SGX and TEE Environment",

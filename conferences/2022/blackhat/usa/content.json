@@ -110,7 +110,8 @@
         },
         {
             "name": "Stalloris: RPKI Downgrade Attack",
-            "video": "https://www.youtube.com/watch?v=JUfWaT6EyXk"
+            "video": "https://www.youtube.com/watch?v=JUfWaT6EyXk",
+            "academic": "Sec'22"
         },
         {
             "name": "Smishmash - Text Based 2fa Spoofing Using OSINT, Phishing Techniques and a Burner Phone",

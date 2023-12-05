@@ -50,7 +50,8 @@
         },
         {
             "name": "Hello From the Other Side: SSH Over Robust Cache Covert Channels in the Cloud",
-            "video": "https://www.youtube.com/watch?v=6bCdFmehMSY"
+            "video": "https://www.youtube.com/watch?v=6bCdFmehMSY",
+            "academic": "NDSS'17"
         },
         {
             "name": "Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox",

@@ -436,7 +436,8 @@
         },
         {
             "name": "Meltdown: Basics, Details, Consequences",
-            "video": "https://www.youtube.com/watch?v=UTSJf05pw-0"
+            "video": "https://www.youtube.com/watch?v=UTSJf05pw-0",
+            "academic": "Sec'18"
         },
         {
             "name": "Follow the White Rabbit: Simplifying Fuzz Testing Using FuzzExMachina",

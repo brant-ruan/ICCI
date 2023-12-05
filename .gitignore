@@ -23,3 +23,5 @@ venv/
 .vscode/
 vendor/
 bin/
+
+find-potential-academic-studies.py

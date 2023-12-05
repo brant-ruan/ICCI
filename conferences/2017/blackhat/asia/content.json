@@ -126,7 +126,8 @@
         },
         {
             "name": "MASHaBLE: Mobile Applications of Secret Handshakes Over Bluetooth LE",
-            "video": "https://www.youtube.com/watch?v=s79CG2Os0Nc"
+            "video": "https://www.youtube.com/watch?v=s79CG2Os0Nc",
+            "academic": "MobiCom'16"
         },
         {
             "name": "Betting Against the House: Security and Stability When the Odds are Against You",

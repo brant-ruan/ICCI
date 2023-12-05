@@ -1,1 +1,3 @@
 youtube-search
+duckduckgo-search
+googlesearch-python

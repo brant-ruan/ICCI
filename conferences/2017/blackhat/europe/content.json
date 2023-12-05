@@ -34,7 +34,8 @@
         },
         {
             "name": "CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management",
-            "video": "https://www.youtube.com/watch?v=0tM2v2SZDxY"
+            "video": "https://www.youtube.com/watch?v=0tM2v2SZDxY",
+            "academic": "Sec'17"
         },
         {
             "name": "The Apple of Your EFI: An Updated Analysis of the State of Apple's EFI Security Support",
@@ -119,7 +120,8 @@
         },
         {
             "name": "Heap Layout Optimisation for Exploitation",
-            "video": "https://www.youtube.com/watch?v=t1g4-s_8cPg"
+            "video": "https://www.youtube.com/watch?v=t1g4-s_8cPg",
+            "academic": "Sec'18"
         },
         {
             "name": "Enraptured Minds: Strategic Gaming of Cognitive Mindhacks",

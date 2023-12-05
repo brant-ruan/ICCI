@@ -99,7 +99,8 @@
         {
             "name": "Finding Multiple Bug Effects for More Precise Exploitability Estimation",
             "speaker": "Zhenpeng Lin, Yueqi Cheny",
-            "video": "https://www.youtube.com/watch?v=J3frKpcJ9vg"
+            "video": "https://www.youtube.com/watch?v=J3frKpcJ9vg",
+            "academic": "SP'22"
         },
         {
             "name": "Live Migration Architecture for Intel TDX-based Confidential VMs",

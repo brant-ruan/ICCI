@@ -38,7 +38,8 @@
         },
         {
             "name": "CloudLeak: DNN Model Extractions from Commercial MLaaS Platforms",
-            "video": "https://www.youtube.com/watch?v=m8k1u5RKdWI"
+            "video": "https://www.youtube.com/watch?v=m8k1u5RKdWI",
+            "academic": "NDSS'20"
         },
         {
             "name": "Election Security: Securing America's Future ",
@@ -258,7 +259,8 @@
         },
         {
             "name": "IMP4GT: IMPersonation Attacks in 4G NeTworks",
-            "video": "https://www.youtube.com/watch?v=VzWsLmVDqZc"
+            "video": "https://www.youtube.com/watch?v=VzWsLmVDqZc",
+            "academic": "NDSS'20"
         },
         {
             "name": "Kr00k: Serious Vulnerability Affected Encryption of Billion+ Wi-Fi Devices",
@@ -298,7 +300,8 @@
         },
         {
             "name": "Remote Timing Attacks on TPMs, AKA TPM-Fail",
-            "video": "https://www.youtube.com/watch?v=QGKEwmMqwxE"
+            "video": "https://www.youtube.com/watch?v=QGKEwmMqwxE",
+            "academic": "Sec'20"
         },
         {
             "name": "Improving Mental Models of End-to-End Encrypted Communication",

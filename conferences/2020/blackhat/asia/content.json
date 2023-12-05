@@ -70,7 +70,8 @@
         },
         {
             "name": "Page Cache Attacks: Microarchitectural Attacks on Flawless Hardware",
-            "video": "https://www.youtube.com/watch?v=iseCdk9L940"
+            "video": "https://www.youtube.com/watch?v=iseCdk9L940",
+            "academic": "CCS'19"
         },
         {
             "name": "First Contact - Vulnerabilities in Contactless Payments",

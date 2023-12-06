@@ -156,8 +156,9 @@ function showConference(info) {
 
     data.topics.forEach(topic => {
         let row = tableBody.insertRow();
-        let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+        let videoLink = topic.video ? `<a href="${topic.video}" target="_blank" class="nodecoration">🎬</a>` : '';
         let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+        academicLink = topic.aca_link ? `<a href="${topic.aca_link}" target="_blank" class="nodecoration">${academicLink}</a>` : academicLink;
         row.innerHTML = `
             <td>${info.year}</td>
             <td>${info.conferenceDisplayName}</td>
@@ -202,6 +203,7 @@ async function showAllConferences() {
                     let row = tableBody.insertRow(-1);
                     let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
                     let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+                    academicLink = topic.aca_link ? `<a href="${topic.aca_link}" target="_blank" class="nodecoration">${academicLink}</a>` : academicLink;
                     row.innerHTML = `
                         <td>${year}</td>
                         <td>${conference.displayName}</td>
@@ -229,8 +231,9 @@ async function showAllConferencesForYear(year) {
             const data = conferences[conferenceKey][locationKey];
             data.topics.forEach(topic => {
                 let row = tableBody.insertRow(-1);
-                let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+                let videoLink = topic.video ? `<a href="${topic.video}" target="_blank" class="nodecoration">🎬</a>` : '';
                 let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+                academicLink = topic.aca_link ? `<a href="${topic.aca_link}" target="_blank" class="nodecoration">${academicLink}</a>` : academicLink;
                 row.innerHTML = `
                     <td>${year}</td>
                     <td>${conference.displayName}</td>
@@ -253,8 +256,9 @@ async function appendConferenceInfo(info, tableBody) {
         .then(data => {
             data.topics.forEach(topic => {
                 let row = tableBody.insertRow(-1);
-                let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+                let videoLink = topic.video ? `<a href="${topic.video}" target="_blank" class="nodecoration">🎬</a>` : '';
                 let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+                academicLink = topic.aca_link ? `<a href="${topic.aca_link}" target="_blank" class="nodecoration">${academicLink}</a>` : academicLink;
                 row.innerHTML = `
                     <td>${info.year}</td>
                     <td>${info.conferenceDisplayName}</td>
@@ -283,8 +287,9 @@ function showAcademicStudies() {
                 const data = conferences[conferenceKey][locationKey];
                 data.topics.filter(topic => topic.academic).forEach(topic => {
                     let row = tableBody.insertRow(-1);
-                    let videoLink = topic.video ? `<a href="${topic.video}" target="_blank">🎬</a>` : '';
+                    let videoLink = topic.video ? `<a href="${topic.video}" target="_blank" class="nodecoration">🎬</a>` : '';
                     let academicLink = topic.academic ? `<span style="color: red;"> [${topic.academic}]</span>` : '';
+                    academicLink = topic.aca_link ? `<a href="${topic.aca_link}" target="_blank" class="nodecoration">${academicLink}</a>` : academicLink;
                     row.innerHTML = `
                         <td>${year}</td>
                         <td>${conference.displayName}</td>

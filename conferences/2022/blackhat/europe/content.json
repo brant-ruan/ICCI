@@ -115,7 +115,9 @@
         },
         {
             "name": "DnD: Decompiling Deep Neural Network Compiled Binary",
-            "video": "https://www.youtube.com/watch?v=ygWgQcMrPvc"
+            "video": "https://www.youtube.com/watch?v=ygWgQcMrPvc",
+            "academic": "Sec'22",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity22/presentation/wu-ruoyu"
         },
         {
             "name": "The Hacker's Guide to Policyland",

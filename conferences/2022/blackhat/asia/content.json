@@ -81,7 +81,9 @@
         },
         {
             "name": "Codema Attack: Controlling Your Smart Home Through Dangling Management Channels",
-            "video": "https://www.youtube.com/watch?v=4NmeRLrsoiI"
+            "video": "https://www.youtube.com/watch?v=4NmeRLrsoiI",
+            "academic": "CCS'21",
+            "aca_link": "https://dl.acm.org/doi/10.1145/3460120.3484592"
         },
         {
             "name": "The Virtual Battlefield in 2022: Russia-Ukraine War &#38; Its Policy Implications",

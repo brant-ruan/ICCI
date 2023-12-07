@@ -24,7 +24,8 @@
             "name": "HotBPF++: A More Powerful Memory Protection for the Linux Kernel",
             "speakers": "Zicheng Wang, Yueqi Chen",
             "video": "https://www.youtube.com/watch?v=SgGWCWKSyHk",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/wang-zicheng"
         },
         {
             "name": "Controlling Script Execution",
@@ -60,7 +61,8 @@
             "name": "SyzDescribe: Principled, Automated, Static Generation of Syscall Descriptions for Kernel Drivers",
             "speakers": "Yu Hao",
             "video": "https://www.youtube.com/watch?v=gkGVgh3Y-54",
-            "academic": "SP'23"
+            "academic": "SP'23",
+            "aca_link": "https://ieeexplore.ieee.org/document/10179298"
         },
         {
             "name": "Dynamic Key Managed PowerPC Guest Secure Boot",

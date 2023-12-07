@@ -35,7 +35,8 @@
         },
         {
             "name": "All Cops Are Broadcasting: Breaking TETRA After Decades in the Shadows",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/meijer"
         },
         {
             "name": "Badge of Shame: Breaking into Secure Facilities with OSDP"
@@ -54,7 +55,8 @@
         },
         {
             "name": "Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/cai-zechao"
         },
         {
             "name": "Becoming a Dark Knight: Adversary Emulation Demonstration for ATT&CK Evaluations"
@@ -94,7 +96,8 @@
         },
         {
             "name": "BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/liu-zhibo"
         },
         {
             "name": "Second Breakfast:  Implicit and Mutation-Based Serialization Vulnerabilities in .NET"
@@ -104,7 +107,8 @@
         },
         {
             "name": "MaginotDNS: Attacking the Boundary of DNS Caching Protection",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/li-xiang"
         },
         {
             "name": "Leverage and Demonstrate Value with your Cyber Insurance Renewal"
@@ -114,11 +118,13 @@
         },
         {
             "name": "The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/vasquez"
         },
         {
             "name": "Cookie Crumbles: Unveiling Web Session Integrity Vulnerabilities",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/squarcina"
         },
         {
             "name": "Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures"
@@ -302,7 +308,8 @@
         },
         {
             "name": "ODDFuzz: Hunting Java Deserialization Gadget Chains via Structure-Aware Directed Greybox Fuzzing",
-            "academic": "SP'23"
+            "academic": "SP'23",
+            "aca_link": "https://ieeexplore.ieee.org/document/10179377/"
         },
         {
             "name": "Compromising LLMs: The Advent of AI Malware"

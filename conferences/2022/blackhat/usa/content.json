@@ -111,7 +111,8 @@
         {
             "name": "Stalloris: RPKI Downgrade Attack",
             "video": "https://www.youtube.com/watch?v=JUfWaT6EyXk",
-            "academic": "Sec'22"
+            "academic": "Sec'22",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity22/presentation/hlavacek"
         },
         {
             "name": "Smishmash - Text Based 2fa Spoofing Using OSINT, Phishing Techniques and a Burner Phone",
@@ -320,7 +321,8 @@
         {
             "name": "Cautious: A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe",
             "video": "https://www.youtube.com/watch?v=KEStazCf8vc",
-            "academic": "CCS'22"
+            "academic": "CCS'22",
+            "aca_link": "https://dl.acm.org/doi/10.1145/3548606.3560585"
         },
         {
             "name": "DirectX: The New Hyper-V Attack Surface",

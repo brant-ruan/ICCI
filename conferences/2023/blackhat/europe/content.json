@@ -8,7 +8,8 @@
         },
         {
             "name": "HODOR: Reducing Attack Surface on Node.js via System Call Limitation",
-            "academic": "CCS'23"
+            "academic": "CCS'23",
+            "aca_link": "https://dl.acm.org/doi/10.1145/3576915.3616609"
         },
         {
             "name": "Evils in the Sparse Texture Memory: Exploit Kernel Based on Undefined Behaviors of Graphic APIs"
@@ -21,7 +22,8 @@
         },
         {
             "name": "TunnelCrack: Leaking VPN Traffic by Manipulating Routing Tables",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/xue"
         },
         {
             "name": "The Magnetic Pull of Mutable Protection: Worked Examples in Cryptographic Agility"
@@ -46,7 +48,8 @@
         },
         {
             "name": "TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers",
-            "academic": "CCS'23"
+            "academic": "CCS'23",
+            "aca_link": "https://dl.acm.org/doi/10.1145/3576915.3616668"
         },
         {
             "name": "Through the Looking Glass: How Open Source Projects See Vulnerability Disclosure"
@@ -56,7 +59,8 @@
         },
         {
             "name": "Collide+Power: The Evolution of Software-based Power Side-Channels Attacks",
-            "academic": "Sec'23"
+            "academic": "Sec'23",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/kogler"
         },
         {
             "name": "When The Front Door Becomes a Backdoor: The Security Paradox of OSDP"

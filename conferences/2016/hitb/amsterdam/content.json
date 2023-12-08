@@ -51,7 +51,8 @@
         {
             "name": "Adaptive Android Kernel Live Patching",
             "video": "https://www.youtube.com/watch?v=CWVlfag0fKk",
-            "academic": "Sec'17"
+            "academic": "Sec'17",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chen"
         },
         {
             "name": "The Future Has Arrived And It's Effin' Hilarious",

@@ -51,7 +51,8 @@
         {
             "name": "Hello From the Other Side: SSH Over Robust Cache Covert Channels in the Cloud",
             "video": "https://www.youtube.com/watch?v=6bCdFmehMSY",
-            "academic": "NDSS'17"
+            "academic": "NDSS'17",
+            "aca_link": "https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/hello-other-side-ssh-over-robust-cache-covert-channels-cloud/"
         },
         {
             "name": "Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox",
@@ -128,7 +129,8 @@
         {
             "name": "MASHaBLE: Mobile Applications of Secret Handshakes Over Bluetooth LE",
             "video": "https://www.youtube.com/watch?v=s79CG2Os0Nc",
-            "academic": "MobiCom'16"
+            "academic": "MobiCom'16",
+            "aca_link": "https://dl.acm.org/doi/10.1145/2973750.2973778"
         },
         {
             "name": "Betting Against the House: Security and Stability When the Odds are Against You",

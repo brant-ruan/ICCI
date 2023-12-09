@@ -327,7 +327,8 @@
         {
             "name": "kR^X: Comprehensive Kernel Protection Against Just-In-Time Code Reuse",
             "video": "https://www.youtube.com/watch?v=L-3eCmZ8s3A",
-            "academic": "EuroSys'17"
+            "academic": "EuroSys'17",
+            "aca_link": "https://dl.acm.org/doi/10.1145/3277592"
         },
         {
             "name": "Honey, I Shrunk the Attack Surface \u2013 Adventures in Android Security Hardening",
@@ -442,7 +443,8 @@
         {
             "name": "Cloak & Dagger: From Two Permissions to Complete Control of the UI Feedback Loop",
             "video": "https://www.youtube.com/watch?v=FRpcGwCedZ0",
-            "academic": "SP'17"
+            "academic": "SP'17",
+            "aca_link": "https://ieeexplore.ieee.org/document/7958624"
         },
         {
             "name": "Breaking the x86 Instruction Set",

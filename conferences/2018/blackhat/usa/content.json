@@ -437,7 +437,8 @@
         {
             "name": "Meltdown: Basics, Details, Consequences",
             "video": "https://www.youtube.com/watch?v=UTSJf05pw-0",
-            "academic": "Sec'18"
+            "academic": "Sec'18",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity18/presentation/lipp"
         },
         {
             "name": "Follow the White Rabbit: Simplifying Fuzz Testing Using FuzzExMachina",

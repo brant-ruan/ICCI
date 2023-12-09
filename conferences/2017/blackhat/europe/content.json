@@ -35,7 +35,8 @@
         {
             "name": "CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management",
             "video": "https://www.youtube.com/watch?v=0tM2v2SZDxY",
-            "academic": "Sec'17"
+            "academic": "Sec'17",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/tang"
         },
         {
             "name": "The Apple of Your EFI: An Updated Analysis of the State of Apple's EFI Security Support",
@@ -60,7 +61,8 @@
         {
             "name": "DIFUZZing Android Kernel Drivers",
             "video": "https://www.youtube.com/watch?v=XFDHzSLGx7o",
-            "academic": "CCS'17"
+            "academic": "CCS'17",
+            "aca_link": "https://dl.acm.org/doi/10.1145/3133956.3134069"
         },
         {
             "name": "Self-Verifying Authentication \u2013 A Framework for Safer Integrations of Single-Sign-On Services",
@@ -121,7 +123,8 @@
         {
             "name": "Heap Layout Optimisation for Exploitation",
             "video": "https://www.youtube.com/watch?v=t1g4-s_8cPg",
-            "academic": "Sec'18"
+            "academic": "Sec'18",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity18/presentation/heelan"
         },
         {
             "name": "Enraptured Minds: Strategic Gaming of Cognitive Mindhacks",

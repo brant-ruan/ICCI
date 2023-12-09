@@ -69,7 +69,8 @@
         {
             "name": "Dragonblood: Attacking the Dragonfly Handshake of WPA3",
             "video": "https://www.youtube.com/watch?v=tRWMp3jXlRg",
-            "academic": "SP'20"
+            "academic": "SP'20",
+            "aca_link": "https://ieeexplore.ieee.org/document/9152782"
         },
         {
             "name": "Attacking and Defending the Microsoft Cloud (Office 365 & Azure AD)\u00a0",

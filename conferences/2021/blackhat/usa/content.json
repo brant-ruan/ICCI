@@ -23,7 +23,8 @@
         {
             "name": "ALPACA: Application Layer Protocol Confusion - Analyzing and Mitigating Cracks in TLS Authentication",
             "video": "https://www.youtube.com/watch?v=UE4YLjo8DQE",
-            "academic": "Sec'21"
+            "academic": "Sec'21",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity21/presentation/brinkmann"
         },
         {
             "name": "Do You Speak My Language? Make Static Analysis Engines Understand Each Other",
@@ -36,7 +37,8 @@
         {
             "name": "Timeless Timing Attacks",
             "video": "https://www.youtube.com/watch?v=GnLuuqA2bD4",
-            "academic": "Sec'20"
+            "academic": "Sec'20",
+            "aca_link" : "https://www.usenix.org/conference/usenixsecurity20/presentation/van-goethem"
         },
         {
             "name": "A New Class of DNS Vulnerabilities Affecting Many DNS-as-Service Platforms",
@@ -65,7 +67,8 @@
         {
             "name": "Rope: Bypassing Behavioral Detection of Malware with Distributed ROP-Driven Execution",
             "video": "https://www.youtube.com/watch?v=PBDHhOtc0zM",
-            "academic": "ESORICS'21"
+            "academic": "ESORICS'21",
+            "aca_link": "https://dl.acm.org/doi/abs/10.1007/978-3-030-88418-5_10"
         },
         {
             "name": "MFA-ing the Un-MFA-ble: Protecting Auth Systems' Core Secrets",
@@ -74,7 +77,8 @@
         {
             "name": "Defeating a Secure Element with Multiple Laser Fault Injections",
             "video": "https://www.youtube.com/watch?v=Kj1nVJypXPM",
-            "academic": "SSTIC'21"
+            "academic": "SSTIC'21",
+            "aca_link" : "https://www.sstic.org/media/SSTIC2021/SSTIC-actes/defeating_a_secure_element_with_multiple_laser_fau/SSTIC2021-Article-defeating_a_secure_element_with_multiple_laser_fault_injections-heriveaux.pdf"
         },
         {
             "name": "Zerologon: From Zero to Domain Admin by Exploiting a Crypto Bug"
@@ -98,7 +102,8 @@
         {
             "name": "Symbexcel: Bringing the Power of Symbolic Execution to the Fight Against Malicious Excel 4 Macros",
             "video": "https://www.youtube.com/watch?v=v2fP3E0H45o",
-            "academic": "SP'22"
+            "academic": "SP'22",
+            "aca_link": "https://ieeexplore.ieee.org/document/9833765"
         },
         {
             "name": "Anatomy of Native IIS Malware",
@@ -202,7 +207,8 @@
         {
             "name": "The Devil is in the GAN: Defending Deep Generative Models Against Adversarial Attacks",
             "video": "https://www.youtube.com/watch?v=zBZbBMvuPXU",
-            "academic": "ESORICS'22"
+            "academic": "ESORICS'22",
+            "aca_link": "https://dl.acm.org/doi/abs/10.1007/978-3-031-17143-7_41"
         },
         {
             "name": "Breaking Secure Bootloaders",
@@ -223,7 +229,8 @@
         {
             "name": "FragAttacks: Breaking Wi-Fi through Fragmentation and Aggregation",
             "video": "https://www.youtube.com/watch?v=M_TxflpTOZE",
-            "academic": "Sec'21"
+            "academic": "Sec'21",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity21/presentation/vanhoef"
         },
         {
             "name": "5G IMSI Catchers Mirage",
@@ -292,7 +299,8 @@
         {
             "name": "IPvSeeYou: Exploiting Leaked Identifiers in IPv6 for Street-Level Geolocation",
             "video": "https://www.youtube.com/watch?v=KG4LF49hLM4",
-            "academic": "SP'23"
+            "academic": "SP'23",
+            "aca_link": "https://www.computer.org/csdl/proceedings-article/sp/2023/933600a415/1OXGWcFDpu0"
         },
         {
             "name": "Small Wonder: Uncovering Planned Obsolescence Practices in Robotics and What This Means for Cybersecurity",

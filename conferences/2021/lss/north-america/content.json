@@ -4,7 +4,8 @@
             "name": "SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs",
             "speaker": "Xiaochen Zou",
             "video": "https://www.youtube.com/watch?v=MJbqeo5qtQ0",
-            "academic": "Sec'22"
+            "academic": "Sec'22",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity22/presentation/zou"
         },
         {
             "name": "Hardening the Linux Guest for the Confidential Cloud Computing",
@@ -100,7 +101,8 @@
             "name": "Finding Multiple Bug Effects for More Precise Exploitability Estimation",
             "speaker": "Zhenpeng Lin, Yueqi Cheny",
             "video": "https://www.youtube.com/watch?v=J3frKpcJ9vg",
-            "academic": "SP'22"
+            "academic": "SP'22",
+            "aca_link": "https://ieeexplore.ieee.org/document/9833683"
         },
         {
             "name": "Live Migration Architecture for Intel TDX-based Confidential VMs",

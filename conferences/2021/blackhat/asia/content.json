@@ -86,7 +86,8 @@
         {
             "name": "A General Approach to Bypassing Many Kernel Protections and its Mitigation",
             "video": "https://www.youtube.com/watch?v=EIwEF3tCtg4",
-            "academic": "CCS'20"
+            "academic": "CCS'20",
+            "aca_link": "https://dl.acm.org/doi/10.1145/3372297.3423353"
         },
         {
             "name": "How I Can Unlock Your Smart Door: Security Pitfalls in Cross-Vendor IoT Access Control",

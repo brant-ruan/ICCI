@@ -39,7 +39,8 @@
         {
             "name": "CloudLeak: DNN Model Extractions from Commercial MLaaS Platforms",
             "video": "https://www.youtube.com/watch?v=m8k1u5RKdWI",
-            "academic": "NDSS'20"
+            "academic": "NDSS'20",
+            "aca_link": "https://www.ndss-symposium.org/ndss-paper/cloudleak-large-scale-deep-learning-models-stealing-through-adversarial-examples/"
         },
         {
             "name": "Election Security: Securing America's Future ",
@@ -260,7 +261,8 @@
         {
             "name": "IMP4GT: IMPersonation Attacks in 4G NeTworks",
             "video": "https://www.youtube.com/watch?v=VzWsLmVDqZc",
-            "academic": "NDSS'20"
+            "academic": "NDSS'20",
+            "aca_link": "https://www.ndss-symposium.org/ndss-paper/imp4gt-impersonation-attacks-in-4g-networks/"
         },
         {
             "name": "Kr00k: Serious Vulnerability Affected Encryption of Billion+ Wi-Fi Devices",
@@ -301,7 +303,8 @@
         {
             "name": "Remote Timing Attacks on TPMs, AKA TPM-Fail",
             "video": "https://www.youtube.com/watch?v=QGKEwmMqwxE",
-            "academic": "Sec'20"
+            "academic": "Sec'20",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity20/presentation/moghimi-tpm"
         },
         {
             "name": "Improving Mental Models of End-to-End Encrypted Communication",
@@ -314,7 +317,8 @@
         {
             "name": "Exploiting Kernel Races through Taming Thread Interleaving",
             "video": "https://www.youtube.com/watch?v=5M3WhLVLCzs",
-            "academic": "Sec'21"
+            "academic": "Sec'21",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity21/presentation/lee-yoochan"
         },
         {
             "name": "Routopsy: Modern Routing Protocol Vulnerability Analysis and Exploitation",

@@ -39,7 +39,8 @@
         {
             "name": "LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage",
             "video": "https://www.youtube.com/watch?v=Nk1uqe8Z7k4",
-            "academic": "CCS'20"
+            "academic": "CCS'20",
+            "aca_link": "https://dl.acm.org/doi/10.1145/3372297.3417268"
         },
         {
             "name": "From Zero to Sixty: The Story of North Korea's Rapid Ascent to Becoming a Global Cyber Superpower",
@@ -72,7 +73,8 @@
         {
             "name": "Hermes Attack: Steal DNN Models In AI Privatization Deployment Scenarios",
             "video": "https://www.youtube.com/watch?v=rlp3tV2D9sM",
-            "academic": "Sec'21"
+            "academic": "Sec'21",
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity21/presentation/zhu"
         },
         {
             "name": "efiXplorer: Hunting for UEFI Firmware Vulnerabilities at Scale with Automated Static Analysis",

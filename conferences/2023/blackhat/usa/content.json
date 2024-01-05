@@ -4,28 +4,34 @@
             "name": "Civil Cyber Defense: Use Your Resources to Defend Non-Profits as They Combat Human Trafficking and Subvert Authoritarian Regimes"
         },
         {
-            "name": "Smashing the State Machine: The True Potential of Web Race Conditions"
+            "name": "Smashing the State Machine: The True Potential of Web Race Conditions",
+            "video": "https://www.youtube.com/watch?v=VzqG_-a8_Jo"
         },
         {
             "name": "Video-Based Cryptanalysis: Recovering Cryptographic Keys from Non-compromised Devices Using Video Footage of a Device&#39;s Power LED"
         },
         {
-            "name": "Reflections on Trust in the Software Supply Chain"
+            "name": "Reflections on Trust in the Software Supply Chain",
+            "video": "https://www.youtube.com/watch?v=GXdHoxDgAYI"
         },
         {
-            "name": "Chained to Hit: Discovering New Vectors to Gain Remote and Root Access in SAP Enterprise Software"
+            "name": "Chained to Hit: Discovering New Vectors to Gain Remote and Root Access in SAP Enterprise Software",
+            "video": "https://www.youtube.com/watch?v=xngNFBW0tu4"
         },
         {
             "name": "Defender-Pretender: When Windows Defender Updates Become a Security Risk"
         },
         {
-            "name": "Core Escalation: Unleashing the Power of Cross-Core Attacks on Heterogeneous System"
+            "name": "Core Escalation: Unleashing the Power of Cross-Core Attacks on Heterogeneous System",
+            "video": "https://www.youtube.com/watch?v=AMHNkfwjYok"
         },
         {
-            "name": "Devising and Detecting Phishing: Large Language Models (GPT3, GPT4) vs. Smaller Human Models (V-Triad, Generic Emails)"
+            "name": "Devising and Detecting Phishing: Large Language Models (GPT3, GPT4) vs. Smaller Human Models (V-Triad, Generic Emails)",
+            "video": "https://www.youtube.com/watch?v=yppjP4_4n40"
         },
         {
-            "name": "A Pain in the NAS: Exploiting Cloud Connectivity to PWN Your NAS"
+            "name": "A Pain in the NAS: Exploiting Cloud Connectivity to PWN Your NAS",
+            "video": "https://www.youtube.com/watch?v=8VK582uC55k"
         },
         {
             "name": "Route to Bugs: Analyzing the Security of BGP Message Parsing"
@@ -36,7 +42,8 @@
         {
             "name": "All Cops Are Broadcasting: Breaking TETRA After Decades in the Shadows",
             "academic": "Sec'23",
-            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/meijer"
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/meijer",
+            "video": "https://www.youtube.com/watch?v=2FWrxfs3yFQ"
         },
         {
             "name": "Badge of Shame: Breaking into Secure Facilities with OSDP"
@@ -80,13 +87,15 @@
             "name": "Windows Agentless C2: (Ab)using the MDM Client Stack"
         },
         {
-            "name": "Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare"
+            "name": "Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare",
+            "video": "https://www.youtube.com/watch?v=opW_Q7jvSbc"
         },
         {
             "name": "I Watched You Roll the Die: Unparalleled RDP Monitoring Reveal Attackers&#39; Tradecraft"
         },
         {
-            "name": "Single Instruction Multiple Data Leaks in Cutting-edge CPUs, AKA Downfall"
+            "name": "Single Instruction Multiple Data Leaks in Cutting-edge CPUs, AKA Downfall",
+            "video": "https://www.youtube.com/watch?v=JLHh_oViXl8"
         },
         {
             "name": "HARry Parser and the Cursed Tracker: Breaking the Spell of Online Data Collection"
@@ -127,16 +136,19 @@
             "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/squarcina"
         },
         {
-            "name": "Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures"
+            "name": "Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures",
+            "video": "https://www.youtube.com/watch?v=Setiy_a1Ch0"
         },
         {
-            "name": "Over the Air, Under the Radar: Attacking and Securing the Pixel Modem"
+            "name": "Over the Air, Under the Radar: Attacking and Securing the Pixel Modem",
+            "video": "https://www.youtube.com/watch?v=KnN4NkaGCwE"
         },
         {
             "name": "Diversity Microtalks: Perspectives on Creating Change"
         },
         {
-            "name": "Shuffle Up and Deal: Analyzing the Security of Automated Card Shufflers"
+            "name": "Shuffle Up and Deal: Analyzing the Security of Automated Card Shufflers",
+            "video": "https://www.youtube.com/watch?v=QrwlzoU1bQw"
         },
         {
             "name": "Close Encounters of the Advanced Persistent Kind: Leveraging Rootkits for Post-Exploitation"
@@ -148,7 +160,8 @@
             "name": "Why Cyber Insurance Should be Your SOC's New Best Friend"
         },
         {
-            "name": "Dismantling DDoS - Lessons in Scaling"
+            "name": "Dismantling DDoS - Lessons in Scaling",
+            "video": "https://www.youtube.com/watch?v=9YK7Ugx1MOs"
         },
         {
             "name": "A SSLippery Slope: Unraveling the Hidden Dangers of Certificate Misuse"
@@ -193,7 +206,8 @@
             "name": "Idea to Realization: Cybersecurity Entrepreneurship"
         },
         {
-            "name": "Three New Attacks Against JSON Web Tokens"
+            "name": "Three New Attacks Against JSON Web Tokens",
+            "video": "https://www.youtube.com/watch?v=mJ6BQ5eFkG4"
         },
         {
             "name": "Lessons Learned from the KA-SAT Cyberattack: Response, Mitigation and  Information Sharing"
@@ -289,10 +303,12 @@
             "name": "I Was Tasked With Enrolling Millions of Developers in 2FA - Here&#39;s What Happened"
         },
         {
-            "name": "The Hat Trick: Exploit Chrome Twice from Runtime to JIT"
+            "name": "The Hat Trick: Exploit Chrome Twice from Runtime to JIT",
+            "video": "https://www.youtube.com/watch?v=TSHwVo2yBfg"
         },
         {
-            "name": "MoustachedBouncer: AitM-Powered Surveillance via Belarus ISPs"
+            "name": "MoustachedBouncer: AitM-Powered Surveillance via Belarus ISPs",
+            "video": "https://www.youtube.com/watch?v=gi5MimlmT-E"
         },
         {
             "name": "Poisoning Web-Scale Training Datasets is Practical"
@@ -309,7 +325,8 @@
         {
             "name": "ODDFuzz: Hunting Java Deserialization Gadget Chains via Structure-Aware Directed Greybox Fuzzing",
             "academic": "SP'23",
-            "aca_link": "https://ieeexplore.ieee.org/document/10179377/"
+            "aca_link": "https://ieeexplore.ieee.org/document/10179377/",
+            "video": "https://www.youtube.com/watch?v=az7s4Igk2nI"
         },
         {
             "name": "Compromising LLMs: The Advent of AI Malware"
@@ -318,10 +335,12 @@
             "name": "Kids in the Ad Fraud Crosshair: Why International Threat Actors are Targeting Children to Steal Money from Banks and Major Corporations"
         },
         {
-            "name": "Zero-Touch-Pwn: Abusing Zoom&#39;s Zero Touch Provisioning for Remote Attacks on Desk Phones"
+            "name": "Zero-Touch-Pwn: Abusing Zoom&#39;s Zero Touch Provisioning for Remote Attacks on Desk Phones",
+            "video": "https://www.youtube.com/watch?v=KmrQYLncKhc"
         },
         {
-            "name": "CoDe16; 16 Zero-Day Vulnerabilities Affecting CODESYS Framework Leading to Remote Code Execution on Millions of Industrial Devices Across Industries"
+            "name": "CoDe16; 16 Zero-Day Vulnerabilities Affecting CODESYS Framework Leading to Remote Code Execution on Millions of Industrial Devices Across Industries",
+            "video": "https://www.youtube.com/watch?v=BuYj7af7LVg"
         },
         {
             "name": "The Yandex Leak: How a Russian Search Giant Uses Consumer Data"

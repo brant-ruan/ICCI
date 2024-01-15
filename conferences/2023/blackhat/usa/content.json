@@ -8,7 +8,8 @@
             "video": "https://www.youtube.com/watch?v=VzqG_-a8_Jo"
         },
         {
-            "name": "Video-Based Cryptanalysis: Recovering Cryptographic Keys from Non-compromised Devices Using Video Footage of a Device&#39;s Power LED"
+            "name": "Video-Based Cryptanalysis: Recovering Cryptographic Keys from Non-compromised Devices Using Video Footage of a Device&#39;s Power LED",
+            "video": "https://www.youtube.com/watch?v=CzJQz7d3SrM"
         },
         {
             "name": "Reflections on Trust in the Software Supply Chain",
@@ -37,7 +38,8 @@
             "name": "Route to Bugs: Analyzing the Security of BGP Message Parsing"
         },
         {
-            "name": "Lost Control: Breaking Hardware-Assisted Kernel Control-Flow Integrity with Page-Oriented Programming"
+            "name": "Lost Control: Breaking Hardware-Assisted Kernel Control-Flow Integrity with Page-Oriented Programming",
+            "video": "https://www.youtube.com/watch?v=gOR4CZT37Xs"
         },
         {
             "name": "All Cops Are Broadcasting: Breaking TETRA After Decades in the Shadows",
@@ -49,7 +51,8 @@
             "name": "Badge of Shame: Breaking into Secure Facilities with OSDP"
         },
         {
-            "name": "Jailbreaking an Electric Vehicle in 2023 or What It Means to Hotwire Tesla&#39;s x86-Based Seat Heater"
+            "name": "Jailbreaking an Electric Vehicle in 2023 or What It Means to Hotwire Tesla&#39;s x86-Based Seat Heater",
+            "video": "https://www.youtube.com/watch?v=5tLNRk7mZXo"
         },
         {
             "name": "BingBang: Hacking Bing.com (and much more) with Azure Active Directory"
@@ -117,7 +120,8 @@
         {
             "name": "MaginotDNS: Attacking the Boundary of DNS Caching Protection",
             "academic": "Sec'23",
-            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/li-xiang"
+            "aca_link": "https://www.usenix.org/conference/usenixsecurity23/presentation/li-xiang",
+            "video": "https://www.youtube.com/watch?v=5fnvYyO2NRk"
         },
         {
             "name": "Leverage and Demonstrate Value with your Cyber Insurance Renewal"
@@ -179,19 +183,22 @@
             "name": "IRonMAN: InterpRetable Incident Inspector Based ON Large-Scale Language Model and Association miNing"
         },
         {
-            "name": "AI Assisted Decision Making of Security Review Needs for New Features"
+            "name": "AI Assisted Decision Making of Security Review Needs for New Features",
+            "video": "https://www.youtube.com/watch?v=wVSyqFdO-D8"
         },
         {
             "name": "What Does an LLM-Powered Threat Intelligence Program Look Like?"
         },
         {
-            "name": "Oven Repair (The Hardware Hacking Way)"
+            "name": "Oven Repair (The Hardware Hacking Way)",
+            "video": "https://www.youtube.com/watch?v=ugHxUi_Ijso"
         },
         {
             "name": "Entrepreneur's Dilemma: Managing Growth and Dedication to Product Quality"
         },
         {
-            "name": "Diving into Windows Remote Access Service for Pre-Auth Bugs"
+            "name": "Diving into Windows Remote Access Service for Pre-Auth Bugs",
+            "video": "https://www.youtube.com/watch?v=GjPWCEEna3Q"
         },
         {
             "name": "Unsafe At Any Speed: CISA's Plan to Foster Tech Ecosystem Security"
@@ -228,7 +235,8 @@
             "name": "Mac-ing Sense of the 3CX Supply Chain Attack: Analysis of the macOS Payloads"
         },
         {
-            "name": "Lemons and Liability: Cyber Warranties as an Experiment in Software Regulation"
+            "name": "Lemons and Liability: Cyber Warranties as an Experiment in Software Regulation",
+            "video": "https://www.youtube.com/watch?v=v6gQzI7eluc"
         },
         {
             "name": "How NOT to Train Your Hack Bot: Dos and Don&#39;ts of Building Offensive GPTs"
@@ -297,7 +305,8 @@
             "name": "Know Thy Enemy: The Taxonomies That Meta Uses to Map the Offensive Privacy Space"
         },
         {
-            "name": "CodeQL: Also a Powerful Binary Analysis Engine"
+            "name": "CodeQL: Also a Powerful Binary Analysis Engine",
+            "video": "https://www.youtube.com/watch?v=dv93pja1BzI"
         },
         {
             "name": "I Was Tasked With Enrolling Millions of Developers in 2FA - Here&#39;s What Happened"
@@ -314,7 +323,8 @@
             "name": "Poisoning Web-Scale Training Datasets is Practical"
         },
         {
-            "name": "The Living Dead: Hacking Mobile Face Recognition SDKs with Non-Deepfake Attacks"
+            "name": "The Living Dead: Hacking Mobile Face Recognition SDKs with Non-Deepfake Attacks",
+            "video": "https://www.youtube.com/watch?v=nPE2AjNB2sI"
         },
         {
             "name": "Low-level RASP: Protecting Applications Implemented in High-level Programming Languages"
